@@ -22,9 +22,11 @@ The repository collects data from multiple climbing board applications:
 ## Data Structure
 
 The `/data` directory contains:
+- Raw JSON location data from each source
+
+The `/geojson` directory contains:
 - Individual GeoJSON files for each climbing board type
 - A combined GeoJSON file with all locations
-- Raw JSON location data from each source
 
 ## Automation
 
