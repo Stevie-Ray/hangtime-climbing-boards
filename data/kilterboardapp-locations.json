@@ -1,0 +1,5996 @@
+{
+  "gyms": [
+    {
+      "id": 1575,
+      "username": "duisburg.einstein.boulder",
+      "name": "Einstein Boulderhalle Duisburg",
+      "latitude": 51.43236,
+      "longitude": 6.7432
+    },
+    {
+      "id": 11026,
+      "username": "hangar18sanclemente",
+      "name": "Hangar 18 San Clemente",
+      "latitude": 33.4537,
+      "longitude": -117.60077
+    },
+    {
+      "id": 11709,
+      "username": "stateclimb",
+      "name": "State Climb",
+      "latitude": 38.47173,
+      "longitude": -77.99525
+    },
+    {
+      "id": 18383,
+      "username": "CoastalClimbing",
+      "name": "Coastal Climbing Gym",
+      "latitude": 32.7988172,
+      "longitude": -79.9463228
+    },
+    {
+      "id": 24749,
+      "username": "eagleclimbing",
+      "name": "Eagle Climbing + Fitness",
+      "latitude": 39.66082,
+      "longitude": -106.82289
+    },
+    {
+      "id": 25394,
+      "username": "theclimbclinic",
+      "name": "The Climb Clinic Golden",
+      "latitude": 39.72003,
+      "longitude": -105.19289
+    },
+    {
+      "id": 34911,
+      "username": "9degreesWaterloo",
+      "name": "9 Degrees Waterloo",
+      "latitude": -33.89786,
+      "longitude": 151.21174
+    },
+    {
+      "id": 35059,
+      "username": "SheerFun",
+      "name": "Sheer Fun",
+      "latitude": 30.5949808,
+      "longitude": -98.2694573
+    },
+    {
+      "id": 48719,
+      "username": "9degreeslanecove",
+      "name": "9 Degrees Lane Cove",
+      "latitude": -33.80785,
+      "longitude": 151.15055
+    },
+    {
+      "id": 63032,
+      "username": "longmontclimbs",
+      "name": "Longmont Climbing Collective",
+      "latitude": 40.15958,
+      "longitude": -105.10709
+    },
+    {
+      "id": 76643,
+      "username": "climbozblacktown",
+      "name": "Climb Oz",
+      "latitude": -33.76538,
+      "longitude": 150.90848
+    },
+    {
+      "id": 91203,
+      "username": "TCHSheffield",
+      "name": "The Climbing Hangar Sheffield",
+      "latitude": 53.39072,
+      "longitude": -1.45063
+    },
+    {
+      "id": 100160,
+      "username": "climbgroundup",
+      "name": "Ground Up Climbing Centre",
+      "latitude": 49.723956,
+      "longitude": -123.152754
+    },
+    {
+      "id": 102511,
+      "username": "EstesParkRockClimbing",
+      "name": "Estes Park Rock Climbing",
+      "latitude": 40.3834,
+      "longitude": -105.50223
+    },
+    {
+      "id": 110462,
+      "username": "WarehouseRocksPA",
+      "name": "Warehouse Rocks Climbing & Fitness",
+      "latitude": 39.88806,
+      "longitude": -76.99018
+    },
+    {
+      "id": 144325,
+      "username": "urbanstone_climbing",
+      "name": "Urban Stone Climbing Gym",
+      "latitude": 22.35573,
+      "longitude": 114.12541
+    },
+    {
+      "id": 148719,
+      "username": "madventure.hk",
+      "name": "Boulder MAD",
+      "latitude": 22.31332,
+      "longitude": 114.21928
+    },
+    {
+      "id": 149205,
+      "username": "movement_timonium",
+      "name": "Movement Timonium",
+      "latitude": 39.43177,
+      "longitude": -76.62952
+    },
+    {
+      "id": 149208,
+      "username": "teamtouchstone",
+      "name": "Team Touchstone",
+      "latitude": 37.85118,
+      "longitude": -122.29303
+    },
+    {
+      "id": 149210,
+      "username": "edgeworks_tacoma",
+      "name": "Edgeworks Tacoma",
+      "latitude": 47.257191,
+      "longitude": -122.520126
+    },
+    {
+      "id": 149211,
+      "username": "beaches_rock_gym",
+      "name": "Beaches Rock Gym",
+      "latitude": 30.32726,
+      "longitude": -81.42081
+    },
+    {
+      "id": 149213,
+      "username": "movement_denton",
+      "name": "Movement Denton",
+      "latitude": 33.215595,
+      "longitude": -97.134851
+    },
+    {
+      "id": 149214,
+      "username": "nosotrosgym_lakewood",
+      "name": "Nosotros Rock Climbing Gym Lakewood",
+      "latitude": 41.485425,
+      "longitude": -81.794006
+    },
+    {
+      "id": 149973,
+      "username": "mesarimreno",
+      "name": "Mesa Rim Climbing Center Reno",
+      "latitude": 39.51523,
+      "longitude": -119.78559
+    },
+    {
+      "id": 149974,
+      "username": "powerup_albang",
+      "name": "Power Up Albang",
+      "latitude": 14.41624,
+      "longitude": 121.04281
+    },
+    {
+      "id": 149976,
+      "username": "diablorockgym",
+      "name": "Diablo Rock Gym",
+      "latitude": 37.96487,
+      "longitude": -122.05327
+    },
+    {
+      "id": 149977,
+      "username": "stoneage_north",
+      "name": "Stone Age Climbing Gym North",
+      "latitude": 35.18458,
+      "longitude": -106.5756
+    },
+    {
+      "id": 149978,
+      "username": "climbfit_kirrawee",
+      "name": "Climb Fit Kirrawee",
+      "latitude": -34.02845,
+      "longitude": 151.07911
+    },
+    {
+      "id": 149979,
+      "username": "dogpatchboulders",
+      "name": "Dogpatch Boulders",
+      "latitude": 37.7567,
+      "longitude": -122.38767
+    },
+    {
+      "id": 149980,
+      "username": "verdigoboulders",
+      "name": "Verdigo Boulders",
+      "latitude": 34.18374,
+      "longitude": -118.31093
+    },
+    {
+      "id": 149981,
+      "username": "climbterrafirma",
+      "name": "Terra Firma Bouldering Co",
+      "latitude": 42.93502,
+      "longitude": -85.64668
+    },
+    {
+      "id": 149982,
+      "username": "bff_bukittimah",
+      "name": "BFF Climb Bukit Timah",
+      "latitude": 1.33668,
+      "longitude": 103.78371
+    },
+    {
+      "id": 149983,
+      "username": "rokcolathe",
+      "name": "RoKC Olathe",
+      "latitude": 38.89005,
+      "longitude": -94.79605
+    },
+    {
+      "id": 150411,
+      "username": "lesfreresmawem",
+      "name": "Salle D'Escalade Les Freres Mawem",
+      "latitude": 48.10577,
+      "longitude": 7.37538
+    },
+    {
+      "id": 150555,
+      "username": "movement_sanfrancisco",
+      "name": "Movement San Francisco",
+      "latitude": 37.80432,
+      "longitude": -122.46842
+    },
+    {
+      "id": 150556,
+      "username": "beaconclimbing",
+      "name": "Beacon Climbing Center",
+      "latitude": 53.13859,
+      "longitude": -4.25283
+    },
+    {
+      "id": 150557,
+      "username": "blocshop_chabanel",
+      "name": "Bloc Shop Chabanel",
+      "latitude": 45.53228,
+      "longitude": -73.65752
+    },
+    {
+      "id": 150558,
+      "username": "rockclimbfairfield",
+      "name": "Rock Climbing Fairfield",
+      "latitude": 41.14187,
+      "longitude": -73.26536
+    },
+    {
+      "id": 150559,
+      "username": "lecrux_laval",
+      "name": "Le Crux Laval",
+      "latitude": 45.56622,
+      "longitude": -73.72921
+    },
+    {
+      "id": 150560,
+      "username": "alchemyclimbing",
+      "name": "Alchemy Climbing",
+      "latitude": 30.48009,
+      "longitude": -84.29684
+    },
+    {
+      "id": 150561,
+      "username": "movement_portland",
+      "name": "Movement Portland",
+      "latitude": 45.5331,
+      "longitude": -122.68605
+    },
+    {
+      "id": 150562,
+      "username": "cafe_bloc",
+      "name": "Café Bloc",
+      "latitude": 45.50977,
+      "longitude": -73.56297
+    },
+    {
+      "id": 150563,
+      "username": "boulderbar_wienerberg",
+      "name": "Boulderbar Wienerberg",
+      "latitude": 48.16135,
+      "longitude": 16.33576
+    },
+    {
+      "id": 150564,
+      "username": "climbcleveland",
+      "name": "Climb Cleveland",
+      "latitude": 41.48187,
+      "longitude": -81.68733
+    },
+    {
+      "id": 150565,
+      "username": "movement_santaclara",
+      "name": "Movement Santa Clara",
+      "latitude": 37.36722,
+      "longitude": -121.94826
+    },
+    {
+      "id": 150566,
+      "username": "klatterverket_sickla",
+      "name": "Klätterverket Sickla",
+      "latitude": 59.304576,
+      "longitude": 18.1212
+    },
+    {
+      "id": 150568,
+      "username": "klatterdomen",
+      "name": "Klätterdomen",
+      "latitude": 57.73633,
+      "longitude": 12.03056
+    },
+    {
+      "id": 150570,
+      "username": "movement_fountainvalley",
+      "name": "Movement Fountain Valley",
+      "latitude": 33.70104,
+      "longitude": -117.93439
+    },
+    {
+      "id": 150571,
+      "username": "dallasboulderingproject",
+      "name": "Dallas Bouldering Project",
+      "latitude": 32.800198,
+      "longitude": -96.837839
+    },
+    {
+      "id": 150572,
+      "username": "movement_plano",
+      "name": "Movement Plano",
+      "latitude": 33.00861,
+      "longitude": -96.7792
+    },
+    {
+      "id": 150573,
+      "username": "calgary_chinook",
+      "name": "Calgary Climbing Center Chinook",
+      "latitude": 50.99044,
+      "longitude": -114.06805
+    },
+    {
+      "id": 150776,
+      "username": "spireclimbing_training",
+      "name": "Spire Climbing Center Training Facility",
+      "latitude": 45.656304,
+      "longitude": -111.069708
+    },
+    {
+      "id": 150779,
+      "username": "beta_bloc",
+      "name": "Beta Bloc",
+      "latitude": 45.47917,
+      "longitude": -73.78284
+    },
+    {
+      "id": 150781,
+      "username": "gonaturehk",
+      "name": "GoNature HK Ltd",
+      "latitude": 22.30915,
+      "longitude": 114.22448
+    },
+    {
+      "id": 150782,
+      "username": "hoytundertakettonsberg",
+      "name": "Høyt Under Taket Klatresenter Tønsberg",
+      "latitude": 59.28207,
+      "longitude": 10.32679
+    },
+    {
+      "id": 150784,
+      "username": "coreclimbaus",
+      "name": "Core Climbing",
+      "latitude": -28.03656,
+      "longitude": 153.3533
+    },
+    {
+      "id": 150785,
+      "username": "boulderworldsg",
+      "name": "Boulder World",
+      "latitude": 1.31987,
+      "longitude": 103.89509
+    },
+    {
+      "id": 150787,
+      "username": "tpgbouldering",
+      "name": "The Proving Ground",
+      "latitude": 40.50952,
+      "longitude": -88.95868
+    },
+    {
+      "id": 150789,
+      "username": "thespotgym_golden",
+      "name": "The Spot Golden",
+      "latitude": 39.77865,
+      "longitude": -105.23552
+    },
+    {
+      "id": 150790,
+      "username": "bk_herttoniemi",
+      "name": "Boulderkeskus Herttoniemi",
+      "latitude": 60.204509,
+      "longitude": 25.0476
+    },
+    {
+      "id": 150791,
+      "username": "hangar18southbay",
+      "name": "Hangar 18 South Bay",
+      "latitude": 33.9018,
+      "longitude": -118.36604
+    },
+    {
+      "id": 150792,
+      "username": "riveternc",
+      "name": "Riveter",
+      "latitude": 35.428976,
+      "longitude": -82.545528
+    },
+    {
+      "id": 150793,
+      "username": "bananaclimbing.gym",
+      "name": "Banana Climbing Gym",
+      "latitude": 5.84742,
+      "longitude": 118.04049
+    },
+    {
+      "id": 150794,
+      "username": "synergyclimbing",
+      "name": "Synergy Climbing and Ninja",
+      "latitude": 35.03435,
+      "longitude": -85.30195
+    },
+    {
+      "id": 150796,
+      "username": "movement_englewood",
+      "name": "Movement Englewood",
+      "latitude": 39.65023,
+      "longitude": -105.00072
+    },
+    {
+      "id": 150799,
+      "username": "climbcentral_funan",
+      "name": "Climb Central Funan",
+      "latitude": 1.29201,
+      "longitude": 103.8502
+    },
+    {
+      "id": 150800,
+      "username": "tufas_boulder_lounge",
+      "name": "Tufas Boulder Lounge",
+      "latitude": 39.97622,
+      "longitude": -75.144
+    },
+    {
+      "id": 150801,
+      "username": "sevenbays_gottingen",
+      "name": "Seven Bays Bouldering Bayers Lake",
+      "latitude": 44.6376,
+      "longitude": -63.66395
+    },
+    {
+      "id": 151232,
+      "username": "hangar18_longbeach",
+      "name": "Hangar 18 Long Beach",
+      "latitude": 33.80454,
+      "longitude": -118.16111
+    },
+    {
+      "id": 151233,
+      "username": "thepad_henderson",
+      "name": "The Pad Henderson",
+      "latitude": 36.05224,
+      "longitude": -115.02411
+    },
+    {
+      "id": 151234,
+      "username": "thefrontclimbing_slc",
+      "name": "The Front Climbing Club SLC",
+      "latitude": 40.73787,
+      "longitude": -111.9029
+    },
+    {
+      "id": 151235,
+      "username": "delire_pierrebertrand",
+      "name": "DÈLIRE Escalade Pierre-Bertrand",
+      "latitude": 46.82717,
+      "longitude": -71.27568
+    },
+    {
+      "id": 151236,
+      "username": "bkb_westloop",
+      "name": "Brooklyn Boulders Chicago West Loop",
+      "latitude": 41.88035,
+      "longitude": -87.65213
+    },
+    {
+      "id": 151237,
+      "username": "greatwesternpowerco",
+      "name": "Great Western Power Company",
+      "latitude": 37.81005,
+      "longitude": -122.27017
+    },
+    {
+      "id": 151238,
+      "username": "rscprovidence",
+      "name": "Rock Spot Providence",
+      "latitude": 41.81529,
+      "longitude": -71.42277
+    },
+    {
+      "id": 151239,
+      "username": "campusescalade_3rivieres",
+      "name": "Campus Escalade Trois-Riviéres",
+      "latitude": 46.34282,
+      "longitude": -72.57676
+    },
+    {
+      "id": 151241,
+      "username": "bostonboulderingproject",
+      "name": "Boston Bouldering Project",
+      "latitude": 42.38226,
+      "longitude": -71.10588
+    },
+    {
+      "id": 151243,
+      "username": "brooklynboulderingproject",
+      "name": "Brooklyn Bouldering Project",
+      "latitude": 40.67975,
+      "longitude": -73.98392
+    },
+    {
+      "id": 151245,
+      "username": "climbwhetstone",
+      "name": "Whetstone Climbing",
+      "latitude": 40.50654,
+      "longitude": -105.07388
+    },
+    {
+      "id": 151247,
+      "username": "asanaclimbinggym",
+      "name": "Asana Climbing Gym",
+      "latitude": 43.6513,
+      "longitude": -116.28132
+    },
+    {
+      "id": 151250,
+      "username": "klimat_wakefield",
+      "name": "Klimat",
+      "latitude": 45.64883,
+      "longitude": -75.9264
+    },
+    {
+      "id": 151251,
+      "username": "edgeworks_seattle",
+      "name": "Edgeworks Seattle",
+      "latitude": 47.668701,
+      "longitude": -122.39509
+    },
+    {
+      "id": 151252,
+      "username": "hangar18_ers",
+      "name": "Hangar 18 East Riverside",
+      "latitude": 33.9917,
+      "longitude": -117.3407
+    },
+    {
+      "id": 151254,
+      "username": "thespotgym_denver",
+      "name": "The Spot Gym Denver",
+      "latitude": 39.73565,
+      "longitude": -104.9933117
+    },
+    {
+      "id": 151255,
+      "username": "hangar18_rancho",
+      "name": "Hangar 18 Rancho Cucamonga",
+      "latitude": 34.0898,
+      "longitude": -117.54372
+    },
+    {
+      "id": 151257,
+      "username": "progressionclimbinggym",
+      "name": "Progression Climbing",
+      "latitude": 35.93733,
+      "longitude": -79.01967
+    },
+    {
+      "id": 151259,
+      "username": "hangar18missionviejo",
+      "name": "Hangar 18 Mission Viejo",
+      "latitude": 33.61653,
+      "longitude": -117.68207
+    },
+    {
+      "id": 151545,
+      "username": "steil_karlsruhe",
+      "name": "Steil Boulderhalle Karlsruhe",
+      "latitude": 48.99931,
+      "longitude": 8.36139
+    },
+    {
+      "id": 151546,
+      "username": "dyno_climb",
+      "name": "Dyno Climb",
+      "latitude": 29.02089,
+      "longitude": -81.30341
+    },
+    {
+      "id": 151547,
+      "username": "vertige.escalade",
+      "name": "Vertige Escalade",
+      "latitude": 45.3977,
+      "longitude": -71.88961
+    },
+    {
+      "id": 151548,
+      "username": "highpointhuntsville",
+      "name": "High Point Climbing Huntsville",
+      "latitude": 34.73803,
+      "longitude": -86.66691
+    },
+    {
+      "id": 151550,
+      "username": "highpointclevelandtn",
+      "name": "High Point Climbing Cleveland",
+      "latitude": 35.18317,
+      "longitude": -84.87391
+    },
+    {
+      "id": 151552,
+      "username": "rock.solid.climbing",
+      "name": "Rock Solid Climbing",
+      "latitude": 32.33042,
+      "longitude": -111.04925
+    },
+    {
+      "id": 151555,
+      "username": "summit_norman",
+      "name": "Summit Climbing Yoga + Fitness Norman",
+      "latitude": 35.27305,
+      "longitude": -97.48116
+    },
+    {
+      "id": 151556,
+      "username": "bluegraniteclimbing",
+      "name": "Blue Granite Climbing Gym",
+      "latitude": 38.90609,
+      "longitude": -119.99937
+    },
+    {
+      "id": 151557,
+      "username": "planetclimbing_gva",
+      "name": "Planet Climbing Lancy",
+      "latitude": 46.19127,
+      "longitude": 6.11122
+    },
+    {
+      "id": 151558,
+      "username": "steinblock_dornbirn",
+      "name": "Steinblock Boulderhallen Dornbirn",
+      "latitude": 47.42143,
+      "longitude": 9.74776
+    },
+    {
+      "id": 152110,
+      "username": "thegym22_jackson",
+      "name": "Gym 22",
+      "latitude": 43.47295,
+      "longitude": -110.78286
+    },
+    {
+      "id": 153570,
+      "username": "altitudegym_gatineau",
+      "name": "Altitude Gym Gatineau",
+      "latitude": 45.44811,
+      "longitude": -75.73697
+    },
+    {
+      "id": 153571,
+      "username": "coop_stgermain",
+      "name": "Coop St-Germain",
+      "latitude": 47.58789,
+      "longitude": -69.79634
+    },
+    {
+      "id": 153848,
+      "username": "projectrock_oaklandpark",
+      "name": "projectROCK Oakland Park",
+      "latitude": 26.17248,
+      "longitude": -80.14537
+    },
+    {
+      "id": 154153,
+      "username": "g1_climbing",
+      "name": "G1 Climbing + Fitness Broomfield",
+      "latitude": 39.90652,
+      "longitude": -105.09968
+    },
+    {
+      "id": 155082,
+      "username": "northmassboulder",
+      "name": "North Mass Boulder",
+      "latitude": 39.78605,
+      "longitude": -86.13363
+    },
+    {
+      "id": 155374,
+      "username": "flashh_boulderspot",
+      "name": "FLASHH Hamburg",
+      "latitude": 53.56363,
+      "longitude": 9.91261
+    },
+    {
+      "id": 155377,
+      "username": "bks_fana",
+      "name": "Bergen Klatresenter Fana",
+      "latitude": 60.29386,
+      "longitude": 5.265
+    },
+    {
+      "id": 155378,
+      "username": "bergenklatresenter",
+      "name": "Bergen Klatresenter Laksevåg",
+      "latitude": 60.3924,
+      "longitude": 5.2823
+    },
+    {
+      "id": 155379,
+      "username": "climbfit_macquarie",
+      "name": "Climb Fit Macquarie",
+      "latitude": -33.78746,
+      "longitude": 151.13315
+    },
+    {
+      "id": 155380,
+      "username": "guelphgrotto",
+      "name": "The Guelph Grotto Climbing Co.",
+      "latitude": 43.55287,
+      "longitude": -80.22459
+    },
+    {
+      "id": 155383,
+      "username": "45_grad",
+      "name": "45 Grad",
+      "latitude": 54.09754,
+      "longitude": 12.10269
+    },
+    {
+      "id": 155385,
+      "username": "firsthandclimbing",
+      "name": "FirstHand Climbing",
+      "latitude": 36.10815,
+      "longitude": -80.24359
+    },
+    {
+      "id": 155386,
+      "username": "hiveclimbing_poco",
+      "name": "The Hive Port Coquitlam",
+      "latitude": 49.25311,
+      "longitude": -122.73534
+    },
+    {
+      "id": 155387,
+      "username": "adrenalinevaultperth",
+      "name": "Adrenaline Vault",
+      "latitude": -31.95621,
+      "longitude": 115.92525
+    },
+    {
+      "id": 155388,
+      "username": "shakerrocksclimbing",
+      "name": "Shaker Rocks",
+      "latitude": 41.4684,
+      "longitude": -81.53548
+    },
+    {
+      "id": 155390,
+      "username": "blochaven",
+      "name": "BlocHaven",
+      "latitude": 34.83659,
+      "longitude": -82.42932
+    },
+    {
+      "id": 155391,
+      "username": "boulderhaus_darmstad",
+      "name": "Boulderhaus Darmstadt",
+      "latitude": 49.88015,
+      "longitude": 8.63595
+    },
+    {
+      "id": 156288,
+      "username": "saltlakeboulderingproject",
+      "name": "Bouldering Project Salt Lake",
+      "latitude": 40.75556,
+      "longitude": -111.90329
+    },
+    {
+      "id": 156290,
+      "username": "grottoclimbing_miramar",
+      "name": "Grotto Climbing & Yoga Miramar",
+      "latitude": 32.89573,
+      "longitude": -117.12735
+    },
+    {
+      "id": 156292,
+      "username": "grottoclimbing_alvarado",
+      "name": "Grotto Climbing & Yoga Alvarado",
+      "latitude": 32.78099,
+      "longitude": -117.0983
+    },
+    {
+      "id": 156293,
+      "username": "movementgymsdallas",
+      "name": "Movement The Hill Dallas",
+      "latitude": 32.88196,
+      "longitude": -96.76813
+    },
+    {
+      "id": 156295,
+      "username": "cityboulderingaldgate",
+      "name": "City Bouldering Aldgate",
+      "latitude": 51.51512,
+      "longitude": -0.07473
+    },
+    {
+      "id": 156297,
+      "username": "blockfabrik_vienna",
+      "name": "Blockfabrik",
+      "latitude": 48.19081,
+      "longitude": 16.35973
+    },
+    {
+      "id": 156298,
+      "username": "bloque_pe",
+      "name": "Bloque",
+      "latitude": -12.08984,
+      "longitude": -77.03387
+    },
+    {
+      "id": 156300,
+      "username": "steelpeakclimbing",
+      "name": "Steel Peak Climbing & Ninja",
+      "latitude": 43.79203,
+      "longitude": -79.66079
+    },
+    {
+      "id": 156302,
+      "username": "warehouseclimbingco",
+      "name": "Warehouse Climbing Co.",
+      "latitude": 41.58709,
+      "longitude": -85.82556
+    },
+    {
+      "id": 156303,
+      "username": "climbarq",
+      "name": "ARQ Mountain Center",
+      "latitude": 49.53477,
+      "longitude": -115.76467
+    },
+    {
+      "id": 156304,
+      "username": "projectrockgurney",
+      "name": "Project Rock Gurney",
+      "latitude": 5.4372,
+      "longitude": 100.30895
+    },
+    {
+      "id": 156305,
+      "username": "boulderhalkunststof",
+      "name": "Boulderhal Kunststof",
+      "latitude": 52.14559,
+      "longitude": 4.48104
+    },
+    {
+      "id": 156306,
+      "username": "thewellnelson",
+      "name": "The Gravity Well",
+      "latitude": -41.2715,
+      "longitude": 173.28177
+    },
+    {
+      "id": 156308,
+      "username": "thenorthwallclimbing",
+      "name": "The North Wall",
+      "latitude": 41.18527,
+      "longitude": -8.6218
+    },
+    {
+      "id": 156309,
+      "username": "climbroca",
+      "name": "Roca Climbing & Fitness",
+      "latitude": 44.08939,
+      "longitude": -92.51209
+    },
+    {
+      "id": 156310,
+      "username": "sessionclimbing",
+      "name": "Session Climbing",
+      "latitude": 38.42959,
+      "longitude": -122.71441
+    },
+    {
+      "id": 156311,
+      "username": "spiritrockcc",
+      "name": "Spirit Rock Climbing",
+      "latitude": 49.68697,
+      "longitude": -115.98293
+    },
+    {
+      "id": 156312,
+      "username": "climbwest_melbourne",
+      "name": "Climb West Melbourne",
+      "latitude": -37.85835,
+      "longitude": 144.81001
+    },
+    {
+      "id": 156313,
+      "username": "canyon.escalade",
+      "name": "Canyon Escalade",
+      "latitude": 45.40841,
+      "longitude": -73.46974
+    },
+    {
+      "id": 157370,
+      "username": "waverock_pnu",
+      "name": "웨이브락 클라이밍 Wave Rock Climbing (PNU)",
+      "latitude": 35.22902,
+      "longitude": 129.08423
+    },
+    {
+      "id": 157371,
+      "username": "v10climb_hanam_misa",
+      "name": "클라이밍 하남미사점 V10 Climbing Hanam Misa",
+      "latitude": 37.56146,
+      "longitude": 127.19302
+    },
+    {
+      "id": 157372,
+      "username": "theclimb_yangjae",
+      "name": "더클라임 양재점 The Climb Yangjae",
+      "latitude": 37.48587,
+      "longitude": 127.03564
+    },
+    {
+      "id": 157373,
+      "username": "climbsquare_icn",
+      "name": "디스커버리 클라임스퀘어 Climbsquare ICN",
+      "latitude": 37.59289,
+      "longitude": 126.67303
+    },
+    {
+      "id": 157374,
+      "username": "climbing_park",
+      "name": "클라이밍파크 Climbing Park",
+      "latitude": 37.50417,
+      "longitude": 127.0251
+    },
+    {
+      "id": 157375,
+      "username": "ayersrockclimb",
+      "name": "에어즈락 클라이밍 Ayers Rock Climbing",
+      "latitude": 37.48132,
+      "longitude": 127.14241
+    },
+    {
+      "id": 157376,
+      "username": "verticalrock_tysons",
+      "name": "Vertical Rock Climbing & Fitness Center",
+      "latitude": 38.92534,
+      "longitude": -77.23964
+    },
+    {
+      "id": 157380,
+      "username": "beestbouldersrotterdam",
+      "name": "Beest Boulders Rotterdam",
+      "latitude": 51.92791,
+      "longitude": 4.4763
+    },
+    {
+      "id": 157381,
+      "username": "nordbloc",
+      "name": "Nordbloc",
+      "latitude": 54.34884,
+      "longitude": 10.11382
+    },
+    {
+      "id": 157382,
+      "username": "comorocks",
+      "name": "CoMo Rocks",
+      "latitude": 38.91182,
+      "longitude": -92.33687
+    },
+    {
+      "id": 157383,
+      "username": "keiboulderhal_wagenwerkplaats",
+      "name": "Kei Boulderhal Wagenwerkplaats",
+      "latitude": 52.15676,
+      "longitude": 5.36479
+    },
+    {
+      "id": 157384,
+      "username": "vw_seattle",
+      "name": "Vertical World Seattle",
+      "latitude": 47.66171,
+      "longitude": -122.38669
+    },
+    {
+      "id": 157385,
+      "username": "roccadion_de",
+      "name": "Roccadion",
+      "latitude": 48.69621,
+      "longitude": 9.02313
+    },
+    {
+      "id": 157386,
+      "username": "pccloverdale",
+      "name": "Project Climbing Cloverdale",
+      "latitude": 49.12096,
+      "longitude": -122.72854
+    },
+    {
+      "id": 157387,
+      "username": "osloklatresenter",
+      "name": "Oslo Klatresenter",
+      "latitude": 59.8679,
+      "longitude": 10.84182
+    },
+    {
+      "id": 157388,
+      "username": "gravityvault_upsr",
+      "name": "Gravity Vault Upper Saddle River",
+      "latitude": 41.05193,
+      "longitude": -74.11747
+    },
+    {
+      "id": 157389,
+      "username": "sharmaclimbing_madrid",
+      "name": "Sharma Climbing Madrid",
+      "latitude": 40.43856,
+      "longitude": -3.61989
+    },
+    {
+      "id": 157390,
+      "username": "climbnorthwall",
+      "name": "North Wall Climbing Gym",
+      "latitude": 42.21898,
+      "longitude": -88.31651
+    },
+    {
+      "id": 157391,
+      "username": "stoablock_gmunden",
+      "name": "Stoablock Gmunden",
+      "latitude": 47.92844,
+      "longitude": 13.79816
+    },
+    {
+      "id": 157764,
+      "username": "voltaclimbing",
+      "name": "Volta Climbing Gym",
+      "latitude": 44.46648,
+      "longitude": -68.36104
+    },
+    {
+      "id": 157766,
+      "username": "metrorock_everett",
+      "name": "MetroRock Everett",
+      "latitude": 42.40822,
+      "longitude": -71.06694
+    },
+    {
+      "id": 157767,
+      "username": "stronghold_londonfields",
+      "name": "The Stronghold London Fields",
+      "latitude": 51.58586,
+      "longitude": -0.06052
+    },
+    {
+      "id": 157768,
+      "username": "gwada_grimpe",
+      "name": "Gwada Grimpe",
+      "latitude": 16.21825,
+      "longitude": -61.50041
+    },
+    {
+      "id": 157772,
+      "username": "stoneclimbingco",
+      "name": "Stone Climbing",
+      "latitude": 29.86296,
+      "longitude": -81.33903
+    },
+    {
+      "id": 157773,
+      "username": "klatterverket_gasverket",
+      "name": "Klatterverket Gasverket",
+      "latitude": 59.35825,
+      "longitude": 18.09016
+    },
+    {
+      "id": 157774,
+      "username": "dersteinbock_nuernberg",
+      "name": "Der Steinbock Nürnberg",
+      "latitude": 49.4515,
+      "longitude": 11.02867
+    },
+    {
+      "id": 157775,
+      "username": "elevationrockgym",
+      "name": "Elevation Rock Gym",
+      "latitude": 41.76405,
+      "longitude": -111.82847
+    },
+    {
+      "id": 157776,
+      "username": "pinnacleindoor",
+      "name": "Pinnacle Climbing Gym",
+      "latitude": 43.89909,
+      "longitude": -78.6617
+    },
+    {
+      "id": 157777,
+      "username": "thefactoryatreach",
+      "name": "The Factory at Reach",
+      "latitude": 40.10515,
+      "longitude": -75.33066
+    },
+    {
+      "id": 157778,
+      "username": "boulderzclimbingcentre",
+      "name": "Boulderz Climbing Center",
+      "latitude": 43.61934,
+      "longitude": -79.54964
+    },
+    {
+      "id": 157779,
+      "username": "kong_oistein_hall",
+      "name": "Kong Øistein Hall",
+      "latitude": 68.20843,
+      "longitude": 14.46631
+    },
+    {
+      "id": 157780,
+      "username": "gravityvaultmontclair",
+      "name": "The Gravity Vault Montclair",
+      "latitude": 40.81398,
+      "longitude": -74.20759
+    },
+    {
+      "id": 157781,
+      "username": "gravityvaultchatham",
+      "name": "The Gravity Vault Chatham",
+      "latitude": 40.7324,
+      "longitude": -74.3811
+    },
+    {
+      "id": 157783,
+      "username": "boulderbar_hauptbahnhof",
+      "name": "Boulderbar Hauptbahnhof",
+      "latitude": 48.18199,
+      "longitude": 16.38501
+    },
+    {
+      "id": 157784,
+      "username": "boulderbar_hannovergasse",
+      "name": "Boulderbar Hannovergasse",
+      "latitude": 48.23153,
+      "longitude": 16.36862
+    },
+    {
+      "id": 157785,
+      "username": "boulderbar_seestadt",
+      "name": "Boulderbar Seestadt",
+      "latitude": 48.23048,
+      "longitude": 16.50966
+    },
+    {
+      "id": 158306,
+      "username": "thecliffsgowanusbk",
+      "name": "The Cliffs at Gowanus",
+      "latitude": 40.68205,
+      "longitude": -73.98528
+    },
+    {
+      "id": 158309,
+      "username": "apexboulders",
+      "name": "Apex Boulders",
+      "latitude": 53.21729,
+      "longitude": 6.53861
+    },
+    {
+      "id": 158996,
+      "username": "gravityvaultbrick",
+      "name": "The Gravity Vault Brick",
+      "latitude": 40.05867,
+      "longitude": -74.14221
+    },
+    {
+      "id": 158997,
+      "username": "armadillossanmarcos",
+      "name": "Armadillo Boulders San Marcos",
+      "latitude": 29.8633,
+      "longitude": -97.9622
+    },
+    {
+      "id": 158998,
+      "username": "fabricaescalada_chacara",
+      "name": "Fabrica Escalade Châcara",
+      "latitude": -23.62735,
+      "longitude": -46.70543
+    },
+    {
+      "id": 158999,
+      "username": "betaclimb.co",
+      "name": "Betaclimb.co",
+      "latitude": 4.70557,
+      "longitude": -74.0487
+    },
+    {
+      "id": 159000,
+      "username": "climbers_rock",
+      "name": "Climbers Rock",
+      "latitude": 43.38284,
+      "longitude": -79.76332
+    },
+    {
+      "id": 159001,
+      "username": "calgaryclimbing_hanger",
+      "name": "Calgary Climbing Center Hanger",
+      "latitude": 51.13652,
+      "longitude": -114.03547
+    },
+    {
+      "id": 159002,
+      "username": "highaltitudefitness",
+      "name": "High Altitude Fitness Truckee",
+      "latitude": 39.32747,
+      "longitude": -120.2174
+    },
+    {
+      "id": 159003,
+      "username": "senderone_training_sa",
+      "name": "Sender One Training Center SA",
+      "latitude": 33.73223,
+      "longitude": -117.83726
+    },
+    {
+      "id": 159005,
+      "username": "gecko_climbing_gym",
+      "name": "Gecko Climbing Gym",
+      "latitude": 33.70723,
+      "longitude": -112.10179
+    },
+    {
+      "id": 159006,
+      "username": "cruxcc_central",
+      "name": "Crux Climbing Center Central",
+      "latitude": 30.32642,
+      "longitude": -97.71691
+    },
+    {
+      "id": 159007,
+      "username": "agilityboulders",
+      "name": "Agility Boulders",
+      "latitude": 36.97181,
+      "longitude": -121.9666
+    },
+    {
+      "id": 159008,
+      "username": "jumpyard_are",
+      "name": "JumpYard Åre",
+      "latitude": 63.39554,
+      "longitude": 13.08567
+    },
+    {
+      "id": 159010,
+      "username": "factoryclimbingyeg",
+      "name": "Factory Climbing",
+      "latitude": 53.5455,
+      "longitude": -113.63903
+    },
+    {
+      "id": 159011,
+      "username": "summit_dallas",
+      "name": "Summit Climbing, Yoga + Fitness Dallas",
+      "latitude": 32.91039,
+      "longitude": -96.74241
+    },
+    {
+      "id": 159013,
+      "username": "blocworksclimbing",
+      "name": "Blocworks",
+      "latitude": 35.65458,
+      "longitude": -97.48122
+    },
+    {
+      "id": 159014,
+      "username": "hochatown_crag_beavers",
+      "name": "Crag Climb Beavers Bend",
+      "latitude": 34.14798,
+      "longitude": -94.74882
+    },
+    {
+      "id": 159015,
+      "username": "sequenceclimb",
+      "name": "Sequence Climbing",
+      "latitude": 39.09262,
+      "longitude": -94.58999
+    },
+    {
+      "id": 159018,
+      "username": "climb_lawrence",
+      "name": "Climb Lawrence",
+      "latitude": 38.97134,
+      "longitude": -95.23664
+    },
+    {
+      "id": 159021,
+      "username": "movementgymschicago",
+      "name": "Movement Wrigleyville",
+      "latitude": 41.94771,
+      "longitude": -87.65759
+    },
+    {
+      "id": 159022,
+      "username": "bouldersgym",
+      "name": "Boulders Climbing Gym Downtown",
+      "latitude": 43.07327,
+      "longitude": -89.38326
+    },
+    {
+      "id": 159024,
+      "username": "climbkalamazoo",
+      "name": "Climb Kalamazoo",
+      "latitude": 42.29166,
+      "longitude": -85.58329
+    },
+    {
+      "id": 159025,
+      "username": "niagaraclimbingcenter",
+      "name": "Niagara Climbing Center",
+      "latitude": 43.05838,
+      "longitude": -78.83704
+    },
+    {
+      "id": 159321,
+      "username": "vitalbrooklyn",
+      "name": "Vital Brooklyn",
+      "latitude": 40.7233,
+      "longitude": -73.95491
+    },
+    {
+      "id": 159322,
+      "username": "lehangar_bouldering",
+      "name": "Le Hangar Bouldering Fribourg",
+      "latitude": 46.80012,
+      "longitude": 7.1482
+    },
+    {
+      "id": 160173,
+      "username": "cruxclimbingcenter",
+      "name": "Crux Climbing Center",
+      "latitude": 38.72189,
+      "longitude": -9.33071
+    },
+    {
+      "id": 160174,
+      "username": "thefactoryboulder_es",
+      "name": "The Factory Boulder",
+      "latitude": 43.30261,
+      "longitude": -1.94377
+    },
+    {
+      "id": 160175,
+      "username": "sharmaclimbinggava",
+      "name": "Sharma Climbing Gavà",
+      "latitude": 41.30179,
+      "longitude": 2.01269
+    },
+    {
+      "id": 160176,
+      "username": "sharmaclimbingbcn",
+      "name": "Sharma Climbing Barcelona",
+      "latitude": 41.41643,
+      "longitude": 2.21085
+    },
+    {
+      "id": 160178,
+      "username": "fabrica_catarat",
+      "name": "Fabrica de Căţărat",
+      "latitude": 44.42102,
+      "longitude": 26.0954
+    },
+    {
+      "id": 160180,
+      "username": "rockcityclimbinggym",
+      "name": "Rockcity Climbing",
+      "latitude": 53.73655,
+      "longitude": -0.37978
+    },
+    {
+      "id": 160181,
+      "username": "flashpointcardiff",
+      "name": "Flashpoint Cardiff",
+      "latitude": 51.46194,
+      "longitude": -3.19767
+    },
+    {
+      "id": 160183,
+      "username": "hamnatrening",
+      "name": "Hamna Aktivitet Og Helse",
+      "latitude": 61.90295,
+      "longitude": 5.9873
+    },
+    {
+      "id": 160184,
+      "username": "gym_stryn",
+      "name": "Gym Stryn",
+      "latitude": 61.90488,
+      "longitude": 6.7028
+    },
+    {
+      "id": 160186,
+      "username": "klatreverket_krs",
+      "name": "Klatreverket Kristiansand",
+      "latitude": 58.1472,
+      "longitude": 7.98027
+    },
+    {
+      "id": 160188,
+      "username": "savsjoklatterklubb",
+      "name": "Sävsjö Klätterklubb",
+      "latitude": 57.39706,
+      "longitude": 14.6648
+    },
+    {
+      "id": 160189,
+      "username": "gropobouldergym",
+      "name": "Gropo Boulder Gym",
+      "latitude": 53.23124,
+      "longitude": 6.59009
+    },
+    {
+      "id": 160190,
+      "username": "boulderhalzuidhaven",
+      "name": "Boulderhal Zuidhaven",
+      "latitude": 52.0651,
+      "longitude": 5.10472
+    },
+    {
+      "id": 160191,
+      "username": "bahnhof.blo",
+      "name": "Bahnhof Blo",
+      "latitude": 51.26601,
+      "longitude": 7.13802
+    },
+    {
+      "id": 160192,
+      "username": "city_bloc",
+      "name": "City Bloc",
+      "latitude": 53.78606,
+      "longitude": -1.53372
+    },
+    {
+      "id": 160194,
+      "username": "bimano_solothurn",
+      "name": "Bimano Solothurn",
+      "latitude": 47.19916,
+      "longitude": 7.54397
+    },
+    {
+      "id": 160195,
+      "username": "bertablockboulderhalle",
+      "name": "Berta Block Boulderhalle Berlin",
+      "latitude": 52.56398,
+      "longitude": 13.40988
+    },
+    {
+      "id": 160196,
+      "username": "bouldergarten",
+      "name": "Bouldergarten",
+      "latitude": 52.47998,
+      "longitude": 13.45175
+    },
+    {
+      "id": 160197,
+      "username": "7aplus_bouldergym",
+      "name": "7a+ Boulderhalle Potsdam",
+      "latitude": 52.38519,
+      "longitude": 13.10387
+    },
+    {
+      "id": 160198,
+      "username": "boulderhaus_mannheim",
+      "name": "Boulderhaus Mannheim",
+      "latitude": 49.51846,
+      "longitude": 8.53509
+    },
+    {
+      "id": 160199,
+      "username": "boulderhaus_heidelberg",
+      "name": "Boulderhaus Heidelberg",
+      "latitude": 49.38701,
+      "longitude": 8.67916
+    },
+    {
+      "id": 160200,
+      "username": "einstein.boulderhalle.ulm",
+      "name": "Einstein Boulderhalle Ulm",
+      "latitude": 48.40155,
+      "longitude": 9.96282
+    },
+    {
+      "id": 160201,
+      "username": "einstein.boulderhalle.muc",
+      "name": "Einstein Boulderhalle München",
+      "latitude": 48.14073,
+      "longitude": 11.52284
+    },
+    {
+      "id": 160202,
+      "username": "boulderweltmuenchensued",
+      "name": "Boulderwelt München Süd",
+      "latitude": 48.04129,
+      "longitude": 11.6637
+    },
+    {
+      "id": 160203,
+      "username": "kbtoelz",
+      "name": "DAV Kletter & Boulderzentrum Bad Tölz",
+      "latitude": 47.75974,
+      "longitude": 11.57895
+    },
+    {
+      "id": 160205,
+      "username": "b2_boulders_bar",
+      "name": "B2 Boulders & Bar",
+      "latitude": 47.52622,
+      "longitude": 7.68359
+    },
+    {
+      "id": 160207,
+      "username": "bouldermovementsg",
+      "name": "Boulder Movement Rochor",
+      "latitude": 1.30508,
+      "longitude": 103.85142
+    },
+    {
+      "id": 160208,
+      "username": "lighthouse.climbing",
+      "name": "Lighthouse Climbing PTE",
+      "latitude": 1.27571,
+      "longitude": 103.79443
+    },
+    {
+      "id": 160209,
+      "username": "powerup_tadang_sora",
+      "name": "Power Up Tandang Sora",
+      "latitude": 14.66455,
+      "longitude": 121.07012
+    },
+    {
+      "id": 160210,
+      "username": "the_player_climbinggym",
+      "name": "The Player Climbinggym",
+      "latitude": 22.34366,
+      "longitude": 114.14026
+    },
+    {
+      "id": 160211,
+      "username": "dapro_indoor_climbing",
+      "name": "室內攀岩場 Dapro Indoor Climbing",
+      "latitude": 24.14518,
+      "longitude": 120.63455
+    },
+    {
+      "id": 160212,
+      "username": "megastoneclimbinggym",
+      "name": "Mega STONE Climbing Gym",
+      "latitude": 25.04105,
+      "longitude": 121.46097
+    },
+    {
+      "id": 160213,
+      "username": "betabouldersgym_jingan",
+      "name": "Beta Boulders Gym JingAn",
+      "latitude": 31.237007,
+      "longitude": 121.452322
+    },
+    {
+      "id": 160214,
+      "username": "dbouldering_honatsugi",
+      "name": "ディーボルダリング本厚 D Bouldering Hon-Atsugi",
+      "latitude": 35.4425,
+      "longitude": 139.36599
+    },
+    {
+      "id": 160215,
+      "username": "handwerk_yangsan",
+      "name": "핸드워크 클라이밍 양산점 Handwerk Climbing Yangsan",
+      "latitude": 35.21132,
+      "longitude": 126.87595
+    },
+    {
+      "id": 163362,
+      "username": "boulderbar_gelsenkirchen",
+      "name": "Boulderbar Neoliet Gelsenkirchen",
+      "latitude": 51.52223,
+      "longitude": 7.08503
+    },
+    {
+      "id": 163363,
+      "username": "revival_climbing",
+      "name": "Revival Climbing Coalition",
+      "latitude": 45.00543,
+      "longitude": -93.27926
+    },
+    {
+      "id": 164300,
+      "username": "hoytundertaketkokstad",
+      "name": "Høyt Under Taket Kokstad",
+      "latitude": 60.29332,
+      "longitude": 5.25244
+    },
+    {
+      "id": 164301,
+      "username": "greifbar_bregenz",
+      "name": "Greifbar Boulderhalle Bregenz",
+      "latitude": 47.4945,
+      "longitude": 9.70972
+    },
+    {
+      "id": 164302,
+      "username": "mood.boulder",
+      "name": "MOOD",
+      "latitude": 50.04933,
+      "longitude": 19.97025
+    },
+    {
+      "id": 164303,
+      "username": "koldingklatreklub",
+      "name": "Kolding Klatreklub",
+      "latitude": 55.48333,
+      "longitude": 9.4765
+    },
+    {
+      "id": 164304,
+      "username": "dersteinbockerlangen",
+      "name": "Der Steinbock Erlangen",
+      "latitude": 49.57437,
+      "longitude": 10.99732
+    },
+    {
+      "id": 164305,
+      "username": "blocgartencbus",
+      "name": "Bloc Garten",
+      "latitude": 39.95047,
+      "longitude": -83.00785
+    },
+    {
+      "id": 165315,
+      "username": "klimzaalblok",
+      "name": "Klimzaal Blok",
+      "latitude": 51.18064,
+      "longitude": 4.34908
+    },
+    {
+      "id": 165316,
+      "username": "crimpersclimbing",
+      "name": "Crimper's Climbing",
+      "latitude": 37.15166,
+      "longitude": -80.41082
+    },
+    {
+      "id": 166095,
+      "username": "quellalpin",
+      "name": "Quellalpin Kaunertal",
+      "latitude": 47.0314,
+      "longitude": 10.74694
+    },
+    {
+      "id": 167347,
+      "username": "blochausmkv",
+      "name": "Bloc Haus Marrickville",
+      "latitude": -33.90788,
+      "longitude": 151.16757
+    },
+    {
+      "id": 167349,
+      "username": "climb_cincy",
+      "name": "Climb Cincy",
+      "latitude": 39.16127,
+      "longitude": -84.54462
+    },
+    {
+      "id": 167351,
+      "username": "rapprocksclimbing",
+      "name": "Rapp Rocks Climbing Gym",
+      "latitude": 38.26238,
+      "longitude": -77.43755
+    },
+    {
+      "id": 167354,
+      "username": "kletterzentruminnsbruck",
+      "name": "Kletterzentrum Innsbruck",
+      "latitude": 47.27722,
+      "longitude": 11.41339
+    },
+    {
+      "id": 168927,
+      "username": "upperclimbing_sz",
+      "name": "Upper Climbing Gym",
+      "latitude": 22.55258,
+      "longitude": 113.8877
+    },
+    {
+      "id": 168930,
+      "username": "moumoskrapan",
+      "name": "Moumo Skrapan",
+      "latitude": 59.31302,
+      "longitude": 18.07344
+    },
+    {
+      "id": 169150,
+      "username": "betaboulders_south",
+      "name": "Beta Boulders Copenhagen South",
+      "latitude": 55.65605,
+      "longitude": 12.55064
+    },
+    {
+      "id": 169164,
+      "username": "bouldersvalby",
+      "name": "Boulders Valby",
+      "latitude": 55.66153,
+      "longitude": 12.51526
+    },
+    {
+      "id": 169872,
+      "username": "metrorockvermont",
+      "name": "MetroROCK Essex",
+      "latitude": 44.50807,
+      "longitude": -73.14167
+    },
+    {
+      "id": 169873,
+      "username": "atome.annecy",
+      "name": "Atome",
+      "latitude": 45.90719,
+      "longitude": 6.13271
+    },
+    {
+      "id": 169874,
+      "username": "climb.again.centrul",
+      "name": "Climb Again Centrul",
+      "latitude": 44.38974,
+      "longitude": 26.12165
+    },
+    {
+      "id": 171405,
+      "username": "mesarim_mv",
+      "name": "Mesa Rim Climbing Center Mission Valley",
+      "latitude": 32.76039,
+      "longitude": -117.16135
+    },
+    {
+      "id": 171406,
+      "username": "recklinghauseneinsteinboulder",
+      "name": "Einstein Boulderhalle Recklinghausen",
+      "latitude": 51.5826,
+      "longitude": 7.20766
+    },
+    {
+      "id": 171407,
+      "username": "volcanic_rock_gym",
+      "name": "Volcanic Rock Gym",
+      "latitude": 21.39166,
+      "longitude": -157.74241
+    },
+    {
+      "id": 171408,
+      "username": "sputnikclimbing_lasrozas",
+      "name": "Sputnik Climbing Center Las Rozas",
+      "latitude": 40.49892,
+      "longitude": -3.89055
+    },
+    {
+      "id": 171410,
+      "username": "studio_bloc_darmstadt",
+      "name": "Studio Bloc Darmstadt",
+      "latitude": 49.81624,
+      "longitude": 8.6119
+    },
+    {
+      "id": 171411,
+      "username": "metrorocklittleton",
+      "name": "MetroROCK Littleton",
+      "latitude": 42.55321,
+      "longitude": -71.47254
+    },
+    {
+      "id": 171412,
+      "username": "trailheadclimbingandfitness",
+      "name": "Trailhead Climbing + Fitness",
+      "latitude": 52.19682,
+      "longitude": -113.81868
+    },
+    {
+      "id": 171414,
+      "username": "boulderloungechemnitz",
+      "name": "Boulderlounge Chemnitz",
+      "latitude": 50.81768,
+      "longitude": 12.92085
+    },
+    {
+      "id": 171699,
+      "username": "dynochrom_frankfurt",
+      "name": "Dynochrom Boulderhalle",
+      "latitude": 50.13717,
+      "longitude": 8.73259
+    },
+    {
+      "id": 171701,
+      "username": "flow_bouldering",
+      "name": "Flow Bouldering",
+      "latitude": -26.67337,
+      "longitude": 153.00452
+    },
+    {
+      "id": 171878,
+      "username": "BetaOneBouldering",
+      "name": "Beta One Bouldering Gym",
+      "latitude": -33.87058,
+      "longitude": 151.00729
+    },
+    {
+      "id": 171954,
+      "username": "campusescalade_victo",
+      "name": "Campus Escalade Victoriaville",
+      "latitude": 46.05766,
+      "longitude": -71.95261
+    },
+    {
+      "id": 171955,
+      "username": "oslomikrobuldreri_gronland",
+      "name": "Oslo Mikrobuldreri Grønland",
+      "latitude": 59.91383,
+      "longitude": 10.76618
+    },
+    {
+      "id": 171956,
+      "username": "oslomikrobuldreri_pilestredet",
+      "name": "Oslo Mikrobuldreri Pilestredet",
+      "latitude": 59.91749,
+      "longitude": 10.73798
+    },
+    {
+      "id": 172305,
+      "username": "bulderland_zaragoza",
+      "name": "Bulderland Zaragoza",
+      "latitude": 41.65539,
+      "longitude": -0.90338
+    },
+    {
+      "id": 172306,
+      "username": "mtu_ridgeroamers",
+      "name": "MTU Ridge Roamers",
+      "latitude": 47.11368,
+      "longitude": -88.54734
+    },
+    {
+      "id": 173612,
+      "username": "skarpabytom_rozbark",
+      "name": "Skarpa Bytom",
+      "latitude": 50.34277,
+      "longitude": 18.93063
+    },
+    {
+      "id": 173614,
+      "username": "problem_bouldering",
+      "name": "Problem Bouldering",
+      "latitude": 54.40037,
+      "longitude": 18.59096
+    },
+    {
+      "id": 173617,
+      "username": "climb.again.iasi",
+      "name": "Climb Again Iasi",
+      "latitude": 47.12658,
+      "longitude": 27.62568
+    },
+    {
+      "id": 173620,
+      "username": "boulderkitchen_freiburg",
+      "name": "Boulderkitchen Freiburg",
+      "latitude": 47.99075,
+      "longitude": 7.79521
+    },
+    {
+      "id": 175363,
+      "username": "vietclimb",
+      "name": "VietClimb",
+      "latitude": 21.05562,
+      "longitude": 105.83981
+    },
+    {
+      "id": 175364,
+      "username": "rungne_buldr",
+      "name": "Rúngne Buldr",
+      "latitude": 60.38464,
+      "longitude": 5.31154
+    },
+    {
+      "id": 175365,
+      "username": "centralrockworcester",
+      "name": "Central Rock Gym Worcester",
+      "latitude": 42.29745,
+      "longitude": -71.7972
+    },
+    {
+      "id": 176276,
+      "username": "dynodetroit",
+      "name": "DYNO Detroit",
+      "latitude": 42.35335,
+      "longitude": -83.04073
+    },
+    {
+      "id": 176278,
+      "username": "bigwalls_climbing",
+      "name": "Big Walls",
+      "latitude": 45.5452,
+      "longitude": 9.28872
+    },
+    {
+      "id": 176290,
+      "username": "sessionsclimbing",
+      "name": "Sessions Climbing + Fitness",
+      "latitude": 31.88792,
+      "longitude": -106.57378
+    },
+    {
+      "id": 176353,
+      "username": "flowstone_climbing",
+      "name": "Flowstone Climbing",
+      "latitude": 34.05562,
+      "longitude": -117.20452
+    },
+    {
+      "id": 177789,
+      "username": "qinclimbing",
+      "name": "老陕攀登共创俱乐部 Qin Climbing Co-Creation Club",
+      "latitude": 34.24296,
+      "longitude": 108.93182
+    },
+    {
+      "id": 177790,
+      "username": "bouldering_lacontento",
+      "name": "ボルダリングジム　ラコンテント LaContento",
+      "latitude": 35.15172,
+      "longitude": 137.00298
+    },
+    {
+      "id": 177794,
+      "username": "kbfreimann",
+      "name": "DAV Kletter und Boulderzentrum München-Nord",
+      "latitude": 48.20695,
+      "longitude": 11.61815
+    },
+    {
+      "id": 178226,
+      "username": "gravityvault_marin",
+      "name": "The Gravity Vault Marin",
+      "latitude": 38.01805,
+      "longitude": -122.52117
+    },
+    {
+      "id": 178228,
+      "username": "cultivateclimbing_boardroom",
+      "name": "Cultivate Climbing - The Boardroom",
+      "latitude": 35.59211,
+      "longitude": -82.55935
+    },
+    {
+      "id": 178230,
+      "username": "movement_grapevine",
+      "name": "Movement Grapevine",
+      "latitude": 32.90468,
+      "longitude": -97.0958
+    },
+    {
+      "id": 178567,
+      "username": "boulderhalenergiehaven_utrecht",
+      "name": "Boulderhal Energiehaven Utrecht",
+      "latitude": 52.10039,
+      "longitude": 5.07082
+    },
+    {
+      "id": 178662,
+      "username": "boulderweltkarlsruhe",
+      "name": "Boulderwelt Karlsruhe",
+      "latitude": 49.01045,
+      "longitude": 8.39506
+    },
+    {
+      "id": 179293,
+      "username": "ameyalli.com.mx",
+      "name": "Ameyalli",
+      "latitude": 20.65843,
+      "longitude": -103.39662
+    },
+    {
+      "id": 179294,
+      "username": "murall_warszawa_krakowska",
+      "name": "Murall Krakowska Warszawa",
+      "latitude": 52.17105,
+      "longitude": 20.9334
+    },
+    {
+      "id": 179295,
+      "username": "siureccenter",
+      "name": "Southern Illinois University Recreation Center",
+      "latitude": 37.71926,
+      "longitude": -89.21243
+    },
+    {
+      "id": 179602,
+      "username": "peak7boulderhalle_landshut",
+      "name": "PEAK7 Boulderhalle Landshut",
+      "latitude": 48.56053,
+      "longitude": 12.16662
+    },
+    {
+      "id": 181552,
+      "username": "elys_boulderloft",
+      "name": "ELYS Boulderloft",
+      "latitude": 47.57471,
+      "longitude": 7.5738
+    },
+    {
+      "id": 181554,
+      "username": "hoytundertaketskien",
+      "name": "Høyt Under Taket Skien",
+      "latitude": 59.19889,
+      "longitude": 9.61253
+    },
+    {
+      "id": 182259,
+      "username": "duesseldorf.einstein.boulder",
+      "name": "Einstein Boulderhalle Düsseldorf",
+      "latitude": 51.21367,
+      "longitude": 6.82183
+    },
+    {
+      "id": 182748,
+      "username": "kbthalkirchen",
+      "name": "DAV Kletter & Boulderzentrum München-Süd",
+      "latitude": 48.107,
+      "longitude": 11.54568
+    },
+    {
+      "id": 183663,
+      "username": "boulderlab_clayton",
+      "name": "Boulder Lab Clayton",
+      "latitude": -37.92909,
+      "longitude": 145.12791
+    },
+    {
+      "id": 183664,
+      "username": "monk_eindhoven",
+      "name": "Monk Bouldergym Eindhoven",
+      "latitude": 51.44375,
+      "longitude": 5.45875
+    },
+    {
+      "id": 183665,
+      "username": "alpenvereinleibnitz",
+      "name": "Kletterhalle Alpenverein Leibnitz",
+      "latitude": 46.78353,
+      "longitude": 15.54574
+    },
+    {
+      "id": 186225,
+      "username": "newton_boulderhalle_graz",
+      "name": "Newton Boulderhalle Graz",
+      "latitude": 47.06581,
+      "longitude": 15.43051
+    },
+    {
+      "id": 186226,
+      "username": "newton_boulderhalle_kb",
+      "name": "Newton Boulderhalle Kapfenberg",
+      "latitude": 47.42831,
+      "longitude": 15.26809
+    },
+    {
+      "id": 188695,
+      "username": "boulderbar.essen",
+      "name": "Boulderbar Neoliet Essen",
+      "latitude": 51.44823,
+      "longitude": 6.98695
+    },
+    {
+      "id": 189089,
+      "username": "flaesh.die.boulderhalle",
+      "name": "Fläsh Die Boulderhalle",
+      "latitude": 46.81814,
+      "longitude": 14.84421
+    },
+    {
+      "id": 190496,
+      "username": "calgaryclimbing_socal",
+      "name": "SoCal Bouldering CCC",
+      "latitude": 50.90048,
+      "longitude": -114.0666
+    },
+    {
+      "id": 192666,
+      "username": "sport_sheds_augsburg",
+      "name": "Sport Sheds Augsburg",
+      "latitude": 48.3681,
+      "longitude": 10.8718
+    },
+    {
+      "id": 195068,
+      "username": "dcboulderingproject",
+      "name": "DC Boudering Project",
+      "latitude": 38.91199,
+      "longitude": -77.00432
+    },
+    {
+      "id": 195103,
+      "username": "baysiderock",
+      "name": "Bayside Rock",
+      "latitude": -38.09379,
+      "longitude": 145.1689
+    },
+    {
+      "id": 195167,
+      "username": "buldreterminalen",
+      "name": "Buldreterminalen AS",
+      "latitude": 69.66855,
+      "longitude": 18.92236
+    },
+    {
+      "id": 195169,
+      "username": "latitudeclimbing",
+      "name": "Latitude Climbing & Fitness Hampton",
+      "latitude": 37.04331,
+      "longitude": -76.39576
+    },
+    {
+      "id": 196284,
+      "username": "uscg_borinquen",
+      "name": "USCG Base Detachment Borinquen Housing Office",
+      "latitude": 18.50472,
+      "longitude": -67.13313
+    },
+    {
+      "id": 196555,
+      "username": "bouldersandbrewsgym",
+      "name": "Boulders and Brews",
+      "latitude": 36.06755,
+      "longitude": -94.1671
+    },
+    {
+      "id": 199013,
+      "username": "theedgerockgymmiami",
+      "name": "The Edge Rock Gym Miami",
+      "latitude": 25.63776,
+      "longitude": -80.42057
+    },
+    {
+      "id": 199015,
+      "username": "orobiaclimbing",
+      "name": "Orobia Climbing",
+      "latitude": 45.69573,
+      "longitude": 9.61979
+    },
+    {
+      "id": 199016,
+      "username": "ascend_point_breeze",
+      "name": "Ascend Climbing Point Breeze",
+      "latitude": 40.45091,
+      "longitude": -79.89598
+    },
+    {
+      "id": 199456,
+      "username": "spartabouldering",
+      "name": "Sparta Bouldering & Bar",
+      "latitude": 47.17239,
+      "longitude": 9.48265
+    },
+    {
+      "id": 199457,
+      "username": "thresholdclimbinggym",
+      "name": "Threshold Climbing, Fitness & Yoga",
+      "latitude": 35.60764,
+      "longitude": -97.62456
+    },
+    {
+      "id": 201977,
+      "username": "beestbouldersantwerpen",
+      "name": "Beest Boulders Antwerpen",
+      "latitude": 51.23389,
+      "longitude": 4.4036
+    },
+    {
+      "id": 201979,
+      "username": "klatreverket_lokka",
+      "name": "Klatreverket Løkka",
+      "latitude": 59.92948,
+      "longitude": 10.7579
+    },
+    {
+      "id": 202415,
+      "username": "eustonwall",
+      "name": "EustonWall Climbing Centre",
+      "latitude": 51.5244,
+      "longitude": -0.13964
+    },
+    {
+      "id": 203596,
+      "username": "cirqueclimbinggym",
+      "name": "Cirque Climbing",
+      "latitude": 47.07235,
+      "longitude": -122.76827
+    },
+    {
+      "id": 206006,
+      "username": "greifbarFN",
+      "name": "Greifbar-Boulderhalle Friedrichshafen",
+      "latitude": 47.65225,
+      "longitude": 9.50302
+    },
+    {
+      "id": 207684,
+      "username": "GaiaClimb",
+      "name": "Gaia Climb Alzira",
+      "latitude": 39.16461,
+      "longitude": -0.43244
+    },
+    {
+      "id": 208134,
+      "username": "rocketclimbing",
+      "name": "Rocket Climbing",
+      "latitude": -37.78692,
+      "longitude": 144.88556
+    },
+    {
+      "id": 208145,
+      "username": "level24",
+      "name": "Level 24",
+      "latitude": 44.49092,
+      "longitude": 11.25031
+    },
+    {
+      "id": 208170,
+      "username": "urbanapes.hh.west",
+      "name": "Urban Apes Hamburg West",
+      "latitude": 53.59954,
+      "longitude": 9.91647
+    },
+    {
+      "id": 208221,
+      "username": "theterrainpark",
+      "name": "Terrain Park Climbing Center",
+      "latitude": 39.72295,
+      "longitude": -121.84623
+    },
+    {
+      "id": 209891,
+      "username": "friction_bouldering",
+      "name": "Friction Bouldering",
+      "latitude": -37.57745,
+      "longitude": 143.82605
+    },
+    {
+      "id": 209904,
+      "username": "sputnikberango",
+      "name": "Sputnik Climbing Berango",
+      "latitude": 43.36986,
+      "longitude": -2.9941
+    },
+    {
+      "id": 209913,
+      "username": "momentumclimbingsandy",
+      "name": "Momentum Climbing Sandy",
+      "latitude": 40.56486,
+      "longitude": -111.89785
+    },
+    {
+      "id": 209921,
+      "username": "lemouvespacebloc",
+      "name": "Le Mouv' espace bloc",
+      "latitude": 45.5656,
+      "longitude": -73.59616
+    },
+    {
+      "id": 209931,
+      "username": "evolv_worldwide",
+      "name": "Evolv Climbing HQ",
+      "latitude": 33.7232,
+      "longitude": -117.82838
+    },
+    {
+      "id": 211621,
+      "username": "vitabeta_hkclimbing",
+      "name": "Vita Beta Climbing Gym",
+      "latitude": 22.37435,
+      "longitude": 114.10891
+    },
+    {
+      "id": 211632,
+      "username": "justclimbhk_shek_mun",
+      "name": "Just Climb Shek Mun",
+      "latitude": 22.39078,
+      "longitude": 114.20741
+    },
+    {
+      "id": 211650,
+      "username": "lakelandclimbing_lancaster",
+      "name": "Lakeland Climbing Centres - LancasterWall",
+      "latitude": 54.04698,
+      "longitude": -2.82335
+    },
+    {
+      "id": 213931,
+      "username": "volume_villach",
+      "name": "Volume Bouldern Villach",
+      "latitude": 46.59652,
+      "longitude": 13.8481
+    },
+    {
+      "id": 214718,
+      "username": "boulderclubgraz",
+      "name": "Boulderclub Graz",
+      "latitude": 47.02564,
+      "longitude": 15.43638
+    },
+    {
+      "id": 214721,
+      "username": "ataria_boulder",
+      "name": "AtariA Boulder",
+      "latitude": 43.05242,
+      "longitude": -2.1872
+    },
+    {
+      "id": 214801,
+      "username": "awesomewalls_sheffield",
+      "name": "Awesome Walls Sheffield",
+      "latitude": 53.39957,
+      "longitude": -1.44673
+    },
+    {
+      "id": 215611,
+      "username": "trianglerockclub_durham",
+      "name": "Triangle Rock Club Durham",
+      "latitude": 35.9512,
+      "longitude": -78.92458
+    },
+    {
+      "id": 215631,
+      "username": "havorn_klatring",
+      "name": "I.L. Havørn Klatring",
+      "latitude": 63.06181,
+      "longitude": 7.48804
+    },
+    {
+      "id": 215758,
+      "username": "movement_designdistrict",
+      "name": "Movement Design District",
+      "latitude": 32.79005,
+      "longitude": -96.82311
+    },
+    {
+      "id": 217891,
+      "username": "allezup_mileend",
+      "name": "Allez Up Mile End",
+      "latitude": 45.52796,
+      "longitude": -73.59823
+    },
+    {
+      "id": 218644,
+      "username": "centralrockhadley",
+      "name": "Central Rock Gym Hadley",
+      "latitude": 42.34234,
+      "longitude": -72.58445
+    },
+    {
+      "id": 218678,
+      "username": "la_pile_bloc",
+      "name": "La Pile SA",
+      "latitude": 46.78714,
+      "longitude": 6.63162
+    },
+    {
+      "id": 219015,
+      "username": "klimb_zarautz",
+      "name": "Klimb Zarautz",
+      "latitude": 43.2821,
+      "longitude": -2.16232
+    },
+    {
+      "id": 219021,
+      "username": "saltpumpscarborough",
+      "name": "Salt Pump Climbing Co Scarborough",
+      "latitude": 43.59293,
+      "longitude": -70.36218
+    },
+    {
+      "id": 221551,
+      "username": "boardworks_climbing",
+      "name": "Boardworks Climbing",
+      "latitude": 44.03913,
+      "longitude": -121.3032
+    },
+    {
+      "id": 223211,
+      "username": "boulder_zona",
+      "name": "Boulder Zona Climbing Gym",
+      "latitude": 45.79618,
+      "longitude": 15.90023
+    },
+    {
+      "id": 223228,
+      "username": "bloc9.81",
+      "name": "Bloc 9.81",
+      "latitude": 45.46736,
+      "longitude": -75.7186
+    },
+    {
+      "id": 223243,
+      "username": "boulderdrome",
+      "name": "Boulderdrome",
+      "latitude": 51.12048,
+      "longitude": 13.59201
+    },
+    {
+      "id": 223284,
+      "username": "Reach_Indoor_Climbing",
+      "name": "Reach Indoor Climbing",
+      "latitude": 44.01773,
+      "longitude": -79.44974
+    },
+    {
+      "id": 223929,
+      "username": "isaacclimbing",
+      "name": "Isaac Climbing",
+      "latitude": 32.06496,
+      "longitude": 34.78945
+    },
+    {
+      "id": 226218,
+      "username": "rocklands_sls",
+      "name": "Rocklands Saarlouis",
+      "latitude": 49.32159,
+      "longitude": 6.74013
+    },
+    {
+      "id": 227112,
+      "username": "bloc_house",
+      "name": "BLOC house Graz",
+      "latitude": 47.05068,
+      "longitude": 15.43472
+    },
+    {
+      "id": 227194,
+      "username": "firstascent_block37",
+      "name": "First Ascent Block 37",
+      "latitude": 41.88408,
+      "longitude": -87.62865
+    },
+    {
+      "id": 228695,
+      "username": "sorlandetklatresenter",
+      "name": "Sørlandet Klatresenter",
+      "latitude": 58.13775,
+      "longitude": 7.99995
+    },
+    {
+      "id": 228705,
+      "username": "calmico",
+      "name": "Centre d'escalada Cal Mico",
+      "latitude": 41.96756,
+      "longitude": 2.81161
+    },
+    {
+      "id": 229696,
+      "username": "tchexeter",
+      "name": "The Climbing Hangar Exeter",
+      "latitude": 50.70919,
+      "longitude": -3.52788
+    },
+    {
+      "id": 230150,
+      "username": "umanitobaclimbing",
+      "name": "University of Manitoba Active Living Center",
+      "latitude": 49.80656,
+      "longitude": -97.13846
+    },
+    {
+      "id": 230163,
+      "username": "projectrockeasley",
+      "name": "ProjectROCK Easley",
+      "latitude": 34.88329,
+      "longitude": -82.60758
+    },
+    {
+      "id": 231342,
+      "username": "bloeckle_rv",
+      "name": "Blöckle",
+      "latitude": 47.79203,
+      "longitude": 9.60804
+    },
+    {
+      "id": 231357,
+      "username": "kruxklatring",
+      "name": "Krux Klatring",
+      "latitude": 62.5942,
+      "longitude": 9.69006
+    },
+    {
+      "id": 231398,
+      "username": "winthrop_sq_boston",
+      "name": "Winthrop Square Boston",
+      "latitude": 42.35458,
+      "longitude": -71.05706
+    },
+    {
+      "id": 233490,
+      "username": "jumpyardkarlstad",
+      "name": "JumpYard Karlstad",
+      "latitude": 59.38186,
+      "longitude": 13.53526
+    },
+    {
+      "id": 234317,
+      "username": "el_roko_oviedo",
+      "name": "El Roko Centro de Escalada",
+      "latitude": 43.36508,
+      "longitude": -5.83337
+    },
+    {
+      "id": 234390,
+      "username": "dav_kletterzentrum_landshut",
+      "name": "DAV Kletter Boulder Zentrum Landshut",
+      "latitude": 48.54807,
+      "longitude": 12.18221
+    },
+    {
+      "id": 234525,
+      "username": "upthebloc",
+      "name": "Up The Bloc",
+      "latitude": 43.60385,
+      "longitude": -79.58441
+    },
+    {
+      "id": 237588,
+      "username": "BlocAction",
+      "name": "Bloc Action",
+      "latitude": 45.72831,
+      "longitude": -73.61638
+    },
+    {
+      "id": 240315,
+      "username": "level8boulderhalle",
+      "name": "Level 8 Boulderhalle Gießen",
+      "latitude": 50.58771,
+      "longitude": 8.65829
+    },
+    {
+      "id": 240334,
+      "username": "pamparockclimbing",
+      "name": "Pampa Rock Climbing",
+      "latitude": 2.19316,
+      "longitude": 102.23685
+    },
+    {
+      "id": 240375,
+      "username": "ascentstudio",
+      "name": "Ascent Studio Climbing & Fitness",
+      "latitude": 40.55941,
+      "longitude": -105.04117
+    },
+    {
+      "id": 242138,
+      "username": "bolderneoliet_rotterdam",
+      "name": "Bolder Neoliet Rotterdam",
+      "latitude": 51.90855,
+      "longitude": 4.43368
+    },
+    {
+      "id": 242461,
+      "username": "morkvedhallen_klatresenter",
+      "name": "Mørkvedhallen Klatresenter",
+      "latitude": 67.28667,
+      "longitude": 14.5692
+    },
+    {
+      "id": 242483,
+      "username": "moldeveggen",
+      "name": "Molde Klatresenter",
+      "latitude": 62.73647,
+      "longitude": 7.18253
+    },
+    {
+      "id": 242490,
+      "username": "tchreadinguk",
+      "name": "The Climbing Hangar Reading",
+      "latitude": 51.46358,
+      "longitude": -1.01319
+    },
+    {
+      "id": 242886,
+      "username": "njrockgym",
+      "name": "NJ Rock Gym",
+      "latitude": 40.8825,
+      "longitude": -74.29436
+    },
+    {
+      "id": 243454,
+      "username": "boulderhalkrachtstof",
+      "name": "Boulderhal Krachtstof",
+      "latitude": 52.15868,
+      "longitude": 4.51212
+    },
+    {
+      "id": 244771,
+      "username": "dino.moves",
+      "name": "Dino Moves Gym",
+      "latitude": 39.96262,
+      "longitude": -105.50807
+    },
+    {
+      "id": 245729,
+      "username": "orumung",
+      "name": "오루뭉 Orumung Climbing Gym",
+      "latitude": 33.32611,
+      "longitude": 126.83256
+    },
+    {
+      "id": 248899,
+      "username": "boulderhaus_reutlingen",
+      "name": "Boulderhaus Reutlingen",
+      "latitude": 48.49913,
+      "longitude": 9.19966
+    },
+    {
+      "id": 248916,
+      "username": "mandaloglindesnes",
+      "name": "Mandal & Lindesnes Klatreklubb",
+      "latitude": 58.02586,
+      "longitude": 7.44517
+    },
+    {
+      "id": 249026,
+      "username": "greifhaus_braunschweig",
+      "name": "Greifhaus Braunschweig",
+      "latitude": 52.27931,
+      "longitude": 10.52019
+    },
+    {
+      "id": 249355,
+      "username": "rockitclimbing_derwentpark",
+      "name": "Rock It Climbing Centre - Derwent Park",
+      "latitude": -42.8336,
+      "longitude": 147.29469
+    },
+    {
+      "id": 249796,
+      "username": "diekletterei",
+      "name": "Die Kletterei",
+      "latitude": 48.08027,
+      "longitude": 10.85614
+    },
+    {
+      "id": 250717,
+      "username": "bimano_bern",
+      "name": "Bimano Bern",
+      "latitude": 46.95906,
+      "longitude": 7.47294
+    },
+    {
+      "id": 250754,
+      "username": "rockoasisclimbing",
+      "name": "The Rock Oasis Inc.",
+      "latitude": 43.66597,
+      "longitude": -79.34302
+    },
+    {
+      "id": 252637,
+      "username": "boulderhaldecampus",
+      "name": "Boulderhal de Campus",
+      "latitude": 52.04968,
+      "longitude": 4.25458
+    },
+    {
+      "id": 252648,
+      "username": "element.kassel",
+      "name": "Element Boulders Kassel",
+      "latitude": 51.31985,
+      "longitude": 9.50055
+    },
+    {
+      "id": 252679,
+      "username": "kraftreaktor_lenzburg",
+      "name": "Kraftreaktor Lenzburg",
+      "latitude": 47.39503,
+      "longitude": 8.17719
+    },
+    {
+      "id": 252686,
+      "username": "boulderloungeschlieren",
+      "name": "Boulderlounge Schlieren",
+      "latitude": 47.39912,
+      "longitude": 8.4528
+    },
+    {
+      "id": 255440,
+      "username": "hkclimbingpark",
+      "name": "Hong Kong Climbing Park",
+      "latitude": 22.38584,
+      "longitude": 114.19957
+    },
+    {
+      "id": 255450,
+      "username": "swobodaalpin",
+      "name": "DAV Alpinzentrum Swoboda Alpin",
+      "latitude": 47.72,
+      "longitude": 10.28977
+    },
+    {
+      "id": 256442,
+      "username": "blocstation",
+      "name": "Blocstation acsd",
+      "latitude": 44.22727,
+      "longitude": 12.04509
+    },
+    {
+      "id": 256600,
+      "username": "grimper.ch_lausanne",
+      "name": "Grimper.ch Lausanne-Beaulieu",
+      "latitude": 46.52936,
+      "longitude": 6.62476
+    },
+    {
+      "id": 257510,
+      "username": "frontierclimbing",
+      "name": "Frontier Climbing & Fitness",
+      "latitude": 43.54531,
+      "longitude": -96.66461
+    },
+    {
+      "id": 258566,
+      "username": "verticalbloc",
+      "name": "Vertical Bloc",
+      "latitude": 45.54716,
+      "longitude": -73.53641
+    },
+    {
+      "id": 258851,
+      "username": "1upbouldering",
+      "name": "1UP Bouldering",
+      "latitude": -33.89914,
+      "longitude": 151.0434
+    },
+    {
+      "id": 259624,
+      "username": "bergstation.nrw",
+      "name": "Bergstation Kletter + Boulderzentrum",
+      "latitude": 51.17039,
+      "longitude": 6.91706
+    },
+    {
+      "id": 260702,
+      "username": "goldcrushclimbing",
+      "name": "Gold Crush Climbing Gym",
+      "latitude": 39.21917,
+      "longitude": -121.03081
+    },
+    {
+      "id": 260716,
+      "username": "delire_levis",
+      "name": "DÉLIRE Escalade Lévis",
+      "latitude": 46.79569,
+      "longitude": -71.1795
+    },
+    {
+      "id": 260733,
+      "username": "boulder_plus_chevrons",
+      "name": "Boulder+ The Chevrons",
+      "latitude": 1.33109,
+      "longitude": 103.74827
+    },
+    {
+      "id": 262930,
+      "username": "bouldershvidovre",
+      "name": "Boulders Hvidovre",
+      "latitude": 55.6271,
+      "longitude": 12.48416
+    },
+    {
+      "id": 262958,
+      "username": "biwakclimbing",
+      "name": "Biwak Climbing",
+      "latitude": 43.2903,
+      "longitude": -2.88748
+    },
+    {
+      "id": 262966,
+      "username": "gravitylabclimbing",
+      "name": "Gravity Lab",
+      "latitude": 37.22925,
+      "longitude": -107.80896
+    },
+    {
+      "id": 262975,
+      "username": "boulderhalbruut",
+      "name": "Boulderhal Bruut",
+      "latitude": 51.59819,
+      "longitude": 4.75602
+    },
+    {
+      "id": 262981,
+      "username": "WoodwardCamp",
+      "name": "Woodward PA",
+      "latitude": 40.90139,
+      "longitude": -77.36817
+    },
+    {
+      "id": 264088,
+      "username": "rockworld.jb",
+      "name": "Rockworld",
+      "latitude": 1.58009,
+      "longitude": 103.72773
+    },
+    {
+      "id": 264107,
+      "username": "jungleletnany",
+      "name": "Jungle Sport Park",
+      "latitude": 50.14204,
+      "longitude": 14.51789
+    },
+    {
+      "id": 264169,
+      "username": "dersteinbocklinz",
+      "name": "Der Steinbock Linz",
+      "latitude": 48.29891,
+      "longitude": 14.2749
+    },
+    {
+      "id": 264356,
+      "username": "centralrockwesthartford",
+      "name": "Central Rock Gym West Hartford",
+      "latitude": 41.72522,
+      "longitude": -72.71989
+    },
+    {
+      "id": 264865,
+      "username": "boulderhouse_vic",
+      "name": "BoulderHouse Victoria",
+      "latitude": 48.44048,
+      "longitude": -123.3658
+    },
+    {
+      "id": 266599,
+      "username": "tupclimbing_wanhua",
+      "name": "原岩攀岩館-萬華店 T-UP Climbing Gym Wanhua",
+      "latitude": 25.03443,
+      "longitude": 121.49697
+    },
+    {
+      "id": 266604,
+      "username": "tupclimbing_a19",
+      "name": "原岩攀岩館─A19店 T-UP Climbing Gym A19 Branch",
+      "latitude": 25.00201,
+      "longitude": 121.20233
+    },
+    {
+      "id": 268395,
+      "username": "monobloc.lasagrera",
+      "name": "Monobloc La Sagrera",
+      "latitude": 41.42486,
+      "longitude": 2.18593
+    },
+    {
+      "id": 268429,
+      "username": "gary.1056",
+      "name": "Gary's Garage",
+      "latitude": 38.24316,
+      "longitude": -76.4415
+    },
+    {
+      "id": 269671,
+      "username": "bloc_spot_murtal",
+      "name": "Bloc Spot Murtal",
+      "latitude": 47.19601,
+      "longitude": 14.73238
+    },
+    {
+      "id": 271825,
+      "username": "rockon_to",
+      "name": "Rock On Climbing",
+      "latitude": 43.65367,
+      "longitude": -79.35515
+    },
+    {
+      "id": 277537,
+      "username": "ozarkclimbing",
+      "name": "Ozark Climbing",
+      "latitude": 36.1664,
+      "longitude": -94.12313
+    },
+    {
+      "id": 278187,
+      "username": "bloclab_climbing",
+      "name": "Bloclab Climbing",
+      "latitude": -33.44094,
+      "longitude": -70.60718
+    },
+    {
+      "id": 280049,
+      "username": "pinkpeaks_climbing",
+      "name": "Pink Peaks Climbing",
+      "latitude": 50.91724,
+      "longitude": 4.34541
+    },
+    {
+      "id": 281106,
+      "username": "limbobouldering",
+      "name": "LIMBO Bouldering",
+      "latitude": 50.23033,
+      "longitude": 18.97163
+    },
+    {
+      "id": 281803,
+      "username": "metrorock_bushwick",
+      "name": "MetroRock Bushwick",
+      "latitude": 40.7082,
+      "longitude": -73.92041
+    },
+    {
+      "id": 281821,
+      "username": "capitalclimbingcayce",
+      "name": "Capital Climbing Cayce",
+      "latitude": 33.9856,
+      "longitude": -81.05605
+    },
+    {
+      "id": 282256,
+      "username": "monobloc.reus",
+      "name": "Monobloc Reus",
+      "latitude": 41.15835,
+      "longitude": 1.12149
+    },
+    {
+      "id": 282270,
+      "username": "campusclimbing_karmiel",
+      "name": "קמפוס מועדון טיפוס Campus Karmiel",
+      "latitude": 32.92353,
+      "longitude": 35.31213
+    },
+    {
+      "id": 284085,
+      "username": "climbjunction",
+      "name": "Junction Climbing Centre",
+      "latitude": 42.99832,
+      "longitude": -81.21752
+    },
+    {
+      "id": 284191,
+      "username": "icpboulderhall",
+      "name": "ICP Boulder Hall and Showroom",
+      "latitude": -27.45487,
+      "longitude": 153.03289
+    },
+    {
+      "id": 284907,
+      "username": "xxl_kletterhalle_dresden",
+      "name": "XXL Klettern Dresden",
+      "latitude": 51.01574,
+      "longitude": 13.8046
+    },
+    {
+      "id": 284917,
+      "username": "bouldersaarhussyd",
+      "name": "Boulders Aarhus Sud",
+      "latitude": 56.11068,
+      "longitude": 10.15457
+    },
+    {
+      "id": 288428,
+      "username": "mesarimaustin",
+      "name": "Mesa Rim Climbing Center Austin",
+      "latitude": 30.34335,
+      "longitude": -97.68532
+    },
+    {
+      "id": 290785,
+      "username": "theclimbgyms_bentonville",
+      "name": "Climb Bentonville",
+      "latitude": 36.35673,
+      "longitude": -94.21992
+    },
+    {
+      "id": 290865,
+      "username": "hook.bouldering",
+      "name": "Hook Bouldering",
+      "latitude": 45.57792,
+      "longitude": -73.33714
+    },
+    {
+      "id": 291284,
+      "username": "highfun2017",
+      "name": "嗨翻綜合體能館 High Fun",
+      "latitude": 23.01146,
+      "longitude": 120.19006
+    },
+    {
+      "id": 292211,
+      "username": "cozyrock.kz",
+      "name": "Cozy Rock",
+      "latitude": 43.2409,
+      "longitude": 76.8762
+    },
+    {
+      "id": 292230,
+      "username": "altaboulders",
+      "name": "Alta Boulders Chandler",
+      "latitude": 33.2646,
+      "longitude": -111.85627
+    },
+    {
+      "id": 294364,
+      "username": "centralrockcambridge",
+      "name": "Central Rock Gym Cambridge",
+      "latitude": 42.39436,
+      "longitude": -71.15172
+    },
+    {
+      "id": 294371,
+      "username": "beyondbouldering_keswick",
+      "name": "Beyond Bouldering Keswick",
+      "latitude": -34.9434,
+      "longitude": 138.57853
+    },
+    {
+      "id": 294389,
+      "username": "matsuno__bouldering",
+      "name": "松野町コミュニティセンター Matsuno Town Community Center",
+      "latitude": 33.22722,
+      "longitude": 132.7108
+    },
+    {
+      "id": 294401,
+      "username": "centralrockchelsea",
+      "name": "Central Rock Gym Chelsea",
+      "latitude": 40.75113,
+      "longitude": -74.00418
+    },
+    {
+      "id": 294417,
+      "username": "lrclimbing",
+      "name": "Little Rock Climbing Center",
+      "latitude": 34.71138,
+      "longitude": -92.41076
+    },
+    {
+      "id": 297232,
+      "username": "bolderclimbing_elevated",
+      "name": "Bolder Climbing Elevated",
+      "latitude": 50.93568,
+      "longitude": -113.9644
+    },
+    {
+      "id": 297777,
+      "username": "covebouldering",
+      "name": "The Cove Bouldering + Cafe",
+      "latitude": 47.55159,
+      "longitude": -52.72658
+    },
+    {
+      "id": 298246,
+      "username": "Adamantamx_satelite",
+      "name": "Adamanta Satélite",
+      "latitude": 19.49339,
+      "longitude": -99.23639
+    },
+    {
+      "id": 300285,
+      "username": "thecircuitgym_bend",
+      "name": "The Circuit Bouldering Gym Bend",
+      "latitude": 44.09001,
+      "longitude": -121.29945
+    },
+    {
+      "id": 301616,
+      "username": "blocshop_mile_ex",
+      "name": "Bloc Shop Mile-Ex",
+      "latitude": 45.53037,
+      "longitude": -73.61185
+    },
+    {
+      "id": 302465,
+      "username": "boulderfactoryms",
+      "name": "Boulder Factory Münster",
+      "latitude": 51.98864,
+      "longitude": 7.66743
+    },
+    {
+      "id": 302489,
+      "username": "zenitklettern",
+      "name": "ZENIT Boulderhalle Osnabrück",
+      "latitude": 52.26831,
+      "longitude": 8.05914
+    },
+    {
+      "id": 302495,
+      "username": "plezalni_center_sl_bistrica",
+      "name": "Plezalni Center Slovenska Bistrica",
+      "latitude": 46.39187,
+      "longitude": 15.56615
+    },
+    {
+      "id": 303378,
+      "username": "evolutionboulders",
+      "name": "Evolution Boulders",
+      "latitude": 38.74188,
+      "longitude": -77.49863
+    },
+    {
+      "id": 304550,
+      "username": "maniak_padoue",
+      "name": "Maniak Padoue",
+      "latitude": 50.82757,
+      "longitude": 4.33196
+    },
+    {
+      "id": 304565,
+      "username": "bouldering_gym_letruss",
+      "name": "Bouldering Gym leTruss",
+      "latitude": 36.60036,
+      "longitude": 137.19879
+    },
+    {
+      "id": 304582,
+      "username": "the_roof_pays_basque",
+      "name": "The Roof Pays Basque",
+      "latitude": 43.49155,
+      "longitude": -1.49372
+    },
+    {
+      "id": 305681,
+      "username": "kletterzentrum_st.gallen",
+      "name": "Die Kletterhalle St. Gallen AG",
+      "latitude": 47.40872,
+      "longitude": 9.30892
+    },
+    {
+      "id": 305788,
+      "username": "geo_boulder",
+      "name": "GeoBoulder",
+      "latitude": 41.5625,
+      "longitude": 1.99852
+    },
+    {
+      "id": 307209,
+      "username": "boardroomclimb_wimbledon",
+      "name": "The Boardroom Climbing Ltd. Wimbledon",
+      "latitude": 51.42122,
+      "longitude": -0.20453
+    },
+    {
+      "id": 307219,
+      "username": "beta_crux",
+      "name": "Beta Crux",
+      "latitude": 48.42601,
+      "longitude": -71.06895
+    },
+    {
+      "id": 307239,
+      "username": "keiboulderhal_dehoef",
+      "name": "Kei Boulderhal De Hoef",
+      "latitude": 52.18036,
+      "longitude": 5.41522
+    },
+    {
+      "id": 307384,
+      "username": "adamantamx_puebla",
+      "name": "Adamanta Puebla",
+      "latitude": 19.02524,
+      "longitude": -98.23654
+    },
+    {
+      "id": 309115,
+      "username": "klatreklubben_alesund",
+      "name": "Klatreklubben Ålesund",
+      "latitude": 62.46913,
+      "longitude": 6.18367
+    },
+    {
+      "id": 309760,
+      "username": "salabatec_sabadell",
+      "name": "Sala Escalada Batec Sabadell",
+      "latitude": 41.52992,
+      "longitude": 2.09888
+    },
+    {
+      "id": 309774,
+      "username": "stordtindeogklatreklubb",
+      "name": "Stord Tinde - Og Klatreklubb",
+      "latitude": 59.78386,
+      "longitude": 5.39784
+    },
+    {
+      "id": 309827,
+      "username": "naturalhighbucuresti",
+      "name": "Natural High Bucuresti",
+      "latitude": 44.4343,
+      "longitude": 26.05349
+    },
+    {
+      "id": 309838,
+      "username": "beest.denhaagcentrum",
+      "name": "Beest Boulders Den Haag Centrum",
+      "latitude": 52.07613,
+      "longitude": 4.3106
+    },
+    {
+      "id": 309992,
+      "username": "fordeklatresenter",
+      "name": "Førde Klatresenter",
+      "latitude": 61.44946,
+      "longitude": 5.90513
+    },
+    {
+      "id": 311349,
+      "username": "crankclimbing",
+      "name": "Crank Indoor Climbing",
+      "latitude": -27.5624,
+      "longitude": 153.0687
+    },
+    {
+      "id": 311365,
+      "username": "projekt_eins",
+      "name": "Projekt Eins",
+      "latitude": 48.98238,
+      "longitude": 12.1954
+    },
+    {
+      "id": 311388,
+      "username": "element.muenchen",
+      "name": "Element Boulders München",
+      "latitude": 48.10205,
+      "longitude": 11.53269
+    },
+    {
+      "id": 313620,
+      "username": "parthian_climbing_wandsworth",
+      "name": "Parthian Climbing Wandsworth",
+      "latitude": 51.45496,
+      "longitude": -0.193
+    },
+    {
+      "id": 314659,
+      "username": "rhythmjapan_niseko",
+      "name": "Rhythm Japan Niseko",
+      "latitude": 42.86238,
+      "longitude": 140.70229
+    },
+    {
+      "id": 314671,
+      "username": "flagstaffclimbing_mainst",
+      "name": "Flagstaff Climbing - Main Street Boulders",
+      "latitude": 35.20247,
+      "longitude": -111.61827
+    },
+    {
+      "id": 316155,
+      "username": "thepeakoffremont",
+      "name": "The Peak of Fremont",
+      "latitude": 37.51078,
+      "longitude": -121.95102
+    },
+    {
+      "id": 316171,
+      "username": "stonegoatclimb",
+      "name": "Stonegoat Climbing Gym",
+      "latitude": 13.71681,
+      "longitude": 100.59302
+    },
+    {
+      "id": 317303,
+      "username": "blocdistrict_barcelona",
+      "name": "Bloc District Barcelona",
+      "latitude": 41.39718,
+      "longitude": 2.18866
+    },
+    {
+      "id": 317905,
+      "username": "climbonrockgym",
+      "name": "Climb On",
+      "latitude": 41.56062,
+      "longitude": -87.66858
+    },
+    {
+      "id": 319096,
+      "username": "planetclimbing_plo",
+      "name": "Planet Climbing Plan-les-Ouates",
+      "latitude": 46.16612,
+      "longitude": 6.10352
+    },
+    {
+      "id": 319108,
+      "username": "sputnik_legazpi",
+      "name": "Sputnik Climbing Legazpi",
+      "latitude": 40.38924,
+      "longitude": -3.68918
+    },
+    {
+      "id": 321000,
+      "username": "suedbloc",
+      "name": "Südbloc Boulderhalle",
+      "latitude": 52.44004,
+      "longitude": 13.37965
+    },
+    {
+      "id": 321808,
+      "username": "boulderweltdortmund",
+      "name": "Boulderwelt Dortmund",
+      "latitude": 51.49471,
+      "longitude": 7.37769
+    },
+    {
+      "id": 322315,
+      "username": "betabouldersgym_xuhui",
+      "name": "Beta Boulders Gym Xuhui",
+      "latitude": 31.13603,
+      "longitude": 121.42787
+    },
+    {
+      "id": 324685,
+      "username": "awesomebouldercenter",
+      "name": "Awesome Boulder Center",
+      "latitude": 40.28517,
+      "longitude": -3.78346
+    },
+    {
+      "id": 326140,
+      "username": "chimpanzodrome",
+      "name": "Chimpanzodrome Kletter und Boulderhalle",
+      "latitude": 50.90932,
+      "longitude": 6.81915
+    },
+    {
+      "id": 326146,
+      "username": "pacificpipe",
+      "name": "Pacific Pipe Climbing",
+      "latitude": 37.81644,
+      "longitude": -122.28852
+    },
+    {
+      "id": 326163,
+      "username": "cliffsclimbinggym",
+      "name": "CLIFFS 攀岩馆",
+      "latitude": 30.29286,
+      "longitude": 120.19591
+    },
+    {
+      "id": 326237,
+      "username": "ascent_binjiang",
+      "name": "Ascent 杭州顽攀攀岩",
+      "latitude": 30.18347,
+      "longitude": 120.21197
+    },
+    {
+      "id": 326249,
+      "username": "lokal_32_boulderownia",
+      "name": "Lokal 32",
+      "latitude": 51.08947,
+      "longitude": 17.0123
+    },
+    {
+      "id": 327641,
+      "username": "climbkraft",
+      "name": "Climb Kraft",
+      "latitude": 36.1092,
+      "longitude": -86.758
+    },
+    {
+      "id": 328733,
+      "username": "movement_boulder",
+      "name": "Movement Boulder",
+      "latitude": 40.03007,
+      "longitude": -105.25748
+    },
+    {
+      "id": 328950,
+      "username": "Stuntwerk_Kirchheim",
+      "name": "Stuntwerk Kirchheim",
+      "latitude": 48.65029,
+      "longitude": 9.44131
+    },
+    {
+      "id": 330078,
+      "username": "boulderbarlinz",
+      "name": "Boulderbar Linz",
+      "latitude": 48.24757,
+      "longitude": 14.23284
+    },
+    {
+      "id": 330749,
+      "username": "saga_kyushu",
+      "name": "九州クライミングベース SAGA Kyushu Climbing Base",
+      "latitude": 33.29132,
+      "longitude": 130.10983
+    },
+    {
+      "id": 331323,
+      "username": "centralrocktampa",
+      "name": "Central Rock Gym Tampa",
+      "latitude": 27.89432,
+      "longitude": -82.52063
+    },
+    {
+      "id": 331332,
+      "username": "methodclimb",
+      "name": "Method Climbing + Fitness",
+      "latitude": 40.74322,
+      "longitude": -74.16852
+    },
+    {
+      "id": 331765,
+      "username": "schmiedebloc",
+      "name": "SchmiedeBloc Boulderhalle",
+      "latitude": 51.68709,
+      "longitude": 12.73925
+    },
+    {
+      "id": 331794,
+      "username": "blocnolimit",
+      "name": "Bloc No Limit Boulderhalle Leipzig",
+      "latitude": 51.35212,
+      "longitude": 12.39553
+    },
+    {
+      "id": 332798,
+      "username": "klimzaal_de_stordeur",
+      "name": "Klimzaal De Stordeur",
+      "latitude": 50.89928,
+      "longitude": 4.70732
+    },
+    {
+      "id": 334160,
+      "username": "climbatjo",
+      "name": "Climbat Amman",
+      "latitude": 31.88255,
+      "longitude": 35.84339
+    },
+    {
+      "id": 334950,
+      "username": "element.essen",
+      "name": "Element Boulders Essen",
+      "latitude": 51.45539,
+      "longitude": 6.98552
+    },
+    {
+      "id": 337735,
+      "username": "de.fabriek_haarlem",
+      "name": "Boulderhal De Fabriek Haarlem",
+      "latitude": 52.39204,
+      "longitude": 4.64789
+    },
+    {
+      "id": 338904,
+      "username": "klatreverket_bryn",
+      "name": "Klatreverket Bryn",
+      "latitude": 59.9101,
+      "longitude": 10.81134
+    },
+    {
+      "id": 339172,
+      "username": "dbouldering_tachikawa",
+      "name": "Dボルダリング立川 D Bouldering Tachikawa",
+      "latitude": 35.696,
+      "longitude": 139.41101
+    },
+    {
+      "id": 340726,
+      "username": "tempeboulderingproject",
+      "name": "Bouldering Project Tempe",
+      "latitude": 33.4042,
+      "longitude": -111.95457
+    },
+    {
+      "id": 342436,
+      "username": "naturalclimbvalencia",
+      "name": "Natural Climb Valencia",
+      "latitude": 39.45597,
+      "longitude": -0.39767
+    },
+    {
+      "id": 342600,
+      "username": "gripitclimbing_nelson",
+      "name": "Grip It Climbing - Nelson Rd",
+      "latitude": 52.15057,
+      "longitude": -106.5703
+    },
+    {
+      "id": 342618,
+      "username": "hoytundertaketletohallen",
+      "name": "Hoyt Under Taket Letohallen",
+      "latitude": 60.2502,
+      "longitude": 11.17952
+    },
+    {
+      "id": 343245,
+      "username": "thecircuitgym_tigard",
+      "name": "The Circuit Bouldering Gym Tigard",
+      "latitude": 45.40292,
+      "longitude": -122.75271
+    },
+    {
+      "id": 344633,
+      "username": "kletterbar_muenster",
+      "name": "KletterBar Münster",
+      "latitude": 51.97887,
+      "longitude": 7.60992
+    },
+    {
+      "id": 344665,
+      "username": "shaktirockgym",
+      "name": "Shakti Rock Gym",
+      "latitude": 45.52752,
+      "longitude": -73.59762
+    },
+    {
+      "id": 345036,
+      "username": "gneislilleaker",
+      "name": "Gneis Lilleaker",
+      "latitude": 59.91758,
+      "longitude": 10.63072
+    },
+    {
+      "id": 345925,
+      "username": "boulderloungesg",
+      "name": "Boulderlounge St Gallen",
+      "latitude": 47.41511,
+      "longitude": 9.33957
+    },
+    {
+      "id": 345935,
+      "username": "portlandrockgym_beaverton",
+      "name": "Portland Rock Gym Beaverton",
+      "latitude": 45.5136,
+      "longitude": -122.78896
+    },
+    {
+      "id": 345951,
+      "username": "ivyclimbinggym",
+      "name": "IVY Climbing",
+      "latitude": 50.99175,
+      "longitude": 5.84161
+    },
+    {
+      "id": 347425,
+      "username": "il_hoyang_klatregruppe",
+      "name": "Høyanger Klatreklubb",
+      "latitude": 61.21709,
+      "longitude": 6.06983
+    },
+    {
+      "id": 347951,
+      "username": "steepworldclimbing",
+      "name": "Steepworld Climbing & Fitness",
+      "latitude": 45.74751,
+      "longitude": -108.59332
+    },
+    {
+      "id": 349283,
+      "username": "piconorte_zonatec",
+      "name": "Pico Norte Zona Tec",
+      "latitude": 25.6527,
+      "longitude": -100.27474
+    },
+    {
+      "id": 350325,
+      "username": "kraftreaktor_aarau",
+      "name": "Kraftreaktor Aarau",
+      "latitude": 47.40031,
+      "longitude": 8.06503
+    },
+    {
+      "id": 350723,
+      "username": "climbingdistrict_bastille",
+      "name": "Climbing District Bastille",
+      "latitude": 48.84782,
+      "longitude": 2.37059
+    },
+    {
+      "id": 351813,
+      "username": "stupbrattklatreklubb",
+      "name": "Stupbratt Klatreklubb",
+      "latitude": 65.48496,
+      "longitude": 12.22288
+    },
+    {
+      "id": 351824,
+      "username": "sbp_upperwalls",
+      "name": "SBP Upper Walls",
+      "latitude": 47.65153,
+      "longitude": -122.34175
+    },
+    {
+      "id": 353285,
+      "username": "skalaroco",
+      "name": "SKALA ROCO",
+      "latitude": 42.36115,
+      "longitude": -3.70491
+    },
+    {
+      "id": 354958,
+      "username": "elplafon",
+      "name": "El Plafón",
+      "latitude": 38.97546,
+      "longitude": -3.93344
+    },
+    {
+      "id": 354971,
+      "username": "rosebloc_brossard",
+      "name": "Rose Bloc Brossard",
+      "latitude": 45.48455,
+      "longitude": -73.46176
+    },
+    {
+      "id": 356234,
+      "username": "hudsonboulders",
+      "name": "Hudson Boulders",
+      "latitude": 42.74057,
+      "longitude": -73.73281
+    },
+    {
+      "id": 358053,
+      "username": "cragfranklin",
+      "name": "The Crag Franklin",
+      "latitude": 35.95974,
+      "longitude": -86.82784
+    },
+    {
+      "id": 358140,
+      "username": "Bould_MoveSC",
+      "name": "Bould Move",
+      "latitude": -26.73507,
+      "longitude": 153.12141
+    },
+    {
+      "id": 360275,
+      "username": "the_roof_toulouse",
+      "name": "The Roof Toulouse",
+      "latitude": 43.60026,
+      "longitude": 1.40762
+    },
+    {
+      "id": 360294,
+      "username": "monk_rotterdam",
+      "name": "Monk Rotterdam",
+      "latitude": 51.94164,
+      "longitude": 4.47328
+    },
+    {
+      "id": 362241,
+      "username": "boulderstationenschede",
+      "name": "Boulderstation Enschede",
+      "latitude": 52.22366,
+      "longitude": 6.87172
+    },
+    {
+      "id": 362272,
+      "username": "blokxmures",
+      "name": "Blokx Mures",
+      "latitude": 46.55842,
+      "longitude": 24.56646
+    },
+    {
+      "id": 364484,
+      "username": "blocx.luxembourg",
+      "name": "BLOCX Urban Fitness",
+      "latitude": 49.49416,
+      "longitude": 5.96838
+    },
+    {
+      "id": 368277,
+      "username": "tchmatchworks",
+      "name": "The Climbing Hangar Liverpool Matchworks",
+      "latitude": 53.34996,
+      "longitude": -2.8864
+    },
+    {
+      "id": 368804,
+      "username": "seacoast_climb",
+      "name": "Seacoast Climb",
+      "latitude": 43.00892,
+      "longitude": -70.80167
+    },
+    {
+      "id": 368821,
+      "username": "box_x_arena",
+      "name": "Box-X Arena",
+      "latitude": 49.24812,
+      "longitude": 11.09202
+    },
+    {
+      "id": 370250,
+      "username": "campobaseburgos",
+      "name": "Campo Base Escalada",
+      "latitude": 42.37675,
+      "longitude": -3.70368
+    },
+    {
+      "id": 370273,
+      "username": "wondersky_gangneung",
+      "name": "원더 스카이 Wonder Sky _ 강릉",
+      "latitude": 37.79381,
+      "longitude": 128.91532
+    },
+    {
+      "id": 373415,
+      "username": "centralrockorlando",
+      "name": "Central Rock Gym Orlando",
+      "latitude": 28.44892,
+      "longitude": -81.40446
+    },
+    {
+      "id": 373639,
+      "username": "dbouldering_tamachi",
+      "name": "Dボルダリング田町 D Bouldering Tamachi",
+      "latitude": 35.64676,
+      "longitude": 139.74775
+    },
+    {
+      "id": 373656,
+      "username": "kbgilching",
+      "name": "DAV Kletter & Boulderzentrum München-West",
+      "latitude": 48.10135,
+      "longitude": 11.30113
+    },
+    {
+      "id": 373893,
+      "username": "vitalbellingham",
+      "name": "Vital Bellingham",
+      "latitude": 48.75032,
+      "longitude": -122.47489
+    },
+    {
+      "id": 373904,
+      "username": "boulderblocgym",
+      "name": "Boulder Bloc",
+      "latitude": 26.23219,
+      "longitude": -80.11931
+    },
+    {
+      "id": 373916,
+      "username": "therockclub",
+      "name": "The Rock Club",
+      "latitude": 40.91785,
+      "longitude": -73.77664
+    },
+    {
+      "id": 375713,
+      "username": "avatar_centrala_ruchu",
+      "name": "AVATAR Central Ruchu",
+      "latitude": 50.0616,
+      "longitude": 20.01703
+    },
+    {
+      "id": 376203,
+      "username": "dav_boulderhalle_wasserburg",
+      "name": "DAV Boulderhalle Wasserburg",
+      "latitude": 48.06344,
+      "longitude": 12.23375
+    },
+    {
+      "id": 376351,
+      "username": "space_bloc",
+      "name": "Space Bloc",
+      "latitude": 45.94472,
+      "longitude": 6.04587
+    },
+    {
+      "id": 376430,
+      "username": "totalfusionplatinum",
+      "name": "TotalFusion Platinum Newstead",
+      "latitude": -27.45127,
+      "longitude": 153.0454
+    },
+    {
+      "id": 377974,
+      "username": "gravityclimbingcentre",
+      "name": "Gravity Climbing Centre",
+      "latitude": 53.33588,
+      "longitude": -6.32355
+    },
+    {
+      "id": 378308,
+      "username": "west.bouldering",
+      "name": "WEST Bouldering",
+      "latitude": 52.19239,
+      "longitude": 20.93527
+    },
+    {
+      "id": 378318,
+      "username": "block013",
+      "name": "Boulderhal Block013",
+      "latitude": 51.57716,
+      "longitude": 5.09198
+    },
+    {
+      "id": 378321,
+      "username": "movementgymsrockville",
+      "name": "Movement Rockville",
+      "latitude": 39.07896,
+      "longitude": -77.14346
+    },
+    {
+      "id": 380143,
+      "username": "climbinghousekn",
+      "name": "Climbing House KN",
+      "latitude": 36.73843,
+      "longitude": 138.33728
+    },
+    {
+      "id": 380151,
+      "username": "flow.climbingspace",
+      "name": "Flow Climbing Space",
+      "latitude": 51.13489,
+      "longitude": 17.06328
+    },
+    {
+      "id": 380945,
+      "username": "laolaescalada",
+      "name": "La Ola Escalada",
+      "latitude": 40.94711,
+      "longitude": -5.65646
+    },
+    {
+      "id": 380956,
+      "username": "movement_fortworth",
+      "name": "Movement Fort Worth",
+      "latitude": 32.74779,
+      "longitude": -97.35812
+    },
+    {
+      "id": 384014,
+      "username": "espernaktivitetspark",
+      "name": "Espern Aktivitetspark",
+      "latitude": 60.78878,
+      "longitude": 11.09001
+    },
+    {
+      "id": 384551,
+      "username": "monkhasselt",
+      "name": "Monk Hasselt",
+      "latitude": 50.92862,
+      "longitude": 5.33908
+    },
+    {
+      "id": 386018,
+      "username": "boulderworldbelfast",
+      "name": "BoulderWorld Belfast",
+      "latitude": 54.57953,
+      "longitude": -5.96282
+    },
+    {
+      "id": 387804,
+      "username": "Freestone_Climbing",
+      "name": "Freestone Climbing Center",
+      "latitude": 46.88339,
+      "longitude": -114.00908
+    },
+    {
+      "id": 388131,
+      "username": "b_wall_lorient",
+      "name": "B'wall Lorient",
+      "latitude": 47.77882,
+      "longitude": -3.35503
+    },
+    {
+      "id": 388849,
+      "username": "akademiasportuproem",
+      "name": "Akademia Sportu Proem",
+      "latitude": 51.53491,
+      "longitude": 20.03198
+    },
+    {
+      "id": 389636,
+      "username": "theblokclimbing",
+      "name": "The Blok Climbing Co.",
+      "latitude": 32.71538,
+      "longitude": -97.40054
+    },
+    {
+      "id": 391378,
+      "username": "harrowall",
+      "name": "HarroWall Climbing Centre",
+      "latitude": 51.58083,
+      "longitude": -0.34436
+    },
+    {
+      "id": 392556,
+      "username": "grimper.ch_satigny",
+      "name": "Grimper.ch Satigny",
+      "latitude": 46.22459,
+      "longitude": 6.05331
+    },
+    {
+      "id": 392571,
+      "username": "sunnmorskklatreklubb",
+      "name": "Sunnmørsk Klatreklubb",
+      "latitude": 62.19526,
+      "longitude": 6.13138
+    },
+    {
+      "id": 392601,
+      "username": "betaboulderinggym",
+      "name": "Beta Bouldering Gym",
+      "latitude": 35.18891,
+      "longitude": -111.63632
+    },
+    {
+      "id": 392615,
+      "username": "topout_climbinghk",
+      "name": "TOP OUT Climbing",
+      "latitude": 22.39666,
+      "longitude": 113.96695
+    },
+    {
+      "id": 393521,
+      "username": "green_geckos_climbing",
+      "name": "Green Geckos Climbing Base 绿壁虎攀岩基地",
+      "latitude": 30.32416,
+      "longitude": 120.10717
+    },
+    {
+      "id": 397374,
+      "username": "pulseclimbing.adamstown",
+      "name": "Pulse Climbing Adamstown",
+      "latitude": -32.94153,
+      "longitude": 151.71773
+    },
+    {
+      "id": 397381,
+      "username": "9degreesmorningside",
+      "name": "9 Degrees Morningside",
+      "latitude": -27.45594,
+      "longitude": 153.08706
+    },
+    {
+      "id": 399438,
+      "username": "uadibloc",
+      "name": "Uadibloc Malasaña",
+      "latitude": 40.42839,
+      "longitude": -3.7089
+    },
+    {
+      "id": 400705,
+      "username": "ambassadentrening",
+      "name": "Ambassaden Trening",
+      "latitude": 59.91525,
+      "longitude": 10.72374
+    },
+    {
+      "id": 400720,
+      "username": "cubebouldergym",
+      "name": "Cube Bouldergym",
+      "latitude": 52.22304,
+      "longitude": 6.90367
+    },
+    {
+      "id": 402070,
+      "username": "vels_stuttgart",
+      "name": "VELS Boulderhalle Stuttgart",
+      "latitude": 48.71941,
+      "longitude": 9.12837
+    },
+    {
+      "id": 403751,
+      "username": "stuntwerk_rosenheim",
+      "name": "Stuntwerk Rosenheim",
+      "latitude": 47.85013,
+      "longitude": 12.08946
+    },
+    {
+      "id": 403762,
+      "username": "zugzwangboulderhalle",
+      "name": "Boulderhalle Zugzwang",
+      "latitude": 49.69046,
+      "longitude": 11.62995
+    },
+    {
+      "id": 403790,
+      "username": "groundupsg",
+      "name": "Ground Up Climbing",
+      "latitude": 1.31563,
+      "longitude": 103.85604
+    },
+    {
+      "id": 404500,
+      "username": "momentum_sodo",
+      "name": "Momentum SODO",
+      "latitude": 47.57817,
+      "longitude": -122.33455
+    },
+    {
+      "id": 406380,
+      "username": "klimkaffee_herentals",
+      "name": "Klimkaffee Herentals",
+      "latitude": 51.17219,
+      "longitude": 4.79931
+    },
+    {
+      "id": 406386,
+      "username": "alpineindoorclimbing_currumbin",
+      "name": "Alpine Indoor Climbing Currumbin",
+      "latitude": -28.1455,
+      "longitude": 153.47779
+    },
+    {
+      "id": 408855,
+      "username": "rockerei",
+      "name": "DAV Kletter und Boulderzentrum Schwaben - Rockerei",
+      "latitude": 48.83486,
+      "longitude": 9.16337
+    },
+    {
+      "id": 408875,
+      "username": "bside_climbing_park",
+      "name": "Bside Climbing Park",
+      "latitude": 45.07759,
+      "longitude": 7.71364
+    },
+    {
+      "id": 409323,
+      "username": "boulderkeskus_espoo",
+      "name": "Boulderkeskus Espoo",
+      "latitude": 60.16612,
+      "longitude": 24.70167
+    },
+    {
+      "id": 411482,
+      "username": "klatreverketassiden",
+      "name": "Klatreverket Åssiden",
+      "latitude": 59.75349,
+      "longitude": 10.13034
+    },
+    {
+      "id": 411504,
+      "username": "climbing.sa",
+      "name": "Arena Fitness Innovation/Saudi Climbing & Hiking Federation",
+      "latitude": 21.61947,
+      "longitude": 39.135
+    },
+    {
+      "id": 411669,
+      "username": "elevationbouldering",
+      "name": "Elevation Bouldering Gym",
+      "latitude": 44.05637,
+      "longitude": -123.09808
+    },
+    {
+      "id": 412001,
+      "username": "elcapnantes",
+      "name": "El Cap",
+      "latitude": 47.2238304,
+      "longitude": -1.6413989
+    },
+    {
+      "id": 412009,
+      "username": "urbanapes.bright_site",
+      "name": "Urban Apes Bright Site",
+      "latitude": 52.4818529,
+      "longitude": 13.3653674
+    },
+    {
+      "id": 412020,
+      "username": "mineral_spirit_valence",
+      "name": "Minéral Spirit",
+      "latitude": 44.8881,
+      "longitude": 4.8867202
+    },
+    {
+      "id": 413844,
+      "username": "riverrockclimbing",
+      "name": "River Rock Climbing",
+      "latitude": 37.2636288,
+      "longitude": -79.9574233
+    },
+    {
+      "id": 415858,
+      "username": "climbmoabgym",
+      "name": "Climb Moab",
+      "latitude": 38.493873,
+      "longitude": -109.468447
+    },
+    {
+      "id": 417407,
+      "username": "conce.climb",
+      "name": "ConceClimb Boulder & Fitness",
+      "latitude": -36.8107431,
+      "longitude": -73.0467601
+    },
+    {
+      "id": 419376,
+      "username": "appalachianboulderingcenter",
+      "name": "Appalachian Bouldering Center",
+      "latitude": 36.56563,
+      "longitude": -82.20146
+    },
+    {
+      "id": 420018,
+      "username": "beestbouldershetlab",
+      "name": "Beest Boulders Het Lab",
+      "latitude": 52.392482,
+      "longitude": 4.8512706
+    },
+    {
+      "id": 422072,
+      "username": "flashpointswindon",
+      "name": "Flashpoint Swindon",
+      "latitude": 51.5760699,
+      "longitude": -1.7644105
+    },
+    {
+      "id": 422077,
+      "username": "dersteinbockkonstanz",
+      "name": "Der Steinbock Konstanz",
+      "latitude": 47.6751382,
+      "longitude": 9.14373
+    },
+    {
+      "id": 426394,
+      "username": "kraftreichaufenfeld",
+      "name": "Kraftreich Aufenfeld",
+      "latitude": 47.26657,
+      "longitude": 11.90066
+    },
+    {
+      "id": 426457,
+      "username": "vb_kletterhalle_marburg",
+      "name": "Volksbank Kletterhalle Marburg",
+      "latitude": 50.81647,
+      "longitude": 8.77903
+    },
+    {
+      "id": 427630,
+      "username": "kletterhallerosenheim",
+      "name": "Kletter & Boulderhalle Rosenheim",
+      "latitude": 47.84749,
+      "longitude": 12.1654
+    },
+    {
+      "id": 427724,
+      "username": "urbanclimb_collingwood",
+      "name": "Urban Climb Collingwood",
+      "latitude": -37.80267,
+      "longitude": 144.98764
+    },
+    {
+      "id": 428030,
+      "username": "balkanclimbing",
+      "name": "Balkan Climbing",
+      "latitude": 42.62433,
+      "longitude": 23.36199
+    },
+    {
+      "id": 428039,
+      "username": "graniteworksgym",
+      "name": "GraniteWorks Gym",
+      "latitude": 42.92577,
+      "longitude": -72.26766
+    },
+    {
+      "id": 431200,
+      "username": "klimkaffee_mechelen",
+      "name": "Klimkaffee Mechelen",
+      "latitude": 51.02398,
+      "longitude": 4.49298
+    },
+    {
+      "id": 431204,
+      "username": "klimkaffee_oudenburg",
+      "name": "Klimkaffee Oudenburg",
+      "latitude": 51.1917,
+      "longitude": 2.98426
+    },
+    {
+      "id": 431223,
+      "username": "ronimisministeerium.tallinn",
+      "name": "Ronimisministeerium T1",
+      "latitude": 59.42448,
+      "longitude": 24.79473
+    },
+    {
+      "id": 431231,
+      "username": "active_garden_waiblingen",
+      "name": "Active Garden Waiblingen",
+      "latitude": 48.8163,
+      "longitude": 9.29915
+    },
+    {
+      "id": 431271,
+      "username": "alle.jlm",
+      "name": "Allé מרכז הטיפוס של ירושלים",
+      "latitude": 31.75221,
+      "longitude": 35.20792
+    },
+    {
+      "id": 432660,
+      "username": "blochausmitchell",
+      "name": "BlocHaus Mitchell",
+      "latitude": -35.21487,
+      "longitude": 149.14169
+    },
+    {
+      "id": 432671,
+      "username": "upperlimits_chesterfield",
+      "name": "Upper Limits Chesterfied",
+      "latitude": 38.66385,
+      "longitude": -90.60581
+    },
+    {
+      "id": 433897,
+      "username": "tchedinburgh",
+      "name": "The Climbing Hangar Edinburgh",
+      "latitude": 55.9563,
+      "longitude": -3.12426
+    },
+    {
+      "id": 435357,
+      "username": "edgeworks_bellevue",
+      "name": "Edgeworks Bellevue",
+      "latitude": 47.61994,
+      "longitude": -122.12883
+    },
+    {
+      "id": 435379,
+      "username": "hiveclimbingwpg",
+      "name": "The Hive Winnipeg",
+      "latitude": 49.8457,
+      "longitude": -97.19936
+    },
+    {
+      "id": 435393,
+      "username": "minimumbouldering_leutsch",
+      "name": "Minimum Leutsch",
+      "latitude": 47.41604,
+      "longitude": 8.55452
+    },
+    {
+      "id": 437673,
+      "username": "momentumclimbinglehi",
+      "name": "Momentum Climbing Lehi",
+      "latitude": 40.38297,
+      "longitude": -111.83449
+    },
+    {
+      "id": 437695,
+      "username": "acmeclimbing189",
+      "name": "Acme Climbing 189",
+      "latitude": 31.24216,
+      "longitude": 121.44032
+    },
+    {
+      "id": 437707,
+      "username": "saltpumpportsmouth",
+      "name": "Salt Pump Climbing Co. Portsmouth",
+      "latitude": 43.03634,
+      "longitude": -70.78911
+    },
+    {
+      "id": 441402,
+      "username": "rscbrookline",
+      "name": "Rock Spot Climbing Brookline",
+      "latitude": 42.35021,
+      "longitude": -71.1147
+    },
+    {
+      "id": 441936,
+      "username": "gripbouldering",
+      "name": "Grip Bouldering",
+      "latitude": 39.1082,
+      "longitude": -108.63747
+    },
+    {
+      "id": 441953,
+      "username": "climbcentral_safra",
+      "name": "Climb Central SAFRA Choa Chu Kang",
+      "latitude": 1.38877,
+      "longitude": 103.74727
+    },
+    {
+      "id": 441965,
+      "username": "velocityclimbing",
+      "name": "Velocity Climbing",
+      "latitude": 25.81284,
+      "longitude": -80.23395
+    },
+    {
+      "id": 444065,
+      "username": "chalk_up_climbing",
+      "name": "Chalk Up Climbing Center Wolseong 초크업 클라이밍",
+      "latitude": 35.82364,
+      "longitude": 128.5275
+    },
+    {
+      "id": 444080,
+      "username": "davsektionkaiserslautern",
+      "name": "DAV Kletterzentrum Barbarosshalle",
+      "latitude": 49.42855,
+      "longitude": 7.75598
+    },
+    {
+      "id": 445625,
+      "username": "gekoaventura",
+      "name": "Geko Aventura",
+      "latitude": 41.6231,
+      "longitude": -4.73601
+    },
+    {
+      "id": 449237,
+      "username": "igneaboulder",
+      "name": "Ignea Boulder",
+      "latitude": -36.81501,
+      "longitude": -73.04079
+    },
+    {
+      "id": 450696,
+      "username": "springdaleboulderingproject",
+      "name": "Austin Bouldering Porject Springdale",
+      "latitude": 30.26332,
+      "longitude": -97.69628
+    },
+    {
+      "id": 450704,
+      "username": "vertigini.climbing_aprilia",
+      "name": "Vertigini Climbing Aprilia",
+      "latitude": 41.5781,
+      "longitude": 12.65474
+    },
+    {
+      "id": 450736,
+      "username": "murall_warszawa_annopol",
+      "name": "Murall Warszawa Annopol",
+      "latitude": 52.30142,
+      "longitude": 21.0203
+    },
+    {
+      "id": 450907,
+      "username": "edenrocknewcastle",
+      "name": "Eden Rock Newcastle",
+      "latitude": 54.98585,
+      "longitude": -1.56064
+    },
+    {
+      "id": 452657,
+      "username": "boulderweltfrankfurt",
+      "name": "Boulderwelt Frankfurt",
+      "latitude": 50.16409,
+      "longitude": 8.68487
+    },
+    {
+      "id": 453125,
+      "username": "cmc68.fr",
+      "name": "Climbing Mulhouse Center",
+      "latitude": 47.75067,
+      "longitude": 7.31516
+    },
+    {
+      "id": 453141,
+      "username": "monk_amsterdam",
+      "name": "Monk Amsterdam",
+      "latitude": 52.38373,
+      "longitude": 4.92935
+    },
+    {
+      "id": 454147,
+      "username": "aspen_red_brick_rec",
+      "name": "Aspen Red Brick Recreation Center",
+      "latitude": 39.19324,
+      "longitude": -106.82066
+    },
+    {
+      "id": 454153,
+      "username": "centroescaladatenerife",
+      "name": "Centro Escalada Tenerife",
+      "latitude": 28.4752,
+      "longitude": -16.30612
+    },
+    {
+      "id": 454161,
+      "username": "captnhablock",
+      "name": "Capt'N Hablock",
+      "latitude": 47.68163,
+      "longitude": -2.80001
+    },
+    {
+      "id": 463142,
+      "username": "lemoll_1219",
+      "name": "Le Môll",
+      "latitude": 46.21936,
+      "longitude": 6.10238
+    },
+    {
+      "id": 467684,
+      "username": "illinoiscampusrec",
+      "name": "University of Illinois",
+      "latitude": 40.10089,
+      "longitude": -88.23603
+    },
+    {
+      "id": 468037,
+      "username": "theclimbmadrid",
+      "name": "The Climb Madrid",
+      "latitude": 40.34687,
+      "longitude": -3.80091
+    },
+    {
+      "id": 469516,
+      "username": "bouba_boulderbaden",
+      "name": "BOUBA Boulder Baden",
+      "latitude": 47.46919,
+      "longitude": 8.30546
+    },
+    {
+      "id": 469543,
+      "username": "rijnboulder",
+      "name": "Mountain Network RijnBoulder",
+      "latitude": 51.96307,
+      "longitude": 5.9008
+    },
+    {
+      "id": 469571,
+      "username": "conquerclimbingcentre",
+      "name": "Conquer Climbing Centre",
+      "latitude": 43.17698,
+      "longitude": -80.2338
+    },
+    {
+      "id": 469585,
+      "username": "lentrepot_1630",
+      "name": "L'Entrepôt",
+      "latitude": 46.6274,
+      "longitude": 7.06666
+    },
+    {
+      "id": 470136,
+      "username": "linkopingsklatterklubb",
+      "name": "Linköpings Klätterklubb",
+      "latitude": 58.40993,
+      "longitude": 15.55453
+    },
+    {
+      "id": 470153,
+      "username": "climbat_xmadrid",
+      "name": "Climbat X-Madrid",
+      "latitude": 40.33956,
+      "longitude": -3.84857
+    },
+    {
+      "id": 471413,
+      "username": "oulunkiipeilykeskus",
+      "name": "Oulun Kiipeilykeskus",
+      "latitude": 65.04533,
+      "longitude": 25.43448
+    },
+    {
+      "id": 471421,
+      "username": "topoutclimbingcoop",
+      "name": "Top Out Climbing Co-op",
+      "latitude": 49.87428,
+      "longitude": -124.55205
+    },
+    {
+      "id": 471461,
+      "username": "cityboulderingstratford",
+      "name": "City Bouldering Stratford",
+      "latitude": 51.53705,
+      "longitude": -0.00358
+    },
+    {
+      "id": 471665,
+      "username": "urbanbouldergasteiz",
+      "name": "Urban Boulder",
+      "latitude": 42.8551,
+      "longitude": -2.64919
+    },
+    {
+      "id": 472388,
+      "username": "kaamosclimbing",
+      "name": "Kaamos Climbing",
+      "latitude": 64.99112,
+      "longitude": 25.45804
+    },
+    {
+      "id": 472393,
+      "username": "fluxtrainingcenter",
+      "name": "Flux Training Center",
+      "latitude": 33.16574,
+      "longitude": -117.21428
+    },
+    {
+      "id": 473355,
+      "username": "elpativertical",
+      "name": "p a t i • climb • coffee • community",
+      "latitude": 41.74104,
+      "longitude": 1.85513
+    },
+    {
+      "id": 474056,
+      "username": "ranaklatresenter",
+      "name": "Rana Klatresenter",
+      "latitude": 66.31997,
+      "longitude": 14.19856
+    },
+    {
+      "id": 475163,
+      "username": "indoorwall_jaca",
+      "name": "Indoorwall Jaca",
+      "latitude": 42.56289,
+      "longitude": -0.56955
+    },
+    {
+      "id": 476231,
+      "username": "canmore_climbing_gym",
+      "name": "Canmore Climbing Gym",
+      "latitude": 51.09458,
+      "longitude": -115.35826
+    },
+    {
+      "id": 477156,
+      "username": "torontoclimbingacademy",
+      "name": "Toronto Climbing Academy",
+      "latitude": 43.70887,
+      "longitude": -79.31537
+    },
+    {
+      "id": 477239,
+      "username": "ascentnewhaven",
+      "name": "Ascent Climbing Gym",
+      "latitude": 41.31563,
+      "longitude": -72.90534
+    },
+    {
+      "id": 477750,
+      "username": "madininabloc",
+      "name": "Madinina Bloc",
+      "latitude": 14.6157,
+      "longitude": -61.03342
+    },
+    {
+      "id": 478637,
+      "username": "climbprocenter",
+      "name": "Climbpro Center",
+      "latitude": 38.33439,
+      "longitude": -0.51639
+    },
+    {
+      "id": 480656,
+      "username": "summit.gdl",
+      "name": "Summit Escalada",
+      "latitude": 20.64019,
+      "longitude": -103.40967
+    },
+    {
+      "id": 481786,
+      "username": "val_de_grimpe",
+      "name": "Val de Grimpe",
+      "latitude": 43.64077,
+      "longitude": 7.13232
+    },
+    {
+      "id": 482138,
+      "username": "bonobo_climbing",
+      "name": "Bonobo Climbing",
+      "latitude": 54.66982,
+      "longitude": 25.26907
+    },
+    {
+      "id": 482712,
+      "username": "blokline",
+      "name": "Blok Line Poznań",
+      "latitude": 52.37399,
+      "longitude": 16.98068
+    },
+    {
+      "id": 484757,
+      "username": "zoneclimbpt",
+      "name": "Zone Climb",
+      "latitude": 41.11153,
+      "longitude": -8.62096
+    },
+    {
+      "id": 484771,
+      "username": "theblockreno",
+      "name": "The Block Climbing and Fitness",
+      "latitude": 39.53287,
+      "longitude": -119.80141
+    },
+    {
+      "id": 485860,
+      "username": "frankenjura_academy",
+      "name": "Frankenjura Academy",
+      "latitude": 49.71407,
+      "longitude": 11.09393
+    },
+    {
+      "id": 486847,
+      "username": "boulderhalsendmast",
+      "name": "Boulderhal Sendmaat",
+      "latitude": 52.61783,
+      "longitude": 4.76679
+    },
+    {
+      "id": 486870,
+      "username": "altitudegym_orleans",
+      "name": "Altitude Gym Orleans",
+      "latitude": 45.48134,
+      "longitude": -75.50923
+    },
+    {
+      "id": 487392,
+      "username": "boulderindoor",
+      "name": "Boulder Indoor",
+      "latitude": 41.61267,
+      "longitude": 0.66268
+    },
+    {
+      "id": 487409,
+      "username": "emhm",
+      "name": "EMHM",
+      "latitude": 45.91751,
+      "longitude": 6.85405
+    },
+    {
+      "id": 488463,
+      "username": "boulder_space_zuoying",
+      "name": "圓石空間攀岩場-左營 Boulder Space Zuoying No 2",
+      "latitude": 22.68812,
+      "longitude": 120.30742
+    },
+    {
+      "id": 490732,
+      "username": "chimeraclimbingchatham",
+      "name": "Chimera Climbing Chatham",
+      "latitude": 51.40267,
+      "longitude": 0.53477
+    },
+    {
+      "id": 491378,
+      "username": "bebloc5100",
+      "name": "BeBloc",
+      "latitude": 50.45016,
+      "longitude": 4.87515
+    },
+    {
+      "id": 491382,
+      "username": "poplarboulderingproject",
+      "name": "Seattle Bouldering Project Poplar",
+      "latitude": 47.59361,
+      "longitude": -122.31088
+    },
+    {
+      "id": 492311,
+      "username": "45escalade",
+      "name": "45° Escalade",
+      "latitude": 43.31385,
+      "longitude": 5.40718
+    },
+    {
+      "id": 493528,
+      "username": "boulderhallegapa",
+      "name": "DAV Boulderhalle Garmisch-Partenkirhen",
+      "latitude": 47.48262,
+      "longitude": 11.0916
+    },
+    {
+      "id": 493534,
+      "username": "ovcin_climbing",
+      "name": "Ovčin Boulder & Bistro",
+      "latitude": 49.02877,
+      "longitude": 18.99251
+    },
+    {
+      "id": 493583,
+      "username": "campbell_supershed",
+      "name": "Campbell Supershed",
+      "latitude": 43.65926,
+      "longitude": -79.4472
+    },
+    {
+      "id": 493758,
+      "username": "arcabloc",
+      "name": "Arca Bloc",
+      "latitude": 46.11474,
+      "longitude": 3.43687
+    },
+    {
+      "id": 494922,
+      "username": "sportrock_alexandria",
+      "name": "Sportrock Alexandria",
+      "latitude": 38.80115,
+      "longitude": -77.126
+    },
+    {
+      "id": 497649,
+      "username": "beest.breda",
+      "name": "Beest Boulders Breda",
+      "latitude": 51.59598,
+      "longitude": 4.75726
+    },
+    {
+      "id": 499187,
+      "username": "au_perchoir",
+      "name": "Au Perchoir",
+      "latitude": 45.27442,
+      "longitude": 5.88808
+    },
+    {
+      "id": 501288,
+      "username": "kletterwache95111",
+      "name": "Kletterwache 95111",
+      "latitude": 50.2491,
+      "longitude": 12.02964
+    },
+    {
+      "id": 502037,
+      "username": "groto_poznan",
+      "name": "Boulderownia Groto Poznań",
+      "latitude": 52.3771,
+      "longitude": 16.94313
+    },
+    {
+      "id": 503366,
+      "username": "muubeeri",
+      "name": "BoulderBad Muubeeri",
+      "latitude": 46.94673,
+      "longitude": 7.43631
+    },
+    {
+      "id": 504371,
+      "username": "stuntwerk_cologne",
+      "name": "Stuntwerk Köln",
+      "latitude": 50.9661,
+      "longitude": 7.01315
+    },
+    {
+      "id": 505273,
+      "username": "we_are_hang",
+      "name": "Hang.",
+      "latitude": 51.47055,
+      "longitude": -0.36189
+    },
+    {
+      "id": 505685,
+      "username": "element.koeln.city",
+      "name": "Element Boulders Köln City",
+      "latitude": 50.93675,
+      "longitude": 6.95315
+    },
+    {
+      "id": 505810,
+      "username": "uwrecwell",
+      "name": "Bakke Recreation & Wellbeing Center",
+      "latitude": 43.07687,
+      "longitude": -89.42004
+    },
+    {
+      "id": 506812,
+      "username": "thefontwandsworth",
+      "name": "The Font Wandsworth",
+      "latitude": 51.44716,
+      "longitude": -0.19118
+    },
+    {
+      "id": 506828,
+      "username": "edgeworks_brb",
+      "name": "Edgeworks Bel-Red Boulders",
+      "latitude": 47.6261,
+      "longitude": -122.15469
+    },
+    {
+      "id": 506841,
+      "username": "momentumclimbingkaty",
+      "name": "Momentum Climbing Katy",
+      "latitude": 29.77515,
+      "longitude": -95.81617
+    },
+    {
+      "id": 506952,
+      "username": "BeyondtheWall",
+      "name": "Beyond the Wall Climbing",
+      "latitude": 45.51164,
+      "longitude": -122.97157
+    },
+    {
+      "id": 508274,
+      "username": "hiclimbhawaii",
+      "name": "HiClimb",
+      "latitude": 21.29881,
+      "longitude": -157.85635
+    },
+    {
+      "id": 508302,
+      "username": "grandvalleyclimbinggym",
+      "name": "Grand Valley Climbing",
+      "latitude": 39.09367,
+      "longitude": -108.59074
+    },
+    {
+      "id": 508390,
+      "username": "boulderzaal_the_island",
+      "name": "Boulderzaal The Island",
+      "latitude": 51.23889,
+      "longitude": 4.42198
+    },
+    {
+      "id": 509368,
+      "username": "boulder_union",
+      "name": "174 Union St",
+      "latitude": 41.63402,
+      "longitude": -70.92547
+    },
+    {
+      "id": 509376,
+      "username": "blocsession_strasbourg",
+      "name": "Bloc Session Strasbourg Illkirch",
+      "latitude": 48.53288,
+      "longitude": 7.73108
+    },
+    {
+      "id": 510739,
+      "username": "gud_climbing",
+      "name": "GUD Climbing Gym",
+      "latitude": 38.03211,
+      "longitude": -1.14918
+    },
+    {
+      "id": 511665,
+      "username": "rawindoor",
+      "name": "Rocódromo Rawindoor",
+      "latitude": 42.45613,
+      "longitude": -2.4121
+    },
+    {
+      "id": 511671,
+      "username": "areklatterhall",
+      "name": "Åre Klätterhall",
+      "latitude": 63.39079,
+      "longitude": 12.9147
+    },
+    {
+      "id": 513237,
+      "username": "vitallowereastside",
+      "name": "Vital Lower East Side",
+      "latitude": 40.71722,
+      "longitude": -73.98637
+    },
+    {
+      "id": 515015,
+      "username": "hangarostrava",
+      "name": "HANGAR Ostrava",
+      "latitude": 49.82052,
+      "longitude": 18.17953
+    },
+    {
+      "id": 515024,
+      "username": "kletterhalle_bad_aibling",
+      "name": "Basislager Bad Aibling",
+      "latitude": 47.87958,
+      "longitude": 11.99087
+    },
+    {
+      "id": 516764,
+      "username": "boulder.lab_ferntree",
+      "name": "Boulder Lab Ferntree Gully",
+      "latitude": -37.88366,
+      "longitude": 145.26925
+    },
+    {
+      "id": 516773,
+      "username": "boulder.lab_clayton",
+      "name": "Boulder Lab Clayton",
+      "latitude": -37.92972,
+      "longitude": 145.12806
+    },
+    {
+      "id": 516775,
+      "username": "boulder.lab_brunswick",
+      "name": "Boulder Lab Brunswick",
+      "latitude": -37.77623,
+      "longitude": 144.96197
+    },
+    {
+      "id": 517021,
+      "username": "AltissimoTPortet",
+      "name": "Altissimo Toulouse Portet",
+      "latitude": 43.55127,
+      "longitude": 1.40788
+    },
+    {
+      "id": 518893,
+      "username": "climbing_zoo",
+      "name": "Climbing Zoo",
+      "latitude": 46.27371,
+      "longitude": 12.30335
+    },
+    {
+      "id": 518923,
+      "username": "ragniclimb",
+      "name": "Ragni Climb",
+      "latitude": -33.40725,
+      "longitude": -70.57023
+    },
+    {
+      "id": 520522,
+      "username": "momentumclimbing_sofia",
+      "name": "Momentum Climbing Sofia",
+      "latitude": 42.66773,
+      "longitude": 23.36823
+    },
+    {
+      "id": 520532,
+      "username": "vw_north",
+      "name": "Vertical World North",
+      "latitude": 47.88684,
+      "longitude": -122.27934
+    },
+    {
+      "id": 521072,
+      "username": "betaboulders_osterbro",
+      "name": "Beta Boulders Østerbro",
+      "latitude": 55.70698,
+      "longitude": 12.56107
+    },
+    {
+      "id": 522680,
+      "username": "DolinasClimbingCenter",
+      "name": "Dolinas Climbing Center",
+      "latitude": 39.5993,
+      "longitude": -8.82308
+    },
+    {
+      "id": 522758,
+      "username": "dbouldering_kasukabe",
+      "name": "Dボルダリング春日部 D Bouldering Kasukabe",
+      "latitude": 35.98874,
+      "longitude": 139.73564
+    },
+    {
+      "id": 522769,
+      "username": "dbouldering_soga",
+      "name": "ディーボルダリングプラス 蘇我 D Bouldering Plus Soga",
+      "latitude": 35.58083,
+      "longitude": 140.12505
+    },
+    {
+      "id": 522792,
+      "username": "ildadoboulder",
+      "name": "IL DADO",
+      "latitude": 46.01495,
+      "longitude": 11.87572
+    },
+    {
+      "id": 522817,
+      "username": "mnclimbingcoop",
+      "name": "Minnesota Climbing Cooperative",
+      "latitude": 45.00576,
+      "longitude": -93.24989
+    },
+    {
+      "id": 523338,
+      "username": "ReadingRocksPA",
+      "name": "Reading Rocks Climbing & Fitness",
+      "latitude": 40.37632,
+      "longitude": -75.93075
+    },
+    {
+      "id": 523345,
+      "username": "gripleangen",
+      "name": "Grip Klatring Leangen",
+      "latitude": 63.43269,
+      "longitude": 10.4664
+    },
+    {
+      "id": 525772,
+      "username": "block.barock",
+      "name": "Block Barock Fulda",
+      "latitude": 50.53805,
+      "longitude": 9.69699
+    },
+    {
+      "id": 525780,
+      "username": "centralrockframingham",
+      "name": "Central Rock Gym Framingham",
+      "latitude": 42.31872,
+      "longitude": -71.39761
+    },
+    {
+      "id": 525783,
+      "username": "flashclimbingcentre",
+      "name": "Flash Climbing Centre",
+      "latitude": 52.428,
+      "longitude": -1.77499
+    },
+    {
+      "id": 527190,
+      "username": "kletterhallesalzburg",
+      "name": "Kletter & Boulderhalle Salzburg",
+      "latitude": 47.82591,
+      "longitude": 13.03308
+    },
+    {
+      "id": 529557,
+      "username": "kiipeilyareena_ristikko",
+      "name": "KiipeilyAreena Ristikko",
+      "latitude": 60.23941,
+      "longitude": 24.84934
+    },
+    {
+      "id": 529574,
+      "username": "boulderningoettingen",
+      "name": "BiG Boulderhalle",
+      "latitude": 51.54719,
+      "longitude": 9.90762
+    },
+    {
+      "id": 531344,
+      "username": "camaleonboulder",
+      "name": "Camaleón Boulder",
+      "latitude": 39.46582,
+      "longitude": -0.35736
+    },
+    {
+      "id": 531998,
+      "username": "cutlooseindoorclimbing",
+      "name": "Cutloose Indoor Climbing",
+      "latitude": -27.85168,
+      "longitude": 153.30187
+    },
+    {
+      "id": 532052,
+      "username": "zimaclimbing",
+      "name": "Zima Escalada",
+      "latitude": 38.86872,
+      "longitude": -6.95472
+    },
+    {
+      "id": 533388,
+      "username": "obloc.ch",
+      "name": "O-Bloc",
+      "latitude": 46.96234,
+      "longitude": 7.48369
+    },
+    {
+      "id": 536661,
+      "username": "climbing_lead_gym_chungdae",
+      "name": "클라이밍짐리드 충대점 Climbing Gym Lead Chungdae Branch",
+      "latitude": 36.3603,
+      "longitude": 127.34669
+    },
+    {
+      "id": 536685,
+      "username": "carabinersnb",
+      "name": "Carabiner's Climbing and Fitness",
+      "latitude": 41.64237,
+      "longitude": -70.94795
+    },
+    {
+      "id": 536707,
+      "username": "monoboulder.ede",
+      "name": "Mono Boulder",
+      "latitude": 52.02101,
+      "longitude": 5.66728
+    },
+    {
+      "id": 537886,
+      "username": "monobloc.sants",
+      "name": "Monobloc Sants",
+      "latitude": 41.3666,
+      "longitude": 2.13958
+    },
+    {
+      "id": 538999,
+      "username": "therockdump",
+      "name": "The Rock Dump",
+      "latitude": 58.28816,
+      "longitude": -134.38834
+    },
+    {
+      "id": 540662,
+      "username": "nasu_cafe",
+      "name": "Nàsu Café",
+      "latitude": 29.804,
+      "longitude": 121.52409
+    },
+    {
+      "id": 543342,
+      "username": "center_of_gravity_boulderhalle",
+      "name": "Center of Gravity Boulderhalle",
+      "latitude": 51.93543,
+      "longitude": 8.56031
+    },
+    {
+      "id": 543354,
+      "username": "suchq_climbing",
+      "name": "非常趣攀岩 SuchQ Climbing",
+      "latitude": 22.96022,
+      "longitude": 113.89021
+    },
+    {
+      "id": 543802,
+      "username": "matxacuca",
+      "name": "Matxacuca",
+      "latitude": 41.8162,
+      "longitude": 2.99143
+    },
+    {
+      "id": 543807,
+      "username": "portsideboulders_osbornepark",
+      "name": "Portside Osborne Park",
+      "latitude": -31.91385,
+      "longitude": 115.81699
+    },
+    {
+      "id": 543827,
+      "username": "ctrescuenca",
+      "name": "C-TR3S Climbing + Fitness",
+      "latitude": -2.90054,
+      "longitude": -79.01702
+    },
+    {
+      "id": 543850,
+      "username": "boulderbar.stpoelten",
+      "name": "Boulderbar St. Pölten",
+      "latitude": 48.21651,
+      "longitude": 15.63578
+    },
+    {
+      "id": 543874,
+      "username": "class5gym",
+      "name": "Class 5",
+      "latitude": 33.84909,
+      "longitude": -118.35149
+    },
+    {
+      "id": 543896,
+      "username": "cantibali",
+      "name": "Can Tiba-li",
+      "latitude": 41.99789,
+      "longitude": 2.28049
+    },
+    {
+      "id": 543901,
+      "username": "bosscheboulders",
+      "name": "Bossche Boulders",
+      "latitude": 51.69594,
+      "longitude": 5.28177
+    },
+    {
+      "id": 546149,
+      "username": "hoytundertaketmoss",
+      "name": "Høyt Under Taket Moss",
+      "latitude": 59.41667,
+      "longitude": 10.67336
+    },
+    {
+      "id": 546842,
+      "username": "boulderweltregensburg",
+      "name": "Boulderwelt Regensburg",
+      "latitude": 49.0323,
+      "longitude": 12.12876
+    },
+    {
+      "id": 548112,
+      "username": "awesomewallscork",
+      "name": "Awesome Walls Cork",
+      "latitude": 51.88996,
+      "longitude": -8.53863
+    },
+    {
+      "id": 548126,
+      "username": "b12_bouldern",
+      "name": "B12 Tübingen",
+      "latitude": 48.52237,
+      "longitude": 9.08345
+    },
+    {
+      "id": 548136,
+      "username": "vestveggen_bergen",
+      "name": "Vestveggen Bergen Klatreklubb",
+      "latitude": 60.46987,
+      "longitude": 5.31369
+    },
+    {
+      "id": 549163,
+      "username": "gmrcc_rutland",
+      "name": "Green Mountain Rock Climbing Center",
+      "latitude": 43.61992,
+      "longitude": -72.95569
+    },
+    {
+      "id": 550670,
+      "username": "bloccafe_climbing",
+      "name": "BlocCafé Climbing",
+      "latitude": 42.49797,
+      "longitude": 1.51116
+    },
+    {
+      "id": 550677,
+      "username": "mountainnetworkamsterdam",
+      "name": "Mountain Network Amsterdam",
+      "latitude": 52.37517,
+      "longitude": 4.842
+    },
+    {
+      "id": 551350,
+      "username": "steamfactorykosice",
+      "name": "Steam Factory",
+      "latitude": 48.69571,
+      "longitude": 21.23896
+    },
+    {
+      "id": 552559,
+      "username": "greifsbloc",
+      "name": "Greifsbloc e.V. Boulderverein",
+      "latitude": 54.09661,
+      "longitude": 13.36222
+    },
+    {
+      "id": 554621,
+      "username": "delire_ste_foy",
+      "name": "DÉLIRE Escalade Sainte-Foy",
+      "latitude": 46.80062,
+      "longitude": -71.3259
+    },
+    {
+      "id": 554627,
+      "username": "cal_colo",
+      "name": "カルコロ CAL-COLO",
+      "latitude": 34.78667,
+      "longitude": 135.81206
+    },
+    {
+      "id": 554640,
+      "username": "verticalexcape",
+      "name": "Vertical eXcape Evansville",
+      "latitude": 37.98894,
+      "longitude": -87.48165
+    },
+    {
+      "id": 555703,
+      "username": "grip_kletterzentrum",
+      "name": "GriP Kletter & Vereinszentrum",
+      "latitude": 48.70867,
+      "longitude": 9.67442
+    },
+    {
+      "id": 557045,
+      "username": "pacificedgeclimbinggym",
+      "name": "Pacific Edge",
+      "latitude": 36.96815,
+      "longitude": -122.00665
+    },
+    {
+      "id": 559209,
+      "username": "gripboulderhal",
+      "name": "GRIP Boulderhal",
+      "latitude": 51.81311,
+      "longitude": 5.83827
+    },
+    {
+      "id": 559220,
+      "username": "lazipetteescalade",
+      "name": "La Zipette - Escalade & Snack",
+      "latitude": 45.61898,
+      "longitude": 5.88803
+    },
+    {
+      "id": 559223,
+      "username": "urbanapes.berlin.fhain",
+      "name": "Urban Apes Berlin Fhain",
+      "latitude": 52.52233,
+      "longitude": 13.43686
+    },
+    {
+      "id": 559840,
+      "username": "climbing_upthewall",
+      "name": "Climbing Up the Wall Ilsan 업더월클라이밍 일산",
+      "latitude": 37.68945,
+      "longitude": 126.75902
+    },
+    {
+      "id": 563266,
+      "username": "fanaticlleida",
+      "name": "Fanatic Lleida",
+      "latitude": 41.60589,
+      "longitude": 0.6407
+    },
+    {
+      "id": 563289,
+      "username": "boulder__garage",
+      "name": "Boulder Garage",
+      "latitude": 44.98179,
+      "longitude": 7.37104
+    },
+    {
+      "id": 566032,
+      "username": "infinityboulder",
+      "name": "Infinity Boulder",
+      "latitude": 45.99849,
+      "longitude": 11.12495
+    },
+    {
+      "id": 568516,
+      "username": "flashpointbristol",
+      "name": "Flashpoint Bristol",
+      "latitude": 51.44587,
+      "longitude": -2.58109
+    },
+    {
+      "id": 568525,
+      "username": "k2zilina",
+      "name": "K2 Žilina",
+      "latitude": 49.22087,
+      "longitude": 18.72795
+    },
+    {
+      "id": 568540,
+      "username": "boardroombyclimbersrock",
+      "name": "The Boardroom x Climber's Rock",
+      "latitude": 43.3838,
+      "longitude": -79.76254
+    },
+    {
+      "id": 568554,
+      "username": "the_bloc_bouldering",
+      "name": "The Bloc",
+      "latitude": 49.1823,
+      "longitude": -123.98438
+    },
+    {
+      "id": 569674,
+      "username": "howl_climbing",
+      "name": "HOWL",
+      "latitude": 31.22215,
+      "longitude": 121.38769
+    },
+    {
+      "id": 571423,
+      "username": "gravityvault_westbury",
+      "name": "The Gravity Vault Westbury",
+      "latitude": 40.74658,
+      "longitude": -73.59561
+    },
+    {
+      "id": 571448,
+      "username": "kind_climbing",
+      "name": "Kin:d",
+      "latitude": 37.26365,
+      "longitude": 126.99862
+    },
+    {
+      "id": 573677,
+      "username": "ClimbinghutEP",
+      "name": "Climbing Hut Ellesmere Port",
+      "latitude": 53.2939,
+      "longitude": -2.91813
+    },
+    {
+      "id": 574770,
+      "username": "alaskarockgym",
+      "name": "Alaska Rock Gym",
+      "latitude": 61.19139,
+      "longitude": -149.87105
+    },
+    {
+      "id": 575911,
+      "username": "mandala_postplatz",
+      "name": "Mandala Postplatz",
+      "latitude": 51.05051,
+      "longitude": 13.73109
+    },
+    {
+      "id": 575995,
+      "username": "cruxcc_pflugerville",
+      "name": "Crux Climbing Pflugerville",
+      "latitude": 30.47847,
+      "longitude": -97.61623
+    },
+    {
+      "id": 577694,
+      "username": "magnusclimbinggym",
+      "name": "Magnus' Climbing Gym",
+      "latitude": 13.72308,
+      "longitude": 100.53072
+    },
+    {
+      "id": 577702,
+      "username": "captain.hook.boulder",
+      "name": "Captain Hook Boulder",
+      "latitude": 48.01948,
+      "longitude": 12.53534
+    },
+    {
+      "id": 578544,
+      "username": "rosebloc_longueuil",
+      "name": "Rose Bloc Longueuil",
+      "latitude": 45.557,
+      "longitude": -73.49448
+    },
+    {
+      "id": 578820,
+      "username": "asoboru_climbing_gym",
+      "name": "クライミングジム アソボル Asoboru Climbing Gym",
+      "latitude": 35.01308,
+      "longitude": 138.44605
+    },
+    {
+      "id": 578837,
+      "username": "blocschmiede",
+      "name": "BlocSchmiede Boulderhalle",
+      "latitude": 52.16263,
+      "longitude": 11.62825
+    },
+    {
+      "id": 578846,
+      "username": "boulderbar_hauptbahnhof_plus",
+      "name": "Boulderbar Hauptbahnhof Plus",
+      "latitude": 48.18139,
+      "longitude": 16.38472
+    },
+    {
+      "id": 579626,
+      "username": "innerpeaks_noda",
+      "name": "Inner Peaks NoDa",
+      "latitude": 35.24204,
+      "longitude": -80.82522
+    },
+    {
+      "id": 579645,
+      "username": "eskalarcr",
+      "name": "Eskalar",
+      "latitude": 9.93965,
+      "longitude": -84.15605
+    },
+    {
+      "id": 580230,
+      "username": "bouldersamager",
+      "name": "Boulders Amager",
+      "latitude": 55.61953,
+      "longitude": 12.63058
+    },
+    {
+      "id": 580240,
+      "username": "take_wall",
+      "name": "Take Wall",
+      "latitude": 39.11843,
+      "longitude": 141.13801
+    },
+    {
+      "id": 580249,
+      "username": "hvam_il_klatring",
+      "name": "Hvam IL Klatring",
+      "latitude": 60.12731,
+      "longitude": 11.33811
+    },
+    {
+      "id": 580256,
+      "username": "wupperwaende",
+      "name": "DAV Kletterzentrum Wupperwände",
+      "latitude": 51.26866,
+      "longitude": 7.23554
+    },
+    {
+      "id": 582624,
+      "username": "umn_climbing",
+      "name": "University of Minnesota Climbing Program",
+      "latitude": 44.976,
+      "longitude": -93.22948
+    },
+    {
+      "id": 584477,
+      "username": "thenotchclimbing",
+      "name": "The Notch Climbing Gym",
+      "latitude": 43.65539,
+      "longitude": -72.241
+    },
+    {
+      "id": 584488,
+      "username": "dav_kletterhalle_schwabach",
+      "name": "DAV Schwabach",
+      "latitude": 49.33552,
+      "longitude": 11.01591
+    },
+    {
+      "id": 589489,
+      "username": "thecircuitgym_eugene",
+      "name": "The Circuit Bouldering Gym Eugene",
+      "latitude": 44.04822,
+      "longitude": -123.09014
+    },
+    {
+      "id": 591597,
+      "username": "complex_maurice_thorez",
+      "name": "Complex Maurice Thorez",
+      "latitude": 50.40532,
+      "longitude": 2.90609
+    },
+    {
+      "id": 591606,
+      "username": "koalaclimbing_kintex",
+      "name": "코알라클라이밍 Koala Climbing Kintex",
+      "latitude": 37.67682,
+      "longitude": 126.74719
+    },
+    {
+      "id": 591615,
+      "username": "blockouttours",
+      "name": "Block'Out Tours",
+      "latitude": 47.43259,
+      "longitude": 0.69433
+    },
+    {
+      "id": 591618,
+      "username": "blockoutevry",
+      "name": "Block'Out Evry-Lisses",
+      "latitude": 48.61244,
+      "longitude": 2.42529
+    },
+    {
+      "id": 591641,
+      "username": "maniak_crl",
+      "name": "Maniak Charleroi",
+      "latitude": 50.41619,
+      "longitude": 4.43898
+    },
+    {
+      "id": 592905,
+      "username": "gh.climbing",
+      "name": "Greater Heights Climbing",
+      "latitude": 43.03304,
+      "longitude": -89.38128
+    },
+    {
+      "id": 592984,
+      "username": "theroofbrest",
+      "name": "The Roof Brest",
+      "latitude": 48.39182,
+      "longitude": -4.4872
+    },
+    {
+      "id": 593428,
+      "username": "270climbing",
+      "name": "270 Climbing Park",
+      "latitude": 51.84518,
+      "longitude": -2.12722
+    },
+    {
+      "id": 596480,
+      "username": "beyondbouldering_thebarton",
+      "name": "Beyond Bouldering Thebarton",
+      "latitude": -34.91386,
+      "longitude": 138.57631
+    },
+    {
+      "id": 596488,
+      "username": "boulderhalwalhalla",
+      "name": "Boulderhal Walhalla",
+      "latitude": 52.06192,
+      "longitude": 4.31394
+    },
+    {
+      "id": 596503,
+      "username": "momentumclimbingfortunion",
+      "name": "Momentum Climbing Fort Union",
+      "latitude": 40.62055,
+      "longitude": -111.86077
+    },
+    {
+      "id": 597853,
+      "username": "blockoutvitrolles",
+      "name": "Block'Out Vitrolles",
+      "latitude": 43.42825,
+      "longitude": 5.26475
+    },
+    {
+      "id": 598611,
+      "username": "boulder_line_euromedecine",
+      "name": "Boulder Line 2 Euromédecine",
+      "latitude": 43.6381,
+      "longitude": 3.82606
+    },
+    {
+      "id": 598729,
+      "username": "hubclimbing_markham",
+      "name": "Hub Climbing Markham",
+      "latitude": 43.85696,
+      "longitude": -79.35749
+    },
+    {
+      "id": 600885,
+      "username": "the_campus_boulder",
+      "name": "The Campus Climbing and Training",
+      "latitude": 40.05921,
+      "longitude": -105.2061
+    },
+    {
+      "id": 600913,
+      "username": "centralrockrochester",
+      "name": "Central Rock Gym Rochester",
+      "latitude": 43.14998,
+      "longitude": -77.59443
+    },
+    {
+      "id": 601002,
+      "username": "gimnasiok2",
+      "name": "Gimnasio K2",
+      "latitude": 42.83755,
+      "longitude": -2.66905
+    },
+    {
+      "id": 603657,
+      "username": "eifelblock_metternich",
+      "name": "Eifelblock Metternich",
+      "latitude": 50.3698,
+      "longitude": 7.55315
+    },
+    {
+      "id": 604578,
+      "username": "urbanapes.hamburg.ost",
+      "name": "Urban Apes Hamburg Ost",
+      "latitude": 53.57759,
+      "longitude": 10.08011
+    },
+    {
+      "id": 604709,
+      "username": "boulderwelthamburg",
+      "name": "Boulderwelt Hamburg",
+      "latitude": 53.55395,
+      "longitude": 10.02095
+    },
+    {
+      "id": 605293,
+      "username": "boulderzentrum.ostalb",
+      "name": "DAV Boulderzentrum Ostalb",
+      "latitude": 48.82413,
+      "longitude": 10.02661
+    },
+    {
+      "id": 605318,
+      "username": "centralrockrandolph",
+      "name": "Central Rock Gym Randolph",
+      "latitude": 42.19973,
+      "longitude": -71.06673
+    },
+    {
+      "id": 605339,
+      "username": "sputnikclimbing_chamberi",
+      "name": "Sputnik Climbing Chamberí",
+      "latitude": 40.43972,
+      "longitude": -3.70834
+    },
+    {
+      "id": 605972,
+      "username": "fortrockclimbingcenter",
+      "name": "Fort Rock Climbing Center",
+      "latitude": 26.49338,
+      "longitude": -81.83502
+    },
+    {
+      "id": 605993,
+      "username": "sissportssenter",
+      "name": "SiS Sportssenter",
+      "latitude": 58.93716,
+      "longitude": 5.69178
+    },
+    {
+      "id": 610205,
+      "username": "centralrockharvardsquare",
+      "name": "Central Rock Gym Harvard Square",
+      "latitude": 42.37318,
+      "longitude": -71.12024
+    },
+    {
+      "id": 610956,
+      "username": "academy_of_bouldering",
+      "name": "攀研学院 Academy of Bouldering",
+      "latitude": 31.25131,
+      "longitude": 121.50104
+    },
+    {
+      "id": 610965,
+      "username": "gravityvaultprinceton",
+      "name": "Gravity Vault Princeton",
+      "latitude": 40.33661,
+      "longitude": -74.59476
+    },
+    {
+      "id": 613415,
+      "username": "artblocsalledescalade",
+      "name": "ArtBloc Salle d'Escalade",
+      "latitude": 43.71032,
+      "longitude": 7.19327
+    },
+    {
+      "id": 613427,
+      "username": "krag_sentral",
+      "name": "Krag Sentral",
+      "latitude": -33.93792,
+      "longitude": 18.46448
+    },
+    {
+      "id": 613431,
+      "username": "rifleclimbingcenter",
+      "name": "Rifle Climbing Center",
+      "latitude": 39.53143,
+      "longitude": -107.78421
+    },
+    {
+      "id": 617811,
+      "username": "antrebloc",
+      "name": "Antrebloc",
+      "latitude": 48.80399,
+      "longitude": 2.36549
+    },
+    {
+      "id": 617829,
+      "username": "escaladrome_hannover",
+      "name": "Escaladrome Hannover",
+      "latitude": 52.32893,
+      "longitude": 9.78353
+    },
+    {
+      "id": 618982,
+      "username": "ichk",
+      "name": "International College Hong Kong",
+      "latitude": 22.53599,
+      "longitude": 114.21099
+    },
+    {
+      "id": 618994,
+      "username": "canrocktarragona",
+      "name": "Can Rock",
+      "latitude": 41.11489,
+      "longitude": 1.22935
+    },
+    {
+      "id": 619031,
+      "username": "plezalnicenter_ljubljana",
+      "name": "Plezalni Center Ljubljana",
+      "latitude": 46.0497,
+      "longitude": 14.54866
+    },
+    {
+      "id": 620793,
+      "username": "bigisland_bouldering",
+      "name": "Big Island Bouldering",
+      "latitude": 44.9808,
+      "longitude": -93.45714
+    },
+    {
+      "id": 622895,
+      "username": "valdresstorhall",
+      "name": "Valdres Storhall",
+      "latitude": 60.96871,
+      "longitude": 9.29742
+    },
+    {
+      "id": 622901,
+      "username": "steinblock_rankweil",
+      "name": "Steinblock Boulderhallen Rankweil",
+      "latitude": 47.27658,
+      "longitude": 9.65725
+    },
+    {
+      "id": 622908,
+      "username": "hubclimbing_mississauga",
+      "name": "Hub Climbing Mississauga",
+      "latitude": 43.57386,
+      "longitude": -79.6534
+    },
+    {
+      "id": 622917,
+      "username": "armadillostoneoak",
+      "name": "Armadillo Boulders Stone Oak",
+      "latitude": 29.65699,
+      "longitude": -98.4477
+    },
+    {
+      "id": 622931,
+      "username": "gravita_zero_ts",
+      "name": "Gravità Zero",
+      "latitude": 45.65702,
+      "longitude": 13.81049
+    },
+    {
+      "id": 622939,
+      "username": "harstad_klatreklubb",
+      "name": "Harstad Klatreklub",
+      "latitude": 68.80432,
+      "longitude": 16.53449
+    },
+    {
+      "id": 622946,
+      "username": "hogtownboulders",
+      "name": "Hogtown Boulders",
+      "latitude": 43.76222,
+      "longitude": -79.36013
+    },
+    {
+      "id": 623342,
+      "username": "movement_crystal_city",
+      "name": "Movement Crystal City",
+      "latitude": 38.86171,
+      "longitude": -77.05061
+    },
+    {
+      "id": 623921,
+      "username": "rockstar_climbing",
+      "name": "Rockstar Climbing",
+      "latitude": 35.1398,
+      "longitude": 33.36784
+    },
+    {
+      "id": 624679,
+      "username": "ingravita",
+      "name": "Ingravita",
+      "latitude": 41.58233,
+      "longitude": 1.61461
+    },
+    {
+      "id": 624690,
+      "username": "tomoboulderingclub",
+      "name": "Tomo Bouldering Club",
+      "latitude": 45.53251,
+      "longitude": -122.68518
+    },
+    {
+      "id": 626183,
+      "username": "BoulderEck_Erftstadt",
+      "name": "BoulderEck Erftstadt",
+      "latitude": 50.79399,
+      "longitude": 6.78411
+    },
+    {
+      "id": 628944,
+      "username": "stuntwerk_koeln_zollstock",
+      "name": "Stuntwerk Köln Zollstock",
+      "latitude": 50.91866,
+      "longitude": 6.93904
+    },
+    {
+      "id": 630380,
+      "username": "ytresnillfjord_idrettslag",
+      "name": "Ytre Snillfjord Idrettslag",
+      "latitude": 63.35346,
+      "longitude": 9.2802
+    },
+    {
+      "id": 632528,
+      "username": "eliteperformanceclimbing",
+      "name": "Elite Performance Climbing",
+      "latitude": 39.32092,
+      "longitude": -84.36607
+    },
+    {
+      "id": 633098,
+      "username": "s.k.lucky",
+      "name": "s.k.lucky",
+      "latitude": 41.71807,
+      "longitude": 44.74083
+    },
+    {
+      "id": 633108,
+      "username": "senderone.westwood",
+      "name": "Sender One Westwood",
+      "latitude": 34.05989,
+      "longitude": -118.4443
+    },
+    {
+      "id": 635115,
+      "username": "progressionbouldering",
+      "name": "Progression Bouldering",
+      "latitude": 49.26216,
+      "longitude": -123.09958
+    },
+    {
+      "id": 635127,
+      "username": "climbupnimes",
+      "name": "Climb Up Nîmes",
+      "latitude": 43.83249,
+      "longitude": 4.36785
+    },
+    {
+      "id": 637134,
+      "username": "walden.gent",
+      "name": "Walden Bouldering",
+      "latitude": 51.07393,
+      "longitude": 3.72326
+    },
+    {
+      "id": 638904,
+      "username": "dbouldering_kumamoto",
+      "name": "ディーボルダリングプラス熊本小山 D Bouldering Kumamoto-oyama",
+      "latitude": 32.82934,
+      "longitude": 130.79125
+    },
+    {
+      "id": 639749,
+      "username": "mandurah_indoor_rock_climbing",
+      "name": "Mandurah Indoor Rock Climbing Center",
+      "latitude": -32.51346,
+      "longitude": 115.75291
+    },
+    {
+      "id": 643167,
+      "username": "boulder_exe",
+      "name": "Boulder Exe",
+      "latitude": 50.72,
+      "longitude": -3.53781
+    },
+    {
+      "id": 646317,
+      "username": "68nord.buldrehall",
+      "name": "68° Nord Buldrehall",
+      "latitude": 68.44631,
+      "longitude": 17.4505
+    },
+    {
+      "id": 648943,
+      "username": "coqueluxembourg",
+      "name": "Coque Luxembourg",
+      "latitude": 49.62358,
+      "longitude": 6.15194
+    },
+    {
+      "id": 651761,
+      "username": "urban.boulders",
+      "name": "Urban Boulders",
+      "latitude": 58.42014,
+      "longitude": 15.61749
+    },
+    {
+      "id": 651768,
+      "username": "klimzaalwallstreet",
+      "name": "Klimzaal Wallstreet",
+      "latitude": 51.23145,
+      "longitude": 4.44356
+    },
+    {
+      "id": 651778,
+      "username": "urbanplaygroundclimbing",
+      "name": "Urban Playground Climbing",
+      "latitude": 13.73627,
+      "longitude": 100.57645
+    },
+    {
+      "id": 652392,
+      "username": "campus_boulderhalle",
+      "name": "Campus Boulderhalle",
+      "latitude": 50.78416,
+      "longitude": 6.1302
+    },
+    {
+      "id": 652415,
+      "username": "steinkjerklatreklubb",
+      "name": "Steinkjerhallen",
+      "latitude": 64.02071,
+      "longitude": 11.5117
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "gyms": [
+    {
+      "id": 50,
+      "username": "pacificpipe",
+      "name": "Pacific Pipe Climbing",
+      "latitude": 37.81644,
+      "longitude": -122.28852
+    },
+    {
+      "id": 51,
+      "username": "thepostclimbing",
+      "name": "The Post Climbing",
+      "latitude": 34.16505,
+      "longitude": -118.15031
+    },
+    {
+      "id": 52,
+      "username": "teamtouchstone",
+      "name": "Team Touchstone Training Center",
+      "latitude": 37.85118,
+      "longitude": -122.29303
+    },
+    {
+      "id": 2792,
+      "username": "class5gym",
+      "name": "Class 5 Climbing",
+      "latitude": 33.84918,
+      "longitude": -118.35146
+    }
+  ]
+}

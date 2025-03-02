@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 50,
+      "properties": {
+        "id": 50,
+        "username": "pacificpipe",
+        "name": "Pacific Pipe Climbing",
+        "latitude": 37.81644,
+        "longitude": -122.28852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28852,
+          37.81644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "id": 51,
+        "username": "thepostclimbing",
+        "name": "The Post Climbing",
+        "latitude": 34.16505,
+        "longitude": -118.15031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.15031,
+          34.16505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "id": 52,
+        "username": "teamtouchstone",
+        "name": "Team Touchstone Training Center",
+        "latitude": 37.85118,
+        "longitude": -122.29303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29303,
+          37.85118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2792,
+      "properties": {
+        "id": 2792,
+        "username": "class5gym",
+        "name": "Class 5 Climbing",
+        "latitude": 33.84918,
+        "longitude": -118.35146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35146,
+          33.84918
+        ]
+      }
+    }
+  ]
+}

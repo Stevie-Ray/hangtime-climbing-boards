@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "id": 17,
+        "username": "SoiLL",
+        "name": "So iLL",
+        "latitude": 38.61665,
+        "longitude": -90.27267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27267,
+          38.61665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "id": 29,
+        "username": "urbanaboulders",
+        "name": "Urbana Boulders",
+        "latitude": 40.12617,
+        "longitude": -88.19884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19884,
+          40.12617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "id": 31,
+        "username": "beest.breda",
+        "name": "Beest Boulders Breda",
+        "latitude": 51.5955,
+        "longitude": 4.75718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75718,
+          51.5955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 303,
+      "properties": {
+        "id": 303,
+        "username": "RifleClimbingCenter",
+        "name": "Rifle Climbing Center",
+        "latitude": 39.53143,
+        "longitude": -107.78421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.78421,
+          39.53143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 352,
+      "properties": {
+        "id": 352,
+        "username": "ville_krefter_tafjord",
+        "name": "Ville Krefter Tafjord",
+        "latitude": 62.22674,
+        "longitude": 7.4222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4222,
+          62.22674
+        ]
+      }
+    }
+  ]
+}

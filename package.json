@@ -1,0 +1,16 @@
+{
+  "name": "@hangtime/aurora-climbing-boards",
+  "version": "1.0.0",
+  "main": "convert-to-geojson.js",
+  "type": "module",
+  "scripts": {
+    "convert": "node convert-geojson.js",
+    "combine": "node combine-geojson.js"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "dependencies": {
+    "@turf/turf": "^7.2.0"
+  }
+}

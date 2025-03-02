@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 496,
+      "properties": {
+        "id": 496,
+        "username": "Monkeyhouse",
+        "name": "Monkeyhouse Carbondale",
+        "latitude": 39.40361,
+        "longitude": -107.21916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.21916,
+          39.40361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1134,
+      "properties": {
+        "id": 1134,
+        "username": "RSCMalden",
+        "name": "Rock Spot Climbing Malden",
+        "latitude": 42.42676,
+        "longitude": -71.07332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07332,
+          42.42676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1885,
+      "properties": {
+        "id": 1885,
+        "username": "centralrockwesthartford",
+        "name": "Central Rock Gym West Hatford",
+        "latitude": 41.72533,
+        "longitude": -72.71976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.71976,
+          41.72533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1886,
+      "properties": {
+        "id": 1886,
+        "username": "boardworks_climbing",
+        "name": "Boardworks Climbing",
+        "latitude": 44.03886,
+        "longitude": -121.30328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30328,
+          44.03886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1887,
+      "properties": {
+        "id": 1887,
+        "username": "thecliffsvalhalla",
+        "name": "The Cliffs At Valhalla",
+        "latitude": 41.08816,
+        "longitude": -73.78736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78736,
+          41.08816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1888,
+      "properties": {
+        "id": 1888,
+        "username": "faclimbingpittsburgh",
+        "name": "First Ascent Climbing Station Square",
+        "latitude": 40.43301,
+        "longitude": -80.00449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00449,
+          40.43301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2389,
+      "properties": {
+        "id": 2389,
+        "username": "inside_moves",
+        "name": "Inside Moves",
+        "latitude": 42.82739,
+        "longitude": -85.67922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67922,
+          42.82739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2505,
+      "properties": {
+        "id": 2505,
+        "username": "revival_climbing",
+        "name": "Revival Climbing Coalition",
+        "latitude": 45.1093,
+        "longitude": -93.40267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.40267,
+          45.1093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2734,
+      "properties": {
+        "id": 2734,
+        "username": "centralrockorlando",
+        "name": "Central Rock Gym Orlando",
+        "latitude": 28.44892,
+        "longitude": -81.40446
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40446,
+          28.44892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3151,
+      "properties": {
+        "id": 3151,
+        "username": "ascentnewhaven",
+        "name": "Ascent Climbing Gym",
+        "latitude": 41.31563,
+        "longitude": -72.90534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90534,
+          41.31563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3291,
+      "properties": {
+        "id": 3291,
+        "username": "9degreesenoggera",
+        "name": "9 Degrees Enoggera",
+        "latitude": -27.41973,
+        "longitude": 152.99462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99462,
+          -27.41973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3767,
+      "properties": {
+        "id": 3767,
+        "username": "northcountryclimbing",
+        "name": "North Country Climbing Center",
+        "latitude": 44.2545,
+        "longitude": -71.84068
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.84068,
+          44.2545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3912,
+      "properties": {
+        "id": 3912,
+        "username": "rscnewhaven",
+        "name": "Rock Spot Climbing New Haven",
+        "latitude": 41.30293,
+        "longitude": -72.92083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.92083,
+          41.30293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4216,
+      "properties": {
+        "id": 4216,
+        "username": "hell_cave",
+        "name": "Hell Cave",
+        "latitude": 43.15504,
+        "longitude": -70.89446
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89446,
+          43.15504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4299,
+      "properties": {
+        "id": 4299,
+        "username": "bc_climbing_gym",
+        "name": "BC's New Paltz Climbing Gym",
+        "latitude": 41.74337,
+        "longitude": -74.07415
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07415,
+          41.74337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4653,
+      "properties": {
+        "id": 4653,
+        "username": "gp_eighty_one",
+        "name": "GP81",
+        "latitude": 40.70695,
+        "longitude": -73.92399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92399,
+          40.70695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4885,
+      "properties": {
+        "id": 4885,
+        "username": "up.climbing.stkilda",
+        "name": "UP Climbing",
+        "latitude": -37.86987,
+        "longitude": 144.99438
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99438,
+          -37.86987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4990,
+      "properties": {
+        "id": 4990,
+        "username": "the_campus_boulder",
+        "name": "The Campus Climbing and Training",
+        "latitude": 40.05921,
+        "longitude": -105.2061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2061,
+          40.05921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5040,
+      "properties": {
+        "id": 5040,
+        "username": "cai_merate",
+        "name": "CAI Merate",
+        "latitude": 45.69436,
+        "longitude": 9.41328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41328,
+          45.69436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6266,
+      "properties": {
+        "id": 6266,
+        "username": "burlybloc",
+        "name": "Burly Bloc",
+        "latitude": 44.50247,
+        "longitude": -73.04567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.04567,
+          44.50247
+        ]
+      }
+    }
+  ]
+}

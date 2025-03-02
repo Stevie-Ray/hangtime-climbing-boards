@@ -1,0 +1,39 @@
+{
+  "gyms": [
+    {
+      "id": 17,
+      "username": "SoiLL",
+      "name": "So iLL",
+      "latitude": 38.61665,
+      "longitude": -90.27267
+    },
+    {
+      "id": 29,
+      "username": "urbanaboulders",
+      "name": "Urbana Boulders",
+      "latitude": 40.12617,
+      "longitude": -88.19884
+    },
+    {
+      "id": 31,
+      "username": "beest.breda",
+      "name": "Beest Boulders Breda",
+      "latitude": 51.5955,
+      "longitude": 4.75718
+    },
+    {
+      "id": 303,
+      "username": "RifleClimbingCenter",
+      "name": "Rifle Climbing Center",
+      "latitude": 39.53143,
+      "longitude": -107.78421
+    },
+    {
+      "id": 352,
+      "username": "ville_krefter_tafjord",
+      "name": "Ville Krefter Tafjord",
+      "latitude": 62.22674,
+      "longitude": 7.4222
+    }
+  ]
+}

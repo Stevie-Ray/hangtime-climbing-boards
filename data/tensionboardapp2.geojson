@@ -1,0 +1,4055 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4084,
+      "properties": {
+        "id": 4084,
+        "username": "bouldergarten",
+        "name": "Bouldergarten GmbH",
+        "latitude": 52.47997,
+        "longitude": 13.45145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45145,
+          52.47997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4950,
+      "properties": {
+        "id": 4950,
+        "username": "thecircuitgym_ne",
+        "name": "The Circuit Bouldering Gym NE",
+        "latitude": 45.52635,
+        "longitude": -122.64802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64802,
+          45.52635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15330,
+      "properties": {
+        "id": 15330,
+        "username": "quboantigua",
+        "name": "Qubo Antigua",
+        "latitude": 14.55229,
+        "longitude": -90.73218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.73218,
+          14.55229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20530,
+      "properties": {
+        "id": 20530,
+        "username": "rockmillclimbing",
+        "name": "Rock Mill Climbing, Yoga + Fitness",
+        "latitude": 41.07565,
+        "longitude": -81.49776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49776,
+          41.07565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23319,
+      "properties": {
+        "id": 23319,
+        "username": "sequenceclimb",
+        "name": "Sequence Climbing",
+        "latitude": 39.09314,
+        "longitude": -94.5898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5898,
+          39.09314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24272,
+      "properties": {
+        "id": 24272,
+        "username": "cubeclimbing",
+        "name": "Cube Climbing Center",
+        "latitude": 49.50572,
+        "longitude": -117.26653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.26653,
+          49.50572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25046,
+      "properties": {
+        "id": 25046,
+        "username": "tufasboulderlounge",
+        "name": "Tufas Boulder Lounge",
+        "latitude": 39.97622,
+        "longitude": -75.144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.144,
+          39.97622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27986,
+      "properties": {
+        "id": 27986,
+        "username": "theclimbclinic",
+        "name": "The Climb Clinic",
+        "latitude": 39.72003,
+        "longitude": -105.19289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.19289,
+          39.72003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29040,
+      "properties": {
+        "id": 29040,
+        "username": "topoutclimbing",
+        "name": "Top Out Climbing",
+        "latitude": 34.40973,
+        "longitude": -118.50891
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.50891,
+          34.40973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31167,
+      "properties": {
+        "id": 31167,
+        "username": "motionboulder_aviacion",
+        "name": "Motion Boulder 2 - Aviacion Branch",
+        "latitude": 20.70343,
+        "longitude": -103.45722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45722,
+          20.70343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32629,
+      "properties": {
+        "id": 32629,
+        "username": "g1climbing",
+        "name": "G1 Climbing + Fitness Broomfield",
+        "latitude": 39.90652,
+        "longitude": -105.09986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.09986,
+          39.90652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32687,
+      "properties": {
+        "id": 32687,
+        "username": "rockrepublicdubai",
+        "name": "Rock Republic Bouldering",
+        "latitude": 24.98024,
+        "longitude": 55.17409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.17409,
+          24.98024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33958,
+      "properties": {
+        "id": 33958,
+        "username": "boulderhallee4",
+        "name": "E4 Boulderhalle Nürnberg",
+        "latitude": 49.43448,
+        "longitude": 11.09718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09718,
+          49.43448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34853,
+      "properties": {
+        "id": 34853,
+        "username": "lighthouseclimbing",
+        "name": "Lighthouse Climbing PTE",
+        "latitude": 1.27571,
+        "longitude": 103.79443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79443,
+          1.27571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36931,
+      "properties": {
+        "id": 36931,
+        "username": "metrorock_newburyport",
+        "name": "MetroROCK Newburyport",
+        "latitude": 42.80284,
+        "longitude": -70.87992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.87992,
+          42.80284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37557,
+      "properties": {
+        "id": 37557,
+        "username": "thecircuitbend",
+        "name": "The Circuit Bouldering Gym Bend",
+        "latitude": 44.09001,
+        "longitude": -121.29945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29945,
+          44.09001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45441,
+      "properties": {
+        "id": 45441,
+        "username": "bendrockgym",
+        "name": "Bend Rock Gym",
+        "latitude": 44.03869,
+        "longitude": -121.28967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.28967,
+          44.03869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46420,
+      "properties": {
+        "id": 46420,
+        "username": "ontherocksclimbinggym",
+        "name": "On The Rocks Climbing Gym",
+        "latitude": 50.03376,
+        "longitude": -125.27226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.27226,
+          50.03376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49027,
+      "properties": {
+        "id": 49027,
+        "username": "momentumclimbingsodo",
+        "name": "Momentum Climbing SODO",
+        "latitude": 47.57801,
+        "longitude": -122.3346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3346,
+          47.57801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49516,
+      "properties": {
+        "id": 49516,
+        "username": "ascentstudio",
+        "name": "Ascent Studio Climbing & Fitness",
+        "latitude": 40.55941,
+        "longitude": -105.04117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.04117,
+          40.55941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54384,
+      "properties": {
+        "id": 54384,
+        "username": "eagleclimbing",
+        "name": "Eagle Climbing + Fitness",
+        "latitude": 39.66082,
+        "longitude": -106.82289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.82289,
+          39.66082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54830,
+      "properties": {
+        "id": 54830,
+        "username": "coastalclimbinggym",
+        "name": "Coastal Climbing",
+        "latitude": 32.79952,
+        "longitude": -79.94613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94613,
+          32.79952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56851,
+      "properties": {
+        "id": 56851,
+        "username": "strongholdclimb",
+        "name": "The Stronghold Climbing Gym",
+        "latitude": 34.06397,
+        "longitude": -118.21683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21683,
+          34.06397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62690,
+      "properties": {
+        "id": 62690,
+        "username": "blackhillsbasecamp",
+        "name": "Black Hills Basecamp",
+        "latitude": 44.11073,
+        "longitude": -103.17213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.17213,
+          44.11073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64168,
+      "properties": {
+        "id": 64168,
+        "username": "bridgesrockgym",
+        "name": "Bridges Rock Gym",
+        "latitude": 37.90018,
+        "longitude": -122.3074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3074,
+          37.90018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72115,
+      "properties": {
+        "id": 72115,
+        "username": "cayugaclimbs",
+        "name": "Cayuga Climbs",
+        "latitude": 42.47299,
+        "longitude": -76.40842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.40842,
+          42.47299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79746,
+      "properties": {
+        "id": 79746,
+        "username": "methodclimb",
+        "name": "Method Climbing + Fitness",
+        "latitude": 40.74322,
+        "longitude": -74.16852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.16852,
+          40.74322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82138,
+      "properties": {
+        "id": 82138,
+        "username": "monkeyhousecarbondale",
+        "name": "Monkeyhouse Carbondale",
+        "latitude": 39.40361,
+        "longitude": -107.21916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.21916,
+          39.40361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82139,
+      "properties": {
+        "id": 82139,
+        "username": "whistlercoreclimbing",
+        "name": "Whistler Core Climbing & Fitness Center",
+        "latitude": 50.11505,
+        "longitude": -122.95189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95189,
+          50.11505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82142,
+      "properties": {
+        "id": 82142,
+        "username": "coral_cliffs",
+        "name": "Coral Cliffs Rock Climbing Gym",
+        "latitude": 26.08101,
+        "longitude": -80.17538
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17538,
+          26.08101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83596,
+      "properties": {
+        "id": 83596,
+        "username": "blochaven",
+        "name": "BlocHaven",
+        "latitude": 34.83659,
+        "longitude": -82.42932
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42932,
+          34.83659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83597,
+      "properties": {
+        "id": 83597,
+        "username": "uplift_climbing",
+        "name": "Uplift Climbing",
+        "latitude": 47.75546,
+        "longitude": -122.31409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31409,
+          47.75546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83598,
+      "properties": {
+        "id": 83598,
+        "username": "thresholdclimbinggym",
+        "name": "Threshold Climbing, Fitness + Yoga",
+        "latitude": 35.6075,
+        "longitude": -97.6244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6244,
+          35.6075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83599,
+      "properties": {
+        "id": 83599,
+        "username": "adventurerock_wkp",
+        "name": "Adventure Rock WKP",
+        "latitude": 43.02566,
+        "longitude": -87.91254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91254,
+          43.02566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83600,
+      "properties": {
+        "id": 83600,
+        "username": "centralrockcambridge",
+        "name": "Central Rock Gym Cambridge",
+        "latitude": 42.3908,
+        "longitude": -71.13989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13989,
+          42.3908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83601,
+      "properties": {
+        "id": 83601,
+        "username": "climbsantafe",
+        "name": "Santa Fe Climbing Center",
+        "latitude": 35.65344,
+        "longitude": -105.9925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9925,
+          35.65344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83602,
+      "properties": {
+        "id": 83602,
+        "username": "thecliffsgowanusbk",
+        "name": "The Cliffs at Gowanus",
+        "latitude": 40.68197,
+        "longitude": -73.9853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9853,
+          40.68197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83603,
+      "properties": {
+        "id": 83603,
+        "username": "betarocks",
+        "name": "Beta Rocks Climbing + Fitness",
+        "latitude": 41.03913,
+        "longitude": -73.52972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52972,
+          41.03913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83765,
+      "properties": {
+        "id": 83765,
+        "username": "gravityvault_flemington",
+        "name": "The Gravity Vault Flemington",
+        "latitude": 40.5311,
+        "longitude": -74.85056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.85056,
+          40.5311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83767,
+      "properties": {
+        "id": 83767,
+        "username": "centralrockmanhattan",
+        "name": "Central Rock Gym Manhattan",
+        "latitude": 40.77319,
+        "longitude": -73.99042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99042,
+          40.77319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83779,
+      "properties": {
+        "id": 83779,
+        "username": "urockclimbing",
+        "name": "U ROCK Climbing",
+        "latitude": 33.89182,
+        "longitude": 35.56953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56953,
+          33.89182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83803,
+      "properties": {
+        "id": 83803,
+        "username": "gravityniagara",
+        "name": "Gravity Climbing Gym Niagara",
+        "latitude": 43.15112,
+        "longitude": -79.27083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27083,
+          43.15112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83804,
+      "properties": {
+        "id": 83804,
+        "username": "centralrocksyracuse",
+        "name": "Central Rock Gym Syracuse",
+        "latitude": 43.05741,
+        "longitude": -76.15754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.15754,
+          43.05741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83890,
+      "properties": {
+        "id": 83890,
+        "username": "altaclimbing_gilbert",
+        "name": "Alta Climbing and Fitness Gilbert",
+        "latitude": 33.2909,
+        "longitude": -111.693
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.693,
+          33.2909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84077,
+      "properties": {
+        "id": 84077,
+        "username": "longmontcc",
+        "name": "Longmont Climbing Collective",
+        "latitude": 40.15958,
+        "longitude": -105.10709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.10709,
+          40.15958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84317,
+      "properties": {
+        "id": 84317,
+        "username": "movementgymshampden",
+        "name": "Movement Climbing + Fitness Hampden",
+        "latitude": 39.33619,
+        "longitude": -76.64375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64375,
+          39.33619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84318,
+      "properties": {
+        "id": 84318,
+        "username": "boulderworld_singpost",
+        "name": "Boulder World SingPost",
+        "latitude": 1.31987,
+        "longitude": 103.89509
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89509,
+          1.31987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84590,
+      "properties": {
+        "id": 84590,
+        "username": "movementgyms_golden",
+        "name": "Movement Climbing + Fitness Golden",
+        "latitude": 39.72874,
+        "longitude": -105.20719
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.20719,
+          39.72874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84592,
+      "properties": {
+        "id": 84592,
+        "username": "spireclimbing_training",
+        "name": "Spire Climbing + Fitness Training Center",
+        "latitude": 45.67642,
+        "longitude": -111.14422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.14422,
+          45.67642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85403,
+      "properties": {
+        "id": 85403,
+        "username": "movementgymsrino",
+        "name": "Movement Climbing + Fitness RiNo",
+        "latitude": 39.76571,
+        "longitude": -104.97869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.97869,
+          39.76571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85404,
+      "properties": {
+        "id": 85404,
+        "username": "sierraelevation",
+        "name": "Sierra Elevation",
+        "latitude": 25.55676,
+        "longitude": -100.23549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.23549,
+          25.55676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85626,
+      "properties": {
+        "id": 85626,
+        "username": "northmassboulder",
+        "name": "North Mass Boulder",
+        "latitude": 39.78547,
+        "longitude": -86.13399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13399,
+          39.78547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85627,
+      "properties": {
+        "id": 85627,
+        "username": "senderone_playavista",
+        "name": "Sender One Playa Vista",
+        "latitude": 33.97652,
+        "longitude": -118.41722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41722,
+          33.97652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85696,
+      "properties": {
+        "id": 85696,
+        "username": "pacificpipe",
+        "name": "Pacific Pipe Climbing",
+        "latitude": 37.81644,
+        "longitude": -122.28852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28852,
+          37.81644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85697,
+      "properties": {
+        "id": 85697,
+        "username": "thepostclimbing",
+        "name": "The Post Climbing",
+        "latitude": 34.16505,
+        "longitude": -118.15031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.15031,
+          34.16505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85698,
+      "properties": {
+        "id": 85698,
+        "username": "teamtouchstone",
+        "name": "Team Touchstone Training Center",
+        "latitude": 37.85118,
+        "longitude": -122.29303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29303,
+          37.85118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85699,
+      "properties": {
+        "id": 85699,
+        "username": "northernrocks.climbing",
+        "name": "Northern Rocks",
+        "latitude": -36.77531,
+        "longitude": 174.73321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.73321,
+          -36.77531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85700,
+      "properties": {
+        "id": 85700,
+        "username": "rock.solid.climbing",
+        "name": "Rock Solid Climbing + Fitness",
+        "latitude": 32.33046,
+        "longitude": -111.04919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.04919,
+          32.33046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86045,
+      "properties": {
+        "id": 86045,
+        "username": "ascendclimbinggym_youngstown",
+        "name": "ASCEND Youngstown",
+        "latitude": 40.98776,
+        "longitude": -80.6735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6735,
+          40.98776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86046,
+      "properties": {
+        "id": 86046,
+        "username": "crimpersclimbing",
+        "name": "Crimper's Climbing Gym",
+        "latitude": 37.15165,
+        "longitude": -80.41111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41111,
+          37.15165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86140,
+      "properties": {
+        "id": 86140,
+        "username": "climbgritstone",
+        "name": "Gritstone Climbing + Fitness",
+        "latitude": 39.62038,
+        "longitude": -79.92475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92475,
+          39.62038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86141,
+      "properties": {
+        "id": 86141,
+        "username": "centralrockstoneham",
+        "name": "Central Rock Gym Stoneham",
+        "latitude": 42.47786,
+        "longitude": -71.11115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11115,
+          42.47786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86142,
+      "properties": {
+        "id": 86142,
+        "username": "momentum_millcreek",
+        "name": "Momentum Climbing Mill Creek",
+        "latitude": 40.70132,
+        "longitude": -111.80326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.80326,
+          40.70132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86143,
+      "properties": {
+        "id": 86143,
+        "username": "climbtimeo",
+        "name": "Climb Time Oakley",
+        "latitude": 39.15657,
+        "longitude": -84.42029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42029,
+          39.15657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86144,
+      "properties": {
+        "id": 86144,
+        "username": "monkeysclimbinggym",
+        "name": "Monkeys Climbing Gym",
+        "latitude": 32.27738,
+        "longitude": 34.86179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.86179,
+          32.27738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86161,
+      "properties": {
+        "id": 86161,
+        "username": "rocventures_climbing",
+        "name": "RocVentures Climbing Gym",
+        "latitude": 43.15484,
+        "longitude": -77.5735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5735,
+          43.15484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86163,
+      "properties": {
+        "id": 86163,
+        "username": "synergyclimbingandninja",
+        "name": "Synergy Climbing + Ninja",
+        "latitude": 35.0343,
+        "longitude": -85.30197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30197,
+          35.0343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86164,
+      "properties": {
+        "id": 86164,
+        "username": "revoltclimbing",
+        "name": "Revolt Bouldering Gym",
+        "latitude": 52.02599,
+        "longitude": 4.36448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36448,
+          52.02599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86165,
+      "properties": {
+        "id": 86165,
+        "username": "movement_lincolnpark",
+        "name": "Movement Lincoln Park",
+        "latitude": 41.90906,
+        "longitude": -87.6496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6496,
+          41.90906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86167,
+      "properties": {
+        "id": 86167,
+        "username": "camp5utropolis",
+        "name": "Camp5 Utropolis",
+        "latitude": 3.09145,
+        "longitude": 101.55978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.55978,
+          3.09145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86326,
+      "properties": {
+        "id": 86326,
+        "username": "Block_Monkey",
+        "name": "Block Monkey",
+        "latitude": 47.26832,
+        "longitude": 9.59202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.59202,
+          47.26832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86444,
+      "properties": {
+        "id": 86444,
+        "username": "inspirerockcypress",
+        "name": "InSPIRE Rock Cypress",
+        "latitude": 29.96117,
+        "longitude": -95.71066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.71066,
+          29.96117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86992,
+      "properties": {
+        "id": 86992,
+        "username": "vitalbrooklyn",
+        "name": "Vital Brooklyn",
+        "latitude": 40.72324,
+        "longitude": -73.95484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95484,
+          40.72324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86993,
+      "properties": {
+        "id": 86993,
+        "username": "apeindexrockclimbing",
+        "name": "Ape Index Rock Climbing",
+        "latitude": 33.5727,
+        "longitude": -112.2557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2557,
+          33.5727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87172,
+      "properties": {
+        "id": 87172,
+        "username": "centralrockbuffalo",
+        "name": "Central Rock Gym Buffalo",
+        "latitude": 42.87028,
+        "longitude": -78.86871
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86871,
+          42.87028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87173,
+      "properties": {
+        "id": 87173,
+        "username": "basement_boulderstudio",
+        "name": "Basement Boulderstudio",
+        "latitude": 52.50402,
+        "longitude": 13.38439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38439,
+          52.50402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87583,
+      "properties": {
+        "id": 87583,
+        "username": "puebloathleticclub",
+        "name": "Pueblo Athletic Club",
+        "latitude": 38.23891,
+        "longitude": -104.66451
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.66451,
+          38.23891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88033,
+      "properties": {
+        "id": 88033,
+        "username": "fitrocksmoncton",
+        "name": "Fit Rocks Moncton",
+        "latitude": 46.07393,
+        "longitude": -64.82872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.82872,
+          46.07393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88034,
+      "properties": {
+        "id": 88034,
+        "username": "movementgyms_wrigleyville",
+        "name": "Movement Climbing + Fitness Wrigleyville",
+        "latitude": 41.94749,
+        "longitude": -87.65745
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65745,
+          41.94749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88202,
+      "properties": {
+        "id": 88202,
+        "username": "climbsoill_steelshop",
+        "name": "Climb So iLL Steel Shop",
+        "latitude": 38.78593,
+        "longitude": -90.47849
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47849,
+          38.78593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88203,
+      "properties": {
+        "id": 88203,
+        "username": "vitalsocal",
+        "name": "Vital California",
+        "latitude": 33.18991,
+        "longitude": -117.37477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37477,
+          33.18991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88204,
+      "properties": {
+        "id": 88204,
+        "username": "republicadosmacacos",
+        "name": "República dos Macacos",
+        "latitude": -23.54847,
+        "longitude": -46.59163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59163,
+          -23.54847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88208,
+      "properties": {
+        "id": 88208,
+        "username": "lecrux_laval",
+        "name": "Le Crux Laval",
+        "latitude": 45.56611,
+        "longitude": -73.72923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72923,
+          45.56611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88908,
+      "properties": {
+        "id": 88908,
+        "username": "centralrockrochester",
+        "name": "Central Rock Gym Rochester",
+        "latitude": 43.15011,
+        "longitude": -77.59446
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59446,
+          43.15011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89470,
+      "properties": {
+        "id": 89470,
+        "username": "calgaryclimbing_socal",
+        "name": "SoCal Bouldering CCC",
+        "latitude": 50.90048,
+        "longitude": -114.0666
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0666,
+          50.90048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89472,
+      "properties": {
+        "id": 89472,
+        "username": "activeaugusta",
+        "name": "Active Climbing Augusta",
+        "latitude": 33.48183,
+        "longitude": -82.14034
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.14034,
+          33.48183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90370,
+      "properties": {
+        "id": 90370,
+        "username": "climbrefuge_las_vegas",
+        "name": "The Refuge Climbing + Fitness",
+        "latitude": 36.0769,
+        "longitude": -115.19232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.19232,
+          36.0769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90994,
+      "properties": {
+        "id": 90994,
+        "username": "betaboulderinggym",
+        "name": "Beta Bouldering Gym",
+        "latitude": 35.18891,
+        "longitude": -111.63633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.63633,
+          35.18891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91104,
+      "properties": {
+        "id": 91104,
+        "username": "revival_climbing",
+        "name": "Revival Climbing Coalition",
+        "latitude": 45.1093,
+        "longitude": -93.40267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.40267,
+          45.1093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91902,
+      "properties": {
+        "id": 91902,
+        "username": "tensiontrainingcenter",
+        "name": "Tension Training Center",
+        "latitude": 39.81416,
+        "longitude": -104.97899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.97899,
+          39.81416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92248,
+      "properties": {
+        "id": 92248,
+        "username": "VerticalVentures",
+        "name": "Vertical Ventures St Pete",
+        "latitude": 27.76983,
+        "longitude": -82.65769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65769,
+          27.76983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93655,
+      "properties": {
+        "id": 93655,
+        "username": "level24climbing",
+        "name": "Level 24",
+        "latitude": 44.49092,
+        "longitude": 11.25031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25031,
+          44.49092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93900,
+      "properties": {
+        "id": 93900,
+        "username": "camp5ecocity",
+        "name": "Camp5 Eco City",
+        "latitude": 3.12049,
+        "longitude": 101.67436
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.67436,
+          3.12049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94429,
+      "properties": {
+        "id": 94429,
+        "username": "thecliffscallowhill",
+        "name": "The Cliffs at Callowhill",
+        "latitude": 39.95872,
+        "longitude": -75.1558
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1558,
+          39.95872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94461,
+      "properties": {
+        "id": 94461,
+        "username": "movement_designdistrict",
+        "name": "Movement Design District",
+        "latitude": 32.79005,
+        "longitude": -96.82311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.82311,
+          32.79005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94463,
+      "properties": {
+        "id": 94463,
+        "username": "movementgymsdallas",
+        "name": "Movement The Hill Dallas",
+        "latitude": 32.88196,
+        "longitude": -96.76813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.76813,
+          32.88196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94843,
+      "properties": {
+        "id": 94843,
+        "username": "climbvertex",
+        "name": "Vertex Climbing Center",
+        "latitude": 38.47252,
+        "longitude": -122.74325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74325,
+          38.47252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96568,
+      "properties": {
+        "id": 96568,
+        "username": "centralrockhadley",
+        "name": "Central Rock Gym Hadley",
+        "latitude": 42.34234,
+        "longitude": -72.58445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58445,
+          42.34234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96579,
+      "properties": {
+        "id": 96579,
+        "username": "stoneage_north",
+        "name": "Stone Age Climbing Gym North",
+        "latitude": 35.18458,
+        "longitude": -106.5756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5756,
+          35.18458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98214,
+      "properties": {
+        "id": 98214,
+        "username": "randolphclimbingcenter",
+        "name": "Randolph Climbing Center",
+        "latitude": 40.86276,
+        "longitude": -74.61503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.61503,
+          40.86276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99811,
+      "properties": {
+        "id": 99811,
+        "username": "thecliffsharlem_nyc",
+        "name": "The Cliffs at Harlem",
+        "latitude": 40.80967,
+        "longitude": -73.95022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95022,
+          40.80967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101127,
+      "properties": {
+        "id": 101127,
+        "username": "kraftreaktor_lenzburg",
+        "name": "Kraftreaktor Lenzburg",
+        "latitude": 47.39503,
+        "longitude": 8.17719
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.17719,
+          47.39503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101624,
+      "properties": {
+        "id": 101624,
+        "username": "climbchambers",
+        "name": "Chambers Purely Boulders",
+        "latitude": 39.99335,
+        "longitude": -83.03884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03884,
+          39.99335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101839,
+      "properties": {
+        "id": 101839,
+        "username": "springsclimbingcenter",
+        "name": "Springs Climbing Center",
+        "latitude": 38.89912,
+        "longitude": -104.82728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.82728,
+          38.89912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102044,
+      "properties": {
+        "id": 102044,
+        "username": "bloc.48_Boulderhalle",
+        "name": "Bloc.48 Boulderhalle Eberswalde",
+        "latitude": 52.84496,
+        "longitude": 13.76872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76872,
+          52.84496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103095,
+      "properties": {
+        "id": 103095,
+        "username": "thefrontclimbing_slc",
+        "name": "The Front Climbing Club SLC",
+        "latitude": 40.73787,
+        "longitude": -111.9029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9029,
+          40.73787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103744,
+      "properties": {
+        "id": 103744,
+        "username": "bostonboulderingproject",
+        "name": "Boston Bouldering Project",
+        "latitude": 42.38226,
+        "longitude": -71.10588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10588,
+          42.38226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103825,
+      "properties": {
+        "id": 103825,
+        "username": "blx.boulderingclub",
+        "name": "BLX Bouldering Club",
+        "latitude": 59.37023,
+        "longitude": 18.00481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.00481,
+          59.37023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103870,
+      "properties": {
+        "id": 103870,
+        "username": "thecircuitgym_sw",
+        "name": "The Circuit Bouldering Gym SW",
+        "latitude": 45.48032,
+        "longitude": -122.67247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67247,
+          45.48032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103874,
+      "properties": {
+        "id": 103874,
+        "username": "gravitykh",
+        "name": "Gravity Boulderhalle GmbH",
+        "latitude": 49.85502,
+        "longitude": 7.89228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.89228,
+          49.85502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103955,
+      "properties": {
+        "id": 103955,
+        "username": "minneapolisboulderingproject",
+        "name": "Bouldering Project Minneapolis",
+        "latitude": 44.9936,
+        "longitude": -93.27747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27747,
+          44.9936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104641,
+      "properties": {
+        "id": 104641,
+        "username": "movement_crystal_city",
+        "name": "Movement Crystal City",
+        "latitude": 38.86171,
+        "longitude": -77.05061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05061,
+          38.86171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105048,
+      "properties": {
+        "id": 105048,
+        "username": "blueswanboulders",
+        "name": "Blue Swan Boulders",
+        "latitude": 28.54662,
+        "longitude": -81.38324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38324,
+          28.54662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105680,
+      "properties": {
+        "id": 105680,
+        "username": "aiguilleclimbing",
+        "name": "Aiguille Rock Climbing Center",
+        "latitude": 28.68676,
+        "longitude": -81.34652
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.34652,
+          28.68676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106305,
+      "properties": {
+        "id": 106305,
+        "username": "rocksandropestucson",
+        "name": "Rocks and Ropes Tucson",
+        "latitude": 32.21775,
+        "longitude": -110.96115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.96115,
+          32.21775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106435,
+      "properties": {
+        "id": 106435,
+        "username": "thespotgym_denver",
+        "name": "The Spot Bouldering Gym Denver",
+        "latitude": 39.73565,
+        "longitude": -104.9933117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9933117,
+          39.73565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106579,
+      "properties": {
+        "id": 106579,
+        "username": "climbconway",
+        "name": "Climb Conway",
+        "latitude": 35.09376,
+        "longitude": -92.41243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.41243,
+          35.09376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107639,
+      "properties": {
+        "id": 107639,
+        "username": "stoneage_midtown",
+        "name": "Stone Age Climbing Gym Midtown",
+        "latitude": 35.10552,
+        "longitude": -106.59967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.59967,
+          35.10552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108156,
+      "properties": {
+        "id": 108156,
+        "username": "ironcityboulders",
+        "name": "Iron City Boulders",
+        "latitude": 40.48005,
+        "longitude": -79.95683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95683,
+          40.48005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108663,
+      "properties": {
+        "id": 108663,
+        "username": "fbcwall",
+        "name": "Fredericton Bouldering Co-op",
+        "latitude": 45.95638,
+        "longitude": -66.65681
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.65681,
+          45.95638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108880,
+      "properties": {
+        "id": 108880,
+        "username": "apexclimbinggym",
+        "name": "Apex Climbing Gym",
+        "latitude": 41.71052,
+        "longitude": -86.18957
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18957,
+          41.71052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109469,
+      "properties": {
+        "id": 109469,
+        "username": "theboulderfield",
+        "name": "The Boulder Field Climbing + Fitness",
+        "latitude": 38.53886,
+        "longitude": -121.3946
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3946,
+          38.53886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111540,
+      "properties": {
+        "id": 111540,
+        "username": "klimzaalblok",
+        "name": "Klimzaal Blok",
+        "latitude": 51.18064,
+        "longitude": 4.3498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3498,
+          51.18064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111583,
+      "properties": {
+        "id": 111583,
+        "username": "sbp_fremont",
+        "name": "Seattle Bouldering Project Fremont",
+        "latitude": 47.65055,
+        "longitude": -122.34171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34171,
+          47.65055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111868,
+      "properties": {
+        "id": 111868,
+        "username": "goatclimbinggym",
+        "name": "Goat Climbing Gym",
+        "latitude": 40.88057,
+        "longitude": -74.04189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04189,
+          40.88057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113071,
+      "properties": {
+        "id": 113071,
+        "username": "theedgerockgymmel",
+        "name": "The Edge Rock Gym Melbourne",
+        "latitude": 28.1057,
+        "longitude": -80.69141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.69141,
+          28.1057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114549,
+      "properties": {
+        "id": 114549,
+        "username": "holdontide",
+        "name": "Hold On Tide",
+        "latitude": 54.16781,
+        "longitude": 8.87204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87204,
+          54.16781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114958,
+      "properties": {
+        "id": 114958,
+        "username": "scrapyardclimbing",
+        "name": "Scrapyard Climbing Collective",
+        "latitude": 42.79448,
+        "longitude": -86.11016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11016,
+          42.79448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115099,
+      "properties": {
+        "id": 115099,
+        "username": "climbiowaev",
+        "name": "Climb Iowa East Village",
+        "latitude": 41.58661,
+        "longitude": -93.61178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.61178,
+          41.58661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115447,
+      "properties": {
+        "id": 115447,
+        "username": "denverboulderingclub_central",
+        "name": "Denver Bouldering Club Central",
+        "latitude": 39.72138,
+        "longitude": -105.017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.017,
+          39.72138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115655,
+      "properties": {
+        "id": 115655,
+        "username": "movement_boulder",
+        "name": "Movement Boulder",
+        "latitude": 40.03007,
+        "longitude": -105.25748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.25748,
+          40.03007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117152,
+      "properties": {
+        "id": 117152,
+        "username": "tempeboulderingproject",
+        "name": "Bouldering Project Tempe",
+        "latitude": 33.4042,
+        "longitude": -111.95457
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.95457,
+          33.4042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118535,
+      "properties": {
+        "id": 118535,
+        "username": "portlandrockgym_beaverton",
+        "name": "Portland Rock Gym Beaverton",
+        "latitude": 45.5136,
+        "longitude": -122.78896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78896,
+          45.5136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118705,
+      "properties": {
+        "id": 118705,
+        "username": "climbwhetstone",
+        "name": "Whetstone Climbing",
+        "latitude": 40.50654,
+        "longitude": -105.07388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.07388,
+          40.50654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118709,
+      "properties": {
+        "id": 118709,
+        "username": "boulderarenasursee",
+        "name": "Boulder Arena Sursee",
+        "latitude": 47.18413,
+        "longitude": 8.10923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.10923,
+          47.18413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119053,
+      "properties": {
+        "id": 119053,
+        "username": "thefactoryatreach",
+        "name": "The Factory By Reach",
+        "latitude": 40.10454,
+        "longitude": -75.33213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.33213,
+          40.10454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119054,
+      "properties": {
+        "id": 119054,
+        "username": "reachclimbingphilly",
+        "name": "Reach Climbing & Fitness",
+        "latitude": 40.10477,
+        "longitude": -75.32985
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32985,
+          40.10477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119301,
+      "properties": {
+        "id": 119301,
+        "username": "sbp_upperwalls",
+        "name": "SBP Upper Walls",
+        "latitude": 47.65152,
+        "longitude": -122.34175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34175,
+          47.65152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119409,
+      "properties": {
+        "id": 119409,
+        "username": "squamishathleticclub",
+        "name": "Squamish Athletic Club",
+        "latitude": 49.6964,
+        "longitude": -123.15735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.15735,
+          49.6964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121988,
+      "properties": {
+        "id": 121988,
+        "username": "sportrock_rio",
+        "name": "Sportrock Climbing Center Rio",
+        "latitude": 39.11556,
+        "longitude": -77.19721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19721,
+          39.11556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123757,
+      "properties": {
+        "id": 123757,
+        "username": "brooklynboulderingproject",
+        "name": "Brooklyn Bouldering Project",
+        "latitude": 40.67975,
+        "longitude": -73.98392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98392,
+          40.67975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124031,
+      "properties": {
+        "id": 124031,
+        "username": "movementgymsrockville",
+        "name": "Movement Rockville",
+        "latitude": 39.07896,
+        "longitude": -77.14346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14346,
+          39.07896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124867,
+      "properties": {
+        "id": 124867,
+        "username": "bebloc5100",
+        "name": "BeBloc",
+        "latitude": 50.45032,
+        "longitude": 4.87511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87511,
+          50.45032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124870,
+      "properties": {
+        "id": 124870,
+        "username": "mtv_muenchen_von_1879_ev",
+        "name": "MTV München von 1879 e.V.",
+        "latitude": 48.12819,
+        "longitude": 11.55968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55968,
+          48.12819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126448,
+      "properties": {
+        "id": 126448,
+        "username": "saltlakeboulderingproject",
+        "name": "Bouldering Project Salt Lake",
+        "latitude": 40.75556,
+        "longitude": -111.90329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90329,
+          40.75556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126565,
+      "properties": {
+        "id": 126565,
+        "username": "madrockhq",
+        "name": "Mad Rock HQ",
+        "latitude": 33.93541,
+        "longitude": -118.05852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.05852,
+          33.93541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127172,
+      "properties": {
+        "id": 127172,
+        "username": "movement_englewood",
+        "name": "Movement Englewood",
+        "latitude": 39.65023,
+        "longitude": -105.00072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.00072,
+          39.65023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127659,
+      "properties": {
+        "id": 127659,
+        "username": "offsite.climbing.montreal",
+        "name": "OffSite Climbing",
+        "latitude": 45.56248,
+        "longitude": -73.54049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54049,
+          45.56248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129060,
+      "properties": {
+        "id": 129060,
+        "username": "athensmonoclimb",
+        "name": "Mono by Athens Climbing Project",
+        "latitude": 38.01049,
+        "longitude": 23.8073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8073,
+          38.01049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129592,
+      "properties": {
+        "id": 129592,
+        "username": "centralrockchelsea",
+        "name": "Central Rock Gym Chelsea",
+        "latitude": 40.75126,
+        "longitude": -74.00411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00411,
+          40.75126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131327,
+      "properties": {
+        "id": 131327,
+        "username": "evorock_portland",
+        "name": "EVO Rock + Fitness",
+        "latitude": 43.6888571,
+        "longitude": -70.2999399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2999399,
+          43.6888571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133287,
+      "properties": {
+        "id": 133287,
+        "username": "alpine_currumbin",
+        "name": "Alpine Indoor Climbing Currumbin",
+        "latitude": -28.1455,
+        "longitude": 153.47779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.47779,
+          -28.1455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134509,
+      "properties": {
+        "id": 134509,
+        "username": "edgeworks_bellevue",
+        "name": "Edgeworks Climbing + Fitness Bellevue",
+        "latitude": 47.61994,
+        "longitude": -122.12883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12883,
+          47.61994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134546,
+      "properties": {
+        "id": 134546,
+        "username": "boulderheads",
+        "name": "Boulder Heads",
+        "latitude": -26.80713,
+        "longitude": 153.07039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07039,
+          -26.80713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134678,
+      "properties": {
+        "id": 134678,
+        "username": "bloclab",
+        "name": "Bloclab Climbing",
+        "latitude": -33.44107,
+        "longitude": -70.6072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6072,
+          -33.44107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135347,
+      "properties": {
+        "id": 135347,
+        "username": "springdaleboulderingproject",
+        "name": "Austin Bouldering Project Springdale",
+        "latitude": 30.26332,
+        "longitude": -97.69628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.69628,
+          30.26332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136621,
+      "properties": {
+        "id": 136621,
+        "username": "climbontherocks",
+        "name": "On The Rocks Climbing Gym",
+        "latitude": 41.36546,
+        "longitude": -82.20958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20958,
+          41.36546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136912,
+      "properties": {
+        "id": 136912,
+        "username": "lemoa_alex_txikon",
+        "name": "Lemoa Sports Center",
+        "latitude": 43.20919,
+        "longitude": -2.7697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7697,
+          43.20919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138241,
+      "properties": {
+        "id": 138241,
+        "username": "zenithclimbingcenter",
+        "name": "Zenith Climbing Center",
+        "latitude": 37.17801,
+        "longitude": -93.22198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22198,
+          37.17801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139074,
+      "properties": {
+        "id": 139074,
+        "username": "rockcityclimbing",
+        "name": "Rock City Climbing",
+        "latitude": 33.71672,
+        "longitude": -117.99954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99954,
+          33.71672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139077,
+      "properties": {
+        "id": 139077,
+        "username": "kletterhalleberchtesgaden",
+        "name": "Kletterzentrum Bergsteigerhaus Ganz",
+        "latitude": 47.62212,
+        "longitude": 12.97599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97599,
+          47.62212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139591,
+      "properties": {
+        "id": 139591,
+        "username": "kingstonboulderingcoop",
+        "name": "Kingston Bouldering Co-operative",
+        "latitude": 44.24168,
+        "longitude": -76.4828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4828,
+          44.24168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139913,
+      "properties": {
+        "id": 139913,
+        "username": "centralrockcitruspark",
+        "name": "Central Rock Gym Citrus Park",
+        "latitude": 28.06531,
+        "longitude": -82.56959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56959,
+          28.06531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140380,
+      "properties": {
+        "id": 140380,
+        "username": "boulder_halle_andermatt",
+        "name": "Boulder Halle Andermatt",
+        "latitude": 46.63397,
+        "longitude": 8.59349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59349,
+          46.63397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141055,
+      "properties": {
+        "id": 141055,
+        "username": "boardworks_climbing",
+        "name": "Boardworks Climbing",
+        "latitude": 44.03909,
+        "longitude": -121.30325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30325,
+          44.03909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141205,
+      "properties": {
+        "id": 141205,
+        "username": "cruxcc_south",
+        "name": "Crux Climbing Center South",
+        "latitude": 30.22751,
+        "longitude": -97.76296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.76296,
+          30.22751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141207,
+      "properties": {
+        "id": 141207,
+        "username": "lecube_escalade",
+        "name": "Le Cube - Escalade & Bar",
+        "latitude": 46.54329,
+        "longitude": 6.62947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62947,
+          46.54329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141838,
+      "properties": {
+        "id": 141838,
+        "username": "fluxtrainingcenter",
+        "name": "Flux Training Center",
+        "latitude": 33.16574,
+        "longitude": -117.21428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.21428,
+          33.16574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142503,
+      "properties": {
+        "id": 142503,
+        "username": "premiumbouldering",
+        "name": "Premium Bouldering",
+        "latitude": 38.91728,
+        "longitude": -120.00087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.00087,
+          38.91728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143965,
+      "properties": {
+        "id": 143965,
+        "username": "theblockreno",
+        "name": "The Block Climbing and Fitness",
+        "latitude": 39.53287,
+        "longitude": -119.80141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.80141,
+          39.53287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144638,
+      "properties": {
+        "id": 144638,
+        "username": "movement_centennial",
+        "name": "Movement Centennial",
+        "latitude": 39.56905,
+        "longitude": -104.87486
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.87486,
+          39.56905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145054,
+      "properties": {
+        "id": 145054,
+        "username": "beyondthewall_climbing",
+        "name": "Beyond The Wall Climbing",
+        "latitude": 45.51273,
+        "longitude": -122.97213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97213,
+          45.51273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145169,
+      "properties": {
+        "id": 145169,
+        "username": "poplarboulderingproject",
+        "name": "Seattle Bouldering Project Poplar",
+        "latitude": 47.59361,
+        "longitude": -122.31088
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31088,
+          47.59361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148217,
+      "properties": {
+        "id": 148217,
+        "username": "latitudeclimbing_vb",
+        "name": "Latitude Climbing & Fitness Virginia Beach",
+        "latitude": 36.84521,
+        "longitude": -76.13563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.13563,
+          36.84521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148545,
+      "properties": {
+        "id": 148545,
+        "username": "rockspot_milanoarrampicata",
+        "name": "Rockspot",
+        "latitude": 45.45312,
+        "longitude": 9.25211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.25211,
+          45.45312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148554,
+      "properties": {
+        "id": 148554,
+        "username": "randa_boulder",
+        "name": "Randa Boulder",
+        "latitude": 46.0944,
+        "longitude": 7.77947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.77947,
+          46.0944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148557,
+      "properties": {
+        "id": 148557,
+        "username": "metrorock_everett",
+        "name": "MetroROCK Everett",
+        "latitude": 42.40785,
+        "longitude": -71.06709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06709,
+          42.40785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149906,
+      "properties": {
+        "id": 149906,
+        "username": "vitallowereastside",
+        "name": "Vital Lower East Side",
+        "latitude": 40.71722,
+        "longitude": -73.98637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98637,
+          40.71722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151086,
+      "properties": {
+        "id": 151086,
+        "username": "ragniclimb",
+        "name": "Ragni Climb",
+        "latitude": -33.40725,
+        "longitude": -70.57023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.57023,
+          -33.40725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153026,
+      "properties": {
+        "id": 153026,
+        "username": "rocksportsvalley",
+        "name": "Rocksports Indoor Climbing",
+        "latitude": -27.45766,
+        "longitude": 153.03119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03119,
+          -27.45766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153506,
+      "properties": {
+        "id": 153506,
+        "username": "blockfabrik",
+        "name": "Blockfabrik",
+        "latitude": 48.19046,
+        "longitude": 16.36009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36009,
+          48.19046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155080,
+      "properties": {
+        "id": 155080,
+        "username": "boulderkeskus_konala",
+        "name": "Boulderkeskus Konala",
+        "latitude": 60.23692,
+        "longitude": 24.8595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8595,
+          60.23692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156049,
+      "properties": {
+        "id": 156049,
+        "username": "gp_eighty_one",
+        "name": "GP81",
+        "latitude": 40.70695,
+        "longitude": -73.92399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92399,
+          40.70695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156051,
+      "properties": {
+        "id": 156051,
+        "username": "class5gym",
+        "name": "Class 5",
+        "latitude": 33.84909,
+        "longitude": -118.35149
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35149,
+          33.84909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156694,
+      "properties": {
+        "id": 156694,
+        "username": "hangdogrockclimbing",
+        "name": "HangDog",
+        "latitude": -41.21355,
+        "longitude": 174.8897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8897,
+          -41.21355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157013,
+      "properties": {
+        "id": 157013,
+        "username": "the_campus_boulder",
+        "name": "The Campus Climbing and Training",
+        "latitude": 40.05921,
+        "longitude": -105.2061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2061,
+          40.05921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157572,
+      "properties": {
+        "id": 157572,
+        "username": "motionboulder_bugambilias",
+        "name": "Motion Boulder 3 - Bugambilias Branch",
+        "latitude": 20.60351,
+        "longitude": -103.43399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43399,
+          20.60351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157810,
+      "properties": {
+        "id": 157810,
+        "username": "bkirolak_errekalde",
+        "name": "Polideportivo de Errekalde",
+        "latitude": 43.2459,
+        "longitude": -2.93675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93675,
+          43.2459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158255,
+      "properties": {
+        "id": 158255,
+        "username": "ruckusclimbinggym",
+        "name": "Ruckus Climbing Gym",
+        "latitude": 36.02423,
+        "longitude": -79.87617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87617,
+          36.02423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158464,
+      "properties": {
+        "id": 158464,
+        "username": "delire_ste_foy",
+        "name": "DÉLIRE Escalade Sainte_Foy",
+        "latitude": 46.80062,
+        "longitude": -71.3259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3259,
+          46.80062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158579,
+      "properties": {
+        "id": 158579,
+        "username": "lakelandclimbing_kendalwall",
+        "name": "Lakeland Climbing Centres - KendalWall",
+        "latitude": 54.34214,
+        "longitude": -2.73989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.73989,
+          54.34214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159191,
+      "properties": {
+        "id": 159191,
+        "username": "gripboulderhal",
+        "name": "GRIP Boulderhal",
+        "latitude": 51.81311,
+        "longitude": 5.83827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83827,
+          51.81311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159196,
+      "properties": {
+        "id": 159196,
+        "username": "urbanapes.berlin.fhain",
+        "name": "Urban Apes Berlin Fhain",
+        "latitude": 52.52233,
+        "longitude": 13.43686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43686,
+          52.52233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159201,
+      "properties": {
+        "id": 159201,
+        "username": "st_johns_climbing",
+        "name": "St. John's College Santa Fe",
+        "latitude": 35.66688,
+        "longitude": -105.91225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.91225,
+          35.66688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159346,
+      "properties": {
+        "id": 159346,
+        "username": "proa_climbing_center",
+        "name": "Proa Climbing Center",
+        "latitude": 41.17873,
+        "longitude": -8.6822
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6822,
+          41.17873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159626,
+      "properties": {
+        "id": 159626,
+        "username": "nordic_arena_climbing",
+        "name": "Nordic Arena Climbing Center",
+        "latitude": 46.7198,
+        "longitude": 12.22205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22205,
+          46.7198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159629,
+      "properties": {
+        "id": 159629,
+        "username": "magnusclimbinggym",
+        "name": "Magnus' Climbing Gym",
+        "latitude": 13.72308,
+        "longitude": 100.53072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53072,
+          13.72308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161823,
+      "properties": {
+        "id": 161823,
+        "username": "centralrockwynwood",
+        "name": "Central Rock Gym Wynwood",
+        "latitude": 25.80454,
+        "longitude": -80.19568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19568,
+          25.80454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163415,
+      "properties": {
+        "id": 163415,
+        "username": "gravityvault_westbury",
+        "name": "The Gravity Vault Westbury",
+        "latitude": 40.74658,
+        "longitude": -73.59561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59561,
+          40.74658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164244,
+      "properties": {
+        "id": 164244,
+        "username": "rosebloc_longueuil",
+        "name": "Rose Bloc Longueuil",
+        "latitude": 45.557,
+        "longitude": -73.49448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.49448,
+          45.557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166186,
+      "properties": {
+        "id": 166186,
+        "username": "trianglerockclub_sy",
+        "name": "Triangle Rock Club Salvage Yard",
+        "latitude": 35.81018,
+        "longitude": -78.61697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.61697,
+          35.81018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166983,
+      "properties": {
+        "id": 166983,
+        "username": "beyondbouldering_thebarton",
+        "name": "Beyond Bouldering Thebarton",
+        "latitude": -34.91386,
+        "longitude": 138.57631
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.57631,
+          -34.91386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167436,
+      "properties": {
+        "id": 167436,
+        "username": "hubclimbing_markham",
+        "name": "Hub Climbing Markham",
+        "latitude": 43.85696,
+        "longitude": -79.35749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35749,
+          43.85696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167719,
+      "properties": {
+        "id": 167719,
+        "username": "armadilloboulders_sanantonio2",
+        "name": "Armadillo Boulders San Antonio 2",
+        "latitude": 29.65731,
+        "longitude": -98.44981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.44981,
+          29.65731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167946,
+      "properties": {
+        "id": 167946,
+        "username": "rifleclimbingcenter",
+        "name": "Rifle Climbing Center",
+        "latitude": 39.53143,
+        "longitude": -107.78421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.78421,
+          39.53143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168737,
+      "properties": {
+        "id": 168737,
+        "username": "bouldermonkeys.at",
+        "name": "Boulder Monkeys",
+        "latitude": 48.20107,
+        "longitude": 16.40177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40177,
+          48.20107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168999,
+      "properties": {
+        "id": 168999,
+        "username": "bend_endurance_academy",
+        "name": "Bend Endurance Academy",
+        "latitude": 44.03891,
+        "longitude": -121.30336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30336,
+          44.03891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169007,
+      "properties": {
+        "id": 169007,
+        "username": "thebouldergarden",
+        "name": "The Boulder Garden",
+        "latitude": 35.9999,
+        "longitude": -78.9021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9021,
+          35.9999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169016,
+      "properties": {
+        "id": 169016,
+        "username": "cultivateclimbing_boardroom",
+        "name": "Cultivate Climbing - The Boardroom",
+        "latitude": 35.59211,
+        "longitude": -82.55935
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55935,
+          35.59211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171712,
+      "properties": {
+        "id": 171712,
+        "username": "krag_sentral",
+        "name": "Krag Sentral",
+        "latitude": -33.93792,
+        "longitude": 18.46448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.46448,
+          -33.93792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172082,
+      "properties": {
+        "id": 172082,
+        "username": "mustangsbouldering",
+        "name": "Mustangs Bouldering",
+        "latitude": 41.93794,
+        "longitude": -74.01977
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01977,
+          41.93794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173009,
+      "properties": {
+        "id": 173009,
+        "username": "boulder_exe",
+        "name": "Boulder Exe",
+        "latitude": 50.72,
+        "longitude": -3.53781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.53781,
+          50.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 174081,
+      "properties": {
+        "id": 174081,
+        "username": "bigisland_bouldering",
+        "name": "Big Island Bouldering",
+        "latitude": 44.9808,
+        "longitude": -93.45714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.45714,
+          44.9808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 174617,
+      "properties": {
+        "id": 174617,
+        "username": "TagorockArucas",
+        "name": "Tagorock Arucas Climbing School",
+        "latitude": 28.11281,
+        "longitude": -15.52012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.52012,
+          28.11281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175697,
+      "properties": {
+        "id": 175697,
+        "username": "movement_columbia",
+        "name": "Movement Columbia",
+        "latitude": 39.17807,
+        "longitude": -76.81138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81138,
+          39.17807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175706,
+      "properties": {
+        "id": 175706,
+        "username": "heliksbruneck",
+        "name": "HELIKS Bruneck",
+        "latitude": 46.7901,
+        "longitude": 11.92805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.92805,
+          46.7901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175947,
+      "properties": {
+        "id": 175947,
+        "username": "hogtownboulders",
+        "name": "Hogtown Boulders",
+        "latitude": 43.76222,
+        "longitude": -79.36013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.36013,
+          43.76222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175950,
+      "properties": {
+        "id": 175950,
+        "username": "stuntwerk_koeln_zollstock",
+        "name": "Stuntwerk Köln Zollstock",
+        "latitude": 50.91866,
+        "longitude": 6.93904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.93904,
+          50.91866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176290,
+      "properties": {
+        "id": 176290,
+        "username": "thefontborough",
+        "name": "The Font Borough Climbing",
+        "latitude": 51.50729,
+        "longitude": -0.09706
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09706,
+          51.50729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176294,
+      "properties": {
+        "id": 176294,
+        "username": "hangar18rancho",
+        "name": "Hangar 18 Rancho Cucamonga",
+        "latitude": 34.08998,
+        "longitude": -117.54379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.54379,
+          34.08998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 177485,
+      "properties": {
+        "id": 177485,
+        "username": "progressionbouldering",
+        "name": "Progression Bouldering",
+        "latitude": 49.26216,
+        "longitude": -123.09958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09958,
+          49.26216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 177964,
+      "properties": {
+        "id": 177964,
+        "username": "bouldersgym_downtown",
+        "name": "Boulders Climbing Gym Downtown",
+        "latitude": 43.07327,
+        "longitude": -89.38326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38326,
+          43.07327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 178647,
+      "properties": {
+        "id": 178647,
+        "username": "the_dojo",
+        "name": "The Dojo",
+        "latitude": 43.72963,
+        "longitude": -70.30862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.30862,
+          43.72963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 179168,
+      "properties": {
+        "id": 179168,
+        "username": "ryklatreklub",
+        "name": "Ry Klatreklub",
+        "latitude": 56.090736,
+        "longitude": 9.7626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7626,
+          56.090736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 179573,
+      "properties": {
+        "id": 179573,
+        "username": "momentumclimbing_fort_union",
+        "name": "Momentum Climbing Fort Union",
+        "latitude": 40.62042,
+        "longitude": -111.86078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86078,
+          40.62042
+        ]
+      }
+    }
+  ]
+}
