@@ -5991,6 +5991,13 @@
       "name": "Steinkjerhallen",
       "latitude": 64.02071,
       "longitude": 11.5117
+    },
+    {
+      "id": 654230,
+      "username": "brimstoneboulders",
+      "name": "Brimstone Boulders",
+      "latitude": 45.7085,
+      "longitude": -121.51707
     }
   ]
 }

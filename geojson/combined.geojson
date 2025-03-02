@@ -20155,6 +20155,28 @@
     },
     {
       "type": "Feature",
+      "id": 654230,
+      "properties": {
+        "id": 654230,
+        "username": "brimstoneboulders",
+        "name": "Brimstone Boulders",
+        "latitude": 45.7085,
+        "longitude": -121.51707,
+        "boardType": "kilterboardapp",
+        "marker-color": "#ED1D24",
+        "title": "Brimstone Boulders",
+        "description": "kilterboardapp at brimstoneboulders"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.51707,
+          45.7085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
