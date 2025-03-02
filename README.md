@@ -2,7 +2,7 @@
 
 A comprehensive GeoJSON dataset tracking the global locations of various climbing training boards, including Aurora, Kilter, Tension, Grasshopper, Decoy, Soill, and Touchstone boards. This dataset is automatically updated daily through GitHub Actions.
 
-[View on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/data/combined-boards.geojson)
+[View on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/combined.geojson)
 
 ## Overview
 

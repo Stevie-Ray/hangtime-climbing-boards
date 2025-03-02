@@ -1,6 +1,7 @@
 download_locations () {
-	curl https://api.$1.com/v1/pins?types=gym | jq . > ./data/$1-locations.json
-	echo "Downloaded ./data/$1-locations.json"
+	mkdir -p ./data
+	curl https://api.$1.com/v1/pins?types=gym | jq . > ./data/$1.json
+	echo "Downloaded ./data/$1.json"
 }
 
 download_locations auroraboardapp

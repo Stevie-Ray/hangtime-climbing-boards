@@ -46,15 +46,18 @@ const convertAuroraBoard = (filename) => {
 
 const failures = boards
   .map((board) => {
-    const geoJson = convertAuroraBoard(`./data/${board}-locations.json`);
+    const geoJson = convertAuroraBoard(`./data/${board}.json`);
 
     if (!geoJson) {
       return board;
     }
 
+    fs.mkdirSync('./geojson', { recursive: true });
+    
     fs.writeFileSync(
-      `./data/${board}.geojson`,
+      `./geojson/${board}.geojson`,
       JSON.stringify(geoJson, null, 2),
+      { flag: 'w' }
     );
   })
   .filter((s) => !!s);

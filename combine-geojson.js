@@ -23,7 +23,7 @@ const boardColors = {
 
 const readAndStyleGeoJSON = (boardType) => {
   try {
-    const filePath = `./data/${boardType}.geojson`;
+    const filePath = `./geojson/${boardType}.geojson`;
     const fileContent = fs.readFileSync(filePath, 'utf8');
     const geoJson = JSON.parse(fileContent);
     
@@ -65,10 +65,9 @@ const combineGeoJSONFiles = () => {
   const combinedGeoJSON = turf.featureCollection(allFeatures);
   
   fs.writeFileSync(
-    "./data/combined-boards.geojson",
+    "./geojson/combined.geojson",
     JSON.stringify(combinedGeoJSON, null, 2)
   );
 };
 
-// Run the combination process
 combineGeoJSONFiles(); 
