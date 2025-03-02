@@ -1,6 +1,6 @@
 # Aurora Climbing Board Locations
 
-A comprehensive GeoJSON dataset tracking the global locations of various climbing training boards, including Aurora, Kilter, Tension, Grasshopper, Decoy, Soill, and Touchstone boards. This dataset is automatically updated daily through GitHub Actions.
+A comprehensive GeoJSON dataset tracking the global locations of various climbing training boards, including Kilter, Tension, Grasshopper, Decoy, So iLL, Touchstone, and Aurora boards. This dataset is automatically updated daily through GitHub Actions.
 
 [View on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/combined.geojson)
 
@@ -11,13 +11,13 @@ This repository contains location data for climbing training boards worldwide, p
 ## Data Sources
 
 The repository collects data from multiple climbing board applications:
-- Aurora Board
-- Kilter Board
-- Tension Board
-- Grasshopper Board
-- Decoy Board
-- Soill Board
-- Touchstone Board
+- [Kilter Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/kilterboardapp.geojson)
+- [Tension Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/tensionboardapp2.geojson)
+- [Grasshopper Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/grasshopperboardapp.geojson)
+- [Decoy Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/decoyboardapp.geojson)
+- [So iLL Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/soillboardapp.geojson)
+- [Touchstone Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/touchstoneboardapp.geojson)
+- [Aurora Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/auroraboardapp.geojson)
 
 ## Data Structure
 
