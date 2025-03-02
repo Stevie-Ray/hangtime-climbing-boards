@@ -1,16 +1,20 @@
 {
   "name": "@hangtime/aurora-climbing-boards",
   "version": "1.0.0",
-  "main": "convert-to-geojson.js",
+  "description": "Auto-updating GeoJSON dataset of Aurora Climbing board locations: Kilter, Tension, Grasshopper, Decoy, So iLL, Touchstone and Aurora.",
+  "private": true,
   "type": "module",
   "scripts": {
+    "scrape": "node scrape-locations.js",
     "convert": "node convert-geojson.js",
-    "combine": "node combine-geojson.js"
+    "combine": "node combine-geojson.js",
+    "build": "npm run scrape && npm run convert && npm run combine"
   },
-  "author": "",
-  "license": "UNLICENSED",
-  "description": "",
+  "author": "Stevie-Ray Hartog <mail@stevie-ray.nl>",
+  "license": "Unlicense",
+
   "dependencies": {
-    "@turf/turf": "^7.2.0"
+    "@turf/turf": "^7.2.0",
+    "axios": "^1.8.1"
   }
 }

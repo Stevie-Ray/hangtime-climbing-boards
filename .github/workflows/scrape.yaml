@@ -21,9 +21,9 @@ jobs:
       run: npm ci
     - name: Fetch latest data
       run: |-
-        ./scrape-locations.sh;
-        node convert-geojson.js;
-        node combine-geojson.js;
+        npm run scrape;
+        npm run convert;
+        npm run combine;
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
