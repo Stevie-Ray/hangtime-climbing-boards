@@ -60,4 +60,4 @@ Forked from [Georift/climbing-board-locations](https://github.com/Georift/climbi
 
 ## License
 
-UNLICENSED
+Unlicense
