@@ -14,9 +14,9 @@ const boards = [
 const boardColors = {
   "auroraboardapp": "#B93655",
   "decoyboardapp": "#C256C8", 
-  "grasshopperboardapp": "#6EC1E4",
+  "grasshopperboardapp": "#00EAFF",
   "kilterboardapp": "#ED1D24", 
-  "soillboardapp": "#A4D3D3", 
+  "soillboardapp": "#8BB297", 
   "tensionboardapp2": "#000000",
   "touchstoneboardapp": "#276EAE",
 };
