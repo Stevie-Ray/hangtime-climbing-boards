@@ -44,6 +44,9 @@ To work with this repository locally:
 # Install dependencies
 npm ci
 
+# Scape data from Aurora API
+npm run scrape 
+
 # Convert scraped data to GeoJSON
 npm run convert
 
