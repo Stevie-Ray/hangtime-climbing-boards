@@ -5998,6 +5998,20 @@
       "name": "Brimstone Boulders",
       "latitude": 45.7085,
       "longitude": -121.51707
+    },
+    {
+      "id": 656209,
+      "username": "boulderplanet_koeln",
+      "name": "Boulderplanet",
+      "latitude": 50.94495,
+      "longitude": 6.90509
+    },
+    {
+      "id": 656213,
+      "username": "inrockescalada",
+      "name": "In Rock Escalada",
+      "latitude": 39.5735,
+      "longitude": 2.69071
     }
   ]
 }

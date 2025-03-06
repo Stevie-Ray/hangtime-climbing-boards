@@ -15426,6 +15426,42 @@
           45.7085
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 656209,
+      "properties": {
+        "id": 656209,
+        "username": "boulderplanet_koeln",
+        "name": "Boulderplanet",
+        "latitude": 50.94495,
+        "longitude": 6.90509
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90509,
+          50.94495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 656213,
+      "properties": {
+        "id": 656213,
+        "username": "inrockescalada",
+        "name": "In Rock Escalada",
+        "latitude": 39.5735,
+        "longitude": 2.69071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.69071,
+          39.5735
+        ]
+      }
     }
   ]
 }
