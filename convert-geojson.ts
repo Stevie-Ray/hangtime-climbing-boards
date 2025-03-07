@@ -2,9 +2,13 @@ import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
 import { featureCollection, point } from "@turf/helpers";
-import type { Gym } from "./interfaces/gym.ts";
+
+// Boards
 import { boards } from "./boards.ts";
+
+// Interfaces
 import type { FeatureCollection } from "geojson";
+import type { Pin } from "./interfaces/pin.ts";
 
 /**
  * Converts a JSON file containing gym locations into a GeoJSON FeatureCollection.
@@ -14,24 +18,24 @@ import type { FeatureCollection } from "geojson";
  */
 const convertAuroraBoard = (filename: string): FeatureCollection | false => {
   try {
-    const locations = JSON.parse(fs.readFileSync(filename, "utf8"));
+    const data = JSON.parse(fs.readFileSync(filename, "utf8"));
 
-    if (!Array.isArray(locations.gyms)) {
+    if (!Array.isArray(data.gyms)) {
       throw new Error(
         `Invalid file structure: expecting a 'gyms' array in ${filename}`,
       );
     }
 
     return featureCollection(
-      locations.gyms.map((gym: Gym) => {
+      data.gyms.map((pin: Pin) => {
         if (
-          typeof gym.longitude !== "number" || typeof gym.latitude !== "number"
+          typeof pin.longitude !== "number" || typeof pin.latitude !== "number"
         ) {
           throw new Error(
-            `Invalid gym coordinates in ${filename} for gym id ${gym.id}`,
+            `Invalid gym coordinates in ${filename} for gym id ${pin.id}`,
           );
         }
-        return point([gym.longitude, gym.latitude], gym, { id: gym.id });
+        return point([pin.longitude, pin.latitude], pin, { id: pin.id });
       }),
     );
   } catch (err) {

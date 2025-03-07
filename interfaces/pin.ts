@@ -1,8 +1,7 @@
 /**
- * Represents a climbing gym object from the Aurora Climbing API.
- * Database can be extracted with: {@link https://github.com/lemeryfertitta/BoardLib}
+ * Represents a public climbing gym object (pin) from the Aurora Climbing API.
  */
-export interface Gym {
+export interface Pin {
   /** Unique identifier for the gym */
   id: number;
   /** Username associated with the gym */

@@ -30,11 +30,22 @@ The repository collects data from multiple climbing board applications:
 The `/data` directory contains:
 
 - Raw JSON location data from each source
+- Scraped data from various Aurora Climbing API endpoints
 
 The `/geojson` directory contains:
 
 - Individual GeoJSON files for each climbing board type
 - A combined GeoJSON file with all locations
+
+The `/api` directory contains:
+
+- API client implementations for each climbing board service
+- Authentication and data fetching logic
+
+The `/interfaces` directory contains:
+
+- TypeScript type definitions and interfaces
+- Data model specifications for the application
 
 ## Automation
 
@@ -47,20 +58,43 @@ This repository uses GitHub Actions to:
 
 ## Development
 
-To work with this repository locally:
+### Prerequisites
+
+- Node.js 22 / Deno / Bun
+
+### Available Scripts
 
 ```bash
 # Install dependencies
 npm ci
 
-# Scape data from Aurora API
-npm run scrape 
+# Scrape data from Aurora API
+npm run scrape
 
 # Convert scraped data to GeoJSON
 npm run convert
 
 # Combine all GeoJSON files
 npm run combine
+
+# Run the complete build process
+npm run build
+
+# Watch for TypeScript changes during development
+npm run dev
+```
+
+### Authentication
+
+To get detailed wall information, you can provide your credentials when running
+the scrape command. This will fetch additional details that are only available
+to authenticated users. Note: This will only work for the app you provided login
+details for.
+
+Example with authentication:
+
+```bash
+npm run scrape -- --username="YOUR_USERNAME" --password="YOUR_PASSWORD"
 ```
 
 ## Credits

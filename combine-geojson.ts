@@ -2,7 +2,11 @@ import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
 import { featureCollection } from "@turf/helpers";
+
+// Boards
 import { boards, type BoardType } from "./boards.ts";
+
+// Interfaces
 import type { SimplestyleSpec } from "./interfaces/simplestyle-spec.ts";
 import type { Feature, FeatureCollection } from "geojson";
 
