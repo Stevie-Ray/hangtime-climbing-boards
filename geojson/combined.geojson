@@ -20221,6 +20221,28 @@
     },
     {
       "type": "Feature",
+      "id": 656948,
+      "properties": {
+        "id": 656948,
+        "username": "davalpinzentrumbielefeld",
+        "name": "DAV Alpinzentrum Bielefeld",
+        "latitude": 52.01464,
+        "longitude": 8.5717,
+        "boardType": "kilterboardapp",
+        "marker-color": "#ED1D24",
+        "title": "DAV Alpinzentrum Bielefeld",
+        "description": "Kilter Board at DAV Alpinzentrum Bielefeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5717,
+          52.01464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
