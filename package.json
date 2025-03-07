@@ -5,16 +5,21 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "scrape": "node scrape-locations.js",
-    "convert": "node convert-geojson.js",
-    "combine": "node combine-geojson.js",
-    "build": "npm run scrape && npm run convert && npm run combine"
+    "scrape": "node --experimental-strip-types scrape-locations.ts",
+    "convert": "node --experimental-strip-types convert-geojson.ts",
+    "combine": "node --experimental-strip-types combine-geojson.ts",
+    "build": "npm run scrape && npm run convert && npm run combine",
+    "dev": "tsc --watch"
   },
   "author": "Stevie-Ray Hartog <mail@stevie-ray.nl>",
   "license": "Unlicense",
-
   "dependencies": {
     "@turf/turf": "^7.2.0",
-    "axios": "^1.8.1"
+    "axios": "^1.8.2"
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^22.13.9",
+    "typescript": "^5.8.2"
   }
 }

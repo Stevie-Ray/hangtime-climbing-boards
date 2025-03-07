@@ -1,31 +1,17 @@
 import fs from "node:fs";
 import path from "node:path";
 import * as turf from "@turf/helpers";
+import type { Gym } from "./interfaces/gym.ts";
+import { boards } from "./boards.ts";
 
-const boards = [
-  "auroraboardapp",
-  "decoyboardapp",
-  "grasshopperboardapp",
-  "kilterboardapp",
-  "soillboardapp",
-  "tensionboardapp2",
-  "touchstoneboardapp",
-];
-
-const convertAuroraBoard = (filename) => {
+/**
+ * Converts a JSON file containing gym locations into a GeoJSON FeatureCollection.
+ * @param {string} filename - Path to the input JSON file containing gym data
+ * @returns {FeatureCollection | false} A GeoJSON FeatureCollection if successful, false if conversion fails
+ * @throws {Error} If the file structure is invalid or gym coordinates are missing
+ */
+const convertAuroraBoard = (filename: string) => {
   try {
-    // {
-    //   "gyms": [
-    //     {
-    //       "id": 1575,
-    //       "username": "duisburg.einstein.boulder",
-    //       "name": "Einstein Boulderhalle Duisburg",
-    //       "latitude": 51.43236,
-    //       "longitude": 6.7432
-    //     },
-    //     ...
-    //   ]
-    // }
     const locations = JSON.parse(fs.readFileSync(filename, 'utf8'));
 
     if (!Array.isArray(locations.gyms)) {
@@ -33,7 +19,7 @@ const convertAuroraBoard = (filename) => {
     }
 
     return turf.featureCollection(
-      locations.gyms.map((gym) => {
+      locations.gyms.map((gym: Gym) => {
         if (typeof gym.longitude !== 'number' || typeof gym.latitude !== 'number') {
           throw new Error(`Invalid gym coordinates in ${filename} for gym id ${gym.id}`);
         }
@@ -41,7 +27,9 @@ const convertAuroraBoard = (filename) => {
       })
     );
   } catch (err) {
-    console.error(`Unable to convert ${filename}: ${err.message}`);
+    if (err instanceof Error) {
+      console.error(`Unable to convert ${filename}: ${err.message}`);
+    } 
     return false;
   }
 };
@@ -51,7 +39,7 @@ if (!fs.existsSync(geoJsonDir)) {
   fs.mkdirSync(geoJsonDir, { recursive: true });
 }
 
-const failedBoards = [];
+const failedBoards: string[] = [];
 
 boards.forEach((board) => {
   const inputFilePath = path.join(process.cwd(), 'data', `${board}.json`);
