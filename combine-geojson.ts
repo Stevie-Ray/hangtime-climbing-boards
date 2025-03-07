@@ -1,18 +1,15 @@
 import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
-import * as turf from "@turf/helpers";
-
-import type {
-  BoardInfo,
-  BoardProperties,
-  BoardType,
-} from "./interfaces/board.ts";
-
+import { featureCollection } from "@turf/helpers";
+import { boards, type BoardType } from "./boards.ts";
+import type { SimplestyleSpec } from "./interfaces/simplestyle-spec.ts";
 import type { Feature, FeatureCollection } from "geojson";
-import { boards } from "./boards.ts";
 
-const boardsInfo: Record<BoardType, BoardInfo> = {
+const boardsInfo: Record<BoardType, {
+  color: string;
+  name: string;
+}> = {
   auroraboardapp: { color: "#B93655", name: "Aurora Board" },
   decoyboardapp: { color: "#C256C8", name: "Decoy Board" },
   grasshopperboardapp: { color: "#00EAFF", name: "Grasshopper Board" },
@@ -51,13 +48,12 @@ const readAndStyleGeoJSON = (boardType: BoardType): Feature[] => {
 
       newFeature.properties = {
         ...newFeature.properties,
-        boardType,
-        "marker-color": boardsInfo[boardType].color,
         title: newFeature.properties?.name || "",
         description: `${boardsInfo[boardType].name} at ${
           newFeature.properties?.name || ""
         }`,
-      } as BoardProperties;
+        "marker-color": boardsInfo[boardType].color,
+      } as SimplestyleSpec;
 
       return newFeature;
     });
@@ -86,7 +82,7 @@ const combineGeoJSONFiles = (): void => {
     allFeatures.push(...features);
   });
 
-  const combinedGeoJSON = turf.featureCollection(allFeatures);
+  const combinedGeoJSON = featureCollection(allFeatures);
   const outputFilePath = path.join(
     process.cwd(),
     "geojson",

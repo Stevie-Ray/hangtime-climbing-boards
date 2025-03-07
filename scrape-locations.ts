@@ -10,7 +10,7 @@ import { boards } from "./boards.ts";
  * @returns {Promise<void>}
  * @throws {Error} If the API request fails or file writing fails
  */
-async function downloadLocations(appName: string) {
+async function downloadLocations(appName: string): Promise<void> {
   const dataDir = path.join(process.cwd(), "data");
 
   if (!fs.existsSync(dataDir)) {
@@ -37,7 +37,7 @@ async function downloadLocations(appName: string) {
  * @returns {Promise<void>}
  * @throws {Error} If any of the download operations fail
  */
-async function scrapeLocations() {
+async function scrapeLocations(): Promise<void> {
   for (const board of boards) {
     await downloadLocations(board);
   }

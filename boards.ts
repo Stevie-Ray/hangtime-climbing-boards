@@ -1,4 +1,14 @@
-import type { BoardType } from "./interfaces/board.js";
+/**
+ * Type definition for supported board applications
+ */
+export type BoardType =
+  | "auroraboardapp"
+  | "decoyboardapp"
+  | "grasshopperboardapp"
+  | "kilterboardapp"
+  | "soillboardapp"
+  | "tensionboardapp2"
+  | "touchstoneboardapp";
 
 /**
  * Array of supported board types used throughout the application.

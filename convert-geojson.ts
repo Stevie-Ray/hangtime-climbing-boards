@@ -1,9 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
-import * as turf from "@turf/helpers";
+import { featureCollection, point } from "@turf/helpers";
 import type { Gym } from "./interfaces/gym.ts";
 import { boards } from "./boards.ts";
+import type { FeatureCollection } from "geojson";
 
 /**
  * Converts a JSON file containing gym locations into a GeoJSON FeatureCollection.
@@ -11,7 +12,7 @@ import { boards } from "./boards.ts";
  * @returns {FeatureCollection | false} A GeoJSON FeatureCollection if successful, false if conversion fails
  * @throws {Error} If the file structure is invalid or gym coordinates are missing
  */
-const convertAuroraBoard = (filename: string) => {
+const convertAuroraBoard = (filename: string): FeatureCollection | false => {
   try {
     const locations = JSON.parse(fs.readFileSync(filename, "utf8"));
 
@@ -21,7 +22,7 @@ const convertAuroraBoard = (filename: string) => {
       );
     }
 
-    return turf.featureCollection(
+    return featureCollection(
       locations.gyms.map((gym: Gym) => {
         if (
           typeof gym.longitude !== "number" || typeof gym.latitude !== "number"
@@ -30,7 +31,7 @@ const convertAuroraBoard = (filename: string) => {
             `Invalid gym coordinates in ${filename} for gym id ${gym.id}`,
           );
         }
-        return turf.point([gym.longitude, gym.latitude], gym, { id: gym.id });
+        return point([gym.longitude, gym.latitude], gym, { id: gym.id });
       }),
     );
   } catch (err) {

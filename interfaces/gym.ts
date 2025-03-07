@@ -1,5 +1,6 @@
 /**
- * Represents a climbing gym with its basic information
+ * Represents a climbing gym object from the Aurora Climbing API.
+ * Database can be extracted with: {@link https://github.com/lemeryfertitta/BoardLib}
  */
 export interface Gym {
   /** Unique identifier for the gym */
