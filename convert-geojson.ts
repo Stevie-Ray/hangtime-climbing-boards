@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import process from "node:process";
 import * as turf from "@turf/helpers";
 import type { Gym } from "./interfaces/gym.ts";
 import { boards } from "./boards.ts";
@@ -12,29 +13,35 @@ import { boards } from "./boards.ts";
  */
 const convertAuroraBoard = (filename: string) => {
   try {
-    const locations = JSON.parse(fs.readFileSync(filename, 'utf8'));
+    const locations = JSON.parse(fs.readFileSync(filename, "utf8"));
 
     if (!Array.isArray(locations.gyms)) {
-      throw new Error(`Invalid file structure: expecting a 'gyms' array in ${filename}`);
+      throw new Error(
+        `Invalid file structure: expecting a 'gyms' array in ${filename}`,
+      );
     }
 
     return turf.featureCollection(
       locations.gyms.map((gym: Gym) => {
-        if (typeof gym.longitude !== 'number' || typeof gym.latitude !== 'number') {
-          throw new Error(`Invalid gym coordinates in ${filename} for gym id ${gym.id}`);
+        if (
+          typeof gym.longitude !== "number" || typeof gym.latitude !== "number"
+        ) {
+          throw new Error(
+            `Invalid gym coordinates in ${filename} for gym id ${gym.id}`,
+          );
         }
         return turf.point([gym.longitude, gym.latitude], gym, { id: gym.id });
-      })
+      }),
     );
   } catch (err) {
     if (err instanceof Error) {
       console.error(`Unable to convert ${filename}: ${err.message}`);
-    } 
+    }
     return false;
   }
 };
 
-const geoJsonDir = path.join(process.cwd(), 'geojson');
+const geoJsonDir = path.join(process.cwd(), "geojson");
 if (!fs.existsSync(geoJsonDir)) {
   fs.mkdirSync(geoJsonDir, { recursive: true });
 }
@@ -42,7 +49,7 @@ if (!fs.existsSync(geoJsonDir)) {
 const failedBoards: string[] = [];
 
 boards.forEach((board) => {
-  const inputFilePath = path.join(process.cwd(), 'data', `${board}.json`);
+  const inputFilePath = path.join(process.cwd(), "data", `${board}.json`);
   const geoJson = convertAuroraBoard(inputFilePath);
 
   if (!geoJson) {
@@ -51,7 +58,7 @@ boards.forEach((board) => {
   }
 
   const outputFile = path.join(geoJsonDir, `${board}.geojson`);
-  fs.writeFileSync(outputFile, JSON.stringify(geoJson, null, 2), 'utf8');
+  fs.writeFileSync(outputFile, JSON.stringify(geoJson, null, 2), "utf8");
 });
 
 if (failedBoards.length > 0) {

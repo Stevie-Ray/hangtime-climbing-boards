@@ -12,5 +12,5 @@ export const boards: BoardType[] = [
   "kilterboardapp",
   "soillboardapp",
   "tensionboardapp2",
-  "touchstoneboardapp"
-]; 
+  "touchstoneboardapp",
+];

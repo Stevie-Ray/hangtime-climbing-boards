@@ -1,7 +1,7 @@
 /**
  * Type definition for supported board applications
  */
-export type BoardType = 
+export type BoardType =
   | "auroraboardapp"
   | "decoyboardapp"
   | "grasshopperboardapp"
@@ -33,5 +33,5 @@ export interface BoardProperties {
   /** Description of the board */
   description: string;
   /** Additional properties */
-  [key: string]: any;
-} 
+  [key: string]: unknown;
+}

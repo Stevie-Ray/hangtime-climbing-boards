@@ -1,7 +1,14 @@
-import * as fs from "fs";
-import * as path from "path";
+import fs from "node:fs";
+import path from "node:path";
+import process from "node:process";
 import * as turf from "@turf/helpers";
-import type { BoardType, BoardInfo, BoardProperties } from "./interfaces/board.ts";
+
+import type {
+  BoardInfo,
+  BoardProperties,
+  BoardType,
+} from "./interfaces/board.ts";
+
 import type { Feature, FeatureCollection } from "geojson";
 import { boards } from "./boards.ts";
 
@@ -33,7 +40,9 @@ const readAndStyleGeoJSON = (boardType: BoardType): Feature[] => {
     const geoJson = JSON.parse(fileContent) as FeatureCollection;
 
     if (!geoJson || !Array.isArray(geoJson.features)) {
-      console.warn(`Warning: ${filePath} does not contain valid GeoJSON features.`);
+      console.warn(
+        `Warning: ${filePath} does not contain valid GeoJSON features.`,
+      );
       return [];
     }
 
@@ -45,13 +54,19 @@ const readAndStyleGeoJSON = (boardType: BoardType): Feature[] => {
         boardType,
         "marker-color": boardsInfo[boardType].color,
         title: newFeature.properties?.name || "",
-        description: `${boardsInfo[boardType].name} at ${newFeature.properties?.name || ""}`,
+        description: `${boardsInfo[boardType].name} at ${
+          newFeature.properties?.name || ""
+        }`,
       } as BoardProperties;
 
       return newFeature;
     });
   } catch (err) {
-    console.error(`Error processing ${boardType}: ${err instanceof Error ? err.message : String(err)}`);
+    console.error(
+      `Error processing ${boardType}: ${
+        err instanceof Error ? err.message : String(err)
+      }`,
+    );
     return [];
   }
 };
@@ -72,12 +87,24 @@ const combineGeoJSONFiles = (): void => {
   });
 
   const combinedGeoJSON = turf.featureCollection(allFeatures);
-  const outputFilePath = path.join(process.cwd(), "geojson", "combined.geojson");
+  const outputFilePath = path.join(
+    process.cwd(),
+    "geojson",
+    "combined.geojson",
+  );
 
   try {
-    fs.writeFileSync(outputFilePath, JSON.stringify(combinedGeoJSON, null, 2), "utf8");
+    fs.writeFileSync(
+      outputFilePath,
+      JSON.stringify(combinedGeoJSON, null, 2),
+      "utf8",
+    );
   } catch (err) {
-    console.error(`Error writing combined GeoJSON: ${err instanceof Error ? err.message : String(err)}`);
+    console.error(
+      `Error writing combined GeoJSON: ${
+        err instanceof Error ? err.message : String(err)
+      }`,
+    );
   }
 };
 

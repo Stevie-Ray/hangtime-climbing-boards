@@ -12,4 +12,4 @@ export interface Gym {
   latitude: number;
   /** Longitude coordinate of the gym's location */
   longitude: number;
-} 
+}

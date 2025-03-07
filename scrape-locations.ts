@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import process from "node:process";
 import axios from "axios";
 import { boards } from "./boards.ts";
 
@@ -10,8 +11,8 @@ import { boards } from "./boards.ts";
  * @throws {Error} If the API request fails or file writing fails
  */
 async function downloadLocations(appName: string) {
-  const dataDir = path.join(process.cwd(), 'data');
-  
+  const dataDir = path.join(process.cwd(), "data");
+
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
