@@ -1401,6 +1401,13 @@
       "longitude": -73.49448
     },
     {
+      "id": 165404,
+      "username": "BluestemBoulders",
+      "name": "Bluestem Boulders",
+      "latitude": 42.02416,
+      "longitude": -93.60368
+    },
+    {
       "id": 166186,
       "username": "trianglerockclub_sy",
       "name": "Triangle Rock Club Salvage Yard",
@@ -1574,6 +1581,13 @@
       "name": "Momentum Climbing Fort Union",
       "latitude": 40.62042,
       "longitude": -111.86078
+    },
+    {
+      "id": 183233,
+      "username": "shiftclimbing",
+      "name": "Shift Climbing",
+      "latitude": 42.81658,
+      "longitude": -86.08664
     }
   ]
 }
