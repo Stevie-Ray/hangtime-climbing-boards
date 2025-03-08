@@ -47,6 +47,11 @@ The `/interfaces` directory contains:
 - TypeScript type definitions and interfaces
 - Data model specifications for the application
 
+The `/models` directory contains:
+
+- Client models for API interactions and data handling
+- Data transformation and validation models
+
 ## Automation
 
 This repository uses GitHub Actions to:
@@ -86,10 +91,11 @@ npm run dev
 
 ### Authentication
 
-To get detailed wall information, you need to provide your credentials through
-environment variables. Each climbing board app (Kilter, Tension, etc.) requires
-its own set of login credentials. The scraper will only fetch additional details
-for the specific apps where you provide valid login details.
+To get detailed information such as the gym's address, board angle, or
+rotatability status, you need to provide your credentials through environment
+variables. Each climbing board app (Kilter, Tension, etc.) requires its own set
+of login credentials. The scraper will only fetch additional details for the
+specific apps where you provide valid login details.
 
 **Important Legal Notice**: Before using this scraper with credentials, you
 must:
@@ -99,7 +105,9 @@ must:
 2. Ensure your use of this tool complies with the platform's terms of service
 3. Be aware that this tool makes authenticated API requests to these services
 
-4. Copy the `.env.example` file to `.env`:
+**Setup Instructions**:
+
+1. Copy the `.env.example` file to `.env`:
 
 ```bash
 cp .env.example .env
@@ -108,11 +116,11 @@ cp .env.example .env
 2. Fill in your credentials in the `.env` file:
 
 ```bash
-KILTER_USERNAME=your_username
-KILTER_PASSWORD=your_password
+KILTERBOARDAPP_USERNAME=your_username
+KILTERBOARDAPP_PASSWORD=your_password
 
-TENSION_USERNAME=your_username
-TENSION_PASSWORD=your_password
+TENSIONBOARDAPP_USERNAME=your_username
+TENSIONBOARDAPP_PASSWORD=your_password
 
 # Add credentials for other boards as needed
 ```

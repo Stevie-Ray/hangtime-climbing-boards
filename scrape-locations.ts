@@ -11,15 +11,16 @@ import { boards, type BoardType } from "./boards.ts";
 
 // Interfaces
 import type { Pin } from "./interfaces/pin.ts";
-import type { Wall } from "./interfaces/user.ts";
+import type { Gym, Wall } from "./interfaces/user.ts";
 
 // API
 import { getLogins } from "./api/logins.ts";
 import { getUsers } from "./api/users.ts";
 import { getPins } from "./api/pins.ts";
 
-interface PinWithOptionalWalls extends Pin {
+interface PinWithOptionalUser extends Pin {
   walls?: Wall[];
+  gym?: Gym;
 }
 
 /**
@@ -41,20 +42,20 @@ function getBoardCredentials(
 }
 
 /**
- * Fetches wall details for all gyms
+ * Fetches user (gym: name, address, walls: angle, rotatable, etc.) details for all pins
  * @param {Pin[]} pins - Array of gyms to fetch walls for
  * @param {BoardType} board - The name of the board app
  * @param {Object} credentials - Username and password for authentication
- * @returns {Promise<PinWithOptionalWalls[]>} Array of gyms with wall details
+ * @returns {Promise<PinWithOptionalUser[]>} Array of gyms with wall details
  */
-async function scrapeWalls(
+async function scrapeUser(
   pins: Pin[],
   board: BoardType,
   credentials: {
     username: string;
     password: string;
   },
-): Promise<PinWithOptionalWalls[]> {
+): Promise<PinWithOptionalUser[]> {
   try {
     const data = await getLogins(
       board,
@@ -62,7 +63,7 @@ async function scrapeWalls(
       credentials.password,
     );
 
-    const PinWithOptionalWalls = await Promise.all(
+    const PinWithOptionalUser = await Promise.all(
       pins.map(async (pin: Pin) => {
         try {
           const login = await getUsers(board, pin.id, data.token);
@@ -71,6 +72,7 @@ async function scrapeWalls(
             return {
               ...pin,
               walls: login.user.walls,
+              gym: login.user.gym,
             };
           } else {
             return pin;
@@ -86,7 +88,7 @@ async function scrapeWalls(
       }),
     );
 
-    return PinWithOptionalWalls;
+    return PinWithOptionalUser;
   } catch (error) {
     console.error(
       `Authentication failed for ${board}: ${
@@ -98,10 +100,10 @@ async function scrapeWalls(
 }
 
 /**
- * Scrapes location data for all configured board apps.
+ * Scrapes gym location (pins) for all configured board apps.
  * @returns {Promise<void>}
  */
-async function scrapeLocations(): Promise<void> {
+async function scrapePins(): Promise<void> {
   const dataDir = path.join(process.cwd(), "data");
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
@@ -116,11 +118,11 @@ async function scrapeLocations(): Promise<void> {
       const credentials = getBoardCredentials(board);
 
       // If credentials are provided, fetch gym details (walls, info)
-      const gymsOptionallyWithWalls = credentials && pins.gyms.length > 0
-        ? await scrapeWalls(pins.gyms, board, credentials)
+      const gymsOptionallyWithUser = credentials && pins.gyms.length > 0
+        ? await scrapeUser(pins.gyms, board, credentials)
         : pins.gyms;
 
-      const jsonData = { gyms: gymsOptionallyWithWalls };
+      const jsonData = { gyms: gymsOptionallyWithUser };
 
       const filePath = path.join(dataDir, `${board}.json`);
       fs.writeFileSync(
@@ -134,4 +136,4 @@ async function scrapeLocations(): Promise<void> {
   }
 }
 
-scrapeLocations();
+scrapePins();
