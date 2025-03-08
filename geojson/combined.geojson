@@ -19323,6 +19323,48 @@
     },
     {
       "type": "Feature",
+      "id": 658131,
+      "properties": {
+        "id": 658131,
+        "username": "approach.climbing",
+        "name": "Approach Climbing",
+        "latitude": 49.19171,
+        "longitude": -123.09036,
+        "title": "Approach Climbing",
+        "description": "Kilter Board at Approach Climbing",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09036,
+          49.19171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 658146,
+      "properties": {
+        "id": 658146,
+        "username": "sportrock_rio",
+        "name": "Sportrock Rio",
+        "latitude": 39.11534,
+        "longitude": -77.19732,
+        "title": "Sportrock Rio",
+        "description": "Kilter Board at Sportrock Rio",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19732,
+          39.11534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -23628,6 +23670,27 @@
     },
     {
       "type": "Feature",
+      "id": 165404,
+      "properties": {
+        "id": 165404,
+        "username": "BluestemBoulders",
+        "name": "Bluestem Boulders",
+        "latitude": 42.02416,
+        "longitude": -93.60368,
+        "title": "Bluestem Boulders",
+        "description": "Tension Board at Bluestem Boulders",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.60368,
+          42.02416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 166186,
       "properties": {
         "id": 166186,
@@ -24148,6 +24211,27 @@
         "coordinates": [
           -111.86078,
           40.62042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183233,
+      "properties": {
+        "id": 183233,
+        "username": "shiftclimbing",
+        "name": "Shift Climbing",
+        "latitude": 42.81658,
+        "longitude": -86.08664,
+        "title": "Shift Climbing",
+        "description": "Tension Board at Shift Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08664,
+          42.81658
         ]
       }
     },

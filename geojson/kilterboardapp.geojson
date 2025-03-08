@@ -15480,6 +15480,42 @@
           52.01464
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 658131,
+      "properties": {
+        "id": 658131,
+        "username": "approach.climbing",
+        "name": "Approach Climbing",
+        "latitude": 49.19171,
+        "longitude": -123.09036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09036,
+          49.19171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 658146,
+      "properties": {
+        "id": 658146,
+        "username": "sportrock_rio",
+        "name": "Sportrock Rio",
+        "latitude": 39.11534,
+        "longitude": -77.19732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19732,
+          39.11534
+        ]
+      }
     }
   ]
 }
