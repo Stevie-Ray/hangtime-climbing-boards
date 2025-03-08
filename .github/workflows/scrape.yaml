@@ -20,8 +20,23 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Fetch latest data
+        env:
+          KILTERBOARDAPP_USERNAME: ${{ secrets.KILTERBOARDAPP_USERNAME }}
+          KILTERBOARDAPP_PASSWORD: ${{ secrets.KILTERBOARDAPP_PASSWORD }}
+          TENSIONBOARDAPP2_USERNAME: ${{ secrets.TENSIONBOARDAPP2_USERNAME }}
+          TENSIONBOARDAPP2_PASSWORD: ${{ secrets.TENSIONBOARDAPP2_PASSWORD }}
+          GRASSHOPPERBOARDAPP_USERNAME: ${{ secrets.GRASSHOPPERBOARDAPP_USERNAME }}
+          GRASSHOPPERBOARDAPP_PASSWORD: ${{ secrets.GRASSHOPPERBOARDAPP_PASSWORD }}
+          DECOYBOARDAPP_USERNAME: ${{ secrets.DECOYBOARDAPP_USERNAME }}
+          DECOYBOARDAPP_PASSWORD: ${{ secrets.DECOYBOARDAPP_PASSWORD }}
+          SOILLBOARDAPP_USERNAME: ${{ secrets.SOILLBOARDAPP_USERNAME }}
+          SOILLBOARDAPP_PASSWORD: ${{ secrets.SOILLBOARDAPP_PASSWORD }}
+          TOUCHSTONEBOARDAPP_USERNAME: ${{ secrets.TOUCHSTONEBOARDAPP_USERNAME }}
+          TOUCHSTONEBOARDAPP_PASSWORD: ${{ secrets.TOUCHSTONEBOARDAPP_PASSWORD }}
+          AURORABOARDAPP_USERNAME: ${{ secrets.AURORABOARDAPP_USERNAME }}
+          AURORABOARDAPP_PASSWORD: ${{ secrets.AURORABOARDAPP_PASSWORD }}
         run: |-
-          npm run scrape -- --username="${{ secrets.AURORA_USERNAME }}" --password="${{ secrets.AURORA_PASSWORD }}";
+          npm run scrape;
           npm run convert;
           npm run combine;
       - name: Commit and push if it changed

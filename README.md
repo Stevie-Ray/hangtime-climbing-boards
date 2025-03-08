@@ -86,16 +86,48 @@ npm run dev
 
 ### Authentication
 
-To get detailed wall information, you can provide your credentials when running
-the scrape command. Each climbing board app (Kilter, Tension, etc.) requires its
-own set of login credentials. The scraper will only fetch additional details for
-the specific apps where you provide valid login details.
+To get detailed wall information, you need to provide your credentials through
+environment variables. Each climbing board app (Kilter, Tension, etc.) requires
+its own set of login credentials. The scraper will only fetch additional details
+for the specific apps where you provide valid login details.
 
-Example with authentication:
+**Important Legal Notice**: Before using this scraper with credentials, you
+must:
+
+1. Have a valid account and have explicitly accepted the Terms of Use for each
+   platform.
+2. Ensure your use of this tool complies with the platform's terms of service
+3. Be aware that this tool makes authenticated API requests to these services
+
+4. Copy the `.env.example` file to `.env`:
 
 ```bash
-npm run scrape -- --username="APP_USERNAME" --password="APP_PASSWORD"
+cp .env.example .env
 ```
+
+2. Fill in your credentials in the `.env` file:
+
+```bash
+KILTER_USERNAME=your_username
+KILTER_PASSWORD=your_password
+
+TENSION_USERNAME=your_username
+TENSION_PASSWORD=your_password
+
+# Add credentials for other boards as needed
+```
+
+**API Usage Safeguards**: The scraper includes built-in protections:
+
+- Rate limiting (30 requests per minute per board)
+- Automatic request throttling
+- Retry mechanism with exponential backoff for rate limit errors
+- High usage warnings (triggers at 80% of rate limit)
+- Error handling for authentication and API issues
+
+**Note**: While the scraper implements rate limiting and other safeguards, you
+are still responsible for ensuring your usage complies with each service's terms
+of use.
 
 ## Credits
 

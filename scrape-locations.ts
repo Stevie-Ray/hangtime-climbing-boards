@@ -1,6 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
+import dotenv from "dotenv";
+
+// Load environment variables
+dotenv.config();
 
 // Boards
 import { boards, type BoardType } from "./boards.ts";
@@ -16,6 +20,24 @@ import { getPins } from "./api/pins.ts";
 
 interface PinWithOptionalWalls extends Pin {
   walls?: Wall[];
+}
+
+/**
+ * Gets credentials for a specific board from environment variables
+ * @param {BoardType} board - The name of the board app
+ * @returns {Object|undefined} Credentials object or undefined if not configured
+ */
+function getBoardCredentials(
+  board: BoardType,
+): { username: string; password: string } | undefined {
+  const uppercaseBoardType = board.toUpperCase();
+  const username = process.env[`${uppercaseBoardType}_USERNAME`];
+  const password = process.env[`${uppercaseBoardType}_PASSWORD`];
+
+  if (username && password) {
+    return { username, password };
+  }
+  return undefined;
 }
 
 /**
@@ -77,15 +99,9 @@ async function scrapeWalls(
 
 /**
  * Scrapes location data for all configured board apps.
- * @param {Object} credentials - Optional username and password for authentication
  * @returns {Promise<void>}
- * @example
- * npm run scrape -- --username=YOUR_USERNAME --password=YOUR_PASSWORD
  */
-async function scrapeLocations(credentials?: {
-  username: string;
-  password: string;
-}): Promise<void> {
+async function scrapeLocations(): Promise<void> {
   const dataDir = path.join(process.cwd(), "data");
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
@@ -95,6 +111,9 @@ async function scrapeLocations(credentials?: {
     try {
       // Get public gym info
       const pins = await getPins(board);
+
+      // Get board-specific credentials from environment variables
+      const credentials = getBoardCredentials(board);
 
       // If credentials are provided, fetch gym details (walls, info)
       const gymsOptionallyWithWalls = credentials && pins.gyms.length > 0
@@ -115,16 +134,4 @@ async function scrapeLocations(credentials?: {
   }
 }
 
-// Check if credentials are provided as command line arguments
-const args = process.argv.slice(2);
-const usernameIndex = args.indexOf("--username");
-const passwordIndex = args.indexOf("--password");
-
-const credentials = usernameIndex !== -1 && passwordIndex !== -1
-  ? {
-    username: args[usernameIndex + 1],
-    password: args[passwordIndex + 1],
-  }
-  : undefined;
-
-scrapeLocations(credentials);
+scrapeLocations();

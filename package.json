@@ -18,7 +18,8 @@
   "license": "Unlicense",
   "dependencies": {
     "@turf/turf": "^7.2.0",
-    "axios": "^1.8.2"
+    "axios": "^1.8.2",
+    "dotenv": "^16.4.7"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
