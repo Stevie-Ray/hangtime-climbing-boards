@@ -87,14 +87,14 @@ npm run dev
 ### Authentication
 
 To get detailed wall information, you can provide your credentials when running
-the scrape command. This will fetch additional details that are only available
-to authenticated users. Note: This will only work for the app you provided login
-details for.
+the scrape command. Each climbing board app (Kilter, Tension, etc.) requires its
+own set of login credentials. The scraper will only fetch additional details for
+the specific apps where you provide valid login details.
 
 Example with authentication:
 
 ```bash
-npm run scrape -- --username="YOUR_USERNAME" --password="YOUR_PASSWORD"
+npm run scrape -- --username="APP_USERNAME" --password="APP_PASSWORD"
 ```
 
 ## Credits

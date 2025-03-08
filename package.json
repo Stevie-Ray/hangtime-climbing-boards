@@ -4,6 +4,9 @@
   "description": "Auto-updating GeoJSON dataset of Aurora Climbing board locations: Kilter, Tension, Grasshopper, Decoy, So iLL, Touchstone and Aurora.",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "scrape": "node --experimental-strip-types scrape-locations.ts",
     "convert": "node --experimental-strip-types convert-geojson.ts",
@@ -19,7 +22,7 @@
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^22.13.9",
+    "@types/node": "^22.13.10",
     "typescript": "^5.8.2"
   }
 }

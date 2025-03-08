@@ -40,7 +40,7 @@ async function scrapeWalls(
       credentials.password,
     );
 
-    const pinsWithWalls = await Promise.all(
+    const PinWithOptionalWalls = await Promise.all(
       pins.map(async (pin: Pin) => {
         try {
           const login = await getUsers(board, pin.id, data.token);
@@ -64,7 +64,7 @@ async function scrapeWalls(
       }),
     );
 
-    return pinsWithWalls;
+    return PinWithOptionalWalls;
   } catch (error) {
     console.error(
       `Authentication failed for ${board}: ${
@@ -104,7 +104,11 @@ async function scrapeLocations(credentials?: {
       const jsonData = { gyms: gymsOptionallyWithWalls };
 
       const filePath = path.join(dataDir, `${board}.json`);
-      fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf8");
+      fs.writeFileSync(
+        filePath,
+        JSON.stringify(jsonData, null, 2) + "\n",
+        "utf8",
+      );
     } catch (error) {
       console.error(`Failed to process ${board}: ${error}`);
     }
