@@ -19365,6 +19365,27 @@
     },
     {
       "type": "Feature",
+      "id": 660118,
+      "properties": {
+        "id": 660118,
+        "username": "bouldereindhoven",
+        "name": "Boulder Neoliet Eindhoven",
+        "latitude": 51.4755,
+        "longitude": 5.45634,
+        "title": "Boulder Neoliet Eindhoven",
+        "description": "Kilter Board at Boulder Neoliet Eindhoven",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45634,
+          51.4755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,

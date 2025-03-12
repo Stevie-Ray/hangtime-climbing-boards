@@ -15516,6 +15516,24 @@
           39.11534
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 660118,
+      "properties": {
+        "id": 660118,
+        "username": "bouldereindhoven",
+        "name": "Boulder Neoliet Eindhoven",
+        "latitude": 51.4755,
+        "longitude": 5.45634
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45634,
+          51.4755
+        ]
+      }
     }
   ]
 }
