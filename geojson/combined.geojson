@@ -1263,6 +1263,27 @@
     },
     {
       "type": "Feature",
+      "id": 27583,
+      "properties": {
+        "id": 27583,
+        "username": "stoneworksclimbing",
+        "name": "Stoneworks Climbing Gym",
+        "latitude": 45.47198,
+        "longitude": -122.79068,
+        "title": "Stoneworks Climbing Gym",
+        "description": "Grasshopper Board at Stoneworks Climbing Gym",
+        "marker-color": "#00EAFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79068,
+          45.47198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1575,
       "properties": {
         "id": 1575,
@@ -11989,6 +12010,27 @@
         "coordinates": [
           5.84161,
           50.99175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 347314,
+      "properties": {
+        "id": 347314,
+        "username": "gvsuclimbingcenter",
+        "name": "GVSU Climbing Center",
+        "latitude": 42.96643,
+        "longitude": -85.89038,
+        "title": "GVSU Climbing Center",
+        "description": "Kilter Board at GVSU Climbing Center",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89038,
+          42.96643
         ]
       }
     },
@@ -24253,6 +24295,27 @@
         "coordinates": [
           -86.08664,
           42.81658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183896,
+      "properties": {
+        "id": 183896,
+        "username": "manolaboulder",
+        "name": "Manola Boulder Langenthal",
+        "latitude": 47.21589,
+        "longitude": 7.78395,
+        "title": "Manola Boulder Langenthal",
+        "description": "Tension Board at Manola Boulder Langenthal",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.78395,
+          47.21589
         ]
       }
     },

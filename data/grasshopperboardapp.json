@@ -279,6 +279,13 @@
       "name": "El Bloque Bouldering Gym",
       "latitude": 18.42857,
       "longitude": -66.0561
+    },
+    {
+      "id": 27583,
+      "username": "stoneworksclimbing",
+      "name": "Stoneworks Climbing Gym",
+      "latitude": 45.47198,
+      "longitude": -122.79068
     }
   ]
 }

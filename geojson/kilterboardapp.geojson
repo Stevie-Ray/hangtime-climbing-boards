@@ -9201,6 +9201,24 @@
     },
     {
       "type": "Feature",
+      "id": 347314,
+      "properties": {
+        "id": 347314,
+        "username": "gvsuclimbingcenter",
+        "name": "GVSU Climbing Center",
+        "latitude": 42.96643,
+        "longitude": -85.89038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89038,
+          42.96643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 347425,
       "properties": {
         "id": 347425,

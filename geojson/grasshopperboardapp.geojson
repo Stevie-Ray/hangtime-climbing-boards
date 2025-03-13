@@ -720,6 +720,24 @@
           18.42857
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 27583,
+      "properties": {
+        "id": 27583,
+        "username": "stoneworksclimbing",
+        "name": "Stoneworks Climbing Gym",
+        "latitude": 45.47198,
+        "longitude": -122.79068
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79068,
+          45.47198
+        ]
+      }
     }
   ]
 }
