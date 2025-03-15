@@ -6047,6 +6047,13 @@
       "name": "Boulder Neoliet Eindhoven",
       "latitude": 51.4755,
       "longitude": 5.45634
+    },
+    {
+      "id": 661798,
+      "username": "neoliettilburg",
+      "name": "Boulder Neoliet Tilburg",
+      "latitude": 51.56567,
+      "longitude": 5.1116
     }
   ]
 }

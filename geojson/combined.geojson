@@ -19428,6 +19428,27 @@
     },
     {
       "type": "Feature",
+      "id": 661798,
+      "properties": {
+        "id": 661798,
+        "username": "neoliettilburg",
+        "name": "Boulder Neoliet Tilburg",
+        "latitude": 51.56567,
+        "longitude": 5.1116,
+        "title": "Boulder Neoliet Tilburg",
+        "description": "Kilter Board at Boulder Neoliet Tilburg",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1116,
+          51.56567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
