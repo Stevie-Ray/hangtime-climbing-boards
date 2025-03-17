@@ -15537,6 +15537,24 @@
     },
     {
       "type": "Feature",
+      "id": 659578,
+      "properties": {
+        "id": 659578,
+        "username": "savanzadakilter",
+        "name": "S'Avanzada Climbing Cagliari",
+        "latitude": 39.2231,
+        "longitude": 9.11749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11749,
+          39.2231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 660118,
       "properties": {
         "id": 660118,

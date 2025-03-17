@@ -19407,6 +19407,27 @@
     },
     {
       "type": "Feature",
+      "id": 659578,
+      "properties": {
+        "id": 659578,
+        "username": "savanzadakilter",
+        "name": "S'Avanzada Climbing Cagliari",
+        "latitude": 39.2231,
+        "longitude": 9.11749,
+        "title": "S'Avanzada Climbing Cagliari",
+        "description": "Kilter Board at S'Avanzada Climbing Cagliari",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11749,
+          39.2231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 660118,
       "properties": {
         "id": 660118,
