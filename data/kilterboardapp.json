@@ -6061,6 +6061,41 @@
       "name": "Boulder Neoliet Tilburg",
       "latitude": 51.56567,
       "longitude": 5.1116
+    },
+    {
+      "id": 665271,
+      "username": "isatis_bouldergym",
+      "name": "ISATIS",
+      "latitude": 50.62304,
+      "longitude": 5.59582
+    },
+    {
+      "id": 665282,
+      "username": "isatix",
+      "name": "Isatix",
+      "latitude": 49.15363,
+      "longitude": -0.28923
+    },
+    {
+      "id": 665395,
+      "username": "monkeyspot_moenchengladbach",
+      "name": "Monkeyspot Mönchengladbach",
+      "latitude": 51.18484,
+      "longitude": 6.43066
+    },
+    {
+      "id": 665416,
+      "username": "fiddleheadnc",
+      "name": "Fiddlehead",
+      "latitude": 35.42804,
+      "longitude": -82.54514
+    },
+    {
+      "id": 665429,
+      "username": "blocabrac",
+      "name": "Blocabrac",
+      "latitude": 45.4419,
+      "longitude": 4.37419
     }
   ]
 }
