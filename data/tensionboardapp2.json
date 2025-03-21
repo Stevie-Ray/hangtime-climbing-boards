@@ -1595,6 +1595,13 @@
       "name": "Manola Boulder Langenthal",
       "latitude": 47.21589,
       "longitude": 7.78395
+    },
+    {
+      "id": 185145,
+      "username": "gravityvault.lehighvalley",
+      "name": "The Gravity Vault Lehigh Valley",
+      "latitude": 40.63567,
+      "longitude": -75.48184
     }
   ]
 }

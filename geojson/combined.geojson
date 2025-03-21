@@ -19575,6 +19575,48 @@
     },
     {
       "type": "Feature",
+      "id": 665950,
+      "properties": {
+        "id": 665950,
+        "username": "gravityvault.lehighvalley",
+        "name": "The Gravity Vault Lehigh Valley",
+        "latitude": 40.63567,
+        "longitude": -75.48184,
+        "title": "The Gravity Vault Lehigh Valley",
+        "description": "Kilter Board at The Gravity Vault Lehigh Valley",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48184,
+          40.63567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 666026,
+      "properties": {
+        "id": 666026,
+        "username": "westgateboulderingproject",
+        "name": "Austin Bouldering Project Westgate",
+        "latitude": 30.23066,
+        "longitude": -97.79908,
+        "title": "Austin Bouldering Project Westgate",
+        "description": "Kilter Board at Austin Bouldering Project Westgate",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.79908,
+          30.23066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -24463,6 +24505,27 @@
         "coordinates": [
           7.78395,
           47.21589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 185145,
+      "properties": {
+        "id": 185145,
+        "username": "gravityvault.lehighvalley",
+        "name": "The Gravity Vault Lehigh Valley",
+        "latitude": 40.63567,
+        "longitude": -75.48184,
+        "title": "The Gravity Vault Lehigh Valley",
+        "description": "Tension Board at The Gravity Vault Lehigh Valley",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48184,
+          40.63567
         ]
       }
     },

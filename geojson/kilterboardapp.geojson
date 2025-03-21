@@ -15678,6 +15678,42 @@
           45.4419
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 665950,
+      "properties": {
+        "id": 665950,
+        "username": "gravityvault.lehighvalley",
+        "name": "The Gravity Vault Lehigh Valley",
+        "latitude": 40.63567,
+        "longitude": -75.48184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48184,
+          40.63567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 666026,
+      "properties": {
+        "id": 666026,
+        "username": "westgateboulderingproject",
+        "name": "Austin Bouldering Project Westgate",
+        "latitude": 30.23066,
+        "longitude": -97.79908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.79908,
+          30.23066
+        ]
+      }
     }
   ]
 }

@@ -6096,6 +6096,20 @@
       "name": "Blocabrac",
       "latitude": 45.4419,
       "longitude": 4.37419
+    },
+    {
+      "id": 665950,
+      "username": "gravityvault.lehighvalley",
+      "name": "The Gravity Vault Lehigh Valley",
+      "latitude": 40.63567,
+      "longitude": -75.48184
+    },
+    {
+      "id": 666026,
+      "username": "westgateboulderingproject",
+      "name": "Austin Bouldering Project Westgate",
+      "latitude": 30.23066,
+      "longitude": -97.79908
     }
   ]
 }

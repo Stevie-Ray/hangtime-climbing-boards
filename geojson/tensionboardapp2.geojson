@@ -4104,6 +4104,24 @@
           47.21589
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 185145,
+      "properties": {
+        "id": 185145,
+        "username": "gravityvault.lehighvalley",
+        "name": "The Gravity Vault Lehigh Valley",
+        "latitude": 40.63567,
+        "longitude": -75.48184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48184,
+          40.63567
+        ]
+      }
     }
   ]
 }
