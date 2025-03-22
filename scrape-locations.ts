@@ -64,6 +64,7 @@ async function scrapeUser(
     );
 
     const PinWithOptionalUser = await Promise.all(
+      // Add gym and walls to each pin
       pins.map(async (pin: Pin) => {
         try {
           const login = await getUsers(board, pin.id, data.token);
