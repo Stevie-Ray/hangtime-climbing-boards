@@ -428,13 +428,6 @@
       "longitude": -118.36604
     },
     {
-      "id": 150792,
-      "username": "riveternc",
-      "name": "Riveter",
-      "latitude": 35.428976,
-      "longitude": -82.545528
-    },
-    {
       "id": 150793,
       "username": "bananaclimbing.gym",
       "name": "Banana Climbing Gym",
@@ -6110,6 +6103,13 @@
       "name": "Austin Bouldering Project Westgate",
       "latitude": 30.23066,
       "longitude": -97.79908
+    },
+    {
+      "id": 668002,
+      "username": "stoneage_climb",
+      "name": "Stone Age Climbing Park",
+      "latitude": 45.61478,
+      "longitude": 8.99049
     }
   ]
 }

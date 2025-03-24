@@ -2565,27 +2565,6 @@
     },
     {
       "type": "Feature",
-      "id": 150792,
-      "properties": {
-        "id": 150792,
-        "username": "riveternc",
-        "name": "Riveter",
-        "latitude": 35.428976,
-        "longitude": -82.545528,
-        "title": "Riveter",
-        "description": "Kilter Board at Riveter",
-        "marker-color": "#ED1D24"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.545528,
-          35.428976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 150793,
       "properties": {
         "id": 150793,
@@ -19612,6 +19591,27 @@
         "coordinates": [
           -97.79908,
           30.23066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 668002,
+      "properties": {
+        "id": 668002,
+        "username": "stoneage_climb",
+        "name": "Stone Age Climbing Park",
+        "latitude": 45.61478,
+        "longitude": 8.99049,
+        "title": "Stone Age Climbing Park",
+        "description": "Kilter Board at Stone Age Climbing Park",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99049,
+          45.61478
         ]
       }
     },
