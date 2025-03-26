@@ -444,6 +444,27 @@
     },
     {
       "type": "Feature",
+      "id": 2488,
+      "properties": {
+        "id": 2488,
+        "username": "CRUX_Osaka",
+        "name": "クラックス大阪 CRUX Osaka",
+        "latitude": 34.75463,
+        "longitude": 135.4994,
+        "title": "クラックス大阪 CRUX Osaka",
+        "description": "Grasshopper Board at クラックス大阪 CRUX Osaka",
+        "marker-color": "#00EAFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4994,
+          34.75463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 3565,
       "properties": {
         "id": 3565,
