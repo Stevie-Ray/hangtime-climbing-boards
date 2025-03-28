@@ -19638,6 +19638,48 @@
     },
     {
       "type": "Feature",
+      "id": 670439,
+      "properties": {
+        "id": 670439,
+        "username": "move.climbing",
+        "name": "Move Climbing",
+        "latitude": 37.35773,
+        "longitude": -6.05579,
+        "title": "Move Climbing",
+        "description": "Kilter Board at Move Climbing",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.05579,
+          37.35773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 670447,
+      "properties": {
+        "id": 670447,
+        "username": "onyxboulder",
+        "name": "Onyx Boulder",
+        "latitude": 51.21041,
+        "longitude": 3.24814,
+        "title": "Onyx Boulder",
+        "description": "Kilter Board at Onyx Boulder",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24814,
+          51.21041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
