@@ -13170,6 +13170,27 @@
     },
     {
       "type": "Feature",
+      "id": 396469,
+      "properties": {
+        "id": 396469,
+        "username": "bigupclimbing",
+        "name": "BigUp Climbing",
+        "latitude": 44.4262,
+        "longitude": 7.54135,
+        "title": "BigUp Climbing",
+        "description": "Kilter Board at BigUp Climbing",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.54135,
+          44.4262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 397374,
       "properties": {
         "id": 397374,
@@ -19675,6 +19696,27 @@
         "coordinates": [
           3.24814,
           51.21041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 670822,
+      "properties": {
+        "id": 670822,
+        "username": "batuuclimbing",
+        "name": "Batuu Climbing",
+        "latitude": 3.13058,
+        "longitude": 101.62692,
+        "title": "Batuu Climbing",
+        "description": "Kilter Board at Batuu Climbing",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.62692,
+          3.13058
         ]
       }
     },

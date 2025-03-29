@@ -3956,6 +3956,13 @@
       "longitude": 120.10717
     },
     {
+      "id": 396469,
+      "username": "bigupclimbing",
+      "name": "BigUp Climbing",
+      "latitude": 44.4262,
+      "longitude": 7.54135
+    },
+    {
       "id": 397374,
       "username": "pulseclimbing.adamstown",
       "name": "Pulse Climbing Adamstown",
@@ -6124,6 +6131,13 @@
       "name": "Onyx Boulder",
       "latitude": 51.21041,
       "longitude": 3.24814
+    },
+    {
+      "id": 670822,
+      "username": "batuuclimbing",
+      "name": "Batuu Climbing",
+      "latitude": 3.13058,
+      "longitude": 101.62692
     }
   ]
 }
