@@ -19722,6 +19722,27 @@
     },
     {
       "type": "Feature",
+      "id": 671752,
+      "properties": {
+        "id": 671752,
+        "username": "playgroundstavanger",
+        "name": "Playground",
+        "latitude": 58.89624,
+        "longitude": 5.7014,
+        "title": "Playground",
+        "description": "Kilter Board at Playground",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7014,
+          58.89624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,

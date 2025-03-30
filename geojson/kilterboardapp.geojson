@@ -15786,6 +15786,24 @@
           3.13058
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 671752,
+      "properties": {
+        "id": 671752,
+        "username": "playgroundstavanger",
+        "name": "Playground",
+        "latitude": 58.89624,
+        "longitude": 5.7014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7014,
+          58.89624
+        ]
+      }
     }
   ]
 }
