@@ -2416,13 +2416,6 @@
       "longitude": -70.36218
     },
     {
-      "id": 221551,
-      "username": "boardworks_climbing",
-      "name": "Boardworks Climbing",
-      "latitude": 44.03913,
-      "longitude": -121.3032
-    },
-    {
       "id": 223211,
       "username": "boulder_zona",
       "name": "Boulder Zona Climbing Gym",
@@ -2456,6 +2449,13 @@
       "name": "Isaac Climbing",
       "latitude": 32.06496,
       "longitude": 34.78945
+    },
+    {
+      "id": 224838,
+      "username": "boardworks_climbing",
+      "name": "Boardworks Climbing",
+      "latitude": 44.03913,
+      "longitude": -121.3032
     },
     {
       "id": 226218,

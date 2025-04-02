@@ -8550,27 +8550,6 @@
     },
     {
       "type": "Feature",
-      "id": 221551,
-      "properties": {
-        "id": 221551,
-        "username": "boardworks_climbing",
-        "name": "Boardworks Climbing",
-        "latitude": 44.03913,
-        "longitude": -121.3032,
-        "title": "Boardworks Climbing",
-        "description": "Kilter Board at Boardworks Climbing",
-        "marker-color": "#ED1D24"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.3032,
-          44.03913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 223211,
       "properties": {
         "id": 223211,
@@ -8671,6 +8650,27 @@
         "coordinates": [
           34.78945,
           32.06496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 224838,
+      "properties": {
+        "id": 224838,
+        "username": "boardworks_climbing",
+        "name": "Boardworks Climbing",
+        "latitude": 44.03913,
+        "longitude": -121.3032,
+        "title": "Boardworks Climbing",
+        "description": "Kilter Board at Boardworks Climbing",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3032,
+          44.03913
         ]
       }
     },
