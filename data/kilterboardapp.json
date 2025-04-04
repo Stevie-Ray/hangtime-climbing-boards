@@ -1849,13 +1849,6 @@
       "longitude": -71.95261
     },
     {
-      "id": 171955,
-      "username": "oslomikrobuldreri_gronland",
-      "name": "Oslo Mikrobuldreri Grønland",
-      "latitude": 59.91383,
-      "longitude": 10.76618
-    },
-    {
       "id": 171956,
       "username": "oslomikrobuldreri_pilestredet",
       "name": "Oslo Mikrobuldreri Pilestredet",
@@ -6145,6 +6138,20 @@
       "name": "Playground",
       "latitude": 58.89624,
       "longitude": 5.7014
+    },
+    {
+      "id": 674936,
+      "username": "gravetatzero_terrassa",
+      "name": "Gravetat Zero",
+      "latitude": 41.54682,
+      "longitude": 2.02887
+    },
+    {
+      "id": 675051,
+      "username": "buldretanken",
+      "name": "Buldretanken",
+      "latitude": 60.62634,
+      "longitude": 8.56001
     }
   ]
 }
