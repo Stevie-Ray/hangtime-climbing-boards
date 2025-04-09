@@ -157,9 +157,9 @@
     {
       "id": 149214,
       "username": "nosotrosgym_lakewood",
-      "name": "Nosotros Rock Climbing Gym Lakewood",
-      "latitude": 41.485425,
-      "longitude": -81.794006
+      "name": "Nosotros Climbing + Weights",
+      "latitude": 41.47324,
+      "longitude": -81.77932
     },
     {
       "id": 149973,
@@ -6152,6 +6152,27 @@
       "name": "Buldretanken",
       "latitude": 60.62634,
       "longitude": 8.56001
+    },
+    {
+      "id": 678057,
+      "username": "thecoyoterockgym",
+      "name": "Coyote Rock Gym",
+      "latitude": 45.40566,
+      "longitude": -75.6256
+    },
+    {
+      "id": 678160,
+      "username": "galponboulder",
+      "name": "Galpon Boulder",
+      "latitude": -41.42563,
+      "longitude": -72.90982
+    },
+    {
+      "id": 678162,
+      "username": "sandbox.bouldering",
+      "name": "Sandbox Bouldering",
+      "latitude": -33.83541,
+      "longitude": 151.05309
     }
   ]
 }

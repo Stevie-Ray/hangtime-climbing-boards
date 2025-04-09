@@ -1771,18 +1771,18 @@
       "properties": {
         "id": 149214,
         "username": "nosotrosgym_lakewood",
-        "name": "Nosotros Rock Climbing Gym Lakewood",
-        "latitude": 41.485425,
-        "longitude": -81.794006,
-        "title": "Nosotros Rock Climbing Gym Lakewood",
-        "description": "Kilter Board at Nosotros Rock Climbing Gym Lakewood",
+        "name": "Nosotros Climbing + Weights",
+        "latitude": 41.47324,
+        "longitude": -81.77932,
+        "title": "Nosotros Climbing + Weights",
+        "description": "Kilter Board at Nosotros Climbing + Weights",
         "marker-color": "#ED1D24"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.794006,
-          41.485425
+          -81.77932,
+          41.47324
         ]
       }
     },
@@ -19759,6 +19759,69 @@
         "coordinates": [
           8.56001,
           60.62634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 678057,
+      "properties": {
+        "id": 678057,
+        "username": "thecoyoterockgym",
+        "name": "Coyote Rock Gym",
+        "latitude": 45.40566,
+        "longitude": -75.6256,
+        "title": "Coyote Rock Gym",
+        "description": "Kilter Board at Coyote Rock Gym",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6256,
+          45.40566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 678160,
+      "properties": {
+        "id": 678160,
+        "username": "galponboulder",
+        "name": "Galpon Boulder",
+        "latitude": -41.42563,
+        "longitude": -72.90982,
+        "title": "Galpon Boulder",
+        "description": "Kilter Board at Galpon Boulder",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90982,
+          -41.42563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 678162,
+      "properties": {
+        "id": 678162,
+        "username": "sandbox.bouldering",
+        "name": "Sandbox Bouldering",
+        "latitude": -33.83541,
+        "longitude": 151.05309,
+        "title": "Sandbox Bouldering",
+        "description": "Kilter Board at Sandbox Bouldering",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.05309,
+          -33.83541
         ]
       }
     },
