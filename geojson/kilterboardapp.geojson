@@ -15825,6 +15825,24 @@
     },
     {
       "type": "Feature",
+      "id": 677760,
+      "properties": {
+        "id": 677760,
+        "username": "climbup_suwon",
+        "name": "클라임업 수원점 ClimbUp Suwon",
+        "latitude": 37.26647,
+        "longitude": 127.03122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03122,
+          37.26647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 678057,
       "properties": {
         "id": 678057,
@@ -15874,6 +15892,24 @@
         "coordinates": [
           151.05309,
           -33.83541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 679004,
+      "properties": {
+        "id": 679004,
+        "username": "lamontgolfiereclub",
+        "name": "LMG Social Sports Club",
+        "latitude": 48.87699,
+        "longitude": 2.30923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30923,
+          48.87699
         ]
       }
     }

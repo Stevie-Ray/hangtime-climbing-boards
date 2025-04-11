@@ -6154,6 +6154,13 @@
       "longitude": 8.56001
     },
     {
+      "id": 677760,
+      "username": "climbup_suwon",
+      "name": "클라임업 수원점 ClimbUp Suwon",
+      "latitude": 37.26647,
+      "longitude": 127.03122
+    },
+    {
       "id": 678057,
       "username": "thecoyoterockgym",
       "name": "Coyote Rock Gym",
@@ -6173,6 +6180,13 @@
       "name": "Sandbox Bouldering",
       "latitude": -33.83541,
       "longitude": 151.05309
+    },
+    {
+      "id": 679004,
+      "username": "lamontgolfiereclub",
+      "name": "LMG Social Sports Club",
+      "latitude": 48.87699,
+      "longitude": 2.30923
     }
   ]
 }

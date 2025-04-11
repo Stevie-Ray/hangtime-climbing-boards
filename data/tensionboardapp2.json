@@ -1602,6 +1602,13 @@
       "name": "The Gravity Vault Lehigh Valley",
       "latitude": 40.63567,
       "longitude": -75.48184
+    },
+    {
+      "id": 188060,
+      "username": "sandbox.bouldering",
+      "name": "Sandbox Bouldering",
+      "latitude": -33.83541,
+      "longitude": 151.05309
     }
   ]
 }

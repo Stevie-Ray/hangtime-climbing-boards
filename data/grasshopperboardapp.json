@@ -293,6 +293,13 @@
       "name": "Stoneworks Climbing Gym",
       "latitude": 45.47198,
       "longitude": -122.79068
+    },
+    {
+      "id": 28118,
+      "username": "sandbox.bouldering",
+      "name": "Sandbox Bouldering",
+      "latitude": -33.83547,
+      "longitude": 151.05313
     }
   ]
 }

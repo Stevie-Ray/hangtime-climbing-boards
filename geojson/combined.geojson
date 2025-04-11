@@ -1305,6 +1305,27 @@
     },
     {
       "type": "Feature",
+      "id": 28118,
+      "properties": {
+        "id": 28118,
+        "username": "sandbox.bouldering",
+        "name": "Sandbox Bouldering",
+        "latitude": -33.83547,
+        "longitude": 151.05313,
+        "title": "Sandbox Bouldering",
+        "description": "Grasshopper Board at Sandbox Bouldering",
+        "marker-color": "#00EAFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.05313,
+          -33.83547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1575,
       "properties": {
         "id": 1575,
@@ -19764,6 +19785,27 @@
     },
     {
       "type": "Feature",
+      "id": 677760,
+      "properties": {
+        "id": 677760,
+        "username": "climbup_suwon",
+        "name": "클라임업 수원점 ClimbUp Suwon",
+        "latitude": 37.26647,
+        "longitude": 127.03122,
+        "title": "클라임업 수원점 ClimbUp Suwon",
+        "description": "Kilter Board at 클라임업 수원점 ClimbUp Suwon",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03122,
+          37.26647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 678057,
       "properties": {
         "id": 678057,
@@ -19822,6 +19864,27 @@
         "coordinates": [
           151.05309,
           -33.83541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 679004,
+      "properties": {
+        "id": 679004,
+        "username": "lamontgolfiereclub",
+        "name": "LMG Social Sports Club",
+        "latitude": 48.87699,
+        "longitude": 2.30923,
+        "title": "LMG Social Sports Club",
+        "description": "Kilter Board at LMG Social Sports Club",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30923,
+          48.87699
         ]
       }
     },
@@ -24736,6 +24799,27 @@
         "coordinates": [
           -75.48184,
           40.63567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188060,
+      "properties": {
+        "id": 188060,
+        "username": "sandbox.bouldering",
+        "name": "Sandbox Bouldering",
+        "latitude": -33.83541,
+        "longitude": 151.05309,
+        "title": "Sandbox Bouldering",
+        "description": "Tension Board at Sandbox Bouldering",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.05309,
+          -33.83541
         ]
       }
     },
