@@ -19890,6 +19890,48 @@
     },
     {
       "type": "Feature",
+      "id": 679909,
+      "properties": {
+        "id": 679909,
+        "username": "sporting_park_engelberg",
+        "name": "Sporting Park Engelberg",
+        "latitude": 46.81798,
+        "longitude": 8.40471,
+        "title": "Sporting Park Engelberg",
+        "description": "Kilter Board at Sporting Park Engelberg",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40471,
+          46.81798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 679920,
+      "properties": {
+        "id": 679920,
+        "username": "kletterakademie_mitterdorf",
+        "name": "Kletterakademie Mitterdorf - Sport und Funpark Mürztal",
+        "latitude": 47.54721,
+        "longitude": 15.52454,
+        "title": "Kletterakademie Mitterdorf - Sport und Funpark Mürztal",
+        "description": "Kilter Board at Kletterakademie Mitterdorf - Sport und Funpark Mürztal",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.52454,
+          47.54721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
