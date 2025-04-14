@@ -3619,11 +3619,11 @@
       "properties": {
         "id": 155386,
         "username": "hiveclimbing_poco",
-        "name": "The Hive Port Coquitlam",
+        "name": "The Hive Poco Climbing and Fitness",
         "latitude": 49.25311,
         "longitude": -122.73534,
-        "title": "The Hive Port Coquitlam",
-        "description": "Kilter Board at The Hive Port Coquitlam",
+        "title": "The Hive Poco Climbing and Fitness",
+        "description": "Kilter Board at The Hive Poco Climbing and Fitness",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -14098,11 +14098,11 @@
       "properties": {
         "id": 435379,
         "username": "hiveclimbingwpg",
-        "name": "The Hive Winnipeg",
+        "name": "The Hive Winnipeg Climbing and Fitness",
         "latitude": 49.8457,
         "longitude": -97.19936,
-        "title": "The Hive Winnipeg",
-        "description": "Kilter Board at The Hive Winnipeg",
+        "title": "The Hive Winnipeg Climbing and Fitness",
+        "description": "Kilter Board at The Hive Winnipeg Climbing and Fitness",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -19927,6 +19927,48 @@
         "coordinates": [
           15.52454,
           47.54721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 681031,
+      "properties": {
+        "id": 681031,
+        "username": "hiveclimbing_surrey",
+        "name": "The Hive Surrey Climbing and Fitness",
+        "latitude": 49.2048,
+        "longitude": -122.88207,
+        "title": "The Hive Surrey Climbing and Fitness",
+        "description": "Kilter Board at The Hive Surrey Climbing and Fitness",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88207,
+          49.2048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 681041,
+      "properties": {
+        "id": 681041,
+        "username": "soloescalade_toulouse",
+        "name": "Solo Escalade Toulouse",
+        "latitude": 43.62005,
+        "longitude": 1.42052,
+        "title": "Solo Escalade Toulouse",
+        "description": "Kilter Board at Solo Escalade Toulouse",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.42052,
+          43.62005
         ]
       }
     },

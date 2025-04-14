@@ -766,7 +766,7 @@
     {
       "id": 155386,
       "username": "hiveclimbing_poco",
-      "name": "The Hive Port Coquitlam",
+      "name": "The Hive Poco Climbing and Fitness",
       "latitude": 49.25311,
       "longitude": -122.73534
     },
@@ -4259,7 +4259,7 @@
     {
       "id": 435379,
       "username": "hiveclimbingwpg",
-      "name": "The Hive Winnipeg",
+      "name": "The Hive Winnipeg Climbing and Fitness",
       "latitude": 49.8457,
       "longitude": -97.19936
     },
@@ -6201,6 +6201,20 @@
       "name": "Kletterakademie Mitterdorf - Sport und Funpark Mürztal",
       "latitude": 47.54721,
       "longitude": 15.52454
+    },
+    {
+      "id": 681031,
+      "username": "hiveclimbing_surrey",
+      "name": "The Hive Surrey Climbing and Fitness",
+      "latitude": 49.2048,
+      "longitude": -122.88207
+    },
+    {
+      "id": 681041,
+      "username": "soloescalade_toulouse",
+      "name": "Solo Escalade Toulouse",
+      "latitude": 43.62005,
+      "longitude": 1.42052
     }
   ]
 }
