@@ -15915,6 +15915,24 @@
     },
     {
       "type": "Feature",
+      "id": 679476,
+      "properties": {
+        "id": 679476,
+        "username": "TheWeedonProject",
+        "name": "The Weedon Project - NOT OPEN YET",
+        "latitude": 52.23095,
+        "longitude": -1.08366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.08366,
+          52.23095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 679909,
       "properties": {
         "id": 679909,
