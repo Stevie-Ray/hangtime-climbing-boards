@@ -19894,11 +19894,11 @@
       "properties": {
         "id": 679476,
         "username": "TheWeedonProject",
-        "name": "The Weedon Project - NOT OPEN YET",
+        "name": "The Weedon Project",
         "latitude": 52.23095,
         "longitude": -1.08366,
-        "title": "The Weedon Project - NOT OPEN YET",
-        "description": "Kilter Board at The Weedon Project - NOT OPEN YET",
+        "title": "The Weedon Project",
+        "description": "Kilter Board at The Weedon Project",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -19990,6 +19990,27 @@
         "coordinates": [
           1.42052,
           43.62005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 683810,
+      "properties": {
+        "id": 683810,
+        "username": "murall_warszawa_gorczewska",
+        "name": "Murall Warszawa Górczewska",
+        "latitude": 52.23991,
+        "longitude": 20.90427,
+        "title": "Murall Warszawa Górczewska",
+        "description": "Kilter Board at Murall Warszawa Górczewska",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.90427,
+          52.23991
         ]
       }
     },

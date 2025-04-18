@@ -6191,7 +6191,7 @@
     {
       "id": 679476,
       "username": "TheWeedonProject",
-      "name": "The Weedon Project - NOT OPEN YET",
+      "name": "The Weedon Project",
       "latitude": 52.23095,
       "longitude": -1.08366
     },
@@ -6222,6 +6222,13 @@
       "name": "Solo Escalade Toulouse",
       "latitude": 43.62005,
       "longitude": 1.42052
+    },
+    {
+      "id": 683810,
+      "username": "murall_warszawa_gorczewska",
+      "name": "Murall Warszawa Górczewska",
+      "latitude": 52.23991,
+      "longitude": 20.90427
     }
   ]
 }

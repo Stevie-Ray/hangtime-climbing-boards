@@ -15919,7 +15919,7 @@
       "properties": {
         "id": 679476,
         "username": "TheWeedonProject",
-        "name": "The Weedon Project - NOT OPEN YET",
+        "name": "The Weedon Project",
         "latitude": 52.23095,
         "longitude": -1.08366
       },
@@ -16000,6 +16000,24 @@
         "coordinates": [
           1.42052,
           43.62005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 683810,
+      "properties": {
+        "id": 683810,
+        "username": "murall_warszawa_gorczewska",
+        "name": "Murall Warszawa Górczewska",
+        "latitude": 52.23991,
+        "longitude": 20.90427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.90427,
+          52.23991
         ]
       }
     }
