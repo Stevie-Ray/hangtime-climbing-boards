@@ -19995,6 +19995,27 @@
     },
     {
       "type": "Feature",
+      "id": 683476,
+      "properties": {
+        "id": 683476,
+        "username": "RockRepublicAlQusais",
+        "name": "Rock Republic Al Qusais",
+        "latitude": 25.29811,
+        "longitude": 55.38548,
+        "title": "Rock Republic Al Qusais",
+        "description": "Kilter Board at Rock Republic Al Qusais",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.38548,
+          25.29811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 683810,
       "properties": {
         "id": 683810,
