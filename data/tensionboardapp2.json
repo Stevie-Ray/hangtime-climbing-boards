@@ -1609,6 +1609,20 @@
       "name": "Sandbox Bouldering",
       "latitude": -33.83541,
       "longitude": 151.05309
+    },
+    {
+      "id": 189720,
+      "username": "lumaclimbinggym",
+      "name": "Luma Climbing",
+      "latitude": 51.379625,
+      "longitude": -2.353975
+    },
+    {
+      "id": 189722,
+      "username": "dynodetroit",
+      "name": "DYNO Detroit",
+      "latitude": 42.35301,
+      "longitude": -83.04074
     }
   ]
 }

@@ -4140,6 +4140,42 @@
           -33.83541
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 189720,
+      "properties": {
+        "id": 189720,
+        "username": "lumaclimbinggym",
+        "name": "Luma Climbing",
+        "latitude": 51.379625,
+        "longitude": -2.353975
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.353975,
+          51.379625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189722,
+      "properties": {
+        "id": 189722,
+        "username": "dynodetroit",
+        "name": "DYNO Detroit",
+        "latitude": 42.35301,
+        "longitude": -83.04074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04074,
+          42.35301
+        ]
+      }
     }
   ]
 }
