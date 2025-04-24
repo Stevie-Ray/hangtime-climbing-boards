@@ -16038,6 +16038,24 @@
           52.23991
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 685072,
+      "properties": {
+        "id": 685072,
+        "username": "Fingerfood_Boulderhalle",
+        "name": "Fingerfood Boulderhalle",
+        "latitude": 52.49089,
+        "longitude": 7.32613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.32613,
+          52.49089
+        ]
+      }
     }
   ]
 }
