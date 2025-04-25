@@ -16056,6 +16056,24 @@
           52.49089
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 687820,
+      "properties": {
+        "id": 687820,
+        "username": "rockcitytrainingcenter",
+        "name": "Rock City Training Center",
+        "latitude": 33.7166,
+        "longitude": -117.99956
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99956,
+          33.7166
+        ]
+      }
     }
   ]
 }

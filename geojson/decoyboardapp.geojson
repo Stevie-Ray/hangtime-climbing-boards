@@ -360,6 +360,24 @@
           44.50247
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 6940,
+      "properties": {
+        "id": 6940,
+        "username": "portsideboulders_joondalup",
+        "name": "Portside Boulders Joondalup",
+        "latitude": -31.75081,
+        "longitude": 115.76338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.76338,
+          -31.75081
+        ]
+      }
     }
   ]
 }

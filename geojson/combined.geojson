@@ -423,6 +423,27 @@
     },
     {
       "type": "Feature",
+      "id": 6940,
+      "properties": {
+        "id": 6940,
+        "username": "portsideboulders_joondalup",
+        "name": "Portside Boulders Joondalup",
+        "latitude": -31.75081,
+        "longitude": 115.76338,
+        "title": "Portside Boulders Joondalup",
+        "description": "Decoy Board at Portside Boulders Joondalup",
+        "marker-color": "#C256C8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.76338,
+          -31.75081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2117,
       "properties": {
         "id": 2117,
@@ -20053,6 +20074,27 @@
         "coordinates": [
           7.32613,
           52.49089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 687820,
+      "properties": {
+        "id": 687820,
+        "username": "rockcitytrainingcenter",
+        "name": "Rock City Training Center",
+        "latitude": 33.7166,
+        "longitude": -117.99956,
+        "title": "Rock City Training Center",
+        "description": "Kilter Board at Rock City Training Center",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99956,
+          33.7166
         ]
       }
     },
