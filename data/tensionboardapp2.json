@@ -1623,6 +1623,13 @@
       "name": "DYNO Detroit",
       "latitude": 42.35301,
       "longitude": -83.04074
+    },
+    {
+      "id": 190179,
+      "username": "hyperionclimbing",
+      "name": "Hyperion Climbing",
+      "latitude": 37.48421,
+      "longitude": -122.21474
     }
   ]
 }

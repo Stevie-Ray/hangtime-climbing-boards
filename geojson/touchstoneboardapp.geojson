@@ -72,6 +72,24 @@
           33.84918
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 5454,
+      "properties": {
+        "id": 5454,
+        "username": "hyperionclimbing",
+        "name": "Hyperion Climbing",
+        "latitude": 37.48421,
+        "longitude": -122.21474
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21474,
+          37.48421
+        ]
+      }
     }
   ]
 }

@@ -25077,6 +25077,27 @@
     },
     {
       "type": "Feature",
+      "id": 190179,
+      "properties": {
+        "id": 190179,
+        "username": "hyperionclimbing",
+        "name": "Hyperion Climbing",
+        "latitude": 37.48421,
+        "longitude": -122.21474,
+        "title": "Hyperion Climbing",
+        "description": "Tension Board at Hyperion Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21474,
+          37.48421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
@@ -25156,6 +25177,27 @@
         "coordinates": [
           -118.35146,
           33.84918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5454,
+      "properties": {
+        "id": 5454,
+        "username": "hyperionclimbing",
+        "name": "Hyperion Climbing",
+        "latitude": 37.48421,
+        "longitude": -122.21474,
+        "title": "Hyperion Climbing",
+        "description": "Touchstone Board at Hyperion Climbing",
+        "marker-color": "#276EAE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21474,
+          37.48421
         ]
       }
     }
