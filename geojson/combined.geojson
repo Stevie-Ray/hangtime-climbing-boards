@@ -20100,6 +20100,48 @@
     },
     {
       "type": "Feature",
+      "id": 690556,
+      "properties": {
+        "id": 690556,
+        "username": "climbit_mokgam",
+        "name": "클라임잇 목감 Climbit Mokgam",
+        "latitude": 37.38468,
+        "longitude": 126.86408,
+        "title": "클라임잇 목감 Climbit Mokgam",
+        "description": "Kilter Board at 클라임잇 목감 Climbit Mokgam",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.86408,
+          37.38468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 690562,
+      "properties": {
+        "id": 690562,
+        "username": "spot_climbing_gym",
+        "name": "SPOT Climbing Gym Bratislava",
+        "latitude": 48.21503,
+        "longitude": 17.01176,
+        "title": "SPOT Climbing Gym Bratislava",
+        "description": "Kilter Board at SPOT Climbing Gym Bratislava",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.01176,
+          48.21503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
