@@ -20142,6 +20142,27 @@
     },
     {
       "type": "Feature",
+      "id": 695014,
+      "properties": {
+        "id": 695014,
+        "username": "dav_teisendorf",
+        "name": "DAV Boulderhalle Teisendorf",
+        "latitude": 47.84818,
+        "longitude": 12.82114,
+        "title": "DAV Boulderhalle Teisendorf",
+        "description": "Kilter Board at DAV Boulderhalle Teisendorf",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82114,
+          47.84818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -25135,6 +25156,48 @@
         "coordinates": [
           -122.21474,
           37.48421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191633,
+      "properties": {
+        "id": 191633,
+        "username": "espacioaccion",
+        "name": "Rocódromos Espacio Acción",
+        "latitude": 40.4319,
+        "longitude": -3.65416,
+        "title": "Rocódromos Espacio Acción",
+        "description": "Tension Board at Rocódromos Espacio Acción",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65416,
+          40.4319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191644,
+      "properties": {
+        "id": 191644,
+        "username": "klimhalstadsmuur",
+        "name": "Stadsmuur Nijmegen",
+        "latitude": 51.82188,
+        "longitude": 5.7879,
+        "title": "Stadsmuur Nijmegen",
+        "description": "Tension Board at Stadsmuur Nijmegen",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7879,
+          51.82188
         ]
       }
     },

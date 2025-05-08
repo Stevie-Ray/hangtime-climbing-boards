@@ -16110,6 +16110,24 @@
           48.21503
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 695014,
+      "properties": {
+        "id": 695014,
+        "username": "dav_teisendorf",
+        "name": "DAV Boulderhalle Teisendorf",
+        "latitude": 47.84818,
+        "longitude": 12.82114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82114,
+          47.84818
+        ]
+      }
     }
   ]
 }

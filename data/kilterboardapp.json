@@ -6264,6 +6264,13 @@
       "name": "SPOT Climbing Gym Bratislava",
       "latitude": 48.21503,
       "longitude": 17.01176
+    },
+    {
+      "id": 695014,
+      "username": "dav_teisendorf",
+      "name": "DAV Boulderhalle Teisendorf",
+      "latitude": 47.84818,
+      "longitude": 12.82114
     }
   ]
 }
