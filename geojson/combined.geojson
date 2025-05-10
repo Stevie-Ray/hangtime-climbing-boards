@@ -20163,6 +20163,27 @@
     },
     {
       "type": "Feature",
+      "id": 696047,
+      "properties": {
+        "id": 696047,
+        "username": "banana_climbinggym_leshi",
+        "name": "香蕉攀岩馆 Banana Climbing Gym(乐士店)",
+        "latitude": 22.24008,
+        "longitude": 113.51732,
+        "title": "香蕉攀岩馆 Banana Climbing Gym(乐士店)",
+        "description": "Kilter Board at 香蕉攀岩馆 Banana Climbing Gym(乐士店)",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.51732,
+          22.24008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,

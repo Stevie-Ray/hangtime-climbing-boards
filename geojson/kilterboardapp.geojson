@@ -16128,6 +16128,24 @@
           47.84818
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 696047,
+      "properties": {
+        "id": 696047,
+        "username": "banana_climbinggym_leshi",
+        "name": "香蕉攀岩馆 Banana Climbing Gym(乐士店)",
+        "latitude": 22.24008,
+        "longitude": 113.51732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.51732,
+          22.24008
+        ]
+      }
     }
   ]
 }
