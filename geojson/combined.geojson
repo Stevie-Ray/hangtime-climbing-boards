@@ -20184,6 +20184,27 @@
     },
     {
       "type": "Feature",
+      "id": 698161,
+      "properties": {
+        "id": 698161,
+        "username": "verticalspiritescalada",
+        "name": "Vertical Spirit",
+        "latitude": 44.4485,
+        "longitude": 26.15137,
+        "title": "Vertical Spirit",
+        "description": "Kilter Board at Vertical Spirit",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.15137,
+          44.4485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
