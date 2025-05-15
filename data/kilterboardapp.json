@@ -6273,6 +6273,13 @@
       "longitude": 12.82114
     },
     {
+      "id": 695582,
+      "username": "inwallclimbing",
+      "name": "INWALL Climbing Center",
+      "latitude": 38.53296,
+      "longitude": -8.87263
+    },
+    {
       "id": 696047,
       "username": "banana_climbinggym_leshi",
       "name": "香蕉攀岩馆 Banana Climbing Gym(乐士店)",
@@ -6285,6 +6292,20 @@
       "name": "Vertical Spirit",
       "latitude": 44.4485,
       "longitude": 26.15137
+    },
+    {
+      "id": 698703,
+      "username": "boulderbaar",
+      "name": "Boulder Baar",
+      "latitude": 47.19867,
+      "longitude": 8.54014
+    },
+    {
+      "id": 698913,
+      "username": "bloc_climbing",
+      "name": "Bloc Climbing Centre",
+      "latitude": 51.46842,
+      "longitude": -2.57022
     }
   ]
 }

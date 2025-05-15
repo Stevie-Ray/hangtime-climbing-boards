@@ -20163,6 +20163,27 @@
     },
     {
       "type": "Feature",
+      "id": 695582,
+      "properties": {
+        "id": 695582,
+        "username": "inwallclimbing",
+        "name": "INWALL Climbing Center",
+        "latitude": 38.53296,
+        "longitude": -8.87263,
+        "title": "INWALL Climbing Center",
+        "description": "Kilter Board at INWALL Climbing Center",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.87263,
+          38.53296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 696047,
       "properties": {
         "id": 696047,
@@ -20200,6 +20221,48 @@
         "coordinates": [
           26.15137,
           44.4485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 698703,
+      "properties": {
+        "id": 698703,
+        "username": "boulderbaar",
+        "name": "Boulder Baar",
+        "latitude": 47.19867,
+        "longitude": 8.54014,
+        "title": "Boulder Baar",
+        "description": "Kilter Board at Boulder Baar",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54014,
+          47.19867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 698913,
+      "properties": {
+        "id": 698913,
+        "username": "bloc_climbing",
+        "name": "Bloc Climbing Centre",
+        "latitude": 51.46842,
+        "longitude": -2.57022,
+        "title": "Bloc Climbing Centre",
+        "description": "Kilter Board at Bloc Climbing Centre",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.57022,
+          51.46842
         ]
       }
     },
