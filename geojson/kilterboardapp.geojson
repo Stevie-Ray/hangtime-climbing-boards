@@ -16218,6 +16218,24 @@
           51.46842
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 699480,
+      "properties": {
+        "id": 699480,
+        "username": "movement_mtnview",
+        "name": "Movement Mountain View",
+        "latitude": 37.40295,
+        "longitude": -122.1135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1135,
+          37.40295
+        ]
+      }
     }
   ]
 }

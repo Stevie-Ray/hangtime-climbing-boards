@@ -20268,6 +20268,27 @@
     },
     {
       "type": "Feature",
+      "id": 699480,
+      "properties": {
+        "id": 699480,
+        "username": "movement_mtnview",
+        "name": "Movement Mountain View",
+        "latitude": 37.40295,
+        "longitude": -122.1135,
+        "title": "Movement Mountain View",
+        "description": "Kilter Board at Movement Mountain View",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1135,
+          37.40295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -25303,6 +25324,48 @@
         "coordinates": [
           5.7879,
           51.82188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192722,
+      "properties": {
+        "id": 192722,
+        "username": "boulderparc",
+        "name": "Boulder Parc",
+        "latitude": 43.81086,
+        "longitude": -79.20272,
+        "title": "Boulder Parc",
+        "description": "Tension Board at Boulder Parc",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20272,
+          43.81086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192723,
+      "properties": {
+        "id": 192723,
+        "username": "movement_mtnview",
+        "name": "Movement Mountain View",
+        "latitude": 37.40295,
+        "longitude": -122.1135,
+        "title": "Movement Mountain View",
+        "description": "Tension Board at Movement Mountain View",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1135,
+          37.40295
         ]
       }
     },

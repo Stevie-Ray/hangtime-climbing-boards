@@ -6306,6 +6306,13 @@
       "name": "Bloc Climbing Centre",
       "latitude": 51.46842,
       "longitude": -2.57022
+    },
+    {
+      "id": 699480,
+      "username": "movement_mtnview",
+      "name": "Movement Mountain View",
+      "latitude": 37.40295,
+      "longitude": -122.1135
     }
   ]
 }

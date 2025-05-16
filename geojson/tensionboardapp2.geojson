@@ -4230,6 +4230,42 @@
           51.82188
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 192722,
+      "properties": {
+        "id": 192722,
+        "username": "boulderparc",
+        "name": "Boulder Parc",
+        "latitude": 43.81086,
+        "longitude": -79.20272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20272,
+          43.81086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192723,
+      "properties": {
+        "id": 192723,
+        "username": "movement_mtnview",
+        "name": "Movement Mountain View",
+        "latitude": 37.40295,
+        "longitude": -122.1135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1135,
+          37.40295
+        ]
+      }
     }
   ]
 }
