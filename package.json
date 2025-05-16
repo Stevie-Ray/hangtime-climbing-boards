@@ -18,12 +18,12 @@
   "license": "Unlicense",
   "dependencies": {
     "@turf/turf": "^7.2.0",
-    "axios": "^1.8.4",
-    "dotenv": "^16.4.7"
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^22.13.11",
-    "typescript": "^5.8.2"
+    "@types/node": "^22.15.18",
+    "typescript": "^5.8.3"
   }
 }
