@@ -6313,6 +6313,20 @@
       "name": "Movement Mountain View",
       "latitude": 37.40295,
       "longitude": -122.1135
+    },
+    {
+      "id": 699925,
+      "username": "uwlrec",
+      "name": "UWL REC Climbing Gym",
+      "latitude": 43.81704,
+      "longitude": -91.23293
+    },
+    {
+      "id": 699937,
+      "username": "heroyklatreklubb",
+      "name": "Herøy Klattreklubb",
+      "latitude": 62.32548,
+      "longitude": 5.67393
     }
   ]
 }

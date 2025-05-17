@@ -20289,6 +20289,48 @@
     },
     {
       "type": "Feature",
+      "id": 699925,
+      "properties": {
+        "id": 699925,
+        "username": "uwlrec",
+        "name": "UWL REC Climbing Gym",
+        "latitude": 43.81704,
+        "longitude": -91.23293,
+        "title": "UWL REC Climbing Gym",
+        "description": "Kilter Board at UWL REC Climbing Gym",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.23293,
+          43.81704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 699937,
+      "properties": {
+        "id": 699937,
+        "username": "heroyklatreklubb",
+        "name": "Herøy Klattreklubb",
+        "latitude": 62.32548,
+        "longitude": 5.67393,
+        "title": "Herøy Klattreklubb",
+        "description": "Kilter Board at Herøy Klattreklubb",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.67393,
+          62.32548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
