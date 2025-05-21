@@ -7272,12 +7272,12 @@
       "id": 178228,
       "properties": {
         "id": 178228,
-        "username": "cultivateclimbing_boardroom",
-        "name": "Cultivate Climbing - The Boardroom",
+        "username": "cultivateclimbing_bunker",
+        "name": "Cultivate Climbing - The Bunker",
         "latitude": 35.59211,
         "longitude": -82.55935,
-        "title": "Cultivate Climbing - The Boardroom",
-        "description": "Kilter Board at Cultivate Climbing - The Boardroom",
+        "title": "Cultivate Climbing - The Bunker",
+        "description": "Kilter Board at Cultivate Climbing - The Bunker",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -20331,6 +20331,27 @@
     },
     {
       "type": "Feature",
+      "id": 702078,
+      "properties": {
+        "id": 702078,
+        "username": "tilted.climbing",
+        "name": "Tilted Climbing & Fitness",
+        "latitude": 49.30961,
+        "longitude": -123.03323,
+        "title": "Tilted Climbing & Fitness",
+        "description": "Kilter Board at Tilted Climbing & Fitness",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.03323,
+          49.30961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -24828,12 +24849,12 @@
       "id": 169016,
       "properties": {
         "id": 169016,
-        "username": "cultivateclimbing_boardroom",
-        "name": "Cultivate Climbing - The Boardroom",
+        "username": "cultivateclimbing_bunker",
+        "name": "Cultivate Climbing - The Bunker",
         "latitude": 35.59211,
         "longitude": -82.55935,
-        "title": "Cultivate Climbing - The Boardroom",
-        "description": "Tension Board at Cultivate Climbing - The Boardroom",
+        "title": "Cultivate Climbing - The Bunker",
+        "description": "Tension Board at Cultivate Climbing - The Bunker",
         "marker-color": "#000000"
       },
       "geometry": {

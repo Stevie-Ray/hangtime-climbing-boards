@@ -5082,8 +5082,8 @@
       "id": 178228,
       "properties": {
         "id": 178228,
-        "username": "cultivateclimbing_boardroom",
-        "name": "Cultivate Climbing - The Boardroom",
+        "username": "cultivateclimbing_bunker",
+        "name": "Cultivate Climbing - The Bunker",
         "latitude": 35.59211,
         "longitude": -82.55935
       },
@@ -16270,6 +16270,24 @@
         "coordinates": [
           5.67393,
           62.32548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 702078,
+      "properties": {
+        "id": 702078,
+        "username": "tilted.climbing",
+        "name": "Tilted Climbing & Fitness",
+        "latitude": 49.30961,
+        "longitude": -123.03323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.03323,
+          49.30961
         ]
       }
     }
