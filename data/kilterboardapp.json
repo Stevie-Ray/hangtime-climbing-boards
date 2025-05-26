@@ -6334,6 +6334,20 @@
       "name": "Tilted Climbing & Fitness",
       "latitude": 49.30961,
       "longitude": -123.03323
+    },
+    {
+      "id": 704994,
+      "username": "moco.gym",
+      "name": "Moco Bouldering and Fitness",
+      "latitude": 30.3327,
+      "longitude": -95.46501
+    },
+    {
+      "id": 705002,
+      "username": "boulderco.chch",
+      "name": "Boulder Co Christchurch",
+      "latitude": -43.53832,
+      "longitude": 172.59476
     }
   ]
 }

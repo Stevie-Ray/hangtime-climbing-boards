@@ -16290,6 +16290,42 @@
           49.30961
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 704994,
+      "properties": {
+        "id": 704994,
+        "username": "moco.gym",
+        "name": "Moco Bouldering and Fitness",
+        "latitude": 30.3327,
+        "longitude": -95.46501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.46501,
+          30.3327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 705002,
+      "properties": {
+        "id": 705002,
+        "username": "boulderco.chch",
+        "name": "Boulder Co Christchurch",
+        "latitude": -43.53832,
+        "longitude": 172.59476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.59476,
+          -43.53832
+        ]
+      }
     }
   ]
 }

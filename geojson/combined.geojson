@@ -20352,6 +20352,48 @@
     },
     {
       "type": "Feature",
+      "id": 704994,
+      "properties": {
+        "id": 704994,
+        "username": "moco.gym",
+        "name": "Moco Bouldering and Fitness",
+        "latitude": 30.3327,
+        "longitude": -95.46501,
+        "title": "Moco Bouldering and Fitness",
+        "description": "Kilter Board at Moco Bouldering and Fitness",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.46501,
+          30.3327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 705002,
+      "properties": {
+        "id": 705002,
+        "username": "boulderco.chch",
+        "name": "Boulder Co Christchurch",
+        "latitude": -43.53832,
+        "longitude": 172.59476,
+        "title": "Boulder Co Christchurch",
+        "description": "Kilter Board at Boulder Co Christchurch",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.59476,
+          -43.53832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
