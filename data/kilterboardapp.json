@@ -6348,6 +6348,13 @@
       "name": "Boulder Co Christchurch",
       "latitude": -43.53832,
       "longitude": 172.59476
+    },
+    {
+      "id": 705516,
+      "username": "bouldersvanloese",
+      "name": "Boulders Vanløse",
+      "latitude": 55.68776,
+      "longitude": 12.4909
     }
   ]
 }

@@ -16326,6 +16326,24 @@
           -43.53832
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 705516,
+      "properties": {
+        "id": 705516,
+        "username": "bouldersvanloese",
+        "name": "Boulders Vanløse",
+        "latitude": 55.68776,
+        "longitude": 12.4909
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4909,
+          55.68776
+        ]
+      }
     }
   ]
 }

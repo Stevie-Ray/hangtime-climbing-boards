@@ -20394,6 +20394,27 @@
     },
     {
       "type": "Feature",
+      "id": 705516,
+      "properties": {
+        "id": 705516,
+        "username": "bouldersvanloese",
+        "name": "Boulders Vanløse",
+        "latitude": 55.68776,
+        "longitude": 12.4909,
+        "title": "Boulders Vanløse",
+        "description": "Kilter Board at Boulders Vanløse",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4909,
+          55.68776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
