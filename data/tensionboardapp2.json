@@ -1658,6 +1658,41 @@
       "name": "Movement Mountain View",
       "latitude": 37.40295,
       "longitude": -122.1135
+    },
+    {
+      "id": 195617,
+      "username": "climbing_gym_sen",
+      "name": "Climbing Gym Sen",
+      "latitude": 51.49843,
+      "longitude": -0.11382
+    },
+    {
+      "id": 195627,
+      "username": "elektra.berlin",
+      "name": "Elektra Boulderhalle",
+      "latitude": 52.5411,
+      "longitude": 13.3869
+    },
+    {
+      "id": 197295,
+      "username": "faultlineclimbing",
+      "name": "Faultline Climbing",
+      "latitude": -41.29287,
+      "longitude": 174.77275
+    },
+    {
+      "id": 197475,
+      "username": "flashpointswansea",
+      "name": "Flashpoint Swansea",
+      "latitude": 51.62199,
+      "longitude": -3.93954
+    },
+    {
+      "id": 197931,
+      "username": "rock_power_lab",
+      "name": "Rock Power Lab 岩力实验室",
+      "latitude": 30.24171,
+      "longitude": 120.03151
     }
   ]
 }

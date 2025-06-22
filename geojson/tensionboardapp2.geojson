@@ -4266,6 +4266,96 @@
           37.40295
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 195617,
+      "properties": {
+        "id": 195617,
+        "username": "climbing_gym_sen",
+        "name": "Climbing Gym Sen",
+        "latitude": 51.49843,
+        "longitude": -0.11382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11382,
+          51.49843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 195627,
+      "properties": {
+        "id": 195627,
+        "username": "elektra.berlin",
+        "name": "Elektra Boulderhalle",
+        "latitude": 52.5411,
+        "longitude": 13.3869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3869,
+          52.5411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197295,
+      "properties": {
+        "id": 197295,
+        "username": "faultlineclimbing",
+        "name": "Faultline Climbing",
+        "latitude": -41.29287,
+        "longitude": 174.77275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77275,
+          -41.29287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197475,
+      "properties": {
+        "id": 197475,
+        "username": "flashpointswansea",
+        "name": "Flashpoint Swansea",
+        "latitude": 51.62199,
+        "longitude": -3.93954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.93954,
+          51.62199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197931,
+      "properties": {
+        "id": 197931,
+        "username": "rock_power_lab",
+        "name": "Rock Power Lab 岩力实验室",
+        "latitude": 30.24171,
+        "longitude": 120.03151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.03151,
+          30.24171
+        ]
+      }
     }
   ]
 }

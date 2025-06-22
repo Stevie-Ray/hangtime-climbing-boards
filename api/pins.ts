@@ -12,9 +12,9 @@ export function getPins(board: BoardType): Promise<{ gyms: Pin[] }> {
   const client = new APIClient(board);
   return client.request<{ gyms: Pin[] }>({
     method: "GET",
-    url: "/v1/pins",
+    url: "/pins",
     params: {
-      types: "gym",
+      gyms: 1,
     },
   });
 }

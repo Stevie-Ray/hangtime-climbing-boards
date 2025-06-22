@@ -2,8 +2,8 @@
  * Represents a login response from the Aurora Climbing API.
  */
 export interface Login {
-  /** Authentication token */
-  token: string;
+  /** Session token */
+  session: string;
   /** User ID */
   user_id: number;
   /** Username */

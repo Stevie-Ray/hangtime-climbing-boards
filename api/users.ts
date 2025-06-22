@@ -4,24 +4,24 @@ import { APIClient } from "../models/client.ts";
 import type { AxiosError } from "axios";
 
 /**
- * Fetches user details for a specific gym
+ * Fetches user details for a specific user
  * @param {BoardType} board - The name of the board app
- * @param {number} gymId - The ID of the gym
- * @param {string} token - Authentication token
- * @returns {Promise<{ user: User } | undefined>} User details or undefined if the gym is not found
+ * @param {number} userId - The ID of the user
+ * @param {string} token - Session token
+ * @returns {Promise<{ user: User } | undefined>} User details or undefined if the user is not found
  */
 export async function getUsers(
   board: BoardType,
-  gymId: number,
+  userId: number,
   token: string,
 ): Promise<{ user: User } | undefined> {
   const client = new APIClient(board);
   try {
     return await client.request<{ user: User }>({
       method: "GET",
-      url: `/v2/users/${gymId}`,
+      url: `/users/${userId}`,
       headers: {
-        authorization: `Bearer ${token}`,
+        cookie: `token=${token}`,
       },
     });
   } catch (error) {

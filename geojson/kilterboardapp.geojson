@@ -4755,24 +4755,6 @@
     },
     {
       "type": "Feature",
-      "id": 171956,
-      "properties": {
-        "id": 171956,
-        "username": "oslomikrobuldreri_pilestredet",
-        "name": "Oslo Mikrobuldreri Pilestredet",
-        "latitude": 59.91749,
-        "longitude": 10.73798
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.73798,
-          59.91749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 172305,
       "properties": {
         "id": 172305,
@@ -10573,7 +10555,7 @@
       "properties": {
         "id": 415858,
         "username": "climbmoabgym",
-        "name": "Climb Moab",
+        "name": "Climb scaghMoab",
         "latitude": 38.493873,
         "longitude": -109.468447
       },
@@ -16261,7 +16243,7 @@
       "properties": {
         "id": 699937,
         "username": "heroyklatreklubb",
-        "name": "Herøy Klattreklubb",
+        "name": "Herøy klatreklubb",
         "latitude": 62.32548,
         "longitude": 5.67393
       },
@@ -16342,6 +16324,150 @@
         "coordinates": [
           12.4909,
           55.68776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 710869,
+      "properties": {
+        "id": 710869,
+        "username": "offsite.climbing",
+        "name": "OffSite Climbing",
+        "latitude": 45.56273,
+        "longitude": -73.54047
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54047,
+          45.56273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 712237,
+      "properties": {
+        "id": 712237,
+        "username": "AltissimoLoisirama",
+        "name": "Altissimo Metz Loisirama",
+        "latitude": 49.09259,
+        "longitude": 6.13135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13135,
+          49.09259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 712243,
+      "properties": {
+        "id": 712243,
+        "username": "blocsession_lyoncentre",
+        "name": "Bloc Session Lyon Centre",
+        "latitude": 45.75495,
+        "longitude": 4.86817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86817,
+          45.75495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 715331,
+      "properties": {
+        "id": 715331,
+        "username": "bouldersclimbingyeg",
+        "name": "Boulders Climbing",
+        "latitude": 53.548,
+        "longitude": -113.50434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50434,
+          53.548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 715342,
+      "properties": {
+        "id": 715342,
+        "username": "centralrockbuffalo",
+        "name": "Central Rock Gym Buffalo",
+        "latitude": 42.87012,
+        "longitude": -78.86807
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86807,
+          42.87012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 717530,
+      "properties": {
+        "id": 717530,
+        "username": "ethosclimbinggym",
+        "name": "Ethos Climbing",
+        "latitude": 43.64433,
+        "longitude": -79.3687
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3687,
+          43.64433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 719618,
+      "properties": {
+        "id": 719618,
+        "username": "ye.center",
+        "name": "YE Escalada + Yoga Center",
+        "latitude": 20.61837,
+        "longitude": -103.43033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43033,
+          20.61837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 719636,
+      "properties": {
+        "id": 719636,
+        "username": "rock_power_lab",
+        "name": "Rock Power Lab 岩力实验室",
+        "latitude": 30.24171,
+        "longitude": 120.03151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.03151,
+          30.24171
         ]
       }
     }

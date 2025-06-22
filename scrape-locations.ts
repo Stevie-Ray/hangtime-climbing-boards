@@ -67,7 +67,7 @@ async function scrapeUser(
       // Add gym and walls to each pin
       pins.map(async (pin: Pin) => {
         try {
-          const login = await getUsers(board, pin.id, data.token);
+          const login = await getUsers(board, pin.id, data.session);
 
           if (login?.user?.walls) {
             return {

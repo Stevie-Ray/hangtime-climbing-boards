@@ -3,11 +3,11 @@ import type { Login } from "../interfaces/login.ts";
 import { APIClient } from "../models/client.ts";
 
 /**
- * Authenticates with the board app API and returns a token
+ * Authenticates with the board app API and returns a session token
  * @param {BoardType} board - The name of the board app
  * @param {string} username - User's username
  * @param {string} password - User's password
- * @returns {Promise<Login>} Authentication token
+ * @returns {Promise<Login>} Session token
  */
 export function getLogins(
   board: BoardType,
@@ -17,10 +17,13 @@ export function getLogins(
   const client = new APIClient(board);
   return client.request<Login>({
     method: "POST",
-    url: "/v1/logins",
+    url: "/sessions",
     data: {
       username,
       password,
+      tou: "accepted",
+      pp: "accepted",
+      ua: "app",
     },
   });
 }
