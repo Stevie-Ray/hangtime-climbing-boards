@@ -6404,6 +6404,13 @@
       "name": "Rock Power Lab 岩力实验室",
       "latitude": 30.24171,
       "longitude": 120.03151
+    },
+    {
+      "id": 722264,
+      "username": "suapsmetz",
+      "name": "SUAPS Metz",
+      "latitude": 49.11961,
+      "longitude": 6.15562
     }
   ]
 }

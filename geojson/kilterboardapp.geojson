@@ -16470,6 +16470,24 @@
           30.24171
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 722264,
+      "properties": {
+        "id": 722264,
+        "username": "suapsmetz",
+        "name": "SUAPS Metz",
+        "latitude": 49.11961,
+        "longitude": 6.15562
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15562,
+          49.11961
+        ]
+      }
     }
   ]
 }

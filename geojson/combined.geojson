@@ -20562,6 +20562,27 @@
     },
     {
       "type": "Feature",
+      "id": 722264,
+      "properties": {
+        "id": 722264,
+        "username": "suapsmetz",
+        "name": "SUAPS Metz",
+        "latitude": 49.11961,
+        "longitude": 6.15562,
+        "title": "SUAPS Metz",
+        "description": "Kilter Board at SUAPS Metz",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15562,
+          49.11961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
