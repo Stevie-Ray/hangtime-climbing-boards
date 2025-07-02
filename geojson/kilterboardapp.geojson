@@ -16488,6 +16488,60 @@
           49.11961
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 725113,
+      "properties": {
+        "id": 725113,
+        "username": "climbing.roots",
+        "name": "Climbing Roots",
+        "latitude": 35.94278,
+        "longitude": -83.88968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.88968,
+          35.94278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 725118,
+      "properties": {
+        "id": 725118,
+        "username": "dav_kletterzentrum_bayreuth",
+        "name": "DAV Kletterzentrum Bayreuth",
+        "latitude": 49.93592,
+        "longitude": 11.5988
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988,
+          49.93592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 725123,
+      "properties": {
+        "id": 725123,
+        "username": "tchsouthampton",
+        "name": "The Climbing Hangar Southampton",
+        "latitude": 50.91406,
+        "longitude": -1.45032
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.45032,
+          50.91406
+        ]
+      }
     }
   ]
 }

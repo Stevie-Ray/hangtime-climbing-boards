@@ -6411,6 +6411,27 @@
       "name": "SUAPS Metz",
       "latitude": 49.11961,
       "longitude": 6.15562
+    },
+    {
+      "id": 725113,
+      "username": "climbing.roots",
+      "name": "Climbing Roots",
+      "latitude": 35.94278,
+      "longitude": -83.88968
+    },
+    {
+      "id": 725118,
+      "username": "dav_kletterzentrum_bayreuth",
+      "name": "DAV Kletterzentrum Bayreuth",
+      "latitude": 49.93592,
+      "longitude": 11.5988
+    },
+    {
+      "id": 725123,
+      "username": "tchsouthampton",
+      "name": "The Climbing Hangar Southampton",
+      "latitude": 50.91406,
+      "longitude": -1.45032
     }
   ]
 }

@@ -20583,6 +20583,69 @@
     },
     {
       "type": "Feature",
+      "id": 725113,
+      "properties": {
+        "id": 725113,
+        "username": "climbing.roots",
+        "name": "Climbing Roots",
+        "latitude": 35.94278,
+        "longitude": -83.88968,
+        "title": "Climbing Roots",
+        "description": "Kilter Board at Climbing Roots",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.88968,
+          35.94278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 725118,
+      "properties": {
+        "id": 725118,
+        "username": "dav_kletterzentrum_bayreuth",
+        "name": "DAV Kletterzentrum Bayreuth",
+        "latitude": 49.93592,
+        "longitude": 11.5988,
+        "title": "DAV Kletterzentrum Bayreuth",
+        "description": "Kilter Board at DAV Kletterzentrum Bayreuth",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988,
+          49.93592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 725123,
+      "properties": {
+        "id": 725123,
+        "username": "tchsouthampton",
+        "name": "The Climbing Hangar Southampton",
+        "latitude": 50.91406,
+        "longitude": -1.45032,
+        "title": "The Climbing Hangar Southampton",
+        "description": "Kilter Board at The Climbing Hangar Southampton",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.45032,
+          50.91406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -25765,6 +25828,27 @@
         "coordinates": [
           120.03151,
           30.24171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 199403,
+      "properties": {
+        "id": 199403,
+        "username": "climbgravitybear",
+        "name": "Climb Gravity Bear",
+        "latitude": 36.15595,
+        "longitude": -95.98299,
+        "title": "Climb Gravity Bear",
+        "description": "Tension Board at Climb Gravity Bear",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.98299,
+          36.15595
         ]
       }
     },

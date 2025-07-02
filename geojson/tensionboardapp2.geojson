@@ -4356,6 +4356,24 @@
           30.24171
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 199403,
+      "properties": {
+        "id": 199403,
+        "username": "climbgravitybear",
+        "name": "Climb Gravity Bear",
+        "latitude": 36.15595,
+        "longitude": -95.98299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.98299,
+          36.15595
+        ]
+      }
     }
   ]
 }
