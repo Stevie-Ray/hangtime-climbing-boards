@@ -20646,6 +20646,27 @@
     },
     {
       "type": "Feature",
+      "id": 726231,
+      "properties": {
+        "id": 726231,
+        "username": "climbupistres",
+        "name": "Climb Up Istres",
+        "latitude": 43.52859,
+        "longitude": 4.95816,
+        "title": "Climb Up Istres",
+        "description": "Kilter Board at Climb Up Istres",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95816,
+          43.52859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -25686,6 +25707,27 @@
     },
     {
       "type": "Feature",
+      "id": 191776,
+      "properties": {
+        "id": 191776,
+        "username": "Blocschokolade",
+        "name": "Blocschokolade",
+        "latitude": 49.77637,
+        "longitude": 6.69406,
+        "title": "Blocschokolade",
+        "description": "Tension Board at Blocschokolade",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.69406,
+          49.77637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 192722,
       "properties": {
         "id": 192722,
@@ -25837,11 +25879,11 @@
       "properties": {
         "id": 199403,
         "username": "climbgravitybear",
-        "name": "Climb Gravity Bear",
+        "name": "GRAVITY BEAR Bouldering Gym",
         "latitude": 36.15595,
         "longitude": -95.98299,
-        "title": "Climb Gravity Bear",
-        "description": "Tension Board at Climb Gravity Bear",
+        "title": "GRAVITY BEAR Bouldering Gym",
+        "description": "Tension Board at GRAVITY BEAR Bouldering Gym",
         "marker-color": "#000000"
       },
       "geometry": {

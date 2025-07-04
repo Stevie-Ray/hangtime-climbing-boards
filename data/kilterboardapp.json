@@ -6432,6 +6432,13 @@
       "name": "The Climbing Hangar Southampton",
       "latitude": 50.91406,
       "longitude": -1.45032
+    },
+    {
+      "id": 726231,
+      "username": "climbupistres",
+      "name": "Climb Up Istres",
+      "latitude": 43.52859,
+      "longitude": 4.95816
     }
   ]
 }

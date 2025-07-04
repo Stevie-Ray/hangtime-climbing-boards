@@ -4233,6 +4233,24 @@
     },
     {
       "type": "Feature",
+      "id": 191776,
+      "properties": {
+        "id": 191776,
+        "username": "Blocschokolade",
+        "name": "Blocschokolade",
+        "latitude": 49.77637,
+        "longitude": 6.69406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.69406,
+          49.77637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 192722,
       "properties": {
         "id": 192722,
@@ -4363,7 +4381,7 @@
       "properties": {
         "id": 199403,
         "username": "climbgravitybear",
-        "name": "Climb Gravity Bear",
+        "name": "GRAVITY BEAR Bouldering Gym",
         "latitude": 36.15595,
         "longitude": -95.98299
       },

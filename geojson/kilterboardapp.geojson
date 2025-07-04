@@ -16542,6 +16542,24 @@
           50.91406
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 726231,
+      "properties": {
+        "id": 726231,
+        "username": "climbupistres",
+        "name": "Climb Up Istres",
+        "latitude": 43.52859,
+        "longitude": 4.95816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95816,
+          43.52859
+        ]
+      }
     }
   ]
 }
