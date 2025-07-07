@@ -4392,6 +4392,24 @@
           36.15595
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 200038,
+      "properties": {
+        "id": 200038,
+        "username": "tchsouthampton",
+        "name": "The Climbing Hangar Southampton",
+        "latitude": 50.91406,
+        "longitude": -1.45032
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.45032,
+          50.91406
+        ]
+      }
     }
   ]
 }

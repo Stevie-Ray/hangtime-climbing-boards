@@ -16560,6 +16560,24 @@
           43.52859
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 727332,
+      "properties": {
+        "id": 727332,
+        "username": "baldportszczecin",
+        "name": "Bald Port",
+        "latitude": 53.40676,
+        "longitude": 14.51759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51759,
+          53.40676
+        ]
+      }
     }
   ]
 }

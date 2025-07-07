@@ -20667,6 +20667,27 @@
     },
     {
       "type": "Feature",
+      "id": 727332,
+      "properties": {
+        "id": 727332,
+        "username": "baldportszczecin",
+        "name": "Bald Port",
+        "latitude": 53.40676,
+        "longitude": 14.51759,
+        "title": "Bald Port",
+        "description": "Kilter Board at Bald Port",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51759,
+          53.40676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -25891,6 +25912,27 @@
         "coordinates": [
           -95.98299,
           36.15595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 200038,
+      "properties": {
+        "id": 200038,
+        "username": "tchsouthampton",
+        "name": "The Climbing Hangar Southampton",
+        "latitude": 50.91406,
+        "longitude": -1.45032,
+        "title": "The Climbing Hangar Southampton",
+        "description": "Tension Board at The Climbing Hangar Southampton",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.45032,
+          50.91406
         ]
       }
     },
