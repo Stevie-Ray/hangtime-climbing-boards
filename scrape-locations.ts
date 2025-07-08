@@ -11,7 +11,7 @@ import { boards, type BoardType } from "./boards.ts";
 
 // Interfaces
 import type { Pin } from "./interfaces/pin.ts";
-import type { Gym, Wall } from "./interfaces/user.ts";
+import type { Gym, User, Wall } from "./interfaces/user.ts";
 
 // API
 import { getLogins } from "./api/logins.ts";
@@ -57,24 +57,26 @@ async function scrapeUser(
   },
 ): Promise<PinWithOptionalUser[]> {
   try {
-    const data = await getLogins(
+    const token = await getLogins(
       board,
       credentials.username,
       credentials.password,
     );
 
     const PinWithOptionalUser = await Promise.all(
-      // Add gym and walls to each pin
       pins.map(async (pin: Pin) => {
         try {
-          const login = await getUsers(board, pin.id, data.session);
+          const login = await getUsers(board, pin.id, token);
 
-          if (login?.user?.walls) {
-            return {
+          if (
+            login?.users && Array.isArray(login.users) && login.users.length > 0
+          ) {
+            // Return an array of pins, one for each user
+            return login.users.map((user: User) => ({
               ...pin,
-              walls: login.user.walls,
-              gym: login.user.gym,
-            };
+              walls: user.walls,
+              gym: user.gym,
+            }));
           } else {
             return pin;
           }
@@ -89,7 +91,8 @@ async function scrapeUser(
       }),
     );
 
-    return PinWithOptionalUser;
+    // Flatten the array in case some pins returned arrays
+    return PinWithOptionalUser.flat();
   } catch (error) {
     console.error(
       `Authentication failed for ${board}: ${

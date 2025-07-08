@@ -1707,6 +1707,13 @@
       "name": "GRAVITY BEAR Bouldering Gym",
       "latitude": 36.15595,
       "longitude": -95.98299
+    },
+    {
+      "id": 200038,
+      "username": "tchsouthampton",
+      "name": "The Climbing Hangar Southampton",
+      "latitude": 50.91406,
+      "longitude": -1.45032
     }
   ]
 }

@@ -1,6 +1,6 @@
 import axios from "axios";
 import type { AxiosInstance, AxiosRequestConfig } from "axios";
-import UserAgent from 'user-agents';
+import UserAgent from "user-agents";
 import type { BoardType } from "../boards.ts";
 import { getCurrentUsage, waitForRateLimit } from "../api/rate-limiter.ts";
 
@@ -13,8 +13,8 @@ export class APIClient {
 
   constructor(board: BoardType) {
     this.board = board;
-    const userAgent = new UserAgent({ deviceCategory: 'mobile' });
-    
+    const userAgent = new UserAgent({ deviceCategory: "mobile" });
+
     this.client = axios.create({
       baseURL: `https://${board}.com`,
       timeout: 10000,

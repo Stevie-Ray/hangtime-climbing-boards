@@ -8,16 +8,16 @@ import type { AxiosError } from "axios";
  * @param {BoardType} board - The name of the board app
  * @param {number} userId - The ID of the user
  * @param {string} token - Session token
- * @returns {Promise<{ user: User } | undefined>} User details or undefined if the user is not found
+ * @returns {Promise<{ users: User[] } | undefined>} User details or undefined if the user is not found
  */
 export async function getUsers(
   board: BoardType,
   userId: number,
   token: string,
-): Promise<{ user: User } | undefined> {
+): Promise<{ users: User[] } | undefined> {
   const client = new APIClient(board);
   try {
-    return await client.request<{ user: User }>({
+    return await client.request<{ users: User[] }>({
       method: "GET",
       url: `/users/${userId}`,
       headers: {

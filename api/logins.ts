@@ -1,6 +1,7 @@
 import type { BoardType } from "../boards.ts";
 import type { Login } from "../interfaces/login.ts";
 import { APIClient } from "../models/client.ts";
+import type { AxiosError } from "axios";
 
 /**
  * Authenticates with the board app API and returns a session token
@@ -9,21 +10,35 @@ import { APIClient } from "../models/client.ts";
  * @param {string} password - User's password
  * @returns {Promise<Login>} Session token
  */
-export function getLogins(
+export async function getLogins(
   board: BoardType,
   username: string,
   password: string,
-): Promise<Login> {
+): Promise<string> {
   const client = new APIClient(board);
-  return client.request<Login>({
-    method: "POST",
-    url: "/sessions",
-    data: {
-      username,
-      password,
-      tou: "accepted",
-      pp: "accepted",
-      ua: "app",
-    },
-  });
+  try {
+    const response = await client.request<Login>({
+      method: "POST",
+      url: "/sessions",
+      data: {
+        username,
+        password,
+        tou: "accepted",
+        pp: "accepted",
+        ua: "app",
+      },
+    });
+    // Return just the token string for use in authenticated requests
+    return response.session.token;
+  } catch (error: unknown) {
+    if (
+      (error as AxiosError).response &&
+      (error as AxiosError).response!.status === 422
+    ) {
+      throw new Error(
+        "Invalid username or password. Please check your credentials and try again.",
+      );
+    }
+    throw error;
+  }
 }

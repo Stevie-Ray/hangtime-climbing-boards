@@ -19,12 +19,12 @@
   "dependencies": {
     "@turf/turf": "^7.2.0",
     "axios": "^1.10.0",
-    "dotenv": "^16.5.0",
-    "user-agents": "^1.1.578"
+    "dotenv": "^16.6.1",
+    "user-agents": "^1.1.594"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^22.15.32",
+    "@types/node": "^22.16.0",
     "@types/user-agents": "^1.0.4",
     "typescript": "^5.8.3"
   }
