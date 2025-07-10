@@ -20688,6 +20688,27 @@
     },
     {
       "type": "Feature",
+      "id": 728740,
+      "properties": {
+        "id": 728740,
+        "username": "benchmark",
+        "name": "Benchmark Climbing Gym",
+        "latitude": 31.249796,
+        "longitude": 121.484124,
+        "title": "Benchmark Climbing Gym",
+        "description": "Kilter Board at Benchmark Climbing Gym",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.484124,
+          31.249796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,

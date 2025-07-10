@@ -16578,6 +16578,24 @@
           53.40676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 728740,
+      "properties": {
+        "id": 728740,
+        "username": "benchmark",
+        "name": "Benchmark Climbing Gym",
+        "latitude": 31.249796,
+        "longitude": 121.484124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.484124,
+          31.249796
+        ]
+      }
     }
   ]
 }

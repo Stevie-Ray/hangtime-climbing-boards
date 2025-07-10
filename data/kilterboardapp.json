@@ -6446,6 +6446,13 @@
       "name": "Bald Port",
       "latitude": 53.40676,
       "longitude": 14.51759
+    },
+    {
+      "id": 728740,
+      "username": "benchmark",
+      "name": "Benchmark Climbing Gym",
+      "latitude": 31.249796,
+      "longitude": 121.484124
     }
   ]
 }
