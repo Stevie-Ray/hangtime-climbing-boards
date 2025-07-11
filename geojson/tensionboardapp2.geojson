@@ -4410,6 +4410,24 @@
           50.91406
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 200764,
+      "properties": {
+        "id": 200764,
+        "username": "highpoint_orlando",
+        "name": "High Point Climbing Orlando",
+        "latitude": 28.56808,
+        "longitude": -81.40843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40843,
+          28.56808
+        ]
+      }
     }
   ]
 }

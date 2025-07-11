@@ -20709,6 +20709,48 @@
     },
     {
       "type": "Feature",
+      "id": 730118,
+      "properties": {
+        "id": 730118,
+        "username": "highpoint_orlando",
+        "name": "High Point Climbing Orlando",
+        "latitude": 28.56808,
+        "longitude": -81.40843,
+        "title": "High Point Climbing Orlando",
+        "description": "Kilter Board at High Point Climbing Orlando",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40843,
+          28.56808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 730122,
+      "properties": {
+        "id": 730122,
+        "username": "onemove_xixon",
+        "name": "One Move",
+        "latitude": 43.53308,
+        "longitude": -5.69682,
+        "title": "One Move",
+        "description": "Kilter Board at One Move",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.69682,
+          43.53308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -25954,6 +25996,27 @@
         "coordinates": [
           -1.45032,
           50.91406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 200764,
+      "properties": {
+        "id": 200764,
+        "username": "highpoint_orlando",
+        "name": "High Point Climbing Orlando",
+        "latitude": 28.56808,
+        "longitude": -81.40843,
+        "title": "High Point Climbing Orlando",
+        "description": "Tension Board at High Point Climbing Orlando",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40843,
+          28.56808
         ]
       }
     },

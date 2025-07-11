@@ -1714,6 +1714,13 @@
       "name": "The Climbing Hangar Southampton",
       "latitude": 50.91406,
       "longitude": -1.45032
+    },
+    {
+      "id": 200764,
+      "username": "highpoint_orlando",
+      "name": "High Point Climbing Orlando",
+      "latitude": 28.56808,
+      "longitude": -81.40843
     }
   ]
 }

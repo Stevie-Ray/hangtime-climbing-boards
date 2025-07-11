@@ -6453,6 +6453,20 @@
       "name": "Benchmark Climbing Gym",
       "latitude": 31.249796,
       "longitude": 121.484124
+    },
+    {
+      "id": 730118,
+      "username": "highpoint_orlando",
+      "name": "High Point Climbing Orlando",
+      "latitude": 28.56808,
+      "longitude": -81.40843
+    },
+    {
+      "id": 730122,
+      "username": "onemove_xixon",
+      "name": "One Move",
+      "latitude": 43.53308,
+      "longitude": -5.69682
     }
   ]
 }
