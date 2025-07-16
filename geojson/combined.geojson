@@ -20751,6 +20751,27 @@
     },
     {
       "type": "Feature",
+      "id": 732571,
+      "properties": {
+        "id": 732571,
+        "username": "theforgeclimb",
+        "name": "The ForGe Climb",
+        "latitude": 44.43099,
+        "longitude": 8.86085,
+        "title": "The ForGe Climb",
+        "description": "Kilter Board at The ForGe Climb",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.86085,
+          44.43099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,

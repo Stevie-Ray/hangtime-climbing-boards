@@ -16632,6 +16632,24 @@
           43.53308
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 732571,
+      "properties": {
+        "id": 732571,
+        "username": "theforgeclimb",
+        "name": "The ForGe Climb",
+        "latitude": 44.43099,
+        "longitude": 8.86085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.86085,
+          44.43099
+        ]
+      }
     }
   ]
 }
