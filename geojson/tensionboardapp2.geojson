@@ -669,24 +669,6 @@
     },
     {
       "type": "Feature",
-      "id": 83603,
-      "properties": {
-        "id": 83603,
-        "username": "betarocks",
-        "name": "Beta Rocks Climbing + Fitness",
-        "latitude": 41.03913,
-        "longitude": -73.52972
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.52972,
-          41.03913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 83765,
       "properties": {
         "id": 83765,
@@ -826,24 +808,6 @@
         "coordinates": [
           -76.64375,
           39.33619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 84318,
-      "properties": {
-        "id": 84318,
-        "username": "boulderworld_singpost",
-        "name": "Boulder World SingPost",
-        "latitude": 1.31987,
-        "longitude": 103.89509
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.89509,
-          1.31987
         ]
       }
     },
@@ -1870,24 +1834,6 @@
         "coordinates": [
           -104.82728,
           38.89912
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 102044,
-      "properties": {
-        "id": 102044,
-        "username": "bloc.48_Boulderhalle",
-        "name": "Bloc.48 Boulderhalle Eberswalde",
-        "latitude": 52.84496,
-        "longitude": 13.76872
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.76872,
-          52.84496
         ]
       }
     },
@@ -3679,7 +3625,7 @@
       "properties": {
         "id": 167719,
         "username": "armadilloboulders_sanantonio2",
-        "name": "Armadillo Boulders San Antonio 2",
+        "name": "Armadillo Boulders Stone Oak",
         "latitude": 29.65731,
         "longitude": -98.44981
       },

@@ -260,13 +260,6 @@
       "longitude": -73.9853
     },
     {
-      "id": 83603,
-      "username": "betarocks",
-      "name": "Beta Rocks Climbing + Fitness",
-      "latitude": 41.03913,
-      "longitude": -73.52972
-    },
-    {
       "id": 83765,
       "username": "gravityvault_flemington",
       "name": "The Gravity Vault Flemington",
@@ -321,13 +314,6 @@
       "name": "Movement Climbing + Fitness Hampden",
       "latitude": 39.33619,
       "longitude": -76.64375
-    },
-    {
-      "id": 84318,
-      "username": "boulderworld_singpost",
-      "name": "Boulder World SingPost",
-      "latitude": 1.31987,
-      "longitude": 103.89509
     },
     {
       "id": 84590,
@@ -727,13 +713,6 @@
       "name": "Springs Climbing Center",
       "latitude": 38.89912,
       "longitude": -104.82728
-    },
-    {
-      "id": 102044,
-      "username": "bloc.48_Boulderhalle",
-      "name": "Bloc.48 Boulderhalle Eberswalde",
-      "latitude": 52.84496,
-      "longitude": 13.76872
     },
     {
       "id": 103095,
@@ -1431,7 +1410,7 @@
     {
       "id": 167719,
       "username": "armadilloboulders_sanantonio2",
-      "name": "Armadillo Boulders San Antonio 2",
+      "name": "Armadillo Boulders Stone Oak",
       "latitude": 29.65731,
       "longitude": -98.44981
     },

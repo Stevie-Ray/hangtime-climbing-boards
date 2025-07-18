@@ -16650,6 +16650,24 @@
           44.43099
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 733796,
+      "properties": {
+        "id": 733796,
+        "username": "bouldersaarhusaaby",
+        "name": "Boulders Aarhus Aaby",
+        "latitude": 56.15082,
+        "longitude": 10.16688
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16688,
+          56.15082
+        ]
+      }
     }
   ]
 }
