@@ -5004,12 +5004,12 @@
       "id": 158999,
       "properties": {
         "id": 158999,
-        "username": "betaclimb.co",
-        "name": "Betaclimb.co",
+        "username": "betaclimb19",
+        "name": "Beta Climbing Gym 19",
         "latitude": 4.70557,
         "longitude": -74.0487,
-        "title": "Betaclimb.co",
-        "description": "Kilter Board at Betaclimb.co",
+        "title": "Beta Climbing Gym 19",
+        "description": "Kilter Board at Beta Climbing Gym 19",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -20793,6 +20793,27 @@
     },
     {
       "type": "Feature",
+      "id": 734293,
+      "properties": {
+        "id": 734293,
+        "username": "betaclimb72",
+        "name": "Beta Climbing Gym 72",
+        "latitude": 4.6598,
+        "longitude": -74.06266,
+        "title": "Beta Climbing Gym 72",
+        "description": "Kilter Board at Beta Climbing Gym 72",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06266,
+          4.6598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -25996,6 +26017,27 @@
         "coordinates": [
           -81.40843,
           28.56808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 201945,
+      "properties": {
+        "id": 201945,
+        "username": "thefrontogden",
+        "name": "The Front Climbing Club Ogden",
+        "latitude": 41.2311,
+        "longitude": -111.97512,
+        "title": "The Front Climbing Club Ogden",
+        "description": "Tension Board at The Front Climbing Club Ogden",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.97512,
+          41.2311
         ]
       }
     },

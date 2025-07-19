@@ -4374,6 +4374,24 @@
           28.56808
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 201945,
+      "properties": {
+        "id": 201945,
+        "username": "thefrontogden",
+        "name": "The Front Climbing Club Ogden",
+        "latitude": 41.2311,
+        "longitude": -111.97512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.97512,
+          41.2311
+        ]
+      }
     }
   ]
 }

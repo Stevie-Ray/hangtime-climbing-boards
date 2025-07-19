@@ -1700,6 +1700,13 @@
       "name": "High Point Climbing Orlando",
       "latitude": 28.56808,
       "longitude": -81.40843
+    },
+    {
+      "id": 201945,
+      "username": "thefrontogden",
+      "name": "The Front Climbing Club Ogden",
+      "latitude": 41.2311,
+      "longitude": -111.97512
     }
   ]
 }

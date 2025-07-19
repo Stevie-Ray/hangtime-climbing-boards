@@ -1220,8 +1220,8 @@
     },
     {
       "id": 158999,
-      "username": "betaclimb.co",
-      "name": "Betaclimb.co",
+      "username": "betaclimb19",
+      "name": "Beta Climbing Gym 19",
       "latitude": 4.70557,
       "longitude": -74.0487
     },
@@ -6481,6 +6481,13 @@
       "name": "Boulders Aarhus Aaby",
       "latitude": 56.15082,
       "longitude": 10.16688
+    },
+    {
+      "id": 734293,
+      "username": "betaclimb72",
+      "name": "Beta Climbing Gym 72",
+      "latitude": 4.6598,
+      "longitude": -74.06266
     }
   ]
 }
