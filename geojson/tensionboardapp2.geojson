@@ -1047,24 +1047,6 @@
     },
     {
       "type": "Feature",
-      "id": 86140,
-      "properties": {
-        "id": 86140,
-        "username": "climbgritstone",
-        "name": "Gritstone Climbing + Fitness",
-        "latitude": 39.62038,
-        "longitude": -79.92475
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.92475,
-          39.62038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86141,
       "properties": {
         "id": 86141,

@@ -22137,27 +22137,6 @@
     },
     {
       "type": "Feature",
-      "id": 86140,
-      "properties": {
-        "id": 86140,
-        "username": "climbgritstone",
-        "name": "Gritstone Climbing + Fitness",
-        "latitude": 39.62038,
-        "longitude": -79.92475,
-        "title": "Gritstone Climbing + Fitness",
-        "description": "Tension Board at Gritstone Climbing + Fitness",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.92475,
-          39.62038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86141,
       "properties": {
         "id": 86141,
