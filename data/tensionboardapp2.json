@@ -305,8 +305,8 @@
       "id": 84077,
       "username": "longmontcc",
       "name": "Longmont Climbing Collective",
-      "latitude": 40.15958,
-      "longitude": -105.10709
+      "latitude": 40.16257,
+      "longitude": -105.04174
     },
     {
       "id": 84317,
@@ -1128,13 +1128,6 @@
       "longitude": -121.30325
     },
     {
-      "id": 141205,
-      "username": "cruxcc_south",
-      "name": "Crux Climbing Center South",
-      "latitude": 30.22751,
-      "longitude": -97.76296
-    },
-    {
       "id": 141207,
       "username": "lecube_escalade",
       "name": "Le Cube - Escalade & Bar",
@@ -1700,6 +1693,13 @@
       "name": "The Front Climbing Club Ogden",
       "latitude": 41.2311,
       "longitude": -111.97512
+    },
+    {
+      "id": 202694,
+      "username": "betaclimb72",
+      "name": "Beta Climbing Gym 72",
+      "latitude": 4.6598,
+      "longitude": -74.06266
     }
   ]
 }

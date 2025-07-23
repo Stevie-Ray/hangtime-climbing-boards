@@ -170,14 +170,14 @@
         "id": 63032,
         "username": "longmontclimbs",
         "name": "Longmont Climbing Collective",
-        "latitude": 40.15958,
-        "longitude": -105.10709
+        "latitude": 40.16257,
+        "longitude": -105.04174
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.10709,
-          40.15958
+          -105.04174,
+          40.16257
         ]
       }
     },

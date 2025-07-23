@@ -1541,8 +1541,8 @@
         "id": 63032,
         "username": "longmontclimbs",
         "name": "Longmont Climbing Collective",
-        "latitude": 40.15958,
-        "longitude": -105.10709,
+        "latitude": 40.16257,
+        "longitude": -105.04174,
         "title": "Longmont Climbing Collective",
         "description": "Kilter Board at Longmont Climbing Collective",
         "marker-color": "#ED1D24"
@@ -1550,8 +1550,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.10709,
-          40.15958
+          -105.04174,
+          40.16257
         ]
       }
     },
@@ -21827,8 +21827,8 @@
         "id": 84077,
         "username": "longmontcc",
         "name": "Longmont Climbing Collective",
-        "latitude": 40.15958,
-        "longitude": -105.10709,
+        "latitude": 40.16257,
+        "longitude": -105.04174,
         "title": "Longmont Climbing Collective",
         "description": "Tension Board at Longmont Climbing Collective",
         "marker-color": "#000000"
@@ -21836,8 +21836,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.10709,
-          40.15958
+          -105.04174,
+          40.16257
         ]
       }
     },
@@ -24300,27 +24300,6 @@
     },
     {
       "type": "Feature",
-      "id": 141205,
-      "properties": {
-        "id": 141205,
-        "username": "cruxcc_south",
-        "name": "Crux Climbing Center South",
-        "latitude": 30.22751,
-        "longitude": -97.76296,
-        "title": "Crux Climbing Center South",
-        "description": "Tension Board at Crux Climbing Center South",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.76296,
-          30.22751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 141207,
       "properties": {
         "id": 141207,
@@ -26017,6 +25996,27 @@
         "coordinates": [
           -111.97512,
           41.2311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 202694,
+      "properties": {
+        "id": 202694,
+        "username": "betaclimb72",
+        "name": "Beta Climbing Gym 72",
+        "latitude": 4.6598,
+        "longitude": -74.06266,
+        "title": "Beta Climbing Gym 72",
+        "description": "Tension Board at Beta Climbing Gym 72",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06266,
+          4.6598
         ]
       }
     },
