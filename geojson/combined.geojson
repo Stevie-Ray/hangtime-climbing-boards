@@ -21213,27 +21213,6 @@
     },
     {
       "type": "Feature",
-      "id": 36931,
-      "properties": {
-        "id": 36931,
-        "username": "metrorock_newburyport",
-        "name": "MetroROCK Newburyport",
-        "latitude": 42.80284,
-        "longitude": -70.87992,
-        "title": "MetroROCK Newburyport",
-        "description": "Tension Board at MetroROCK Newburyport",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.87992,
-          42.80284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 37557,
       "properties": {
         "id": 37557,
@@ -21523,27 +21502,6 @@
         "coordinates": [
           -122.95189,
           50.11505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82142,
-      "properties": {
-        "id": 82142,
-        "username": "coral_cliffs",
-        "name": "Coral Cliffs Rock Climbing Gym",
-        "latitude": 26.08101,
-        "longitude": -80.17538,
-        "title": "Coral Cliffs Rock Climbing Gym",
-        "description": "Tension Board at Coral Cliffs Rock Climbing Gym",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.17538,
-          26.08101
         ]
       }
     },
@@ -22434,12 +22392,12 @@
       "id": 87173,
       "properties": {
         "id": 87173,
-        "username": "basement_boulderstudio",
-        "name": "Basement Boulderstudio",
+        "username": "urbanapes.basement",
+        "name": "Urban Apes Basement Berlin",
         "latitude": 52.50402,
         "longitude": 13.38439,
-        "title": "Basement Boulderstudio",
-        "description": "Tension Board at Basement Boulderstudio",
+        "title": "Urban Apes Basement Berlin",
+        "description": "Tension Board at Urban Apes Basement Berlin",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -22960,11 +22918,11 @@
       "properties": {
         "id": 99811,
         "username": "thecliffsharlem_nyc",
-        "name": "The Cliffs at Harlem",
+        "name": "Movement Harlem",
         "latitude": 40.80967,
         "longitude": -73.95022,
-        "title": "The Cliffs at Harlem",
-        "description": "Tension Board at The Cliffs at Harlem",
+        "title": "Movement Harlem",
+        "description": "Tension Board at Movement Harlem",
         "marker-color": "#000000"
       },
       "geometry": {

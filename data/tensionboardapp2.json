@@ -99,13 +99,6 @@
       "longitude": 103.79443
     },
     {
-      "id": 36931,
-      "username": "metrorock_newburyport",
-      "name": "MetroROCK Newburyport",
-      "latitude": 42.80284,
-      "longitude": -70.87992
-    },
-    {
       "id": 37557,
       "username": "thecircuitbend",
       "name": "The Circuit Bouldering Gym Bend",
@@ -202,13 +195,6 @@
       "name": "Whistler Core Climbing & Fitness Center",
       "latitude": 50.11505,
       "longitude": -122.95189
-    },
-    {
-      "id": 82142,
-      "username": "coral_cliffs",
-      "name": "Coral Cliffs Rock Climbing Gym",
-      "latitude": 26.08101,
-      "longitude": -80.17538
     },
     {
       "id": 83596,
@@ -506,8 +492,8 @@
     },
     {
       "id": 87173,
-      "username": "basement_boulderstudio",
-      "name": "Basement Boulderstudio",
+      "username": "urbanapes.basement",
+      "name": "Urban Apes Basement Berlin",
       "latitude": 52.50402,
       "longitude": 13.38439
     },
@@ -682,7 +668,7 @@
     {
       "id": 99811,
       "username": "thecliffsharlem_nyc",
-      "name": "The Cliffs at Harlem",
+      "name": "Movement Harlem",
       "latitude": 40.80967,
       "longitude": -73.95022
     },
