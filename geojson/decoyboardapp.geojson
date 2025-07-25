@@ -3,24 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 496,
-      "properties": {
-        "id": 496,
-        "username": "Monkeyhouse",
-        "name": "Monkeyhouse Carbondale",
-        "latitude": 39.40361,
-        "longitude": -107.21916
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.21916,
-          39.40361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1134,
       "properties": {
         "id": 1134,
@@ -78,8 +60,8 @@
       "id": 1887,
       "properties": {
         "id": 1887,
-        "username": "thecliffsvalhalla",
-        "name": "The Cliffs At Valhalla",
+        "username": "movementvalhalla",
+        "name": "Movement Valhalla",
         "latitude": 41.08816,
         "longitude": -73.78736
       },

@@ -456,8 +456,8 @@
       "id": 79746,
       "properties": {
         "id": 79746,
-        "username": "methodclimb",
-        "name": "Method Climbing + Fitness",
+        "username": "methodclimb_newarknj",
+        "name": "Method Climbing + Fitness Newark NJ",
         "latitude": 40.74322,
         "longitude": -74.16852
       },
@@ -466,24 +466,6 @@
         "coordinates": [
           -74.16852,
           40.74322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82138,
-      "properties": {
-        "id": 82138,
-        "username": "monkeyhousecarbondale",
-        "name": "Monkeyhouse Carbondale",
-        "latitude": 39.40361,
-        "longitude": -107.21916
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.21916,
-          39.40361
         ]
       }
     },
@@ -1716,7 +1698,7 @@
       "id": 99811,
       "properties": {
         "id": 99811,
-        "username": "thecliffsharlem_nyc",
+        "username": "movement_harlem",
         "name": "Movement Harlem",
         "latitude": 40.80967,
         "longitude": -73.95022

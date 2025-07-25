@@ -3,27 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 496,
-      "properties": {
-        "id": 496,
-        "username": "Monkeyhouse",
-        "name": "Monkeyhouse Carbondale",
-        "latitude": 39.40361,
-        "longitude": -107.21916,
-        "title": "Monkeyhouse Carbondale",
-        "description": "Decoy Board at Monkeyhouse Carbondale",
-        "marker-color": "#C256C8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.21916,
-          39.40361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1134,
       "properties": {
         "id": 1134,
@@ -90,12 +69,12 @@
       "id": 1887,
       "properties": {
         "id": 1887,
-        "username": "thecliffsvalhalla",
-        "name": "The Cliffs At Valhalla",
+        "username": "movementvalhalla",
+        "name": "Movement Valhalla",
         "latitude": 41.08816,
         "longitude": -73.78736,
-        "title": "The Cliffs At Valhalla",
-        "description": "Decoy Board at The Cliffs At Valhalla",
+        "title": "Movement Valhalla",
+        "description": "Decoy Board at Movement Valhalla",
         "marker-color": "#C256C8"
       },
       "geometry": {
@@ -21447,12 +21426,12 @@
       "id": 79746,
       "properties": {
         "id": 79746,
-        "username": "methodclimb",
-        "name": "Method Climbing + Fitness",
+        "username": "methodclimb_newarknj",
+        "name": "Method Climbing + Fitness Newark NJ",
         "latitude": 40.74322,
         "longitude": -74.16852,
-        "title": "Method Climbing + Fitness",
-        "description": "Tension Board at Method Climbing + Fitness",
+        "title": "Method Climbing + Fitness Newark NJ",
+        "description": "Tension Board at Method Climbing + Fitness Newark NJ",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -21460,27 +21439,6 @@
         "coordinates": [
           -74.16852,
           40.74322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82138,
-      "properties": {
-        "id": 82138,
-        "username": "monkeyhousecarbondale",
-        "name": "Monkeyhouse Carbondale",
-        "latitude": 39.40361,
-        "longitude": -107.21916,
-        "title": "Monkeyhouse Carbondale",
-        "description": "Tension Board at Monkeyhouse Carbondale",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.21916,
-          39.40361
         ]
       }
     },
@@ -22917,7 +22875,7 @@
       "id": 99811,
       "properties": {
         "id": 99811,
-        "username": "thecliffsharlem_nyc",
+        "username": "movement_harlem",
         "name": "Movement Harlem",
         "latitude": 40.80967,
         "longitude": -73.95022,
