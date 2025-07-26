@@ -591,27 +591,6 @@
     },
     {
       "type": "Feature",
-      "id": 8101,
-      "properties": {
-        "id": 8101,
-        "username": "monkeyhousecarbondale",
-        "name": "Monkey House Carbondale",
-        "latitude": 39.40335,
-        "longitude": -107.21914,
-        "title": "Monkey House Carbondale",
-        "description": "Grasshopper Board at Monkey House Carbondale",
-        "marker-color": "#00EAFF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.21914,
-          39.40335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 8102,
       "properties": {
         "id": 8102,
