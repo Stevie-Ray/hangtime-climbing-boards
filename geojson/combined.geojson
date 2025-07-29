@@ -1137,27 +1137,6 @@
     },
     {
       "type": "Feature",
-      "id": 17602,
-      "properties": {
-        "id": 17602,
-        "username": "offsite.climbing.montreal",
-        "name": "OffSite Climbing",
-        "latitude": 45.56248,
-        "longitude": -73.54049,
-        "title": "OffSite Climbing",
-        "description": "Grasshopper Board at OffSite Climbing",
-        "marker-color": "#00EAFF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.54049,
-          45.56248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 19296,
       "properties": {
         "id": 19296,
@@ -1195,27 +1174,6 @@
         "coordinates": [
           144.95295,
           -37.73092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 21385,
-      "properties": {
-        "id": 21385,
-        "username": "premiumbouldering",
-        "name": "Premium Bouldering",
-        "latitude": 38.91728,
-        "longitude": -120.00087,
-        "title": "Premium Bouldering",
-        "description": "Grasshopper Board at Premium Bouldering",
-        "marker-color": "#00EAFF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.00087,
-          38.91728
         ]
       }
     },

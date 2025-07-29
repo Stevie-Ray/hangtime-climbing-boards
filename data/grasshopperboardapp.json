@@ -239,13 +239,6 @@
       "longitude": 11.1345
     },
     {
-      "id": 17602,
-      "username": "offsite.climbing.montreal",
-      "name": "OffSite Climbing",
-      "latitude": 45.56248,
-      "longitude": -73.54049
-    },
-    {
       "id": 19296,
       "username": "jacksonlakelodge",
       "name": "Jackson Lake Lodge Employee Gym",
@@ -258,13 +251,6 @@
       "name": "The Crux",
       "latitude": -37.73092,
       "longitude": 144.95295
-    },
-    {
-      "id": 21385,
-      "username": "premiumbouldering",
-      "name": "Premium Bouldering",
-      "latitude": 38.91728,
-      "longitude": -120.00087
     },
     {
       "id": 23941,
