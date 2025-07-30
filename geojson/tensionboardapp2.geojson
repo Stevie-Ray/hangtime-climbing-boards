@@ -4320,6 +4320,24 @@
           4.6598
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 202788,
+      "properties": {
+        "id": 202788,
+        "username": "momentum4600",
+        "name": "Momentum Olten",
+        "latitude": 47.36269,
+        "longitude": 7.91604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.91604,
+          47.36269
+        ]
+      }
     }
   ]
 }

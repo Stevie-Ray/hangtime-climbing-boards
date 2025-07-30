@@ -4105,7 +4105,7 @@
     {
       "id": 415858,
       "username": "climbmoabgym",
-      "name": "Climb scaghMoab",
+      "name": "Climb Moab Gym",
       "latitude": 38.493873,
       "longitude": -109.468447
     },
@@ -6488,6 +6488,13 @@
       "name": "Beta Climbing Gym 72",
       "latitude": 4.6598,
       "longitude": -74.06266
+    },
+    {
+      "id": 736601,
+      "username": "rockandbloc",
+      "name": "Rock and Bloc",
+      "latitude": 37.21734,
+      "longitude": -3.62359
     }
   ]
 }

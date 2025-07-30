@@ -13573,11 +13573,11 @@
       "properties": {
         "id": 415858,
         "username": "climbmoabgym",
-        "name": "Climb scaghMoab",
+        "name": "Climb Moab Gym",
         "latitude": 38.493873,
         "longitude": -109.468447,
-        "title": "Climb scaghMoab",
-        "description": "Kilter Board at Climb scaghMoab",
+        "title": "Climb Moab Gym",
+        "description": "Kilter Board at Climb Moab Gym",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -20730,6 +20730,27 @@
     },
     {
       "type": "Feature",
+      "id": 736601,
+      "properties": {
+        "id": 736601,
+        "username": "rockandbloc",
+        "name": "Rock and Bloc",
+        "latitude": 37.21734,
+        "longitude": -3.62359,
+        "title": "Rock and Bloc",
+        "description": "Kilter Board at Rock and Bloc",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62359,
+          37.21734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -25870,6 +25891,27 @@
         "coordinates": [
           -74.06266,
           4.6598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 202788,
+      "properties": {
+        "id": 202788,
+        "username": "momentum4600",
+        "name": "Momentum Olten",
+        "latitude": 47.36269,
+        "longitude": 7.91604,
+        "title": "Momentum Olten",
+        "description": "Tension Board at Momentum Olten",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.91604,
+          47.36269
         ]
       }
     },
