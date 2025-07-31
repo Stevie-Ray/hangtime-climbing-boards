@@ -20856,6 +20856,27 @@
     },
     {
       "type": "Feature",
+      "id": 765,
+      "properties": {
+        "id": 765,
+        "username": "stranda_buldresenter",
+        "name": "Stranda Buldresenter Uteguiden",
+        "latitude": 62.30955,
+        "longitude": 6.94886,
+        "title": "Stranda Buldresenter Uteguiden",
+        "description": "So iLL Board at Stranda Buldresenter Uteguiden",
+        "marker-color": "#8BB297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.94886,
+          62.30955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 4084,
       "properties": {
         "id": 4084,

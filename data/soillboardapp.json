@@ -34,6 +34,13 @@
       "name": "Ville Krefter Tafjord",
       "latitude": 62.22674,
       "longitude": 7.4222
+    },
+    {
+      "id": 765,
+      "username": "stranda_buldresenter",
+      "name": "Stranda Buldresenter Uteguiden",
+      "latitude": 62.30955,
+      "longitude": 6.94886
     }
   ]
 }
