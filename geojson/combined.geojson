@@ -20751,6 +20751,27 @@
     },
     {
       "type": "Feature",
+      "id": 743220,
+      "properties": {
+        "id": 743220,
+        "username": "das.flash",
+        "name": "Das Flash",
+        "latitude": 48.23312,
+        "longitude": 16.37618,
+        "title": "Das Flash",
+        "description": "Kilter Board at Das Flash",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37618,
+          48.23312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -25933,6 +25954,27 @@
         "coordinates": [
           7.91604,
           47.36269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204414,
+      "properties": {
+        "id": 204414,
+        "username": "rainbowrocketcc_north",
+        "name": "Rainbow Rocket North",
+        "latitude": 52.21725,
+        "longitude": 0.15704,
+        "title": "Rainbow Rocket North",
+        "description": "Tension Board at Rainbow Rocket North",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15704,
+          52.21725
         ]
       }
     },

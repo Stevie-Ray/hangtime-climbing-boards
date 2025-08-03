@@ -16704,6 +16704,24 @@
           37.21734
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 743220,
+      "properties": {
+        "id": 743220,
+        "username": "das.flash",
+        "name": "Das Flash",
+        "latitude": 48.23312,
+        "longitude": 16.37618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37618,
+          48.23312
+        ]
+      }
     }
   ]
 }

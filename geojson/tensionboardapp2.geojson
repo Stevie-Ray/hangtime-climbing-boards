@@ -4338,6 +4338,24 @@
           47.36269
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 204414,
+      "properties": {
+        "id": 204414,
+        "username": "rainbowrocketcc_north",
+        "name": "Rainbow Rocket North",
+        "latitude": 52.21725,
+        "longitude": 0.15704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15704,
+          52.21725
+        ]
+      }
     }
   ]
 }
