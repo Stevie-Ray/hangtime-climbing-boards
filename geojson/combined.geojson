@@ -25980,6 +25980,27 @@
     },
     {
       "type": "Feature",
+      "id": 204968,
+      "properties": {
+        "id": 204968,
+        "username": "mwclimbinggym",
+        "name": "MW Climbing Omaha",
+        "latitude": 41.23199,
+        "longitude": -96.10822,
+        "title": "MW Climbing Omaha",
+        "description": "Tension Board at MW Climbing Omaha",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.10822,
+          41.23199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
