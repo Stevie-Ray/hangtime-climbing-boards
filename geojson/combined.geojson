@@ -612,27 +612,6 @@
     },
     {
       "type": "Feature",
-      "id": 8103,
-      "properties": {
-        "id": 8103,
-        "username": "mountainprojectmt",
-        "name": "The Mountain Project",
-        "latitude": 45.69575,
-        "longitude": -111.02921,
-        "title": "The Mountain Project",
-        "description": "Grasshopper Board at The Mountain Project",
-        "marker-color": "#00EAFF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.02921,
-          45.69575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 8104,
       "properties": {
         "id": 8104,
@@ -20898,6 +20877,27 @@
     },
     {
       "type": "Feature",
+      "id": 880,
+      "properties": {
+        "id": 880,
+        "username": "camp5ecocity",
+        "name": "Camp5 Eco City",
+        "latitude": 3.12002,
+        "longitude": 101.67445,
+        "title": "Camp5 Eco City",
+        "description": "So iLL Board at Camp5 Eco City",
+        "marker-color": "#8BB297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.67445,
+          3.12002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 4084,
       "properties": {
         "id": 4084,
@@ -25996,6 +25996,27 @@
         "coordinates": [
           -96.10822,
           41.23199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 205124,
+      "properties": {
+        "id": 205124,
+        "username": "centralrocktroy",
+        "name": "Central Rock Gym Troy",
+        "latitude": 42.74058,
+        "longitude": -73.68603,
+        "title": "Central Rock Gym Troy",
+        "description": "Tension Board at Central Rock Gym Troy",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68603,
+          42.74058
         ]
       }
     },

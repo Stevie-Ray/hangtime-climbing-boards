@@ -165,24 +165,6 @@
     },
     {
       "type": "Feature",
-      "id": 8103,
-      "properties": {
-        "id": 8103,
-        "username": "mountainprojectmt",
-        "name": "The Mountain Project",
-        "latitude": 45.69575,
-        "longitude": -111.02921
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.02921,
-          45.69575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 8104,
       "properties": {
         "id": 8104,

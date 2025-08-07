@@ -1700,6 +1700,13 @@
       "name": "MW Climbing Omaha",
       "latitude": 41.23199,
       "longitude": -96.10822
+    },
+    {
+      "id": 205124,
+      "username": "centralrocktroy",
+      "name": "Central Rock Gym Troy",
+      "latitude": 42.74058,
+      "longitude": -73.68603
     }
   ]
 }

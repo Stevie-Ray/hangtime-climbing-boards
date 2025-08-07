@@ -4374,6 +4374,24 @@
           41.23199
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 205124,
+      "properties": {
+        "id": 205124,
+        "username": "centralrocktroy",
+        "name": "Central Rock Gym Troy",
+        "latitude": 42.74058,
+        "longitude": -73.68603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68603,
+          42.74058
+        ]
+      }
     }
   ]
 }

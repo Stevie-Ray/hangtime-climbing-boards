@@ -108,6 +108,24 @@
           62.30955
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 880,
+      "properties": {
+        "id": 880,
+        "username": "camp5ecocity",
+        "name": "Camp5 Eco City",
+        "latitude": 3.12002,
+        "longitude": 101.67445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.67445,
+          3.12002
+        ]
+      }
     }
   ]
 }
