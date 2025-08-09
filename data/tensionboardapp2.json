@@ -1707,6 +1707,13 @@
       "name": "Central Rock Gym Troy",
       "latitude": 42.74058,
       "longitude": -73.68603
+    },
+    {
+      "id": 205375,
+      "username": "rockrevcville",
+      "name": "Rock Revolution",
+      "latitude": 38.04551,
+      "longitude": -78.51579
     }
   ]
 }

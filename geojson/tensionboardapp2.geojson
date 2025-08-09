@@ -4392,6 +4392,24 @@
           42.74058
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 205375,
+      "properties": {
+        "id": 205375,
+        "username": "rockrevcville",
+        "name": "Rock Revolution",
+        "latitude": 38.04551,
+        "longitude": -78.51579
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51579,
+          38.04551
+        ]
+      }
     }
   ]
 }
