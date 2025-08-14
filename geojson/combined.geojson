@@ -26043,6 +26043,27 @@
     },
     {
       "type": "Feature",
+      "id": 206134,
+      "properties": {
+        "id": 206134,
+        "username": "tchbristoluk",
+        "name": "The Climbing Hangar Bristol",
+        "latitude": 51.45626,
+        "longitude": -2.59105,
+        "title": "The Climbing Hangar Bristol",
+        "description": "Tension Board at The Climbing Hangar Bristol",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.59105,
+          51.45626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
