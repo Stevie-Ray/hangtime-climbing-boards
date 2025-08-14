@@ -20,11 +20,11 @@
     "@turf/turf": "^7.2.0",
     "axios": "^1.11.0",
     "dotenv": "^17.2.1",
-    "user-agents": "^1.1.619"
+    "user-agents": "^1.1.631"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^22.17.0",
+    "@types/node": "^22.17.1",
     "@types/user-agents": "^1.0.4",
     "typescript": "^5.9.2"
   }
