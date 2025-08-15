@@ -6502,6 +6502,20 @@
       "name": "Das Flash",
       "latitude": 48.23312,
       "longitude": 16.37618
+    },
+    {
+      "id": 750003,
+      "username": "bloc.11_paarden_eiland",
+      "name": "Bloc 11 Paarden Eiland",
+      "latitude": -33.91024,
+      "longitude": 18.47255
+    },
+    {
+      "id": 750199,
+      "username": "tchbristoluk",
+      "name": "The Climbing Hangar Bristol",
+      "latitude": 51.45626,
+      "longitude": -2.59105
     }
   ]
 }
