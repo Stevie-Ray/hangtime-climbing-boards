@@ -20940,6 +20940,27 @@
     },
     {
       "type": "Feature",
+      "id": 962,
+      "properties": {
+        "id": 962,
+        "username": "koeln.einstein.boulder",
+        "name": "Einstein Boulderhalle Köln",
+        "latitude": 50.94488,
+        "longitude": 6.90256,
+        "title": "Einstein Boulderhalle Köln",
+        "description": "So iLL Board at Einstein Boulderhalle Köln",
+        "marker-color": "#8BB297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90256,
+          50.94488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 4084,
       "properties": {
         "id": 4084,

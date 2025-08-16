@@ -126,6 +126,24 @@
           3.12002
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 962,
+      "properties": {
+        "id": 962,
+        "username": "koeln.einstein.boulder",
+        "name": "Einstein Boulderhalle Köln",
+        "latitude": 50.94488,
+        "longitude": 6.90256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90256,
+          50.94488
+        ]
+      }
     }
   ]
 }
