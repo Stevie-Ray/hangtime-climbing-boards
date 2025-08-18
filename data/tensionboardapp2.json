@@ -1721,6 +1721,13 @@
       "name": "The Climbing Hangar Bristol",
       "latitude": 51.45626,
       "longitude": -2.59105
+    },
+    {
+      "id": 206805,
+      "username": "elevateclimbingvillawood",
+      "name": "Elevate Climbing Villawood",
+      "latitude": -33.87924,
+      "longitude": 150.97865
     }
   ]
 }

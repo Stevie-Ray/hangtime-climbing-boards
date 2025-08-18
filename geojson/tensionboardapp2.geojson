@@ -4428,6 +4428,24 @@
           51.45626
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 206805,
+      "properties": {
+        "id": 206805,
+        "username": "elevateclimbingvillawood",
+        "name": "Elevate Climbing Villawood",
+        "latitude": -33.87924,
+        "longitude": 150.97865
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.97865,
+          -33.87924
+        ]
+      }
     }
   ]
 }
