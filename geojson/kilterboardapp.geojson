@@ -16758,6 +16758,42 @@
           51.45626
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 753577,
+      "properties": {
+        "id": 753577,
+        "username": "eldemuro",
+        "name": "El Muro",
+        "latitude": 6.23513,
+        "longitude": -75.56857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56857,
+          6.23513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 753582,
+      "properties": {
+        "id": 753582,
+        "username": "redrock_climbingcenter",
+        "name": "RedRock Climbing Center",
+        "latitude": 49.51655,
+        "longitude": 5.92713
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92713,
+          49.51655
+        ]
+      }
     }
   ]
 }

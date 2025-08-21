@@ -6516,6 +6516,20 @@
       "name": "The Climbing Hangar Bristol",
       "latitude": 51.45626,
       "longitude": -2.59105
+    },
+    {
+      "id": 753577,
+      "username": "eldemuro",
+      "name": "El Muro",
+      "latitude": 6.23513,
+      "longitude": -75.56857
+    },
+    {
+      "id": 753582,
+      "username": "redrock_climbingcenter",
+      "name": "RedRock Climbing Center",
+      "latitude": 49.51655,
+      "longitude": 5.92713
     }
   ]
 }
