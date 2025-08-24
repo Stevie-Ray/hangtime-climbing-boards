@@ -4795,11 +4795,11 @@
       "properties": {
         "id": 158306,
         "username": "thecliffsgowanusbk",
-        "name": "The Cliffs at Gowanus",
+        "name": "Movement Gowanus",
         "latitude": 40.68205,
         "longitude": -73.98528,
-        "title": "The Cliffs at Gowanus",
-        "description": "Kilter Board at The Cliffs at Gowanus",
+        "title": "Movement Gowanus",
+        "description": "Kilter Board at Movement Gowanus",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -26185,6 +26185,27 @@
         "coordinates": [
           150.97865,
           -33.87924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 207895,
+      "properties": {
+        "id": 207895,
+        "username": "climbhorizon",
+        "name": "Horizon Climbing",
+        "latitude": 40.1119,
+        "longitude": -88.27943,
+        "title": "Horizon Climbing",
+        "description": "Tension Board at Horizon Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27943,
+          40.1119
         ]
       }
     },

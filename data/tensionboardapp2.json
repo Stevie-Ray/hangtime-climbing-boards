@@ -1728,6 +1728,13 @@
       "name": "Elevate Climbing Villawood",
       "latitude": -33.87924,
       "longitude": 150.97865
+    },
+    {
+      "id": 207895,
+      "username": "climbhorizon",
+      "name": "Horizon Climbing",
+      "latitude": 40.1119,
+      "longitude": -88.27943
     }
   ]
 }

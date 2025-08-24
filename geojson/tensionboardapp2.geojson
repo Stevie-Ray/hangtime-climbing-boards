@@ -4446,6 +4446,24 @@
           -33.87924
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 207895,
+      "properties": {
+        "id": 207895,
+        "username": "climbhorizon",
+        "name": "Horizon Climbing",
+        "latitude": 40.1119,
+        "longitude": -88.27943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27943,
+          40.1119
+        ]
+      }
     }
   ]
 }
