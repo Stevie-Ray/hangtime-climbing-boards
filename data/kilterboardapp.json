@@ -6530,6 +6530,20 @@
       "name": "RedRock Climbing Center",
       "latitude": 49.51655,
       "longitude": 5.92713
+    },
+    {
+      "id": 757074,
+      "username": "movement_lincoln_park",
+      "name": "Movement Lincoln Park",
+      "latitude": 41.90836,
+      "longitude": -87.64954
+    },
+    {
+      "id": 757085,
+      "username": "centralrocktroy",
+      "name": "Central Rock Gym Troy",
+      "latitude": 42.74058,
+      "longitude": -73.68603
     }
   ]
 }

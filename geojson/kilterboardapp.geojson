@@ -16794,6 +16794,42 @@
           49.51655
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 757074,
+      "properties": {
+        "id": 757074,
+        "username": "movement_lincoln_park",
+        "name": "Movement Lincoln Park",
+        "latitude": 41.90836,
+        "longitude": -87.64954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64954,
+          41.90836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 757085,
+      "properties": {
+        "id": 757085,
+        "username": "centralrocktroy",
+        "name": "Central Rock Gym Troy",
+        "latitude": 42.74058,
+        "longitude": -73.68603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68603,
+          42.74058
+        ]
+      }
     }
   ]
 }

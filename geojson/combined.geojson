@@ -20835,6 +20835,48 @@
     },
     {
       "type": "Feature",
+      "id": 757074,
+      "properties": {
+        "id": 757074,
+        "username": "movement_lincoln_park",
+        "name": "Movement Lincoln Park",
+        "latitude": 41.90836,
+        "longitude": -87.64954,
+        "title": "Movement Lincoln Park",
+        "description": "Kilter Board at Movement Lincoln Park",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64954,
+          41.90836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 757085,
+      "properties": {
+        "id": 757085,
+        "username": "centralrocktroy",
+        "name": "Central Rock Gym Troy",
+        "latitude": 42.74058,
+        "longitude": -73.68603,
+        "title": "Central Rock Gym Troy",
+        "description": "Kilter Board at Central Rock Gym Troy",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68603,
+          42.74058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
