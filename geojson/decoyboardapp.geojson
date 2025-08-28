@@ -360,6 +360,24 @@
           -31.75081
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 7914,
+      "properties": {
+        "id": 7914,
+        "username": "grottoclimbing_miramar",
+        "name": "Grotto Climbing & Yoga Miramar G2",
+        "latitude": 32.89512,
+        "longitude": -117.12762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.12762,
+          32.89512
+        ]
+      }
     }
   ]
 }

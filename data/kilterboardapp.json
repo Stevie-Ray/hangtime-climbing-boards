@@ -1185,7 +1185,7 @@
     },
     {
       "id": 158306,
-      "username": "thecliffsgowanusbk",
+      "username": "movement_gowanus",
       "name": "Movement Gowanus",
       "latitude": 40.68205,
       "longitude": -73.98528
@@ -6544,6 +6544,13 @@
       "name": "Central Rock Gym Troy",
       "latitude": 42.74058,
       "longitude": -73.68603
+    },
+    {
+      "id": 757716,
+      "username": "dav.kletterzentrum.freiburg",
+      "name": "DAV Kletterzentrum Freiburg",
+      "latitude": 47.98119,
+      "longitude": 7.81845
     }
   ]
 }

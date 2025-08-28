@@ -601,7 +601,7 @@
       "properties": {
         "id": 83602,
         "username": "movement_gowanus",
-        "name": "The Cliffs at Gowanus",
+        "name": "Movement Gowanus",
         "latitude": 40.68197,
         "longitude": -73.9853
       },
@@ -4462,6 +4462,42 @@
         "coordinates": [
           -88.27943,
           40.1119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208286,
+      "properties": {
+        "id": 208286,
+        "username": "laneway_boulders",
+        "name": "Laneway Boulders",
+        "latitude": -34.91352,
+        "longitude": 138.62827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.62827,
+          -34.91352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208547,
+      "properties": {
+        "id": 208547,
+        "username": "grottoclimbing_miramar",
+        "name": "Grotto Climbing & Yoga Miramar G2",
+        "latitude": 32.89512,
+        "longitude": -117.12762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.12762,
+          32.89512
         ]
       }
     }

@@ -3048,7 +3048,7 @@
       "id": 158306,
       "properties": {
         "id": 158306,
-        "username": "thecliffsgowanusbk",
+        "username": "movement_gowanus",
         "name": "Movement Gowanus",
         "latitude": 40.68205,
         "longitude": -73.98528
@@ -16828,6 +16828,24 @@
         "coordinates": [
           -73.68603,
           42.74058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 757716,
+      "properties": {
+        "id": 757716,
+        "username": "dav.kletterzentrum.freiburg",
+        "name": "DAV Kletterzentrum Freiburg",
+        "latitude": 47.98119,
+        "longitude": 7.81845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.81845,
+          47.98119
         ]
       }
     }
