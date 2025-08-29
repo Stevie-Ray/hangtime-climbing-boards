@@ -146,6 +146,13 @@
       "name": "Grotto Climbing & Yoga Miramar G2",
       "latitude": 32.89512,
       "longitude": -117.12762
+    },
+    {
+      "id": 7923,
+      "username": "climbthelab",
+      "name": "The Lab Climbing",
+      "latitude": 40.01671,
+      "longitude": -105.22462
     }
   ]
 }

@@ -16848,6 +16848,24 @@
           47.98119
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 758539,
+      "properties": {
+        "id": 758539,
+        "username": "the_wall_verviers",
+        "name": "The Wall Verviers",
+        "latitude": 50.58334,
+        "longitude": 5.85265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85265,
+          50.58334
+        ]
+      }
     }
   ]
 }

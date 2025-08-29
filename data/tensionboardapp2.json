@@ -1749,6 +1749,27 @@
       "name": "Grotto Climbing & Yoga Miramar G2",
       "latitude": 32.89512,
       "longitude": -117.12762
+    },
+    {
+      "id": 208712,
+      "username": "elys_boulderloft",
+      "name": "ELYS Boulderloft",
+      "latitude": 47.57459,
+      "longitude": 7.57384
+    },
+    {
+      "id": 208713,
+      "username": "climbthelab",
+      "name": "The Lab Climbing",
+      "latitude": 40.01671,
+      "longitude": -105.22462
+    },
+    {
+      "id": 208721,
+      "username": "cayman_climbing",
+      "name": "Cayman Climbing Gym",
+      "latitude": 19.29568,
+      "longitude": -81.36538
     }
   ]
 }

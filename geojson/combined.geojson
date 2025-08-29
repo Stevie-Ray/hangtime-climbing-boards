@@ -444,6 +444,27 @@
     },
     {
       "type": "Feature",
+      "id": 7923,
+      "properties": {
+        "id": 7923,
+        "username": "climbthelab",
+        "name": "The Lab Climbing",
+        "latitude": 40.01671,
+        "longitude": -105.22462,
+        "title": "The Lab Climbing",
+        "description": "Decoy Board at The Lab Climbing",
+        "marker-color": "#C256C8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.22462,
+          40.01671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2117,
       "properties": {
         "id": 2117,
@@ -20919,6 +20940,27 @@
     },
     {
       "type": "Feature",
+      "id": 758539,
+      "properties": {
+        "id": 758539,
+        "username": "the_wall_verviers",
+        "name": "The Wall Verviers",
+        "latitude": 50.58334,
+        "longitude": 5.85265,
+        "title": "The Wall Verviers",
+        "description": "Kilter Board at The Wall Verviers",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85265,
+          50.58334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -26332,6 +26374,69 @@
         "coordinates": [
           -117.12762,
           32.89512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208712,
+      "properties": {
+        "id": 208712,
+        "username": "elys_boulderloft",
+        "name": "ELYS Boulderloft",
+        "latitude": 47.57459,
+        "longitude": 7.57384,
+        "title": "ELYS Boulderloft",
+        "description": "Tension Board at ELYS Boulderloft",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57384,
+          47.57459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208713,
+      "properties": {
+        "id": 208713,
+        "username": "climbthelab",
+        "name": "The Lab Climbing",
+        "latitude": 40.01671,
+        "longitude": -105.22462,
+        "title": "The Lab Climbing",
+        "description": "Tension Board at The Lab Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.22462,
+          40.01671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208721,
+      "properties": {
+        "id": 208721,
+        "username": "cayman_climbing",
+        "name": "Cayman Climbing Gym",
+        "latitude": 19.29568,
+        "longitude": -81.36538,
+        "title": "Cayman Climbing Gym",
+        "description": "Tension Board at Cayman Climbing Gym",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36538,
+          19.29568
         ]
       }
     },

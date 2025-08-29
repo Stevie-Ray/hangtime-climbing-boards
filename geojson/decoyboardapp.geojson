@@ -378,6 +378,24 @@
           32.89512
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 7923,
+      "properties": {
+        "id": 7923,
+        "username": "climbthelab",
+        "name": "The Lab Climbing",
+        "latitude": 40.01671,
+        "longitude": -105.22462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.22462,
+          40.01671
+        ]
+      }
     }
   ]
 }
