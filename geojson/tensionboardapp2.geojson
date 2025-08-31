@@ -4554,6 +4554,42 @@
           19.29568
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 208984,
+      "properties": {
+        "id": 208984,
+        "username": "crg.midtown",
+        "name": "Central Rock Gym Midtown",
+        "latitude": 33.77403,
+        "longitude": -84.38451
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38451,
+          33.77403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209116,
+      "properties": {
+        "id": 209116,
+        "username": "bigupclimbing",
+        "name": "BigUp Climbing",
+        "latitude": 44.4262,
+        "longitude": 7.54135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.54135,
+          44.4262
+        ]
+      }
     }
   ]
 }

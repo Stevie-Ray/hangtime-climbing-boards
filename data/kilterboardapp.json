@@ -1611,6 +1611,13 @@
       "longitude": 126.87595
     },
     {
+      "id": 161407,
+      "username": "steamboatclimbingcollective",
+      "name": "Steamboat Climbing Collective",
+      "latitude": 40.50759,
+      "longitude": -106.85771
+    },
+    {
       "id": 163362,
       "username": "boulderbar_gelsenkirchen",
       "name": "Boulderbar Neoliet Gelsenkirchen",
@@ -6558,6 +6565,13 @@
       "name": "The Wall Verviers",
       "latitude": 50.58334,
       "longitude": 5.85265
+    },
+    {
+      "id": 759324,
+      "username": "tindesenteret",
+      "name": "Norsk Tindesenter",
+      "latitude": 62.56787,
+      "longitude": 7.69012
     }
   ]
 }

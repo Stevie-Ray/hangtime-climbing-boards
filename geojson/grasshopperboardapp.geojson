@@ -702,6 +702,24 @@
           -33.83547
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 30496,
+      "properties": {
+        "id": 30496,
+        "username": "jmuurec",
+        "name": "JMU UREC Adveture Center",
+        "latitude": 38.43363,
+        "longitude": -78.8675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8675,
+          38.43363
+        ]
+      }
     }
   ]
 }

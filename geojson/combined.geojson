@@ -1284,6 +1284,27 @@
     },
     {
       "type": "Feature",
+      "id": 30496,
+      "properties": {
+        "id": 30496,
+        "username": "jmuurec",
+        "name": "JMU UREC Adveture Center",
+        "latitude": 38.43363,
+        "longitude": -78.8675,
+        "title": "JMU UREC Adveture Center",
+        "description": "Grasshopper Board at JMU UREC Adveture Center",
+        "marker-color": "#00EAFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8675,
+          38.43363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1575,
       "properties": {
         "id": 1575,
@@ -6109,6 +6130,27 @@
         "coordinates": [
           126.87595,
           35.21132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161407,
+      "properties": {
+        "id": 161407,
+        "username": "steamboatclimbingcollective",
+        "name": "Steamboat Climbing Collective",
+        "latitude": 40.50759,
+        "longitude": -106.85771,
+        "title": "Steamboat Climbing Collective",
+        "description": "Kilter Board at Steamboat Climbing Collective",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.85771,
+          40.50759
         ]
       }
     },
@@ -20961,6 +21003,27 @@
     },
     {
       "type": "Feature",
+      "id": 759324,
+      "properties": {
+        "id": 759324,
+        "username": "tindesenteret",
+        "name": "Norsk Tindesenter",
+        "latitude": 62.56787,
+        "longitude": 7.69012,
+        "title": "Norsk Tindesenter",
+        "description": "Kilter Board at Norsk Tindesenter",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69012,
+          62.56787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -26437,6 +26500,48 @@
         "coordinates": [
           -81.36538,
           19.29568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208984,
+      "properties": {
+        "id": 208984,
+        "username": "crg.midtown",
+        "name": "Central Rock Gym Midtown",
+        "latitude": 33.77403,
+        "longitude": -84.38451,
+        "title": "Central Rock Gym Midtown",
+        "description": "Tension Board at Central Rock Gym Midtown",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38451,
+          33.77403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209116,
+      "properties": {
+        "id": 209116,
+        "username": "bigupclimbing",
+        "name": "BigUp Climbing",
+        "latitude": 44.4262,
+        "longitude": 7.54135,
+        "title": "BigUp Climbing",
+        "description": "Tension Board at BigUp Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.54135,
+          44.4262
         ]
       }
     },

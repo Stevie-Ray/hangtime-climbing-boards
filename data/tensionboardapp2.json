@@ -1770,6 +1770,20 @@
       "name": "Cayman Climbing Gym",
       "latitude": 19.29568,
       "longitude": -81.36538
+    },
+    {
+      "id": 208984,
+      "username": "crg.midtown",
+      "name": "Central Rock Gym Midtown",
+      "latitude": 33.77403,
+      "longitude": -84.38451
+    },
+    {
+      "id": 209116,
+      "username": "bigupclimbing",
+      "name": "BigUp Climbing",
+      "latitude": 44.4262,
+      "longitude": 7.54135
     }
   ]
 }

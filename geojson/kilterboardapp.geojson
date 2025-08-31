@@ -4143,6 +4143,24 @@
     },
     {
       "type": "Feature",
+      "id": 161407,
+      "properties": {
+        "id": 161407,
+        "username": "steamboatclimbingcollective",
+        "name": "Steamboat Climbing Collective",
+        "latitude": 40.50759,
+        "longitude": -106.85771
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.85771,
+          40.50759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 163362,
       "properties": {
         "id": 163362,
@@ -16864,6 +16882,24 @@
         "coordinates": [
           5.85265,
           50.58334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 759324,
+      "properties": {
+        "id": 759324,
+        "username": "tindesenteret",
+        "name": "Norsk Tindesenter",
+        "latitude": 62.56787,
+        "longitude": 7.69012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69012,
+          62.56787
         ]
       }
     }
