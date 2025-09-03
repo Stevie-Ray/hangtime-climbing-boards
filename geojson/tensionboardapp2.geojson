@@ -4590,6 +4590,42 @@
           44.4262
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 209640,
+      "properties": {
+        "id": 209640,
+        "username": "nextgen.bouldering",
+        "name": "Next Gen Bouldering",
+        "latitude": 35.79173,
+        "longitude": 139.55376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55376,
+          35.79173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209646,
+      "properties": {
+        "id": 209646,
+        "username": "crg.kennesaw",
+        "name": "Central Rock Gym Kennesaw",
+        "latitude": 34.02145,
+        "longitude": -84.56882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56882,
+          34.02145
+        ]
+      }
     }
   ]
 }

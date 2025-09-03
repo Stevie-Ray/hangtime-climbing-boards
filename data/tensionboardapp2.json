@@ -1784,6 +1784,20 @@
       "name": "BigUp Climbing",
       "latitude": 44.4262,
       "longitude": 7.54135
+    },
+    {
+      "id": 209640,
+      "username": "nextgen.bouldering",
+      "name": "Next Gen Bouldering",
+      "latitude": 35.79173,
+      "longitude": 139.55376
+    },
+    {
+      "id": 209646,
+      "username": "crg.kennesaw",
+      "name": "Central Rock Gym Kennesaw",
+      "latitude": 34.02145,
+      "longitude": -84.56882
     }
   ]
 }

@@ -26547,6 +26547,48 @@
     },
     {
       "type": "Feature",
+      "id": 209640,
+      "properties": {
+        "id": 209640,
+        "username": "nextgen.bouldering",
+        "name": "Next Gen Bouldering",
+        "latitude": 35.79173,
+        "longitude": 139.55376,
+        "title": "Next Gen Bouldering",
+        "description": "Tension Board at Next Gen Bouldering",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55376,
+          35.79173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209646,
+      "properties": {
+        "id": 209646,
+        "username": "crg.kennesaw",
+        "name": "Central Rock Gym Kennesaw",
+        "latitude": 34.02145,
+        "longitude": -84.56882,
+        "title": "Central Rock Gym Kennesaw",
+        "description": "Tension Board at Central Rock Gym Kennesaw",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56882,
+          34.02145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
