@@ -1011,24 +1011,6 @@
     },
     {
       "type": "Feature",
-      "id": 150785,
-      "properties": {
-        "id": 150785,
-        "username": "boulderworldsg",
-        "name": "Boulder World",
-        "latitude": 1.31987,
-        "longitude": 103.89509
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.89509,
-          1.31987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 150787,
       "properties": {
         "id": 150787,
@@ -1096,24 +1078,6 @@
         "coordinates": [
           -118.36604,
           33.9018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 150793,
-      "properties": {
-        "id": 150793,
-        "username": "bananaclimbing.gym",
-        "name": "Banana Climbing Gym",
-        "latitude": 5.84742,
-        "longitude": 118.04049
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.04049,
-          5.84742
         ]
       }
     },
@@ -1663,7 +1627,7 @@
       "properties": {
         "id": 151555,
         "username": "summit_norman",
-        "name": "Summit Climbing Yoga + Fitness Norman",
+        "name": "Stoneyard Stratus",
         "latitude": 35.27305,
         "longitude": -97.48116
       },
@@ -1987,7 +1951,7 @@
       "properties": {
         "id": 155387,
         "username": "adrenalinevaultperth",
-        "name": "Adrenaline Vault",
+        "name": "Adrenaline Vault Belmont",
         "latitude": -31.95621,
         "longitude": 115.92525
       },
@@ -2473,7 +2437,7 @@
       "properties": {
         "id": 157374,
         "username": "climbing_park",
-        "name": "클라이밍파크 Climbing Park",
+        "name": "클라이밍파크 Climbing Park Shinnonhyun",
         "latitude": 37.50417,
         "longitude": 127.0251
       },
@@ -2491,7 +2455,7 @@
       "properties": {
         "id": 157375,
         "username": "ayersrockclimb",
-        "name": "에어즈락 클라이밍 Ayers Rock Climbing",
+        "name": "에어즈락 클라이밍위례점 Ayers Rock Climbing Wirye",
         "latitude": 37.48132,
         "longitude": 127.14241
       },
@@ -2545,7 +2509,7 @@
       "properties": {
         "id": 157381,
         "username": "nordbloc",
-        "name": "Nordbloc",
+        "name": "Urban Apes Kiel",
         "latitude": 54.34884,
         "longitude": 10.11382
       },
@@ -3310,24 +3274,6 @@
         "coordinates": [
           -113.63903,
           53.5455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 159011,
-      "properties": {
-        "id": 159011,
-        "username": "summit_dallas",
-        "name": "Summit Climbing, Yoga + Fitness Dallas",
-        "latitude": 32.91039,
-        "longitude": -96.74241
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.74241,
-          32.91039
         ]
       }
     },
@@ -16900,6 +16846,60 @@
         "coordinates": [
           7.69012,
           62.56787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 762730,
+      "properties": {
+        "id": 762730,
+        "username": "vertigo_lezeckecentrum",
+        "name": "Lezecké centrum Vertigo",
+        "latitude": 48.15243,
+        "longitude": 17.13899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.13899,
+          48.15243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 762741,
+      "properties": {
+        "id": 762741,
+        "username": "tideclimbinghelston",
+        "name": "The Tide Climbing Center Helston",
+        "latitude": 50.09999,
+        "longitude": -5.27124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.27124,
+          50.09999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 762906,
+      "properties": {
+        "id": 762906,
+        "username": "movement_centennial",
+        "name": "Movement Centennial",
+        "latitude": 39.56908,
+        "longitude": -104.87477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.87477,
+          39.56908
         ]
       }
     }
