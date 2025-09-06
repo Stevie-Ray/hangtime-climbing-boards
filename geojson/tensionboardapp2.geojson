@@ -4626,6 +4626,42 @@
           34.02145
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 210171,
+      "properties": {
+        "id": 210171,
+        "username": "dynomitenorthwollongong",
+        "name": "Dynomite Gym North Wollongong",
+        "latitude": -34.40612,
+        "longitude": 150.89504
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.89504,
+          -34.40612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 210172,
+      "properties": {
+        "id": 210172,
+        "username": "dynomitealbionpark",
+        "name": "Dynomite Gym Albion Park Rail",
+        "latitude": -34.55774,
+        "longitude": 150.79166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79166,
+          -34.55774
+        ]
+      }
     }
   ]
 }

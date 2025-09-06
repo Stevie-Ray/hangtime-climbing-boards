@@ -5131,11 +5131,11 @@
       "properties": {
         "id": 159013,
         "username": "blocworksclimbing",
-        "name": "Blocworks",
+        "name": "Blocworks Edmond",
         "latitude": 35.65458,
         "longitude": -97.48122,
-        "title": "Blocworks",
-        "description": "Kilter Board at Blocworks",
+        "title": "Blocworks Edmond",
+        "description": "Kilter Board at Blocworks Edmond",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -5143,27 +5143,6 @@
         "coordinates": [
           -97.48122,
           35.65458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 159014,
-      "properties": {
-        "id": 159014,
-        "username": "hochatown_crag_beavers",
-        "name": "Crag Climb Beavers Bend",
-        "latitude": 34.14798,
-        "longitude": -94.74882,
-        "title": "Crag Climb Beavers Bend",
-        "description": "Kilter Board at Crag Climb Beavers Bend",
-        "marker-color": "#ED1D24"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.74882,
-          34.14798
         ]
       }
     },
@@ -5572,11 +5551,11 @@
       "properties": {
         "id": 160189,
         "username": "gropobouldergym",
-        "name": "Gropo Boulder Gym",
+        "name": "Gropo Bouldergym Groningen",
         "latitude": 53.23124,
         "longitude": 6.59009,
-        "title": "Gropo Boulder Gym",
-        "description": "Kilter Board at Gropo Boulder Gym",
+        "title": "Gropo Bouldergym Groningen",
+        "description": "Kilter Board at Gropo Bouldergym Groningen",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -26584,6 +26563,48 @@
         "coordinates": [
           -84.56882,
           34.02145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 210171,
+      "properties": {
+        "id": 210171,
+        "username": "dynomitenorthwollongong",
+        "name": "Dynomite Gym North Wollongong",
+        "latitude": -34.40612,
+        "longitude": 150.89504,
+        "title": "Dynomite Gym North Wollongong",
+        "description": "Tension Board at Dynomite Gym North Wollongong",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.89504,
+          -34.40612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 210172,
+      "properties": {
+        "id": 210172,
+        "username": "dynomitealbionpark",
+        "name": "Dynomite Gym Albion Park Rail",
+        "latitude": -34.55774,
+        "longitude": 150.79166,
+        "title": "Dynomite Gym Albion Park Rail",
+        "description": "Tension Board at Dynomite Gym Albion Park Rail",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79166,
+          -34.55774
         ]
       }
     },
