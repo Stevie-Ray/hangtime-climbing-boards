@@ -25749,6 +25749,27 @@
     },
     {
       "type": "Feature",
+      "id": 182401,
+      "properties": {
+        "id": 182401,
+        "username": "adrenaline_vault_cockburn",
+        "name": "Adrenaline Vault Cockburn",
+        "latitude": -32.12339,
+        "longitude": 115.83801,
+        "title": "Adrenaline Vault Cockburn",
+        "description": "Tension Board at Adrenaline Vault Cockburn",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.83801,
+          -32.12339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 183233,
       "properties": {
         "id": 183233,
