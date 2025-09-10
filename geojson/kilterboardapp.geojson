@@ -561,24 +561,6 @@
     },
     {
       "type": "Feature",
-      "id": 149982,
-      "properties": {
-        "id": 149982,
-        "username": "bff_bukittimah",
-        "name": "BFF Climb Bukit Timah",
-        "latitude": 1.33668,
-        "longitude": 103.78371
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.78371,
-          1.33668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 149983,
       "properties": {
         "id": 149983,
