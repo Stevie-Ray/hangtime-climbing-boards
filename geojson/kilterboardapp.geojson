@@ -16725,6 +16725,24 @@
     },
     {
       "type": "Feature",
+      "id": 754416,
+      "properties": {
+        "id": 754416,
+        "username": "GoodangBouldering",
+        "name": "Goodang Bouldering",
+        "latitude": -6.99707,
+        "longitude": 107.55413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.55413,
+          -6.99707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 757074,
       "properties": {
         "id": 757074,
