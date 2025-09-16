@@ -1,6 +1,6 @@
 import type { BoardType } from "../boards.ts";
 import type { Login } from "../interfaces/login.ts";
-import { APIClient } from "../models/client.ts";
+import { AuroraClient } from "../models/aurora.client.ts";
 import type { AxiosError } from "axios";
 
 /**
@@ -15,7 +15,7 @@ export async function getLogins(
   username: string,
   password: string,
 ): Promise<string> {
-  const client = new APIClient(board);
+  const client = new AuroraClient(board);
   try {
     const response = await client.request<Login>({
       method: "POST",

@@ -18,6 +18,7 @@ const boardsInfo: Record<BoardType, {
   decoyboardapp: { color: "#C256C8", name: "Decoy Board" },
   grasshopperboardapp: { color: "#00EAFF", name: "Grasshopper Board" },
   kilterboardapp: { color: "#ED1D24", name: "Kilter Board" },
+  moonboard: { color: "#FEB91E", name: "Moon Board" },
   soillboardapp: { color: "#8BB297", name: "So iLL Board" },
   tensionboardapp2: { color: "#000000", name: "Tension Board" },
   touchstoneboardapp: { color: "#276EAE", name: "Touchstone Board" },
@@ -33,7 +34,6 @@ const readAndStyleGeoJSON = (boardType: BoardType): Feature[] => {
   const filePath = path.join(process.cwd(), "geojson", `${boardType}.geojson`);
   try {
     if (!fs.existsSync(filePath)) {
-      console.warn(`Warning: ${filePath} does not exist.`);
       return [];
     }
 
@@ -50,13 +50,20 @@ const readAndStyleGeoJSON = (boardType: BoardType): Feature[] => {
     return geoJson.features.map((feature) => {
       const newFeature = JSON.parse(JSON.stringify(feature)) as Feature;
 
+      // Handle both lowercase (Aurora) and uppercase (Moonboard) name properties
+      const name = newFeature.properties?.name || newFeature.properties?.Name ||
+        "";
+      const { name: _, Name: __, Description: ___, ...otherProperties } =
+        newFeature.properties ||
+        {};
+
       newFeature.properties = {
-        ...newFeature.properties,
-        title: newFeature.properties?.name || "",
-        description: `${boardsInfo[boardType].name} at ${
-          newFeature.properties?.name || ""
-        }`,
-        "marker-color": boardsInfo[boardType].color,
+        ...otherProperties,
+        title: name,
+        description: newFeature.properties?.Description ||
+          `${boardsInfo[boardType]?.name} at ${name}`,
+        ...(boardsInfo[boardType] &&
+          { "marker-color": boardsInfo[boardType].color }),
       } as SimplestyleSpec;
 
       return newFeature;

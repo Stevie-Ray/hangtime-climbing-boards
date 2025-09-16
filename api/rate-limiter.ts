@@ -6,6 +6,7 @@ const RATE_LIMITS: Record<BoardType, number> = {
   tensionboardapp2: 30, // 1 request per 2 seconds
   grasshopperboardapp: 30,
   decoyboardapp: 30,
+  moonboard: 30,
   soillboardapp: 30,
   touchstoneboardapp: 30,
   auroraboardapp: 30,
@@ -17,6 +18,7 @@ const requestTimestamps: Record<BoardType, number[]> = {
   tensionboardapp2: [],
   grasshopperboardapp: [],
   decoyboardapp: [],
+  moonboard: [],
   soillboardapp: [],
   touchstoneboardapp: [],
   auroraboardapp: [],

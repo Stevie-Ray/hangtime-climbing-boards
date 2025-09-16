@@ -1,5 +1,5 @@
 {
-  "name": "@hangtime/aurora-climbing-boards",
+  "name": "@hangtime/climbing-boards",
   "version": "1.0.0",
   "description": "Auto-updating GeoJSON dataset of Aurora Climbing board locations: Kilter, Tension, Grasshopper, Decoy, So iLL, Touchstone and Aurora.",
   "private": true,
@@ -18,13 +18,13 @@
   "license": "Unlicense",
   "dependencies": {
     "@turf/turf": "^7.2.0",
-    "axios": "^1.11.0",
-    "dotenv": "^17.2.1",
-    "user-agents": "^1.1.631"
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.2",
+    "user-agents": "^1.1.662"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^22.17.1",
+    "@types/node": "^22.18.4",
     "@types/user-agents": "^1.0.4",
     "typescript": "^5.9.2"
   }

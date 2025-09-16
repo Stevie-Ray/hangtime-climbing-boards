@@ -6,6 +6,7 @@ export type BoardType =
   | "decoyboardapp"
   | "grasshopperboardapp"
   | "kilterboardapp"
+  | "moonboard"
   | "soillboardapp"
   | "tensionboardapp2"
   | "touchstoneboardapp";
@@ -20,6 +21,7 @@ export const boards: BoardType[] = [
   "decoyboardapp",
   "grasshopperboardapp",
   "kilterboardapp",
+  "moonboard",
   "soillboardapp",
   "tensionboardapp2",
   "touchstoneboardapp",

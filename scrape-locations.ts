@@ -10,7 +10,7 @@ dotenv.config();
 import { boards, type BoardType } from "./boards.ts";
 
 // Interfaces
-import type { Pin } from "./interfaces/pin.ts";
+import type { AuroraPin, MoonboardPin } from "./interfaces/pin.ts";
 import type { Gym, User, Wall } from "./interfaces/user.ts";
 
 // API
@@ -18,10 +18,12 @@ import { getLogins } from "./api/logins.ts";
 import { getUsers } from "./api/users.ts";
 import { getPins } from "./api/pins.ts";
 
-interface PinWithOptionalUser extends Pin {
+interface AuroraPinWithOptionalUser extends AuroraPin {
   walls?: Wall[];
   gym?: Gym;
 }
+
+type PinWithOptionalUser = AuroraPinWithOptionalUser | MoonboardPin;
 
 /**
  * Gets credentials for a specific board from environment variables
@@ -42,14 +44,31 @@ function getBoardCredentials(
 }
 
 /**
+ * Helper function to get the identifier and name from a pin
+ * @param {AuroraPin | MoonboardPin} pin - The pin to extract info from
+ * @returns {Object} Object with id and name properties
+ */
+function getPinInfo(
+  pin: AuroraPin | MoonboardPin,
+): { id: string | number; name: string } {
+  if ("id" in pin && "name" in pin) {
+    // AuroraPin format
+    return { id: pin.id, name: pin.name };
+  } else {
+    // MoonboardPin format
+    return { id: pin.Name, name: pin.Name };
+  }
+}
+
+/**
  * Fetches user (gym: name, address, walls: angle, rotatable, etc.) details for all pins
- * @param {Pin[]} pins - Array of gyms to fetch walls for
+ * @param {AuroraPin[] | MoonboardPin[]} pins - Array of gyms to fetch walls for
  * @param {BoardType} board - The name of the board app
  * @param {Object} credentials - Username and password for authentication
  * @returns {Promise<PinWithOptionalUser[]>} Array of gyms with wall details
  */
 async function scrapeUser(
-  pins: Pin[],
+  pins: AuroraPin[] | MoonboardPin[],
   board: BoardType,
   credentials: {
     username: string;
@@ -64,25 +83,33 @@ async function scrapeUser(
     );
 
     const PinWithOptionalUser = await Promise.all(
-      pins.map(async (pin: Pin) => {
+      pins.map(async (pin: AuroraPin | MoonboardPin) => {
         try {
-          const login = await getUsers(board, pin.id, token);
+          const pinInfo = getPinInfo(pin);
 
-          if (
-            login?.users && Array.isArray(login.users) && login.users.length > 0
-          ) {
-            // Return an array of pins, one for each user
-            return login.users.map((user: User) => ({
-              ...pin,
-              walls: user.walls,
-              gym: user.gym,
-            }));
-          } else {
-            return pin;
+          // Only fetch user details for Aurora-based boards (which have numeric IDs)
+          if (typeof pinInfo.id === "number") {
+            const login = await getUsers(board, pinInfo.id, token);
+
+            if (
+              login?.users && Array.isArray(login.users) &&
+              login.users.length > 0
+            ) {
+              // Return an array of pins, one for each user
+              return login.users.map((user: User) => ({
+                ...pin,
+                walls: user.walls,
+                gym: user.gym,
+              }));
+            }
           }
+
+          // For Moonboard pins or when no user data is found, return the pin as-is
+          return pin;
         } catch (error) {
+          const pinInfo = getPinInfo(pin);
           console.error(
-            `Failed to fetch walls for gym ${pin.name} (${pin.id}): ${
+            `Failed to fetch walls for gym ${pinInfo.name} (${pinInfo.id}): ${
               error instanceof Error ? error.message : String(error)
             }`,
           );
@@ -115,16 +142,26 @@ async function scrapePins(): Promise<void> {
 
   for (const board of boards) {
     try {
-      // Get public gym info
-      const pins = await getPins(board);
-
       // Get board-specific credentials from environment variables
       const credentials = getBoardCredentials(board);
 
-      // If credentials are provided, fetch gym details (walls, info)
-      const gymsOptionallyWithUser = credentials && pins.gyms.length > 0
-        ? await scrapeUser(pins.gyms, board, credentials)
-        : pins.gyms;
+      // Skip Moonboard if no credentials are provided
+      if (board === "moonboard" && !credentials) {
+        continue;
+      }
+
+      // Get public gym info (pass credentials for Moonboard)
+      const pins = await getPins(
+        board,
+        credentials?.username,
+        credentials?.password,
+      );
+
+      // Aurora Climbing: If credentials are provided, fetch gym details (walls, info)
+      const gymsOptionallyWithUser: PinWithOptionalUser[] =
+        credentials && pins.gyms.length > 0 && board !== "moonboard"
+          ? await scrapeUser(pins.gyms, board, credentials)
+          : pins.gyms;
 
       const jsonData = { gyms: gymsOptionallyWithUser };
 

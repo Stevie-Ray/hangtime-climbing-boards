@@ -1,6 +1,6 @@
 import type { BoardType } from "../boards.ts";
 import type { User } from "../interfaces/user.ts";
-import { APIClient } from "../models/client.ts";
+import { AuroraClient } from "../models/aurora.client.ts";
 import type { AxiosError } from "axios";
 
 /**
@@ -15,7 +15,7 @@ export async function getUsers(
   userId: number,
   token: string,
 ): Promise<{ users: User[] } | undefined> {
-  const client = new APIClient(board);
+  const client = new AuroraClient(board);
   try {
     return await client.request<{ users: User[] }>({
       method: "GET",
@@ -29,6 +29,6 @@ export async function getUsers(
     if ((error as AxiosError).response?.status === 404) {
       return undefined;
     }
-    throw error; // Let other errors be handled by the APIClient
+    throw error; // Let other errors be handled by the AuroraClient
   }
 }

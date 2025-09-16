@@ -1,11 +1,11 @@
-# Aurora Climbing Board Locations
+# Climbing Board Locations
 
 A comprehensive GeoJSON dataset tracking the global locations of various
 climbing training boards, including Kilter, Tension, Grasshopper, Decoy, So iLL,
-Touchstone, and Aurora boards. This dataset is automatically updated daily
+Touchstone, Aurora and Moon -boards. This dataset is automatically updated daily
 through GitHub Actions.
 
-[View on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/combined.geojson)
+[View on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
 
 ## Overview
 
@@ -17,13 +17,14 @@ scraped daily from official sources to ensure accuracy and completeness.
 
 The repository collects data from multiple climbing board applications:
 
-- [Kilter Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/kilterboardapp.geojson)
-- [Tension Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/tensionboardapp2.geojson)
-- [Grasshopper Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/grasshopperboardapp.geojson)
-- [Decoy Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/decoyboardapp.geojson)
-- [So iLL Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/soillboardapp.geojson)
-- [Touchstone Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/touchstoneboardapp.geojson)
-- [Aurora Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-aurora-climbing-boards/blob/main/geojson/auroraboardapp.geojson)
+- [Moon Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/moonboard.geojson)
+- [Kilter Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/kilterboardapp.geojson)
+- [Tension Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/tensionboardapp2.geojson)
+- [Grasshopper Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/grasshopperboardapp.geojson)
+- [Decoy Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/decoyboardapp.geojson)
+- [So iLL Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/soillboardapp.geojson)
+- [Touchstone Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/touchstoneboardapp.geojson)
+- [Aurora Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/auroraboardapp.geojson)
 
 ## Data Structure
 
@@ -116,11 +117,16 @@ cp .env.example .env
 2. Fill in your credentials in the `.env` file:
 
 ```bash
+# Aurora Climbing Boards (Kilter, Tension, etc.)
 KILTERBOARDAPP_USERNAME=your_username
 KILTERBOARDAPP_PASSWORD=your_password
 
 TENSIONBOARDAPP_USERNAME=your_username
 TENSIONBOARDAPP_PASSWORD=your_password
+
+# Moonboard (requires authentication for location data)
+MOONBOARD_USERNAME=your_username
+MOONBOARD_PASSWORD=your_password
 
 # Add credentials for other boards as needed
 ```

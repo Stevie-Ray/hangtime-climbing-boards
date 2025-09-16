@@ -43,6 +43,6 @@
 
     // Emit
     "allowImportingTsExtensions": true,
-    "noEmit": true,
+    "noEmit": true
   }
 }

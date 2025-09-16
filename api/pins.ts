@@ -1,20 +1,25 @@
 import type { BoardType } from "../boards.ts";
-import type { Pin } from "../interfaces/pin.ts";
-import { APIClient } from "../models/client.ts";
+import type { AuroraPin, MoonboardPin } from "../interfaces/pin.ts";
+import { getAuroraPins } from "./aurora.client.ts";
+import { getMoonboardPins } from "./moonboard.client.ts";
 
 /**
  * Downloads gym data for a specific board app from its API.
  * @param {BoardType} board - The name of the board app
- * @returns {Promise<{ gyms: Pin[] }>} Gym data
+ * @param {string} username - Username for authentication (required for Moonboard)
+ * @param {string} password - Password for authentication (required for Moonboard)
+ * @returns {Promise<{ gyms: AuroraPin[] | MoonboardPin[] }>} Gym data
  * @throws {Error} If the API request fails
  */
-export function getPins(board: BoardType): Promise<{ gyms: Pin[] }> {
-  const client = new APIClient(board);
-  return client.request<{ gyms: Pin[] }>({
-    method: "GET",
-    url: "/pins",
-    params: {
-      gyms: 1,
-    },
-  });
+export async function getPins(
+  board: BoardType,
+  username?: string,
+  password?: string,
+): Promise<{ gyms: AuroraPin[] | MoonboardPin[] }> {
+  // Handle Moonboard
+  if (board === "moonboard") {
+    return await getMoonboardPins(username, password);
+  }
+  // Handle all other Aurora-based boards
+  return await getAuroraPins(board);
 }

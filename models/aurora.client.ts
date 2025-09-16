@@ -4,7 +4,7 @@ import UserAgent from "user-agents";
 import type { BoardType } from "../boards.ts";
 import { getCurrentUsage, waitForRateLimit } from "../api/rate-limiter.ts";
 
-export class APIClient {
+export class AuroraClient {
   private readonly board: BoardType;
   private readonly client: AxiosInstance;
   private retryCount: number = 0;
