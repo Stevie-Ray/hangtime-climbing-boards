@@ -1,23 +1,20 @@
 # Climbing Boards
 
-A comprehensive GeoJSON dataset tracking the global locations of various
-climbing training/system boards, including Kilter, Tension, Grasshopper, Decoy,
-So iLL, Touchstone, Aurora and Moon - Boards. This dataset is automatically
-updated daily through GitHub Actions.
+A GeoJSON dataset tracking all climbing training/system boards worldwide,
+including MoonBoard, Kilter Board, Tension Board, Grasshopper Board, Decoy
+Board, So iLL Board, Touchstone Board, and Aurora Board. This dataset is
+automatically updated daily through GitHub Actions.
 
-[View on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
-
-## Overview
-
-This repository contains location data for climbing training boards worldwide,
-presented in GeoJSON format for easy visualization and mapping. The data is
-scraped daily from official sources to ensure accuracy and completeness.
+[Explore all system boards on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
 
 ## Data Sources
 
-The repository collects data from multiple climbing board applications:
+The repository collects data from multiple climbing board applications and
+converts it to GeoJSON, a lightweight, open standard format that's perfect for
+mapping applications and geographic data visualization. Explore individual
+boards on GeoJSON.io:
 
-- [Moon Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/moonboard.geojson)
+- [MoonBoard](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/moonboard.geojson)
 - [Kilter Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/kilterboardapp.geojson)
 - [Tension Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/tensionboardapp2.geojson)
 - [Grasshopper Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/grasshopperboardapp.geojson)
@@ -92,9 +89,9 @@ npm run dev
 
 ### Authentication
 
-Required to get MoonBoard locations. To get detailed information of Aurora
-Boards such (Kilter, Tension, etc.) as the gym's address, board angle, or
-rotatability status, you need to provide your credentials through environment
+Required to get MoonBoard locations. To get detailed information about Aurora
+Boards such as (Kilter, Tension, etc.) including the gym's address, board angle,
+or rotatability status, you need to provide your credentials through environment
 variables. Each climbing board app requires its own set of login credentials.
 The scraper will only fetch additional details for the specific apps where you
 provide valid login details.
@@ -125,7 +122,7 @@ KILTERBOARDAPP_PASSWORD=your_password
 TENSIONBOARDAPP_USERNAME=your_username
 TENSIONBOARDAPP_PASSWORD=your_password
 
-# Moonboard (requires authentication for location data)
+# MoonBoard (requires authentication for location data)
 MOONBOARD_USERNAME=your_username
 MOONBOARD_PASSWORD=your_password
 
