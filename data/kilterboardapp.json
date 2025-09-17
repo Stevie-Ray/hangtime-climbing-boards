@@ -6565,6 +6565,13 @@
       "name": "Movement Centennial",
       "latitude": 39.56908,
       "longitude": -104.87477
+    },
+    {
+      "id": 770011,
+      "username": "altitudegym_kanata",
+      "name": "Altitude Gym Kanata",
+      "latitude": 45.29791,
+      "longitude": -75.91137
     }
   ]
 }

@@ -20003,6 +20003,26 @@
     },
     {
       "type": "Feature",
+      "id": 770011,
+      "properties": {
+        "id": 770011,
+        "username": "altitudegym_kanata",
+        "latitude": 45.29791,
+        "longitude": -75.91137,
+        "title": "Altitude Gym Kanata",
+        "description": "Kilter Board at Altitude Gym Kanata",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91137,
+          45.29791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -59846,6 +59866,26 @@
         "coordinates": [
           150.79166,
           -34.55774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212150,
+      "properties": {
+        "id": 212150,
+        "username": "altitudegym_kanata",
+        "latitude": 45.29801,
+        "longitude": -75.91138,
+        "title": "Altitude Gym Kanata",
+        "description": "Tension Board at Altitude Gym Kanata",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91138,
+          45.29801
         ]
       }
     },

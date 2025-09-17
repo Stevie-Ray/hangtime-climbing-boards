@@ -1819,6 +1819,13 @@
       "name": "Dynomite Gym Albion Park Rail",
       "latitude": -34.55774,
       "longitude": 150.79166
+    },
+    {
+      "id": 212150,
+      "username": "altitudegym_kanata",
+      "name": "Altitude Gym Kanata",
+      "latitude": 45.29801,
+      "longitude": -75.91138
     }
   ]
 }

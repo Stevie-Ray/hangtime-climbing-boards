@@ -16884,6 +16884,24 @@
           39.56908
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 770011,
+      "properties": {
+        "id": 770011,
+        "username": "altitudegym_kanata",
+        "name": "Altitude Gym Kanata",
+        "latitude": 45.29791,
+        "longitude": -75.91137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91137,
+          45.29791
+        ]
+      }
     }
   ]
 }
