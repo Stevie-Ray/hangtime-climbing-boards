@@ -1,9 +1,9 @@
-# Climbing Board Locations
+# Climbing Boards
 
 A comprehensive GeoJSON dataset tracking the global locations of various
-climbing training boards, including Kilter, Tension, Grasshopper, Decoy, So iLL,
-Touchstone, Aurora and Moon -boards. This dataset is automatically updated daily
-through GitHub Actions.
+climbing training/system boards, including Kilter, Tension, Grasshopper, Decoy,
+So iLL, Touchstone, Aurora and Moon - Boards. This dataset is automatically
+updated daily through GitHub Actions.
 
 [View on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
 
@@ -92,11 +92,12 @@ npm run dev
 
 ### Authentication
 
-To get detailed information such as the gym's address, board angle, or
+Required to get MoonBoard locations. To get detailed information of Aurora
+Boards such (Kilter, Tension, etc.) as the gym's address, board angle, or
 rotatability status, you need to provide your credentials through environment
-variables. Each climbing board app (Kilter, Tension, etc.) requires its own set
-of login credentials. The scraper will only fetch additional details for the
-specific apps where you provide valid login details.
+variables. Each climbing board app requires its own set of login credentials.
+The scraper will only fetch additional details for the specific apps where you
+provide valid login details.
 
 **Important Legal Notice**: Before using this scraper with credentials, you
 must:

@@ -13,14 +13,16 @@ jobs:
       contents: write
     steps:
       - name: Check out this repo
-        uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+        uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
       - name: Install dependencies
         run: npm ci
       - name: Fetch latest data
         env:
+          MOONBOARD_USERNAME: ${{ secrets.MOONBOARDAPP_USERNAME }}
+          MOONBOARD_PASSWORD: ${{ secrets.MOONBOARDAPP_PASSWORD }}
           KILTERBOARDAPP_USERNAME: ${{ secrets.KILTERBOARDAPP_USERNAME }}
           KILTERBOARDAPP_PASSWORD: ${{ secrets.KILTERBOARDAPP_PASSWORD }}
           TENSIONBOARDAPP2_USERNAME: ${{ secrets.TENSIONBOARDAPP2_USERNAME }}

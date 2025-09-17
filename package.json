@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^22.18.4",
+    "@types/node": "^22.18.5",
     "@types/user-agents": "^1.0.4",
     "typescript": "^5.9.2"
   }
