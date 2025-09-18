@@ -5989,8 +5989,8 @@
         "username": "blochausmkv",
         "latitude": -33.90788,
         "longitude": 151.16757,
-        "title": "Bloc Haus Marrickville",
-        "description": "Kilter Board at Bloc Haus Marrickville",
+        "title": "Bloc Haus MKV",
+        "description": "Kilter Board at Bloc Haus MKV",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -13229,8 +13229,8 @@
         "username": "blochausmitchell",
         "latitude": -35.21487,
         "longitude": 149.14169,
-        "title": "BlocHaus Mitchell",
-        "description": "Kilter Board at BlocHaus Mitchell",
+        "title": "BlocHaus CBR",
+        "description": "Kilter Board at BlocHaus CBR",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -18398,6 +18398,26 @@
         "coordinates": [
           9.11749,
           39.2231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 659779,
+      "properties": {
+        "id": 659779,
+        "username": "Brushworks",
+        "latitude": 55.86758,
+        "longitude": -4.24007,
+        "title": "Brushworks Climbing",
+        "description": "Kilter Board at Brushworks Climbing",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24007,
+          55.86758
         ]
       }
     },
@@ -59871,6 +59891,26 @@
     },
     {
       "type": "Feature",
+      "id": 212069,
+      "properties": {
+        "id": 212069,
+        "username": "Stuntwerk_Essen",
+        "latitude": 51.46335,
+        "longitude": 7.00239,
+        "title": "Stuntwerk Essen",
+        "description": "Tension Board at Stuntwerk Essen",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.00239,
+          51.46335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 212150,
       "properties": {
         "id": 212150,
@@ -59886,6 +59926,46 @@
         "coordinates": [
           -75.91138,
           45.29801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212292,
+      "properties": {
+        "id": 212292,
+        "username": "sportrock_sterling",
+        "latitude": 39.01971,
+        "longitude": -77.41231,
+        "title": "Sportrock Climbing Center Sterling",
+        "description": "Tension Board at Sportrock Climbing Center Sterling",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41231,
+          39.01971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212294,
+      "properties": {
+        "id": 212294,
+        "username": "betaonebouldering",
+        "latitude": -33.87073,
+        "longitude": 151.00728,
+        "title": "Beta One Bouldering Gym",
+        "description": "Tension Board at Beta One Bouldering Gym",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00728,
+          -33.87073
         ]
       }
     },

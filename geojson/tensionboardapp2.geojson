@@ -4683,6 +4683,24 @@
     },
     {
       "type": "Feature",
+      "id": 212069,
+      "properties": {
+        "id": 212069,
+        "username": "Stuntwerk_Essen",
+        "name": "Stuntwerk Essen",
+        "latitude": 51.46335,
+        "longitude": 7.00239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.00239,
+          51.46335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 212150,
       "properties": {
         "id": 212150,
@@ -4696,6 +4714,42 @@
         "coordinates": [
           -75.91138,
           45.29801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212292,
+      "properties": {
+        "id": 212292,
+        "username": "sportrock_sterling",
+        "name": "Sportrock Climbing Center Sterling",
+        "latitude": 39.01971,
+        "longitude": -77.41231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41231,
+          39.01971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212294,
+      "properties": {
+        "id": 212294,
+        "username": "betaonebouldering",
+        "name": "Beta One Bouldering Gym",
+        "latitude": -33.87073,
+        "longitude": 151.00728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00728,
+          -33.87073
         ]
       }
     }

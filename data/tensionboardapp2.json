@@ -1821,11 +1821,32 @@
       "longitude": 150.79166
     },
     {
+      "id": 212069,
+      "username": "Stuntwerk_Essen",
+      "name": "Stuntwerk Essen",
+      "latitude": 51.46335,
+      "longitude": 7.00239
+    },
+    {
       "id": 212150,
       "username": "altitudegym_kanata",
       "name": "Altitude Gym Kanata",
       "latitude": 45.29801,
       "longitude": -75.91138
+    },
+    {
+      "id": 212292,
+      "username": "sportrock_sterling",
+      "name": "Sportrock Climbing Center Sterling",
+      "latitude": 39.01971,
+      "longitude": -77.41231
+    },
+    {
+      "id": 212294,
+      "username": "betaonebouldering",
+      "name": "Beta One Bouldering Gym",
+      "latitude": -33.87073,
+      "longitude": 151.00728
     }
   ]
 }

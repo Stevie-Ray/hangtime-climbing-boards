@@ -1662,7 +1662,7 @@
     {
       "id": 167347,
       "username": "blochausmkv",
-      "name": "Bloc Haus Marrickville",
+      "name": "Bloc Haus MKV",
       "latitude": -33.90788,
       "longitude": 151.16757
     },
@@ -4196,7 +4196,7 @@
     {
       "id": 432660,
       "username": "blochausmitchell",
-      "name": "BlocHaus Mitchell",
+      "name": "BlocHaus CBR",
       "latitude": -35.21487,
       "longitude": 149.14169
     },
@@ -6005,6 +6005,13 @@
       "name": "S'Avanzada Climbing Cagliari",
       "latitude": 39.2231,
       "longitude": 9.11749
+    },
+    {
+      "id": 659779,
+      "username": "Brushworks",
+      "name": "Brushworks Climbing",
+      "latitude": 55.86758,
+      "longitude": -4.24007
     },
     {
       "id": 660118,
