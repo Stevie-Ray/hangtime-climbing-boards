@@ -57,13 +57,6 @@
       "longitude": -97.62456
     },
     {
-      "id": 8102,
-      "username": "dynodetroit",
-      "name": "DYNO Detroit",
-      "latitude": 42.35335,
-      "longitude": -83.04073
-    },
-    {
       "id": 8104,
       "username": "elemental_performancefitness",
       "name": "Elemental Performance + Fitness",
@@ -279,6 +272,13 @@
       "name": "JMU UREC Adveture Center",
       "latitude": 38.43363,
       "longitude": -78.8675
+    },
+    {
+      "id": 30856,
+      "username": "climbthelab",
+      "name": "The Lab Climbing",
+      "latitude": 40.01671,
+      "longitude": -105.22462
     }
   ]
 }

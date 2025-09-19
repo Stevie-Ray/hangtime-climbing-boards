@@ -603,26 +603,6 @@
     },
     {
       "type": "Feature",
-      "id": 8102,
-      "properties": {
-        "id": 8102,
-        "username": "dynodetroit",
-        "latitude": 42.35335,
-        "longitude": -83.04073,
-        "title": "DYNO Detroit",
-        "description": "Grasshopper Board at DYNO Detroit",
-        "marker-color": "#00EAFF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.04073,
-          42.35335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 8104,
       "properties": {
         "id": 8104,
@@ -1238,6 +1218,26 @@
         "coordinates": [
           -78.8675,
           38.43363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30856,
+      "properties": {
+        "id": 30856,
+        "username": "climbthelab",
+        "latitude": 40.01671,
+        "longitude": -105.22462,
+        "title": "The Lab Climbing",
+        "description": "Grasshopper Board at The Lab Climbing",
+        "marker-color": "#00EAFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.22462,
+          40.01671
         ]
       }
     },
@@ -20038,6 +20038,46 @@
         "coordinates": [
           -75.91137,
           45.29791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 771314,
+      "properties": {
+        "id": 771314,
+        "username": "griffig_kletterhalle",
+        "latitude": 47.36121,
+        "longitude": 8.7256,
+        "title": "GRIFFIG",
+        "description": "Kilter Board at GRIFFIG",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7256,
+          47.36121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 771336,
+      "properties": {
+        "id": 771336,
+        "username": "grip.climbingym",
+        "latitude": 44.55963,
+        "longitude": 10.91238,
+        "title": "Grip Climbing Gym",
+        "description": "Kilter Board at Grip Climbing Gym",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.91238,
+          44.55963
         ]
       }
     },

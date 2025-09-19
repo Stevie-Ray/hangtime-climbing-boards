@@ -6579,6 +6579,20 @@
       "name": "Altitude Gym Kanata",
       "latitude": 45.29791,
       "longitude": -75.91137
+    },
+    {
+      "id": 771314,
+      "username": "griffig_kletterhalle",
+      "name": "GRIFFIG",
+      "latitude": 47.36121,
+      "longitude": 8.7256
+    },
+    {
+      "id": 771336,
+      "username": "grip.climbingym",
+      "name": "Grip Climbing Gym",
+      "latitude": 44.55963,
+      "longitude": 10.91238
     }
   ]
 }

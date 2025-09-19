@@ -16920,6 +16920,42 @@
           45.29791
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 771314,
+      "properties": {
+        "id": 771314,
+        "username": "griffig_kletterhalle",
+        "name": "GRIFFIG",
+        "latitude": 47.36121,
+        "longitude": 8.7256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7256,
+          47.36121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 771336,
+      "properties": {
+        "id": 771336,
+        "username": "grip.climbingym",
+        "name": "Grip Climbing Gym",
+        "latitude": 44.55963,
+        "longitude": 10.91238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.91238,
+          44.55963
+        ]
+      }
     }
   ]
 }

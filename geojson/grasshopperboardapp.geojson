@@ -147,24 +147,6 @@
     },
     {
       "type": "Feature",
-      "id": 8102,
-      "properties": {
-        "id": 8102,
-        "username": "dynodetroit",
-        "name": "DYNO Detroit",
-        "latitude": 42.35335,
-        "longitude": -83.04073
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.04073,
-          42.35335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 8104,
       "properties": {
         "id": 8104,
@@ -718,6 +700,24 @@
         "coordinates": [
           -78.8675,
           38.43363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30856,
+      "properties": {
+        "id": 30856,
+        "username": "climbthelab",
+        "name": "The Lab Climbing",
+        "latitude": 40.01671,
+        "longitude": -105.22462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.22462,
+          40.01671
         ]
       }
     }
