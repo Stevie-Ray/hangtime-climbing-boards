@@ -33051,6 +33051,52 @@
           39.3643407
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "urban apes Lübeck",
+        "Description": "Free standing Moonboard at 40° with 2017 all holds set",
+        "Image": "/Content/Account/Users/MoonBoards/2158_9cbc5c35-8ba2-4d3c-88ac-ff52d128af24.jpg",
+        "Latitude": 53.84966989999999,
+        "Longitude": 10.6761155,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          53.84966989999999,
+          10.6761155
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6761155,
+          53.84966989999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Lab Climbing",
+        "Description": "MoonBoard 2016 and MoonBoard 2024",
+        "Image": "/Content/Account/Users/MoonBoards/2159_0172d7d1-decb-47a9-bed4-f54c6509ff4f.jpeg",
+        "Latitude": 40.0166469,
+        "Longitude": -105.2246372,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          40.0166469,
+          -105.2246372
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2246372,
+          40.0166469
+        ]
+      }
     }
   ]
 }
