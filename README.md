@@ -7,6 +7,9 @@ automatically updated daily through GitHub Actions.
 
 [Explore all system boards on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
 
+[![Climbing Boards](https://repository-images.githubusercontent.com/941517323/94c21be3-b32e-4ce3-a2d0-4284ec1e7781)](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
+
+
 ## Data Sources
 
 The repository collects data from multiple climbing board applications and
