@@ -21,8 +21,8 @@ jobs:
         run: npm ci
       - name: Fetch latest data
         env:
-          MOONBOARD_USERNAME: ${{ secrets.MOONBOARDAPP_USERNAME }}
-          MOONBOARD_PASSWORD: ${{ secrets.MOONBOARDAPP_PASSWORD }}
+          MOONBOARD_USERNAME: ${{ secrets.MOONBOARD_USERNAME }}
+          MOONBOARD_PASSWORD: ${{ secrets.MOONBOARD_PASSWORD }}
           KILTERBOARDAPP_USERNAME: ${{ secrets.KILTERBOARDAPP_USERNAME }}
           KILTERBOARDAPP_PASSWORD: ${{ secrets.KILTERBOARDAPP_PASSWORD }}
           TENSIONBOARDAPP2_USERNAME: ${{ secrets.TENSIONBOARDAPP2_USERNAME }}
