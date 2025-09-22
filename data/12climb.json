@@ -1,0 +1,214 @@
+{
+  "gyms": [
+    {
+      "name": "12C Board classic (Climbing gym \"KPIskala\")",
+      "description": "12C Board classic in Climbing gym \"KPIskala\"",
+      "latitude": 50.4425234,
+      "longitude": 30.4495923
+    },
+    {
+      "name": "12C Board School (Climbing gym \"KPIskala\")",
+      "description": "12C Board School in Climbing gym \"KPIskala\"",
+      "latitude": 50.442838,
+      "longitude": 30.4493219
+    },
+    {
+      "name": "",
+      "description": "12C Board School in Climbing gym \"Space\", Kyiv",
+      "latitude": 50.4887793,
+      "longitude": 30.4906293
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall in the Technical Lyceum, Kyiv",
+      "latitude": 50.4746182,
+      "longitude": 30.4419458
+    },
+    {
+      "name": "12C Board School (Gymnasium \"Millennium\" №318)",
+      "description": "An interactive 12C Board School climbing wall at Gymnasium \"Millennium\" №318, Kyiv.",
+      "latitude": 50.416134,
+      "longitude": 30.4683816
+    },
+    {
+      "name": "12C Board School (Gymnasium 107 \"Vvedenskaya\")",
+      "description": "An interactive 12C Board School climbing wall at Gymnasium #107 \"Vvedenskaya\", Kyiv.",
+      "latitude": 50.472918,
+      "longitude": 30.5129492
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at School №221, Kyiv.",
+      "latitude": 50.4327164,
+      "longitude": 30.4871464
+    },
+    {
+      "name": "",
+      "description": "",
+      "latitude": 50.4200512,
+      "longitude": 30.5173051
+    },
+    {
+      "name": "",
+      "description": "",
+      "latitude": 50.417303,
+      "longitude": 30.5218166
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at School №45, Kyiv.",
+      "latitude": 50.4931937,
+      "longitude": 30.4078388
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at School №1, Kyiv.",
+      "latitude": 50.4728109,
+      "longitude": 30.4767764
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at School №95, Kyiv.",
+      "latitude": 50.4789751,
+      "longitude": 30.4028252
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at Slov'yanska gymnasium, Kyiv.",
+      "latitude": 50.4130181,
+      "longitude": 30.6316137
+    },
+    {
+      "name": "",
+      "description": "",
+      "latitude": 50.424299,
+      "longitude": 30.6474903
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at Lyceum №38, Kyiv.",
+      "latitude": 50.4525777,
+      "longitude": 30.4936768
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at School №274, Kyiv.",
+      "latitude": 50.41454,
+      "longitude": 30.6582892
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at School №102, Kyiv.",
+      "latitude": 50.4519326,
+      "longitude": 30.4690384
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at School №144, Kyiv.",
+      "latitude": 50.4220206,
+      "longitude": 30.4661904
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at School №24, Kyiv.",
+      "latitude": 50.472142,
+      "longitude": 30.445291
+    },
+    {
+      "name": "",
+      "description": "An interactive 12C Board School climbing wall at School №28, Kyiv.",
+      "latitude": 50.477919,
+      "longitude": 30.435754
+    },
+    {
+      "name": "",
+      "description": "An interactive 12Climb Board School climbing wall at sport center in Slavutych.",
+      "latitude": 51.5240544,
+      "longitude": 30.7534405
+    },
+    {
+      "name": "",
+      "description": "12Climb Board Classic at National Climbing School, South Korea",
+      "latitude": 38.2058679,
+      "longitude": 128.5299501
+    },
+    {
+      "name": "",
+      "description": "12C Board School climbing wall at School №25",
+      "latitude": 50.4577979,
+      "longitude": 30.5185049
+    },
+    {
+      "name": "",
+      "description": "12C Board School climbing wall at School №171",
+      "latitude": 50.4321962,
+      "longitude": 30.5492333
+    },
+    {
+      "name": "",
+      "description": "12C Board School climbing wall at School №138",
+      "latitude": 50.4558006,
+      "longitude": 30.4999467
+    },
+    {
+      "name": "",
+      "description": "12С Board Shool climbing wall at School №172",
+      "latitude": 50.4693718,
+      "longitude": 30.4162178
+    },
+    {
+      "name": "",
+      "description": "",
+      "latitude": 49.2767636,
+      "longitude": 23.5186334
+    },
+    {
+      "name": "",
+      "description": "12С Board Shool climbing wall at Britannica school",
+      "latitude": 50.333501,
+      "longitude": 30.3510772
+    },
+    {
+      "name": "",
+      "description": "12С Board Shool climbing wall Funattic climbing gym",
+      "latitude": 50.4464461,
+      "longitude": 30.4430291
+    },
+    {
+      "name": "",
+      "description": "12C Board School climbing wall at Hyperion climbing gym",
+      "latitude": 50.4734096,
+      "longitude": 30.498501
+    },
+    {
+      "name": "",
+      "description": "12С Board Shool climbing wall at School №239",
+      "latitude": 50.507741,
+      "longitude": 30.502859
+    },
+    {
+      "name": "",
+      "description": "",
+      "latitude": 50.038106,
+      "longitude": 36.2849011
+    },
+    {
+      "name": "",
+      "description": "12C Board School в Сумському Палаці дітей та юнацтва",
+      "latitude": 50.9083891,
+      "longitude": 34.8006634
+    },
+    {
+      "name": "",
+      "description": "",
+      "latitude": 46.4723569,
+      "longitude": 30.7025312
+    },
+    {
+      "name": "",
+      "description": "",
+      "latitude": 50.3783394,
+      "longitude": 30.4840921
+    }
+  ]
+}

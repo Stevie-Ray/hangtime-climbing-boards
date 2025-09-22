@@ -22,6 +22,7 @@ const boardsInfo: Record<BoardType, {
   soillboardapp: { color: "#8BB297", name: "So iLL Board" },
   tensionboardapp2: { color: "#000000", name: "Tension Board" },
   touchstoneboardapp: { color: "#276EAE", name: "Touchstone Board" },
+  "12climb": { color: "#ED1667", name: "12Climb Board" },
 };
 
 /**
@@ -57,11 +58,15 @@ const readAndStyleGeoJSON = (boardType: BoardType): Feature[] => {
         newFeature.properties ||
         {};
 
+      // Use board name as fallback when no specific name is provided
+      const title = name || boardsInfo[boardType]?.name || "Unknown Board";
+
       newFeature.properties = {
         ...otherProperties,
-        title: name,
+        title: title,
         description: newFeature.properties?.Description ||
-          `${boardsInfo[boardType]?.name} at ${name}`,
+          newFeature.properties?.description ||
+          `${boardsInfo[boardType]?.name}${name ? ` at ${name}` : ""}`,
         ...(boardsInfo[boardType] &&
           { "marker-color": boardsInfo[boardType].color }),
       } as SimplestyleSpec;

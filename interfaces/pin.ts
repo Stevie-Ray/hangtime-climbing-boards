@@ -37,3 +37,17 @@ export interface MoonboardPin {
   /** Latitude and longitude as an array */
   LatLng: [number, number];
 }
+
+/**
+ * Represents a 12Climb marker from the Google My Maps Service.
+ */
+export interface TwelveClimbPin {
+  /** Display name of the gym */
+  name: string;
+  /** Description of the gym */
+  description: string;
+  /** Latitude coordinate of the gym's location */
+  latitude: number;
+  /** Longitude coordinate of the gym's location */
+  longitude: number;
+}

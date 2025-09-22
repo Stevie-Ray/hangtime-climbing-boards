@@ -2,13 +2,12 @@
 
 A GeoJSON dataset tracking all climbing training/system boards worldwide,
 including MoonBoard, Kilter Board, Tension Board, Grasshopper Board, Decoy
-Board, So iLL Board, Touchstone Board, and Aurora Board. This dataset is
-automatically updated daily through GitHub Actions.
+Board, So iLL Board, Touchstone Board, Aurora Board, and 12Climb Board. This
+dataset is automatically updated daily through GitHub Actions.
 
 [Explore all system boards on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
 
 [![Climbing Boards](https://repository-images.githubusercontent.com/941517323/94c21be3-b32e-4ce3-a2d0-4284ec1e7781)](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
-
 
 ## Data Sources
 
@@ -25,6 +24,7 @@ boards on GeoJSON.io:
 - [So iLL Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/soillboardapp.geojson)
 - [Touchstone Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/touchstoneboardapp.geojson)
 - [Aurora Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/auroraboardapp.geojson)
+- [12Climb Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/12climb.geojson)
 
 ## Data Structure
 

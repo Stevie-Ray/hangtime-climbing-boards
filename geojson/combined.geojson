@@ -60156,6 +60156,601 @@
           37.48421
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12C Board classic in Climbing gym \"KPIskala\"",
+        "latitude": 50.4425234,
+        "longitude": 30.4495923,
+        "title": "12C Board classic (Climbing gym \"KPIskala\")",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4495923,
+          50.4425234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12C Board School in Climbing gym \"KPIskala\"",
+        "latitude": 50.442838,
+        "longitude": 30.4493219,
+        "title": "12C Board School (Climbing gym \"KPIskala\")",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4493219,
+          50.442838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12C Board School in Climbing gym \"Space\", Kyiv",
+        "latitude": 50.4887793,
+        "longitude": 30.4906293,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4906293,
+          50.4887793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall in the Technical Lyceum, Kyiv",
+        "latitude": 50.4746182,
+        "longitude": 30.4419458,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4419458,
+          50.4746182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at Gymnasium \"Millennium\" №318, Kyiv.",
+        "latitude": 50.416134,
+        "longitude": 30.4683816,
+        "title": "12C Board School (Gymnasium \"Millennium\" №318)",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4683816,
+          50.416134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at Gymnasium #107 \"Vvedenskaya\", Kyiv.",
+        "latitude": 50.472918,
+        "longitude": 30.5129492,
+        "title": "12C Board School (Gymnasium 107 \"Vvedenskaya\")",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5129492,
+          50.472918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at School №221, Kyiv.",
+        "latitude": 50.4327164,
+        "longitude": 30.4871464,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4871464,
+          50.4327164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12Climb Board",
+        "latitude": 50.4200512,
+        "longitude": 30.5173051,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5173051,
+          50.4200512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12Climb Board",
+        "latitude": 50.417303,
+        "longitude": 30.5218166,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5218166,
+          50.417303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at School №45, Kyiv.",
+        "latitude": 50.4931937,
+        "longitude": 30.4078388,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4078388,
+          50.4931937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at School №1, Kyiv.",
+        "latitude": 50.4728109,
+        "longitude": 30.4767764,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4767764,
+          50.4728109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at School №95, Kyiv.",
+        "latitude": 50.4789751,
+        "longitude": 30.4028252,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4028252,
+          50.4789751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at Slov'yanska gymnasium, Kyiv.",
+        "latitude": 50.4130181,
+        "longitude": 30.6316137,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6316137,
+          50.4130181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12Climb Board",
+        "latitude": 50.424299,
+        "longitude": 30.6474903,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6474903,
+          50.424299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at Lyceum №38, Kyiv.",
+        "latitude": 50.4525777,
+        "longitude": 30.4936768,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4936768,
+          50.4525777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at School №274, Kyiv.",
+        "latitude": 50.41454,
+        "longitude": 30.6582892,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6582892,
+          50.41454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at School №102, Kyiv.",
+        "latitude": 50.4519326,
+        "longitude": 30.4690384,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4690384,
+          50.4519326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at School №144, Kyiv.",
+        "latitude": 50.4220206,
+        "longitude": 30.4661904,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4661904,
+          50.4220206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at School №24, Kyiv.",
+        "latitude": 50.472142,
+        "longitude": 30.445291,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.445291,
+          50.472142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12C Board School climbing wall at School №28, Kyiv.",
+        "latitude": 50.477919,
+        "longitude": 30.435754,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.435754,
+          50.477919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "An interactive 12Climb Board School climbing wall at sport center in Slavutych.",
+        "latitude": 51.5240544,
+        "longitude": 30.7534405,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7534405,
+          51.5240544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12Climb Board Classic at National Climbing School, South Korea",
+        "latitude": 38.2058679,
+        "longitude": 128.5299501,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.5299501,
+          38.2058679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12C Board School climbing wall at School №25",
+        "latitude": 50.4577979,
+        "longitude": 30.5185049,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5185049,
+          50.4577979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12C Board School climbing wall at School №171",
+        "latitude": 50.4321962,
+        "longitude": 30.5492333,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5492333,
+          50.4321962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12C Board School climbing wall at School №138",
+        "latitude": 50.4558006,
+        "longitude": 30.4999467,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4999467,
+          50.4558006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12С Board Shool climbing wall at School №172",
+        "latitude": 50.4693718,
+        "longitude": 30.4162178,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4162178,
+          50.4693718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12Climb Board",
+        "latitude": 49.2767636,
+        "longitude": 23.5186334,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5186334,
+          49.2767636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12С Board Shool climbing wall at Britannica school",
+        "latitude": 50.333501,
+        "longitude": 30.3510772,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3510772,
+          50.333501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12С Board Shool climbing wall Funattic climbing gym",
+        "latitude": 50.4464461,
+        "longitude": 30.4430291,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4430291,
+          50.4464461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12C Board School climbing wall at Hyperion climbing gym",
+        "latitude": 50.4734096,
+        "longitude": 30.498501,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.498501,
+          50.4734096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12С Board Shool climbing wall at School №239",
+        "latitude": 50.507741,
+        "longitude": 30.502859,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.502859,
+          50.507741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12Climb Board",
+        "latitude": 50.038106,
+        "longitude": 36.2849011,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2849011,
+          50.038106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12C Board School в Сумському Палаці дітей та юнацтва",
+        "latitude": 50.9083891,
+        "longitude": 34.8006634,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8006634,
+          50.9083891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12Climb Board",
+        "latitude": 46.4723569,
+        "longitude": 30.7025312,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7025312,
+          46.4723569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "12Climb Board",
+        "latitude": 50.3783394,
+        "longitude": 30.4840921,
+        "title": "12Climb Board",
+        "marker-color": "#ED1667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4840921,
+          50.3783394
+        ]
+      }
     }
   ]
 }

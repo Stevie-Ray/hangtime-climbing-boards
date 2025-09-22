@@ -9,7 +9,8 @@ export type BoardType =
   | "moonboard"
   | "soillboardapp"
   | "tensionboardapp2"
-  | "touchstoneboardapp";
+  | "touchstoneboardapp"
+  | "12climb";
 
 /**
  * Array of supported board types used throughout the application.
@@ -25,4 +26,5 @@ export const boards: BoardType[] = [
   "soillboardapp",
   "tensionboardapp2",
   "touchstoneboardapp",
+  "12climb",
 ];

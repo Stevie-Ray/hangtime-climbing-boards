@@ -8,15 +8,53 @@ import { boards } from "./boards.ts";
 
 // Interfaces
 import type { FeatureCollection } from "geojson";
-import type { AuroraPin, MoonboardPin } from "./interfaces/pin.ts";
+import type {
+  AuroraPin,
+  MoonboardPin,
+  TwelveClimbPin,
+} from "./interfaces/pin.ts";
 
-/**
- * Converts a JSON file containing gym locations into a GeoJSON FeatureCollection.
- * Handles both AuroraPin format (for Aurora, Kilter, Tension, etc.) and MoonboardPin format (for Moonboard).
- * @param {string} filename - Path to the input JSON file containing gym data
- * @returns {FeatureCollection | false} A GeoJSON FeatureCollection if successful, false if conversion fails
- * @throws {Error} If the file structure is invalid or gym coordinates are missing
- */
+// Type guards for format detection
+const isMoonboardPin = (item: unknown): item is MoonboardPin =>
+  typeof item === "object" && item !== null && "Name" in item &&
+  "IsCommercial" in item;
+
+const isTwelveClimbPin = (item: unknown): item is TwelveClimbPin =>
+  typeof item === "object" && item !== null && "name" in item &&
+  "description" in item &&
+  "latitude" in item && "longitude" in item;
+
+// Coordinate validation helpers
+const validateCoordinates = (
+  lng: unknown,
+  lat: unknown,
+  gymName: string,
+  filename: string,
+): void => {
+  if (typeof lng !== "number" || typeof lat !== "number") {
+    throw new Error(
+      `Invalid gym coordinates in ${filename} for gym ${gymName}`,
+    );
+  }
+};
+
+// Pin conversion functions
+const convertAuroraPin = (pin: AuroraPin, filename: string) => {
+  validateCoordinates(pin.longitude, pin.latitude, `id ${pin.id}`, filename);
+  return point([pin.longitude, pin.latitude], pin, { id: pin.id });
+};
+
+const convertMoonboardPin = (pin: MoonboardPin, filename: string) => {
+  validateCoordinates(pin.Longitude, pin.Latitude, pin.Name, filename);
+  return point([pin.Longitude, pin.Latitude], pin, {});
+};
+
+const convertTwelveClimbPin = (pin: TwelveClimbPin, filename: string) => {
+  validateCoordinates(pin.longitude, pin.latitude, pin.name, filename);
+  return point([pin.longitude, pin.latitude], pin, {});
+};
+
+// Main conversion function
 const convertBoardData = (filename: string): FeatureCollection | false => {
   try {
     const data = JSON.parse(fs.readFileSync(filename, "utf8"));
@@ -27,53 +65,19 @@ const convertBoardData = (filename: string): FeatureCollection | false => {
       );
     }
 
-    // Check if this is a Moonboard file (has MoonboardPin format)
-    const isMoonboard = data.gyms.length > 0 &&
-      typeof data.gyms[0] === "object" &&
-      "Name" in data.gyms[0] &&
-      "IsCommercial" in data.gyms[0];
-
-    return featureCollection(
-      data.gyms.map((item: AuroraPin | MoonboardPin) => {
-        if (isMoonboard) {
-          // Handle MoonboardPin format
-          const moonboardPin = item as MoonboardPin;
-
-          if (
-            typeof moonboardPin.Longitude !== "number" ||
-            typeof moonboardPin.Latitude !== "number"
-          ) {
-            throw new Error(
-              `Invalid gym coordinates in ${filename} for gym ${moonboardPin.Name}`,
-            );
-          }
-
-          return point(
-            [moonboardPin.Longitude, moonboardPin.Latitude],
-            moonboardPin,
-            {},
-          );
+    const features = data.gyms.map(
+      (item: AuroraPin | MoonboardPin | TwelveClimbPin) => {
+        if (isTwelveClimbPin(item)) {
+          return convertTwelveClimbPin(item, filename);
+        } else if (isMoonboardPin(item)) {
+          return convertMoonboardPin(item, filename);
         } else {
-          // Handle AuroraPin format
-          const auroraPin = item as AuroraPin;
-
-          if (
-            typeof auroraPin.longitude !== "number" ||
-            typeof auroraPin.latitude !== "number"
-          ) {
-            throw new Error(
-              `Invalid gym coordinates in ${filename} for gym id ${auroraPin.id}`,
-            );
-          }
-
-          return point(
-            [auroraPin.longitude, auroraPin.latitude],
-            auroraPin,
-            { id: auroraPin.id },
-          );
+          return convertAuroraPin(item as AuroraPin, filename);
         }
-      }),
+      },
     );
+
+    return featureCollection(features);
   } catch (err) {
     if (err instanceof Error) {
       console.error(`Unable to convert ${filename}: ${err.message}`);
