@@ -16923,6 +16923,24 @@
     },
     {
       "type": "Feature",
+      "id": 770500,
+      "properties": {
+        "id": 770500,
+        "username": "ClimbArena",
+        "name": "Climb Arena",
+        "latitude": 48.95432,
+        "longitude": 2.18778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18778,
+          48.95432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 771314,
       "properties": {
         "id": 771314,

@@ -20043,6 +20043,26 @@
     },
     {
       "type": "Feature",
+      "id": 770500,
+      "properties": {
+        "id": 770500,
+        "username": "ClimbArena",
+        "latitude": 48.95432,
+        "longitude": 2.18778,
+        "title": "Climb Arena",
+        "description": "Kilter Board at Climb Arena",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18778,
+          48.95432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 771314,
       "properties": {
         "id": 771314,
@@ -54619,6 +54639,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2160_93119b08-e65e-4bb9-be22-7b0902a008ab.jpg",
+        "Latitude": 37.5407246,
+        "Longitude": -77.4360481,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          37.5407246,
+          -77.4360481
+        ],
+        "title": "RVA Dojo",
+        "description": "Entrance fee: 25 SPKs",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4360481,
+          37.5407246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -58602,18 +58646,18 @@
       "id": 164244,
       "properties": {
         "id": 164244,
-        "username": "rosebloc_longueuil",
-        "latitude": 45.557,
-        "longitude": -73.49448,
-        "title": "Rose Bloc Longueuil",
-        "description": "Tension Board at Rose Bloc Longueuil",
+        "username": "rosebloc_brossard",
+        "latitude": 45.48457,
+        "longitude": -73.46174,
+        "title": "Rose Bloc Brossard",
+        "description": "Tension Board at Rose Bloc Brossard",
         "marker-color": "#000000"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.49448,
-          45.557
+          -73.46174,
+          45.48457
         ]
       }
     },

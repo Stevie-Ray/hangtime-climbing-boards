@@ -33097,6 +33097,29 @@
           40.0166469
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RVA Dojo",
+        "Description": "Entrance fee: 25 SPKs",
+        "Image": "/Content/Account/Users/MoonBoards/2160_93119b08-e65e-4bb9-be22-7b0902a008ab.jpg",
+        "Latitude": 37.5407246,
+        "Longitude": -77.4360481,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          37.5407246,
+          -77.4360481
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4360481,
+          37.5407246
+        ]
+      }
     }
   ]
 }
