@@ -16974,6 +16974,42 @@
           44.55963
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 775598,
+      "properties": {
+        "id": 775598,
+        "username": "osu_dixon",
+        "name": "ALI Dixon Climbing Center",
+        "latitude": 44.56317,
+        "longitude": -123.27864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.27864,
+          44.56317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 775640,
+      "properties": {
+        "id": 775640,
+        "username": "blocsession_rouen",
+        "name": "Bloc Session Rouen",
+        "latitude": 49.44583,
+        "longitude": 1.07746
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.07746,
+          49.44583
+        ]
+      }
     }
   ]
 }
