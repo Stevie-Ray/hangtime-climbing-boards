@@ -4752,6 +4752,24 @@
           -33.87073
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 213781,
+      "properties": {
+        "id": 213781,
+        "username": "trainwithforge",
+        "name": "The Forge",
+        "latitude": 34.10217,
+        "longitude": -117.78999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.78999,
+          34.10217
+        ]
+      }
     }
   ]
 }

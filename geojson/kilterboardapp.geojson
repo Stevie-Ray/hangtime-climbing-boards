@@ -9255,24 +9255,6 @@
     },
     {
       "type": "Feature",
-      "id": 354971,
-      "properties": {
-        "id": 354971,
-        "username": "rosebloc_brossard",
-        "name": "Rose Bloc Brossard",
-        "latitude": 45.48455,
-        "longitude": -73.46176
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.46176,
-          45.48455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 356234,
       "properties": {
         "id": 356234,

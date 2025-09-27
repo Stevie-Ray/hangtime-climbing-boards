@@ -1847,6 +1847,13 @@
       "name": "Beta One Bouldering Gym",
       "latitude": -33.87073,
       "longitude": 151.00728
+    },
+    {
+      "id": 213781,
+      "username": "trainwithforge",
+      "name": "The Forge",
+      "latitude": 34.10217,
+      "longitude": -117.78999
     }
   ]
 }

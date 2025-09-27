@@ -11523,26 +11523,6 @@
     },
     {
       "type": "Feature",
-      "id": 354971,
-      "properties": {
-        "id": 354971,
-        "username": "rosebloc_brossard",
-        "latitude": 45.48455,
-        "longitude": -73.46176,
-        "title": "Rose Bloc Brossard",
-        "description": "Kilter Board at Rose Bloc Brossard",
-        "marker-color": "#ED1D24"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.46176,
-          45.48455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 356234,
       "properties": {
         "id": 356234,
@@ -54703,6 +54683,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2161_eead717b-4537-4087-a5b3-0173b16bc22e.jpg",
+        "Latitude": 43.3773928,
+        "Longitude": -8.405797999999999,
+        "IsCommercial": true,
+        "IsLed": false,
+        "LatLng": [
+          43.3773928,
+          -8.405797999999999
+        ],
+        "title": "Artabros",
+        "description": "Moonboard 2016 a 40º. Apretar es el lema!",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.405797999999999,
+          43.3773928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -60138,6 +60142,26 @@
         "coordinates": [
           151.00728,
           -33.87073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213781,
+      "properties": {
+        "id": 213781,
+        "username": "trainwithforge",
+        "latitude": 34.10217,
+        "longitude": -117.78999,
+        "title": "The Forge",
+        "description": "Tension Board at The Forge",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.78999,
+          34.10217
         ]
       }
     },
