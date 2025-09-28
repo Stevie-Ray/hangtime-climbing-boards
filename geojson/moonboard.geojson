@@ -33143,6 +33143,29 @@
           43.3773928
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Broomhill Climbing Works",
+        "Description": "New 2024 MoonBoard at 40° in the Broomhill Climbing Works",
+        "Image": "/Content/Account/Users/MoonBoards/2162_d7de7cfb-68b9-4b15-b36d-6443ff20c2b8.jpg",
+        "Latitude": 53.3766167,
+        "Longitude": -1.5018419,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          53.3766167,
+          -1.5018419
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5018419,
+          53.3766167
+        ]
+      }
     }
   ]
 }

@@ -10846,8 +10846,8 @@
       "id": 328950,
       "properties": {
         "id": 328950,
-        "username": "Stuntwerk_Kirchheim",
-        "latitude": 48.65029,
+        "username": "top_boulder_kirchheim",
+        "latitude": 48.65009,
         "longitude": 9.44131,
         "title": "TOP Boulder Kirchheim",
         "description": "Kilter Board at TOP Boulder Kirchheim",
@@ -10857,7 +10857,7 @@
         "type": "Point",
         "coordinates": [
           9.44131,
-          48.65029
+          48.65009
         ]
       }
     },
@@ -12947,17 +12947,17 @@
       "properties": {
         "id": 422072,
         "username": "flashpointswindon",
-        "latitude": 51.5760699,
-        "longitude": -1.7644105,
-        "title": "Flashpoint Swindon",
-        "description": "Kilter Board at Flashpoint Swindon",
+        "latitude": 51.58198,
+        "longitude": -1.754,
+        "title": "Rockstar Climbing & Bouldering",
+        "description": "Kilter Board at Rockstar Climbing & Bouldering",
         "marker-color": "#ED1D24"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7644105,
-          51.5760699
+          -1.754,
+          51.58198
         ]
       }
     },
@@ -13209,8 +13209,8 @@
         "username": "blochausmitchell",
         "latitude": -35.21487,
         "longitude": 149.14169,
-        "title": "BlocHaus CBR",
-        "description": "Kilter Board at BlocHaus CBR",
+        "title": "BlocHaus MCL",
+        "description": "Kilter Board at BlocHaus MCL",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -13749,8 +13749,8 @@
         "username": "lemoll_1219",
         "latitude": 46.21936,
         "longitude": 6.10238,
-        "title": "Le Môll",
-        "description": "Kilter Board at Le Môll",
+        "title": "TOTEM Le Môll",
+        "description": "Kilter Board at TOTEM Le Môll",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -14589,8 +14589,8 @@
         "username": "arcabloc",
         "latitude": 46.11474,
         "longitude": 3.43687,
-        "title": "blooop",
-        "description": "Kilter Board at blooop",
+        "title": "Arca Bloc",
+        "description": "Kilter Board at Arca Bloc",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -54702,6 +54702,30 @@
         "coordinates": [
           -8.405797999999999,
           43.3773928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2162_d7de7cfb-68b9-4b15-b36d-6443ff20c2b8.jpg",
+        "Latitude": 53.3766167,
+        "Longitude": -1.5018419,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          53.3766167,
+          -1.5018419
+        ],
+        "title": "Broomhill Climbing Works",
+        "description": "New 2024 MoonBoard at 40° in the Broomhill Climbing Works",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5018419,
+          53.3766167
         ]
       }
     },
