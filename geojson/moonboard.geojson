@@ -33166,6 +33166,29 @@
           53.3766167
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "skeyboard",
+        "Description": "Moonboard 2024 at skey pasila",
+        "Image": "/Content/Account/Users/MoonBoards/2163_3510dd03-0fba-402a-8f2b-fdc9dfd0354d.JPG",
+        "Latitude": 60.16985569999999,
+        "Longitude": 24.938379,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          60.16985569999999,
+          24.938379
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.938379,
+          60.16985569999999
+        ]
+      }
     }
   ]
 }
