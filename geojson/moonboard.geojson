@@ -33189,6 +33189,29 @@
           60.16985569999999
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Growly Room",
+        "Description": "It's a bit chocka-block",
+        "Image": "/Content/Account/Users/MoonBoards/2164_164da78e-5b85-4c6a-91b3-7d48dc9265b5.JPG",
+        "Latitude": 40.0189728,
+        "Longitude": -105.2747406,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          40.0189728,
+          -105.2747406
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2747406,
+          40.0189728
+        ]
+      }
     }
   ]
 }
