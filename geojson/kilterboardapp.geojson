@@ -12804,8 +12804,8 @@
       "id": 525783,
       "properties": {
         "id": 525783,
-        "username": "flashclimbingcentre",
-        "name": "Flash Climbing Centre",
+        "username": "socialclimbing_solihull",
+        "name": "Social Climbing Solihull",
         "latitude": 52.428,
         "longitude": -1.77499
       },
@@ -16990,6 +16990,42 @@
         "coordinates": [
           1.07746,
           49.44583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 779043,
+      "properties": {
+        "id": 779043,
+        "username": "atelierblocescalade",
+        "name": "Atelier Bloc Escalade",
+        "latitude": 46.56607,
+        "longitude": -72.73105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73105,
+          46.56607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 779068,
+      "properties": {
+        "id": 779068,
+        "username": "klimat_ottawa",
+        "name": "Klimat 2",
+        "latitude": 45.40876,
+        "longitude": -75.71747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71747,
+          45.40876
         ]
       }
     }

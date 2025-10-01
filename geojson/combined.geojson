@@ -15466,11 +15466,11 @@
       "id": 525783,
       "properties": {
         "id": 525783,
-        "username": "flashclimbingcentre",
+        "username": "socialclimbing_solihull",
         "latitude": 52.428,
         "longitude": -1.77499,
-        "title": "Flash Climbing Centre",
-        "description": "Kilter Board at Flash Climbing Centre",
+        "title": "Social Climbing Solihull",
+        "description": "Kilter Board at Social Climbing Solihull",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -20118,6 +20118,46 @@
         "coordinates": [
           1.07746,
           49.44583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 779043,
+      "properties": {
+        "id": 779043,
+        "username": "atelierblocescalade",
+        "latitude": 46.56607,
+        "longitude": -72.73105,
+        "title": "Atelier Bloc Escalade",
+        "description": "Kilter Board at Atelier Bloc Escalade",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73105,
+          46.56607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 779068,
+      "properties": {
+        "id": 779068,
+        "username": "klimat_ottawa",
+        "latitude": 45.40876,
+        "longitude": -75.71747,
+        "title": "Klimat 2",
+        "description": "Kilter Board at Klimat 2",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71747,
+          45.40876
         ]
       }
     },
@@ -60234,6 +60274,86 @@
         "coordinates": [
           -117.78999,
           34.10217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214518,
+      "properties": {
+        "id": 214518,
+        "username": "pink_bouldering",
+        "latitude": 31.23078,
+        "longitude": 121.41172,
+        "title": "PINK BOULDERING 粉抱 - 小红书",
+        "description": "Tension Board at PINK BOULDERING 粉抱 - 小红书",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41172,
+          31.23078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214524,
+      "properties": {
+        "id": 214524,
+        "username": "klimat_ottawa",
+        "latitude": 45.40876,
+        "longitude": -75.71747,
+        "title": "Klimat 2",
+        "description": "Tension Board at Klimat 2",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71747,
+          45.40876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214539,
+      "properties": {
+        "id": 214539,
+        "username": "allezup_pointestcharles",
+        "latitude": 45.48696,
+        "longitude": -73.56102,
+        "title": "Allez Up Pointe-Sainte-Charles",
+        "description": "Tension Board at Allez Up Pointe-Sainte-Charles",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56102,
+          45.48696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214547,
+      "properties": {
+        "id": 214547,
+        "username": "fredrikstadklatreklubb",
+        "latitude": 59.23275,
+        "longitude": 10.9109,
+        "title": "Fredrikstad Buldresenter",
+        "description": "Tension Board at Fredrikstad Buldresenter",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9109,
+          59.23275
         ]
       }
     },

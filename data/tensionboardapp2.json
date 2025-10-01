@@ -1854,6 +1854,34 @@
       "name": "The Forge",
       "latitude": 34.10217,
       "longitude": -117.78999
+    },
+    {
+      "id": 214518,
+      "username": "pink_bouldering",
+      "name": "PINK BOULDERING 粉抱 - 小红书",
+      "latitude": 31.23078,
+      "longitude": 121.41172
+    },
+    {
+      "id": 214524,
+      "username": "klimat_ottawa",
+      "name": "Klimat 2",
+      "latitude": 45.40876,
+      "longitude": -75.71747
+    },
+    {
+      "id": 214539,
+      "username": "allezup_pointestcharles",
+      "name": "Allez Up Pointe-Sainte-Charles",
+      "latitude": 45.48696,
+      "longitude": -73.56102
+    },
+    {
+      "id": 214547,
+      "username": "fredrikstadklatreklubb",
+      "name": "Fredrikstad Buldresenter",
+      "latitude": 59.23275,
+      "longitude": 10.9109
     }
   ]
 }

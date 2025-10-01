@@ -4979,8 +4979,8 @@
     },
     {
       "id": 525783,
-      "username": "flashclimbingcentre",
-      "name": "Flash Climbing Centre",
+      "username": "socialclimbing_solihull",
+      "name": "Social Climbing Solihull",
       "latitude": 52.428,
       "longitude": -1.77499
     },
@@ -6607,6 +6607,20 @@
       "name": "Bloc Session Rouen",
       "latitude": 49.44583,
       "longitude": 1.07746
+    },
+    {
+      "id": 779043,
+      "username": "atelierblocescalade",
+      "name": "Atelier Bloc Escalade",
+      "latitude": 46.56607,
+      "longitude": -72.73105
+    },
+    {
+      "id": 779068,
+      "username": "klimat_ottawa",
+      "name": "Klimat 2",
+      "latitude": 45.40876,
+      "longitude": -75.71747
     }
   ]
 }

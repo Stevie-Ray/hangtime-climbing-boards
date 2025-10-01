@@ -4770,6 +4770,78 @@
           34.10217
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 214518,
+      "properties": {
+        "id": 214518,
+        "username": "pink_bouldering",
+        "name": "PINK BOULDERING 粉抱 - 小红书",
+        "latitude": 31.23078,
+        "longitude": 121.41172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41172,
+          31.23078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214524,
+      "properties": {
+        "id": 214524,
+        "username": "klimat_ottawa",
+        "name": "Klimat 2",
+        "latitude": 45.40876,
+        "longitude": -75.71747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71747,
+          45.40876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214539,
+      "properties": {
+        "id": 214539,
+        "username": "allezup_pointestcharles",
+        "name": "Allez Up Pointe-Sainte-Charles",
+        "latitude": 45.48696,
+        "longitude": -73.56102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56102,
+          45.48696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214547,
+      "properties": {
+        "id": 214547,
+        "username": "fredrikstadklatreklubb",
+        "name": "Fredrikstad Buldresenter",
+        "latitude": 59.23275,
+        "longitude": 10.9109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9109,
+          59.23275
+        ]
+      }
     }
   ]
 }
