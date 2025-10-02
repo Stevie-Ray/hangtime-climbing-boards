@@ -1878,10 +1878,17 @@
     },
     {
       "id": 214547,
-      "username": "fredrikstadklatreklubb",
+      "username": "fredrikstadbuldresenter",
       "name": "Fredrikstad Buldresenter",
       "latitude": 59.23275,
       "longitude": 10.9109
+    },
+    {
+      "id": 214661,
+      "username": "northbendfit",
+      "name": "North Bend FIT",
+      "latitude": 47.49201,
+      "longitude": -121.7955
     }
   ]
 }

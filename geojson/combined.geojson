@@ -16429,8 +16429,8 @@
         "username": "the_bloc_bouldering",
         "latitude": 49.1823,
         "longitude": -123.98438,
-        "title": "The Bloc",
-        "description": "Kilter Board at The Bloc",
+        "title": "WIP Climbing Nanaimo",
+        "description": "Kilter Board at WIP Climbing Nanaimo",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -60342,7 +60342,7 @@
       "id": 214547,
       "properties": {
         "id": 214547,
-        "username": "fredrikstadklatreklubb",
+        "username": "fredrikstadbuldresenter",
         "latitude": 59.23275,
         "longitude": 10.9109,
         "title": "Fredrikstad Buldresenter",
@@ -60354,6 +60354,26 @@
         "coordinates": [
           10.9109,
           59.23275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214661,
+      "properties": {
+        "id": 214661,
+        "username": "northbendfit",
+        "latitude": 47.49201,
+        "longitude": -121.7955,
+        "title": "North Bend FIT",
+        "description": "Tension Board at North Bend FIT",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7955,
+          47.49201
         ]
       }
     },

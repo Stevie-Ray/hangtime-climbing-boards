@@ -4830,7 +4830,7 @@
       "id": 214547,
       "properties": {
         "id": 214547,
-        "username": "fredrikstadklatreklubb",
+        "username": "fredrikstadbuldresenter",
         "name": "Fredrikstad Buldresenter",
         "latitude": 59.23275,
         "longitude": 10.9109
@@ -4840,6 +4840,24 @@
         "coordinates": [
           10.9109,
           59.23275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214661,
+      "properties": {
+        "id": 214661,
+        "username": "northbendfit",
+        "name": "North Bend FIT",
+        "latitude": 47.49201,
+        "longitude": -121.7955
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7955,
+          47.49201
         ]
       }
     }
