@@ -6621,6 +6621,13 @@
       "name": "Klimat 2",
       "latitude": 45.40876,
       "longitude": -75.71747
+    },
+    {
+      "id": 780543,
+      "username": "bolderscena_kranj",
+      "name": "Bolder Scena Kranj",
+      "latitude": 46.23628,
+      "longitude": 14.37418
     }
   ]
 }

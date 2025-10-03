@@ -17028,6 +17028,24 @@
           45.40876
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 780543,
+      "properties": {
+        "id": 780543,
+        "username": "bolderscena_kranj",
+        "name": "Bolder Scena Kranj",
+        "latitude": 46.23628,
+        "longitude": 14.37418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.37418,
+          46.23628
+        ]
+      }
     }
   ]
 }

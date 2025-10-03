@@ -33212,6 +33212,29 @@
           40.0189728
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Limassol Climbing Club",
+        "Description": "Moonboard 2019 setup",
+        "Image": "/Content/Account/Users/MoonBoards/2165_7B89C581-38E4-462A-93B1-6AE3121F0819.jpg",
+        "Latitude": 34.6912057,
+        "Longitude": 33.0574943,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          34.6912057,
+          33.0574943
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0574943,
+          34.6912057
+        ]
+      }
     }
   ]
 }

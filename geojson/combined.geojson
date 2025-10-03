@@ -20163,6 +20163,26 @@
     },
     {
       "type": "Feature",
+      "id": 780543,
+      "properties": {
+        "id": 780543,
+        "username": "bolderscena_kranj",
+        "latitude": 46.23628,
+        "longitude": 14.37418,
+        "title": "Bolder Scena Kranj",
+        "description": "Kilter Board at Bolder Scena Kranj",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.37418,
+          46.23628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -54814,6 +54834,30 @@
         "coordinates": [
           -105.2747406,
           40.0189728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2165_7B89C581-38E4-462A-93B1-6AE3121F0819.jpg",
+        "Latitude": 34.6912057,
+        "Longitude": 33.0574943,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          34.6912057,
+          33.0574943
+        ],
+        "title": "Limassol Climbing Club",
+        "description": "Moonboard 2019 setup",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0574943,
+          34.6912057
         ]
       }
     },
