@@ -14676,8 +14676,8 @@
       "id": 617829,
       "properties": {
         "id": 617829,
-        "username": "escaladrome_hannover",
-        "name": "Escaladrome Hannover",
+        "username": "urbanapeshannover",
+        "name": "Urban Apes Hannover",
         "latitude": 52.32893,
         "longitude": 9.78353
       },
@@ -17044,6 +17044,24 @@
         "coordinates": [
           14.37418,
           46.23628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 780550,
+      "properties": {
+        "id": 780550,
+        "username": "goatclimbingsh",
+        "name": "GOAT攀岩俱乐部",
+        "latitude": 40.741895,
+        "longitude": -73.989308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989308,
+          40.741895
         ]
       }
     }

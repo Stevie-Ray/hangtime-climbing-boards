@@ -17546,11 +17546,11 @@
       "id": 617829,
       "properties": {
         "id": 617829,
-        "username": "escaladrome_hannover",
+        "username": "urbanapeshannover",
         "latitude": 52.32893,
         "longitude": 9.78353,
-        "title": "Escaladrome Hannover",
-        "description": "Kilter Board at Escaladrome Hannover",
+        "title": "Urban Apes Hannover",
+        "description": "Kilter Board at Urban Apes Hannover",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -20178,6 +20178,26 @@
         "coordinates": [
           14.37418,
           46.23628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 780550,
+      "properties": {
+        "id": 780550,
+        "username": "goatclimbingsh",
+        "latitude": 40.741895,
+        "longitude": -73.989308,
+        "title": "GOAT攀岩俱乐部",
+        "description": "Kilter Board at GOAT攀岩俱乐部",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989308,
+          40.741895
         ]
       }
     },
@@ -54858,6 +54878,30 @@
         "coordinates": [
           33.0574943,
           34.6912057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2166_f8514b73-bcc5-41c1-b175-7d2a6018e2ec.jpeg",
+        "Latitude": 42.4834197,
+        "Longitude": -71.5167139,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          42.4834197,
+          -71.5167139
+        ],
+        "title": "boxboard",
+        "description": "boxboard is a board in boxborough",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5167139,
+          42.4834197
         ]
       }
     },

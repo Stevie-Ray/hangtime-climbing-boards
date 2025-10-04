@@ -18784,6 +18784,19 @@
         34.6912057,
         33.0574943
       ]
+    },
+    {
+      "Name": "boxboard",
+      "Description": "boxboard is a board in boxborough",
+      "Image": "/Content/Account/Users/MoonBoards/2166_f8514b73-bcc5-41c1-b175-7d2a6018e2ec.jpeg",
+      "Latitude": 42.4834197,
+      "Longitude": -71.5167139,
+      "IsCommercial": false,
+      "IsLed": false,
+      "LatLng": [
+        42.4834197,
+        -71.5167139
+      ]
     }
   ]
 }
