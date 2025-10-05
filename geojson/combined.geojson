@@ -20187,8 +20187,8 @@
       "properties": {
         "id": 780550,
         "username": "goatclimbingsh",
-        "latitude": 40.741895,
-        "longitude": -73.989308,
+        "latitude": 31.19327,
+        "longitude": 121.43915,
         "title": "GOAT攀岩俱乐部",
         "description": "Kilter Board at GOAT攀岩俱乐部",
         "marker-color": "#ED1D24"
@@ -20196,8 +20196,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.989308,
-          40.741895
+          121.43915,
+          31.19327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 781842,
+      "properties": {
+        "id": 781842,
+        "username": "geilo_klatreklubb",
+        "latitude": 60.53655,
+        "longitude": 8.22586,
+        "title": "Geilo Klatreklubb",
+        "description": "Kilter Board at Geilo Klatreklubb",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.22586,
+          60.53655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 781870,
+      "properties": {
+        "id": 781870,
+        "username": "kodbyen.bison.boulders",
+        "latitude": 55.66739,
+        "longitude": 12.56083,
+        "title": "Bison Boulders Kødbyen",
+        "description": "Kilter Board at Bison Boulders Kødbyen",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56083,
+          55.66739
         ]
       }
     },

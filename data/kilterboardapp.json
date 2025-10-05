@@ -6633,8 +6633,22 @@
       "id": 780550,
       "username": "goatclimbingsh",
       "name": "GOAT攀岩俱乐部",
-      "latitude": 40.741895,
-      "longitude": -73.989308
+      "latitude": 31.19327,
+      "longitude": 121.43915
+    },
+    {
+      "id": 781842,
+      "username": "geilo_klatreklubb",
+      "name": "Geilo Klatreklubb",
+      "latitude": 60.53655,
+      "longitude": 8.22586
+    },
+    {
+      "id": 781870,
+      "username": "kodbyen.bison.boulders",
+      "name": "Bison Boulders Kødbyen",
+      "latitude": 55.66739,
+      "longitude": 12.56083
     }
   ]
 }
