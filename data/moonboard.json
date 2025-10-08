@@ -18797,6 +18797,19 @@
         42.4834197,
         -71.5167139
       ]
+    },
+    {
+      "Name": "Touchstone Team Training Center",
+      "Description": "2019 at 40 degrees",
+      "Image": "/Content/Account/Users/MoonBoards/2167_ca1cb509-5d8d-4228-94af-beeec7de7cec.jpg",
+      "Latitude": 37.85155,
+      "Longitude": -122.2926806,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        37.85155,
+        -122.2926806
+      ]
     }
   ]
 }

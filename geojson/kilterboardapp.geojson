@@ -16563,6 +16563,24 @@
     },
     {
       "type": "Feature",
+      "id": 731367,
+      "properties": {
+        "id": 731367,
+        "username": "ablok_voiron",
+        "name": "ABLOK Voiron",
+        "latitude": 45.38471,
+        "longitude": 5.57895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57895,
+          45.38471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 732571,
       "properties": {
         "id": 732571,

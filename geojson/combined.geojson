@@ -19643,6 +19643,26 @@
     },
     {
       "type": "Feature",
+      "id": 731367,
+      "properties": {
+        "id": 731367,
+        "username": "ablok_voiron",
+        "latitude": 45.38471,
+        "longitude": 5.57895,
+        "title": "ABLOK Voiron",
+        "description": "Kilter Board at ABLOK Voiron",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57895,
+          45.38471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 732571,
       "properties": {
         "id": 732571,
@@ -54942,6 +54962,30 @@
         "coordinates": [
           -71.5167139,
           42.4834197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2167_ca1cb509-5d8d-4228-94af-beeec7de7cec.jpg",
+        "Latitude": 37.85155,
+        "Longitude": -122.2926806,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          37.85155,
+          -122.2926806
+        ],
+        "title": "Touchstone Team Training Center",
+        "description": "2019 at 40 degrees",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2926806,
+          37.85155
         ]
       }
     },
