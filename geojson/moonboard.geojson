@@ -33281,6 +33281,29 @@
           37.85155
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CEMTARME MOONBOARD - Moonboard Master 2017 (40º) - Coto Musel",
+        "Description": "Moonboard del centro de escalada Coto Musel en Pola de Laviana (Asturias) - Spain.",
+        "Image": "/Content/Account/Users/MoonBoards/2168_79b10525-7662-4141-8609-9d5634e55219.jpg",
+        "Latitude": 43.2450108,
+        "Longitude": -5.561657299999999,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          43.2450108,
+          -5.561657299999999
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.561657299999999,
+          43.2450108
+        ]
+      }
     }
   ]
 }
