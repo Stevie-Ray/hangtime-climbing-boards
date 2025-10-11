@@ -1889,6 +1889,20 @@
       "name": "North Bend FIT",
       "latitude": 47.49201,
       "longitude": -121.7955
+    },
+    {
+      "id": 216389,
+      "username": "thecircuitgym_eugene",
+      "name": "The Circuit Bouldering Gym Eugene",
+      "latitude": 44.04822,
+      "longitude": -123.09014
+    },
+    {
+      "id": 216394,
+      "username": "b2_boulders_bar",
+      "name": "B2 Boulders & Bar",
+      "latitude": 47.52622,
+      "longitude": 7.68359
     }
   ]
 }

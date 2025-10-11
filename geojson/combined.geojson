@@ -60575,6 +60575,46 @@
     },
     {
       "type": "Feature",
+      "id": 216389,
+      "properties": {
+        "id": 216389,
+        "username": "thecircuitgym_eugene",
+        "latitude": 44.04822,
+        "longitude": -123.09014,
+        "title": "The Circuit Bouldering Gym Eugene",
+        "description": "Tension Board at The Circuit Bouldering Gym Eugene",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09014,
+          44.04822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 216394,
+      "properties": {
+        "id": 216394,
+        "username": "b2_boulders_bar",
+        "latitude": 47.52622,
+        "longitude": 7.68359,
+        "title": "B2 Boulders & Bar",
+        "description": "Tension Board at B2 Boulders & Bar",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68359,
+          47.52622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
