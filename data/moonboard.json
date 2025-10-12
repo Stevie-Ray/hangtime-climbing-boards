@@ -18823,6 +18823,32 @@
         43.2450108,
         -5.561657299999999
       ]
+    },
+    {
+      "Name": "The Workshop",
+      "Description": "2024 setup, Adjustable, homemade.",
+      "Image": "/Content/Account/Users/MoonBoards/2169_c2b9cc33-71e8-4952-a313-19787d93747a.jpg",
+      "Latitude": 42.7925777,
+      "Longitude": -73.6812293,
+      "IsCommercial": false,
+      "IsLed": true,
+      "LatLng": [
+        42.7925777,
+        -73.6812293
+      ]
+    },
+    {
+      "Name": "The_Workshop_srj",
+      "Description": "2024 setup, Adjustable, homemade.",
+      "Image": "/Content/Account/Users/MoonBoards/2170_c2b9cc33-71e8-4952-a313-19787d93747a.jpg",
+      "Latitude": 42.7925777,
+      "Longitude": -73.6812293,
+      "IsCommercial": false,
+      "IsLed": true,
+      "LatLng": [
+        42.7925777,
+        -73.6812293
+      ]
     }
   ]
 }

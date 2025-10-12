@@ -12946,7 +12946,7 @@
       "id": 422072,
       "properties": {
         "id": 422072,
-        "username": "flashpointswindon",
+        "username": "rockstarclimbingswindon",
         "latitude": 51.58198,
         "longitude": -1.754,
         "title": "Rockstar Climbing & Bouldering",
@@ -55010,6 +55010,54 @@
         "coordinates": [
           -5.561657299999999,
           43.2450108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2169_c2b9cc33-71e8-4952-a313-19787d93747a.jpg",
+        "Latitude": 42.7925777,
+        "Longitude": -73.6812293,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          42.7925777,
+          -73.6812293
+        ],
+        "title": "The Workshop",
+        "description": "2024 setup, Adjustable, homemade.",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6812293,
+          42.7925777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2170_c2b9cc33-71e8-4952-a313-19787d93747a.jpg",
+        "Latitude": 42.7925777,
+        "Longitude": -73.6812293,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          42.7925777,
+          -73.6812293
+        ],
+        "title": "The_Workshop_srj",
+        "description": "2024 setup, Adjustable, homemade.",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6812293,
+          42.7925777
         ]
       }
     },
