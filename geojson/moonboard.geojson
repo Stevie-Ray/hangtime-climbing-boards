@@ -33350,6 +33350,29 @@
           42.7925777
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moonboard Traunstein Sportzentrum",
+        "Description": "40° Moonboard 2024 with all holdsets",
+        "Image": "/Content/Account/Users/MoonBoards/2171_9546f186-3b03-43e7-8623-7a9144653ee4.jpeg",
+        "Latitude": 47.8677574,
+        "Longitude": 12.6384037,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          47.8677574,
+          12.6384037
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6384037,
+          47.8677574
+        ]
+      }
     }
   ]
 }
