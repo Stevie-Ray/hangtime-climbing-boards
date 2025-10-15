@@ -4896,6 +4896,42 @@
           47.52622
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 217134,
+      "properties": {
+        "id": 217134,
+        "username": "TCA_themothership",
+        "name": "The Climbing Academy - The Mothership",
+        "latitude": 51.45539,
+        "longitude": -2.56917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.56917,
+          51.45539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217136,
+      "properties": {
+        "id": 217136,
+        "username": "bloc.11_fourways",
+        "name": "Bloc 11 Fourways",
+        "latitude": -26.01883,
+        "longitude": 28.00642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.00642,
+          -26.01883
+        ]
+      }
     }
   ]
 }

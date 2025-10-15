@@ -17118,6 +17118,24 @@
           55.66739
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 788625,
+      "properties": {
+        "id": 788625,
+        "username": "fredrikstadbuldresenter",
+        "name": "Fredrikstad Buldresenter",
+        "latitude": 59.23275,
+        "longitude": 10.9109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9109,
+          59.23275
+        ]
+      }
     }
   ]
 }

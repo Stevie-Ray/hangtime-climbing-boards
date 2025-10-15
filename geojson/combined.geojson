@@ -20263,6 +20263,26 @@
     },
     {
       "type": "Feature",
+      "id": 788625,
+      "properties": {
+        "id": 788625,
+        "username": "fredrikstadbuldresenter",
+        "latitude": 59.23275,
+        "longitude": 10.9109,
+        "title": "Fredrikstad Buldresenter",
+        "description": "Kilter Board at Fredrikstad Buldresenter",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9109,
+          59.23275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -60682,6 +60702,46 @@
         "coordinates": [
           7.68359,
           47.52622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217134,
+      "properties": {
+        "id": 217134,
+        "username": "TCA_themothership",
+        "latitude": 51.45539,
+        "longitude": -2.56917,
+        "title": "The Climbing Academy - The Mothership",
+        "description": "Tension Board at The Climbing Academy - The Mothership",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.56917,
+          51.45539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217136,
+      "properties": {
+        "id": 217136,
+        "username": "bloc.11_fourways",
+        "latitude": -26.01883,
+        "longitude": 28.00642,
+        "title": "Bloc 11 Fourways",
+        "description": "Tension Board at Bloc 11 Fourways",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.00642,
+          -26.01883
         ]
       }
     },
