@@ -4932,6 +4932,24 @@
           -26.01883
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 217482,
+      "properties": {
+        "id": 217482,
+        "username": "movement_fountainvalley",
+        "name": "Movement Fountain Valley",
+        "latitude": 33.70104,
+        "longitude": -117.93439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93439,
+          33.70104
+        ]
+      }
     }
   ]
 }

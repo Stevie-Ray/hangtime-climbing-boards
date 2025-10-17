@@ -1917,6 +1917,13 @@
       "name": "Bloc 11 Fourways",
       "latitude": -26.01883,
       "longitude": 28.00642
+    },
+    {
+      "id": 217482,
+      "username": "movement_fountainvalley",
+      "name": "Movement Fountain Valley",
+      "latitude": 33.70104,
+      "longitude": -117.93439
     }
   ]
 }

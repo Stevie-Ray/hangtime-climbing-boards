@@ -55107,6 +55107,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2172_b937ee9f-cac1-4d3a-ab31-930bad0c1da1.jpg",
+        "Latitude": 48.1351253,
+        "Longitude": 11.5819806,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          48.1351253,
+          11.5819806
+        ],
+        "title": "Boulderturm Business Park",
+        "description": "The moonboard has the 2016 holdset and is located at the North wall of the Boulderturm. The angle of the wall is approximately 20 degrees.",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5819806,
+          48.1351253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -60742,6 +60766,26 @@
         "coordinates": [
           28.00642,
           -26.01883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217482,
+      "properties": {
+        "id": 217482,
+        "username": "movement_fountainvalley",
+        "latitude": 33.70104,
+        "longitude": -117.93439,
+        "title": "Movement Fountain Valley",
+        "description": "Tension Board at Movement Fountain Valley",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93439,
+          33.70104
         ]
       }
     },
