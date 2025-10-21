@@ -4950,6 +4950,24 @@
           33.70104
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 218188,
+      "properties": {
+        "id": 218188,
+        "username": "centralrockfortmyers",
+        "name": "Central Rock Gym Fort Myers",
+        "latitude": 26.52678,
+        "longitude": -81.85102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85102,
+          26.52678
+        ]
+      }
     }
   ]
 }

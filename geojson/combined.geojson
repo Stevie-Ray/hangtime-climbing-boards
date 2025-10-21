@@ -20283,6 +20283,26 @@
     },
     {
       "type": "Feature",
+      "id": 792684,
+      "properties": {
+        "id": 792684,
+        "username": "vertikaz_reunion",
+        "latitude": -21.33367,
+        "longitude": 55.45546,
+        "title": "Vertikaz",
+        "description": "Kilter Board at Vertikaz",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.45546,
+          -21.33367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -60786,6 +60806,26 @@
         "coordinates": [
           -117.93439,
           33.70104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218188,
+      "properties": {
+        "id": 218188,
+        "username": "centralrockfortmyers",
+        "latitude": 26.52678,
+        "longitude": -81.85102,
+        "title": "Central Rock Gym Fort Myers",
+        "description": "Tension Board at Central Rock Gym Fort Myers",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85102,
+          26.52678
         ]
       }
     },

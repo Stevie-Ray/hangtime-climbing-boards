@@ -6663,6 +6663,13 @@
       "name": "Fredrikstad Buldresenter",
       "latitude": 59.23275,
       "longitude": 10.9109
+    },
+    {
+      "id": 792684,
+      "username": "vertikaz_reunion",
+      "name": "Vertikaz",
+      "latitude": -21.33367,
+      "longitude": 55.45546
     }
   ]
 }
