@@ -55151,6 +55151,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2173_eaafefcd-f273-4c24-a51d-14aeb44bd62c.jpeg",
+        "Latitude": -33.1410368,
+        "Longitude": 149.1176601,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          -33.1410368,
+          149.1176601
+        ],
+        "title": "Sunshine Board",
+        "description": "Adjustable angle. 10/15deg for endurance circuits. Then of course 25 & 40deg. With an adjustable spray wall next to it for circuit and 45deg training. ",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1176601,
+          -33.1410368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -60826,6 +60850,26 @@
         "coordinates": [
           -81.85102,
           26.52678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218344,
+      "properties": {
+        "id": 218344,
+        "username": "boulder_dash",
+        "latitude": 23.1,
+        "longitude": 113.327,
+        "title": "Boulder Dash 抱石突袭",
+        "description": "Tension Board at Boulder Dash 抱石突袭",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.327,
+          23.1
         ]
       }
     },

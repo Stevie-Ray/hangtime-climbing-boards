@@ -1931,6 +1931,13 @@
       "name": "Central Rock Gym Fort Myers",
       "latitude": 26.52678,
       "longitude": -81.85102
+    },
+    {
+      "id": 218344,
+      "username": "boulder_dash",
+      "name": "Boulder Dash 抱石突袭",
+      "latitude": 23.1,
+      "longitude": 113.327
     }
   ]
 }

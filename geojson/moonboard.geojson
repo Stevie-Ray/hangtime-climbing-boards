@@ -33396,6 +33396,29 @@
           48.1351253
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sunshine Board",
+        "Description": "Adjustable angle. 10/15deg for endurance circuits. Then of course 25 & 40deg. With an adjustable spray wall next to it for circuit and 45deg training. ",
+        "Image": "/Content/Account/Users/MoonBoards/2173_eaafefcd-f273-4c24-a51d-14aeb44bd62c.jpeg",
+        "Latitude": -33.1410368,
+        "Longitude": 149.1176601,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          -33.1410368,
+          149.1176601
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1176601,
+          -33.1410368
+        ]
+      }
     }
   ]
 }

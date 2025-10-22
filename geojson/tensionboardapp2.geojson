@@ -4968,6 +4968,24 @@
           26.52678
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 218344,
+      "properties": {
+        "id": 218344,
+        "username": "boulder_dash",
+        "name": "Boulder Dash 抱石突袭",
+        "latitude": 23.1,
+        "longitude": 113.327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.327,
+          23.1
+        ]
+      }
     }
   ]
 }
