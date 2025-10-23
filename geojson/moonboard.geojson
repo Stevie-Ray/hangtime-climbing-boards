@@ -25811,22 +25811,22 @@
       "type": "Feature",
       "properties": {
         "Name": "Rock Shop",
-        "Description": "2016 w/ Hold Set A, B and Original School Holds",
+        "Description": "2024 Hold Set",
         "Image": "/Content/Account/Users/MoonBoards/1843_f9fcff38-1cb8-4e08-99e4-96943baf9dfb.jpg",
-        "Latitude": 46.2329972,
-        "Longitude": -119.2152002,
+        "Latitude": 46.2330513,
+        "Longitude": -119.2152786,
         "IsCommercial": true,
         "IsLed": true,
         "LatLng": [
-          46.2329972,
-          -119.2152002
+          46.2330513,
+          -119.2152786
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.2152002,
-          46.2329972
+          -119.2152786,
+          46.2330513
         ]
       }
     },
@@ -33417,6 +33417,29 @@
         "coordinates": [
           149.1176601,
           -33.1410368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Audan",
+        "Description": "Standard 40° MoonBoard with hold setup MoonBoard 2017 and without Screw-on footholds.\r\nwww.satritom.ch",
+        "Image": "/Content/Account/Users/MoonBoards/2174_e6edd796-e6ab-42fc-8d81-9c2269e23fe2.jpg",
+        "Latitude": 46.50714,
+        "Longitude": 8.71072,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          46.50714,
+          8.71072
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71072,
+          46.50714
         ]
       }
     }

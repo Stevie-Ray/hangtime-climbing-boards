@@ -6324,7 +6324,7 @@
     {
       "id": 710869,
       "username": "offsite.climbing",
-      "name": "OffSite Climbing",
+      "name": "Monolithe Bloc",
       "latitude": 45.56273,
       "longitude": -73.54047
     },
@@ -6670,6 +6670,13 @@
       "name": "Vertikaz",
       "latitude": -21.33367,
       "longitude": 55.45546
+    },
+    {
+      "id": 794074,
+      "username": "blocparty.climbing",
+      "name": "Blocparty Climbing",
+      "latitude": 43.61146,
+      "longitude": 6.97223
     }
   ]
 }

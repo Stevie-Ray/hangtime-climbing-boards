@@ -19309,8 +19309,8 @@
         "username": "offsite.climbing",
         "latitude": 45.56273,
         "longitude": -73.54047,
-        "title": "OffSite Climbing",
-        "description": "Kilter Board at OffSite Climbing",
+        "title": "Monolithe Bloc",
+        "description": "Kilter Board at Monolithe Bloc",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -20298,6 +20298,26 @@
         "coordinates": [
           55.45546,
           -21.33367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 794074,
+      "properties": {
+        "id": 794074,
+        "username": "blocparty.climbing",
+        "latitude": 43.61146,
+        "longitude": 6.97223,
+        "title": "Blocparty Climbing",
+        "description": "Kilter Board at Blocparty Climbing",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97223,
+          43.61146
         ]
       }
     },
@@ -47233,23 +47253,23 @@
       "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/1843_f9fcff38-1cb8-4e08-99e4-96943baf9dfb.jpg",
-        "Latitude": 46.2329972,
-        "Longitude": -119.2152002,
+        "Latitude": 46.2330513,
+        "Longitude": -119.2152786,
         "IsCommercial": true,
         "IsLed": true,
         "LatLng": [
-          46.2329972,
-          -119.2152002
+          46.2330513,
+          -119.2152786
         ],
         "title": "Rock Shop",
-        "description": "2016 w/ Hold Set A, B and Original School Holds",
+        "description": "2024 Hold Set",
         "marker-color": "#FEB91E"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.2152002,
-          46.2329972
+          -119.2152786,
+          46.2330513
         ]
       }
     },
@@ -55175,6 +55195,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2174_e6edd796-e6ab-42fc-8d81-9c2269e23fe2.jpg",
+        "Latitude": 46.50714,
+        "Longitude": 8.71072,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          46.50714,
+          8.71072
+        ],
+        "title": "Audan",
+        "description": "Standard 40° MoonBoard with hold setup MoonBoard 2017 and without Screw-on footholds.\r\nwww.satritom.ch",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71072,
+          46.50714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -58141,8 +58185,8 @@
         "username": "offsite.climbing.montreal",
         "latitude": 45.56248,
         "longitude": -73.54049,
-        "title": "OffSite Climbing",
-        "description": "Tension Board at OffSite Climbing",
+        "title": "Monolithe Bloc",
+        "description": "Tension Board at Monolithe Bloc",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -60870,6 +60914,46 @@
         "coordinates": [
           113.327,
           23.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218521,
+      "properties": {
+        "id": 218521,
+        "username": "climb_nora",
+        "latitude": 47.32529,
+        "longitude": -122.31274,
+        "title": "Climb NORA",
+        "description": "Tension Board at Climb NORA",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31274,
+          47.32529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218538,
+      "properties": {
+        "id": 218538,
+        "username": "blocparty.climbing",
+        "latitude": 43.61146,
+        "longitude": 6.97223,
+        "title": "Blocparty Climbing",
+        "description": "Tension Board at Blocparty Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97223,
+          43.61146
         ]
       }
     },

@@ -983,7 +983,7 @@
     {
       "id": 127659,
       "username": "offsite.climbing.montreal",
-      "name": "OffSite Climbing",
+      "name": "Monolithe Bloc",
       "latitude": 45.56248,
       "longitude": -73.54049
     },
@@ -1938,6 +1938,20 @@
       "name": "Boulder Dash 抱石突袭",
       "latitude": 23.1,
       "longitude": 113.327
+    },
+    {
+      "id": 218521,
+      "username": "climb_nora",
+      "name": "Climb NORA",
+      "latitude": 47.32529,
+      "longitude": -122.31274
+    },
+    {
+      "id": 218538,
+      "username": "blocparty.climbing",
+      "name": "Blocparty Climbing",
+      "latitude": 43.61146,
+      "longitude": 6.97223
     }
   ]
 }

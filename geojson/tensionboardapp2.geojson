@@ -2527,7 +2527,7 @@
       "properties": {
         "id": 127659,
         "username": "offsite.climbing.montreal",
-        "name": "OffSite Climbing",
+        "name": "Monolithe Bloc",
         "latitude": 45.56248,
         "longitude": -73.54049
       },
@@ -4984,6 +4984,42 @@
         "coordinates": [
           113.327,
           23.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218521,
+      "properties": {
+        "id": 218521,
+        "username": "climb_nora",
+        "name": "Climb NORA",
+        "latitude": 47.32529,
+        "longitude": -122.31274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31274,
+          47.32529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218538,
+      "properties": {
+        "id": 218538,
+        "username": "blocparty.climbing",
+        "name": "Blocparty Climbing",
+        "latitude": 43.61146,
+        "longitude": 6.97223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97223,
+          43.61146
         ]
       }
     }

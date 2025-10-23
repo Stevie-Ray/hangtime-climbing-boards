@@ -16261,7 +16261,7 @@
       "properties": {
         "id": 710869,
         "username": "offsite.climbing",
-        "name": "OffSite Climbing",
+        "name": "Monolithe Bloc",
         "latitude": 45.56273,
         "longitude": -73.54047
       },
@@ -17152,6 +17152,24 @@
         "coordinates": [
           55.45546,
           -21.33367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 794074,
+      "properties": {
+        "id": 794074,
+        "username": "blocparty.climbing",
+        "name": "Blocparty Climbing",
+        "latitude": 43.61146,
+        "longitude": 6.97223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97223,
+          43.61146
         ]
       }
     }
