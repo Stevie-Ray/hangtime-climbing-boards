@@ -32941,22 +32941,22 @@
       "type": "Feature",
       "properties": {
         "Name": "Dbouldering-Sengencho",
-        "Description": "Moonboard 2024",
+        "Description": "愛知県名古屋市西区にあるDボルダリング浅間町店にあるムーンボード（2024年版）です。岩場のためのトレーニングや３週間に一度のラインセット更新の合間などに楽しまれている方が多くいらっしゃいます。お友達とのセッションや集中的なトレーニングに活用してください！同時接続も３台まで可能ですので複数人で別々の課題を登ることが出来ます。",
         "Image": "/Content/Account/Users/MoonBoards/2153_fda34f17-6f49-42cd-953c-11df99d42d3c.jpeg",
-        "Latitude": 35.18145060000001,
-        "Longitude": 136.9065571,
+        "Latitude": 35.1861697,
+        "Longitude": 136.8909959,
         "IsCommercial": true,
         "IsLed": true,
         "LatLng": [
-          35.18145060000001,
-          136.9065571
+          35.1861697,
+          136.8909959
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.9065571,
-          35.18145060000001
+          136.8909959,
+          35.1861697
         ]
       }
     },
