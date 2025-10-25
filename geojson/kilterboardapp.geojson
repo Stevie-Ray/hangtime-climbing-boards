@@ -17172,6 +17172,24 @@
           43.61146
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 795572,
+      "properties": {
+        "id": 795572,
+        "username": "grippedclimbinggym",
+        "name": "Gripped Fitness",
+        "latitude": 38.02368,
+        "longitude": -81.12092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.12092,
+          38.02368
+        ]
+      }
     }
   ]
 }

@@ -20323,6 +20323,26 @@
     },
     {
       "type": "Feature",
+      "id": 795572,
+      "properties": {
+        "id": 795572,
+        "username": "grippedclimbinggym",
+        "latitude": 38.02368,
+        "longitude": -81.12092,
+        "title": "Gripped Fitness",
+        "description": "Kilter Board at Gripped Fitness",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.12092,
+          38.02368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
