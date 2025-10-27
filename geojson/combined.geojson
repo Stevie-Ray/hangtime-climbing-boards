@@ -55239,6 +55239,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2175_5ac8da6c-7bc8-4e4e-8466-38788d08d7e4.jpg",
+        "Latitude": 52.9540223,
+        "Longitude": -1.1549892,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          52.9540223,
+          -1.1549892
+        ],
+        "title": "Fi's Moon",
+        "description": "Mini 25! ",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1549892,
+          52.9540223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,

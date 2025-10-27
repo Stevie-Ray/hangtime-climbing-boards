@@ -18901,6 +18901,19 @@
         46.50714,
         8.71072
       ]
+    },
+    {
+      "Name": "Fi's Moon",
+      "Description": "Mini 25! ",
+      "Image": "/Content/Account/Users/MoonBoards/2175_5ac8da6c-7bc8-4e4e-8466-38788d08d7e4.jpg",
+      "Latitude": 52.9540223,
+      "Longitude": -1.1549892,
+      "IsCommercial": false,
+      "IsLed": true,
+      "LatLng": [
+        52.9540223,
+        -1.1549892
+      ]
     }
   ]
 }
