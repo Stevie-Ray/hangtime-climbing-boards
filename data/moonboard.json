@@ -18914,6 +18914,19 @@
         52.9540223,
         -1.1549892
       ]
+    },
+    {
+      "Name": "Sender One LAX",
+      "Description": "MoonBoard 2019 at 40 degrees with all the holds except for the screw on feet",
+      "Image": "/Content/Account/Users/MoonBoards/2176_f5af48d5-3ec1-4a49-a7bb-3a2b820fb36d.jpg",
+      "Latitude": 33.9324719,
+      "Longitude": -118.3719662,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        33.9324719,
+        -118.3719662
+      ]
     }
   ]
 }

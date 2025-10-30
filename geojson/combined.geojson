@@ -55263,6 +55263,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2176_f5af48d5-3ec1-4a49-a7bb-3a2b820fb36d.jpg",
+        "Latitude": 33.9324719,
+        "Longitude": -118.3719662,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          33.9324719,
+          -118.3719662
+        ],
+        "title": "Sender One LAX",
+        "description": "MoonBoard 2019 at 40 degrees with all the holds except for the screw on feet",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3719662,
+          33.9324719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -60998,6 +61022,26 @@
         "coordinates": [
           6.97223,
           43.61146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 219867,
+      "properties": {
+        "id": 219867,
+        "username": "senderone_lax",
+        "latitude": 33.93253,
+        "longitude": -118.37182,
+        "title": "Sender One LAX",
+        "description": "Tension Board at Sender One LAX",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37182,
+          33.93253
         ]
       }
     },

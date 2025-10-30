@@ -5022,6 +5022,24 @@
           43.61146
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 219867,
+      "properties": {
+        "id": 219867,
+        "username": "senderone_lax",
+        "name": "Sender One LAX",
+        "latitude": 33.93253,
+        "longitude": -118.37182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37182,
+          33.93253
+        ]
+      }
     }
   ]
 }
