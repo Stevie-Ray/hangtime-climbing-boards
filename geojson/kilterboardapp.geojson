@@ -17190,6 +17190,24 @@
           38.02368
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 799798,
+      "properties": {
+        "id": 799798,
+        "username": "b_wall_vannes",
+        "name": "B'wall Vannes",
+        "latitude": 47.63811,
+        "longitude": -2.76552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.76552,
+          47.63811
+        ]
+      }
     }
   ]
 }

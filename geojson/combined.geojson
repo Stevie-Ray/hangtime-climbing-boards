@@ -20343,6 +20343,26 @@
     },
     {
       "type": "Feature",
+      "id": 799798,
+      "properties": {
+        "id": 799798,
+        "username": "b_wall_vannes",
+        "latitude": 47.63811,
+        "longitude": -2.76552,
+        "title": "B'wall Vannes",
+        "description": "Kilter Board at B'wall Vannes",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.76552,
+          47.63811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
