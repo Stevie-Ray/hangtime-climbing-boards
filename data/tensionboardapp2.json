@@ -1959,6 +1959,13 @@
       "name": "Sender One LAX",
       "latitude": 33.93253,
       "longitude": -118.37182
+    },
+    {
+      "id": 220285,
+      "username": "9degreeschatswood",
+      "name": "9 Degrees Chatswood",
+      "latitude": -33.78475,
+      "longitude": 151.20023
     }
   ]
 }

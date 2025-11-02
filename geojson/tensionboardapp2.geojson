@@ -5040,6 +5040,24 @@
           33.93253
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 220285,
+      "properties": {
+        "id": 220285,
+        "username": "9degreeschatswood",
+        "name": "9 Degrees Chatswood",
+        "latitude": -33.78475,
+        "longitude": 151.20023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20023,
+          -33.78475
+        ]
+      }
     }
   ]
 }

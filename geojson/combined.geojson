@@ -61067,6 +61067,26 @@
     },
     {
       "type": "Feature",
+      "id": 220285,
+      "properties": {
+        "id": 220285,
+        "username": "9degreeschatswood",
+        "latitude": -33.78475,
+        "longitude": 151.20023,
+        "title": "9 Degrees Chatswood",
+        "description": "Tension Board at 9 Degrees Chatswood",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20023,
+          -33.78475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
