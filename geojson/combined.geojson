@@ -55307,6 +55307,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2177_02edb293-9dcd-4a02-be99-a8214c86d3cd.jpeg",
+        "Latitude": 38.2260485,
+        "Longitude": 140.8755982,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          38.2260485,
+          140.8755982
+        ],
+        "title": "Dbouldering-Sendai.nagamachi",
+        "description": "MoonBoard2024",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8755982,
+          38.2260485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
