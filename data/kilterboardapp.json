@@ -2934,13 +2934,6 @@
       "longitude": -81.21752
     },
     {
-      "id": 284191,
-      "username": "icpboulderhall",
-      "name": "ICP Boulder Hall and Showroom",
-      "latitude": -27.45487,
-      "longitude": 153.03289
-    },
-    {
       "id": 284907,
       "username": "xxl_kletterhalle_dresden",
       "name": "XXL Klettern Dresden",
@@ -6691,6 +6684,20 @@
       "name": "B'wall Vannes",
       "latitude": 47.63811,
       "longitude": -2.76552
+    },
+    {
+      "id": 803122,
+      "username": "Klimzaal_Arsenaal",
+      "name": "Klimzaal Arsenaal",
+      "latitude": 51.03327,
+      "longitude": 3.75706
+    },
+    {
+      "id": 804679,
+      "username": "bouldersaalborg",
+      "name": "Boulders Aalborg",
+      "latitude": 57.03035,
+      "longitude": 9.97521
     }
   ]
 }

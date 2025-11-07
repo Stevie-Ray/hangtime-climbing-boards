@@ -7545,24 +7545,6 @@
     },
     {
       "type": "Feature",
-      "id": 284191,
-      "properties": {
-        "id": 284191,
-        "username": "icpboulderhall",
-        "name": "ICP Boulder Hall and Showroom",
-        "latitude": -27.45487,
-        "longitude": 153.03289
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.03289,
-          -27.45487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 284907,
       "properties": {
         "id": 284907,
@@ -17206,6 +17188,42 @@
         "coordinates": [
           -2.76552,
           47.63811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 803122,
+      "properties": {
+        "id": 803122,
+        "username": "Klimzaal_Arsenaal",
+        "name": "Klimzaal Arsenaal",
+        "latitude": 51.03327,
+        "longitude": 3.75706
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.75706,
+          51.03327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 804679,
+      "properties": {
+        "id": 804679,
+        "username": "bouldersaalborg",
+        "name": "Boulders Aalborg",
+        "latitude": 57.03035,
+        "longitude": 9.97521
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97521,
+          57.03035
         ]
       }
     }
