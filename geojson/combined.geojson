@@ -55351,6 +55351,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2178_dd070741-13d3-40c6-bbf9-b9a2c69eb50d.jpg",
+        "Latitude": -36.5623611,
+        "Longitude": 146.7259802,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          -36.5623611,
+          146.7259802
+        ],
+        "title": "Buffalo Boulders",
+        "description": "The ONLY Moonboard in North East Victoria! \r\nCurrently set at 25 degrees with 2019 hold set!",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7259802,
+          -36.5623611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
