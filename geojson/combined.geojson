@@ -19969,8 +19969,8 @@
         "username": "tideclimbinghelston",
         "latitude": 50.09999,
         "longitude": -5.27124,
-        "title": "The Tide Climbing Center Helston",
-        "description": "Kilter Board at The Tide Climbing Center Helston",
+        "title": "Tide Climbing Helston",
+        "description": "Kilter Board at Tide Climbing Helston",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -61150,6 +61150,46 @@
         "coordinates": [
           151.20023,
           -33.78475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222227,
+      "properties": {
+        "id": 222227,
+        "username": "obiekto",
+        "latitude": 52.25121,
+        "longitude": 21.06708,
+        "title": "Obiekto",
+        "description": "Tension Board at Obiekto",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.06708,
+          52.25121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222232,
+      "properties": {
+        "id": 222232,
+        "username": "stpaulboulderingproject",
+        "latitude": 44.93856,
+        "longitude": -93.09154,
+        "title": "Bouldering Project St Paul",
+        "description": "Tension Board at Bouldering Project St Paul",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09154,
+          44.93856
         ]
       }
     },

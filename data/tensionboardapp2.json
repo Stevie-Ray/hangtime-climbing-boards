@@ -1966,6 +1966,20 @@
       "name": "9 Degrees Chatswood",
       "latitude": -33.78475,
       "longitude": 151.20023
+    },
+    {
+      "id": 222227,
+      "username": "obiekto",
+      "name": "Obiekto",
+      "latitude": 52.25121,
+      "longitude": 21.06708
+    },
+    {
+      "id": 222232,
+      "username": "stpaulboulderingproject",
+      "name": "Bouldering Project St Paul",
+      "latitude": 44.93856,
+      "longitude": -93.09154
     }
   ]
 }

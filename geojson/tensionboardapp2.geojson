@@ -5058,6 +5058,42 @@
           -33.78475
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 222227,
+      "properties": {
+        "id": 222227,
+        "username": "obiekto",
+        "name": "Obiekto",
+        "latitude": 52.25121,
+        "longitude": 21.06708
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.06708,
+          52.25121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222232,
+      "properties": {
+        "id": 222232,
+        "username": "stpaulboulderingproject",
+        "name": "Bouldering Project St Paul",
+        "latitude": 44.93856,
+        "longitude": -93.09154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09154,
+          44.93856
+        ]
+      }
     }
   ]
 }
