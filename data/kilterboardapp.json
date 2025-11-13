@@ -6698,6 +6698,13 @@
       "name": "Boulders Aalborg",
       "latitude": 57.03035,
       "longitude": 9.97521
+    },
+    {
+      "id": 808528,
+      "username": "stpaulboulderingproject",
+      "name": "Bouldering Project St Paul",
+      "latitude": 44.93856,
+      "longitude": -93.09154
     }
   ]
 }

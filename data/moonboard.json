@@ -18787,15 +18787,15 @@
     },
     {
       "Name": "boxboard",
-      "Description": "boxboard is a board in boxborough",
+      "Description": "boxboard was a board in boxborough - now in cambridge!",
       "Image": "/Content/Account/Users/MoonBoards/2166_f8514b73-bcc5-41c1-b175-7d2a6018e2ec.jpeg",
-      "Latitude": 42.4834197,
-      "Longitude": -71.5167139,
+      "Latitude": 42.3666036,
+      "Longitude": -71.1056916,
       "IsCommercial": false,
       "IsLed": false,
       "LatLng": [
-        42.4834197,
-        -71.5167139
+        42.3666036,
+        -71.1056916
       ]
     },
     {

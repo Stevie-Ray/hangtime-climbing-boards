@@ -5094,6 +5094,24 @@
           44.93856
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 222244,
+      "properties": {
+        "id": 222244,
+        "username": "nottinghamclimbing.lenton",
+        "name": "Nottingham Climbing Centre Lenton",
+        "latitude": 52.94775,
+        "longitude": -1.17197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17197,
+          52.94775
+        ]
+      }
     }
   ]
 }
