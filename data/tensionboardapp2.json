@@ -1548,6 +1548,13 @@
       "longitude": 7.78395
     },
     {
+      "id": 184014,
+      "username": "cultivateclimbing_foundy",
+      "name": "Cultivate Climbing - Foundy",
+      "latitude": 35.57594,
+      "longitude": -82.56538
+    },
+    {
       "id": 185145,
       "username": "gravityvault.lehighvalley",
       "name": "The Gravity Vault Lehigh Valley",
@@ -1987,6 +1994,13 @@
       "name": "Nottingham Climbing Centre Lenton",
       "latitude": 52.94775,
       "longitude": -1.17197
+    },
+    {
+      "id": 222694,
+      "username": "movement_fishtown",
+      "name": "Movement Fishtown",
+      "latitude": 39.97723,
+      "longitude": -75.13966
     }
   ]
 }

@@ -17244,6 +17244,42 @@
           44.93856
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 810135,
+      "properties": {
+        "id": 810135,
+        "username": "urbanapes.berlin.wedding",
+        "name": "Urban Apes Wedding",
+        "latitude": 52.55226,
+        "longitude": 13.35118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35118,
+          52.55226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 810151,
+      "properties": {
+        "id": 810151,
+        "username": "dav_erlangen",
+        "name": "DAV Boulderzentrum Erlangen",
+        "latitude": 49.59284,
+        "longitude": 11.03079
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.03079,
+          49.59284
+        ]
+      }
     }
   ]
 }

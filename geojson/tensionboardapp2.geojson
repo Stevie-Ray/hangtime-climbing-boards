@@ -3981,6 +3981,24 @@
     },
     {
       "type": "Feature",
+      "id": 184014,
+      "properties": {
+        "id": 184014,
+        "username": "cultivateclimbing_foundy",
+        "name": "Cultivate Climbing - Foundy",
+        "latitude": 35.57594,
+        "longitude": -82.56538
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56538,
+          35.57594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 185145,
       "properties": {
         "id": 185145,
@@ -5110,6 +5128,24 @@
         "coordinates": [
           -1.17197,
           52.94775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222694,
+      "properties": {
+        "id": 222694,
+        "username": "movement_fishtown",
+        "name": "Movement Fishtown",
+        "latitude": 39.97723,
+        "longitude": -75.13966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13966,
+          39.97723
         ]
       }
     }
