@@ -55435,6 +55435,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2179_ee722f52-e739-4fb1-b547-d3a7cf39e356.jpeg",
+        "Latitude": -23.7153163,
+        "Longitude": -46.5466002,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          -23.7153163,
+          -46.5466002
+        ],
+        "title": "República dos Lagartos",
+        "description": "Adjustable wall, 2024 setup.",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5466002,
+          -23.7153163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,

@@ -18953,6 +18953,19 @@
         -36.5623611,
         146.7259802
       ]
+    },
+    {
+      "Name": "República dos Lagartos",
+      "Description": "Adjustable wall, 2024 setup.",
+      "Image": "/Content/Account/Users/MoonBoards/2179_ee722f52-e739-4fb1-b547-d3a7cf39e356.jpeg",
+      "Latitude": -23.7153163,
+      "Longitude": -46.5466002,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        -23.7153163,
+        -46.5466002
+      ]
     }
   ]
 }
