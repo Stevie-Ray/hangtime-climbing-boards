@@ -29761,23 +29761,23 @@
       "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/1102_6193a59b-39dc-49ce-9b38-febbdb4fc779.jpg",
-        "Latitude": 54.204836,
-        "Longitude": 37.6184915,
+        "Latitude": 61.52401,
+        "Longitude": 105.318756,
         "IsCommercial": false,
         "IsLed": false,
         "LatLng": [
-          54.204836,
-          37.6184915
+          61.52401,
+          105.318756
         ],
         "title": "Moon ",
-        "description": "Home moonboard in Tula",
+        "description": "Home moonboard in Decembrists",
         "marker-color": "#FEB91E"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.6184915,
-          54.204836
+          105.318756,
+          61.52401
         ]
       }
     },
@@ -57342,7 +57342,7 @@
       "id": 94429,
       "properties": {
         "id": 94429,
-        "username": "thecliffscallowhill",
+        "username": "movementcallowhill",
         "latitude": 39.95872,
         "longitude": -75.1558,
         "title": "Movement Callowhill",
