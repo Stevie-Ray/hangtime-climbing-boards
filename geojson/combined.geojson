@@ -7023,26 +7023,6 @@
     },
     {
       "type": "Feature",
-      "id": 183663,
-      "properties": {
-        "id": 183663,
-        "username": "boulderlab_clayton",
-        "latitude": -37.92909,
-        "longitude": 145.12791,
-        "title": "Boulder Lab Clayton",
-        "description": "Kilter Board at Boulder Lab Clayton",
-        "marker-color": "#ED1D24"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.12791,
-          -37.92909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 183664,
       "properties": {
         "id": 183664,
@@ -57365,8 +57345,8 @@
         "username": "thecliffscallowhill",
         "latitude": 39.95872,
         "longitude": -75.1558,
-        "title": "The Cliffs at Callowhill",
-        "description": "Tension Board at The Cliffs at Callowhill",
+        "title": "Movement Callowhill",
+        "description": "Tension Board at Movement Callowhill",
         "marker-color": "#000000"
       },
       "geometry": {
