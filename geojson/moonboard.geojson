@@ -33557,6 +33557,29 @@
           -23.7153163
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "pralez.me",
+        "Description": "40 degree MoonBoard, setup 2024",
+        "Image": "/Content/Account/Users/MoonBoards/2180_05af76af-f385-4461-89ba-0964584c71c7.jpg",
+        "Latitude": 48.2895169,
+        "Longitude": 18.077119,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          48.2895169,
+          18.077119
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.077119,
+          48.2895169
+        ]
+      }
     }
   ]
 }
