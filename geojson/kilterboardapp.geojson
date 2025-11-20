@@ -17262,6 +17262,24 @@
           49.59284
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 813690,
+      "properties": {
+        "id": 813690,
+        "username": "the_climbing_boardroom",
+        "name": "The Climbing Boardroom",
+        "latitude": 26.22361,
+        "longitude": 50.58759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.58759,
+          26.22361
+        ]
+      }
     }
   ]
 }

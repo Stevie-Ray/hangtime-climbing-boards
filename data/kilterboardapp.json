@@ -6712,6 +6712,13 @@
       "name": "DAV Boulderzentrum Erlangen",
       "latitude": 49.59284,
       "longitude": 11.03079
+    },
+    {
+      "id": 813690,
+      "username": "the_climbing_boardroom",
+      "name": "The Climbing Boardroom",
+      "latitude": 26.22361,
+      "longitude": 50.58759
     }
   ]
 }
