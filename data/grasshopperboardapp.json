@@ -279,6 +279,13 @@
       "name": "The Lab Climbing",
       "latitude": 40.01671,
       "longitude": -105.22462
+    },
+    {
+      "id": 31998,
+      "username": "kopfc",
+      "name": "Kearns Oquirrh Park Fitness Center",
+      "latitude": 40.64901,
+      "longitude": -112.0068
     }
   ]
 }

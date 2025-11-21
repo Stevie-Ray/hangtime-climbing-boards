@@ -720,6 +720,24 @@
           40.01671
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 31998,
+      "properties": {
+        "id": 31998,
+        "username": "kopfc",
+        "name": "Kearns Oquirrh Park Fitness Center",
+        "latitude": 40.64901,
+        "longitude": -112.0068
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0068,
+          40.64901
+        ]
+      }
     }
   ]
 }

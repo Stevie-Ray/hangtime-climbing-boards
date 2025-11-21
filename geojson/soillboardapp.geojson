@@ -144,6 +144,24 @@
           50.94488
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1708,
+      "properties": {
+        "id": 1708,
+        "username": "revival_climbing",
+        "name": "Revival Climbing Coalition",
+        "latitude": 45.1093,
+        "longitude": -93.40267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.40267,
+          45.1093
+        ]
+      }
     }
   ]
 }

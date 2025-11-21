@@ -1243,6 +1243,26 @@
     },
     {
       "type": "Feature",
+      "id": 31998,
+      "properties": {
+        "id": 31998,
+        "username": "kopfc",
+        "latitude": 40.64901,
+        "longitude": -112.0068,
+        "title": "Kearns Oquirrh Park Fitness Center",
+        "description": "Grasshopper Board at Kearns Oquirrh Park Fitness Center",
+        "marker-color": "#00EAFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0068,
+          40.64901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1575,
       "properties": {
         "id": 1575,
@@ -55667,6 +55687,26 @@
     },
     {
       "type": "Feature",
+      "id": 1708,
+      "properties": {
+        "id": 1708,
+        "username": "revival_climbing",
+        "latitude": 45.1093,
+        "longitude": -93.40267,
+        "title": "Revival Climbing Coalition",
+        "description": "So iLL Board at Revival Climbing Coalition",
+        "marker-color": "#8BB297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.40267,
+          45.1093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 4084,
       "properties": {
         "id": 4084,
@@ -61382,6 +61422,26 @@
         "coordinates": [
           -75.13966,
           39.97723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 223860,
+      "properties": {
+        "id": 223860,
+        "username": "aspiremilton",
+        "latitude": 43.5137,
+        "longitude": -79.89573,
+        "title": "Aspire Climbing Milton",
+        "description": "Tension Board at Aspire Climbing Milton",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89573,
+          43.5137
         ]
       }
     },

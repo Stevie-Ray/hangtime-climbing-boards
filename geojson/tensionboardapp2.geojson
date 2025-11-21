@@ -5148,6 +5148,24 @@
           39.97723
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 223860,
+      "properties": {
+        "id": 223860,
+        "username": "aspiremilton",
+        "name": "Aspire Climbing Milton",
+        "latitude": 43.5137,
+        "longitude": -79.89573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89573,
+          43.5137
+        ]
+      }
     }
   ]
 }
