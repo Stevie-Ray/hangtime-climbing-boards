@@ -2008,6 +2008,20 @@
       "name": "Aspire Climbing Milton",
       "latitude": 43.5137,
       "longitude": -79.89573
+    },
+    {
+      "id": 224988,
+      "username": "gravityvaultjerseycity",
+      "name": "Gravity Vault Jersey City",
+      "latitude": 40.70779,
+      "longitude": -74.06659
+    },
+    {
+      "id": 225004,
+      "username": "crashpadmalta",
+      "name": "Crashpad Climbing Centre",
+      "latitude": 35.88554,
+      "longitude": 14.47372
     }
   ]
 }

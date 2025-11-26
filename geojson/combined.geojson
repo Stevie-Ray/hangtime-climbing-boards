@@ -61447,6 +61447,46 @@
     },
     {
       "type": "Feature",
+      "id": 224988,
+      "properties": {
+        "id": 224988,
+        "username": "gravityvaultjerseycity",
+        "latitude": 40.70779,
+        "longitude": -74.06659,
+        "title": "Gravity Vault Jersey City",
+        "description": "Tension Board at Gravity Vault Jersey City",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06659,
+          40.70779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 225004,
+      "properties": {
+        "id": 225004,
+        "username": "crashpadmalta",
+        "latitude": 35.88554,
+        "longitude": 14.47372,
+        "title": "Crashpad Climbing Centre",
+        "description": "Tension Board at Crashpad Climbing Centre",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.47372,
+          35.88554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
