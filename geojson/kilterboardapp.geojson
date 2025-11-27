@@ -17280,6 +17280,24 @@
           26.22361
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 819066,
+      "properties": {
+        "id": 819066,
+        "username": "esrocodrom",
+        "name": "esRocodrom",
+        "latitude": 39.72222,
+        "longitude": 2.90134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90134,
+          39.72222
+        ]
+      }
     }
   ]
 }

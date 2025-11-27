@@ -20463,6 +20463,26 @@
     },
     {
       "type": "Feature",
+      "id": 819066,
+      "properties": {
+        "id": 819066,
+        "username": "esrocodrom",
+        "latitude": 39.72222,
+        "longitude": 2.90134,
+        "title": "esRocodrom",
+        "description": "Kilter Board at esRocodrom",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90134,
+          39.72222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -61482,6 +61502,26 @@
         "coordinates": [
           14.47372,
           35.88554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 225228,
+      "properties": {
+        "id": 225228,
+        "username": "leblocdelours",
+        "latitude": 45.08821,
+        "longitude": 5.56088,
+        "title": "Le Bloc de l'Ours",
+        "description": "Tension Board at Le Bloc de l'Ours",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56088,
+          45.08821
         ]
       }
     },

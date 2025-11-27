@@ -5202,6 +5202,24 @@
           35.88554
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 225228,
+      "properties": {
+        "id": 225228,
+        "username": "leblocdelours",
+        "name": "Le Bloc de l'Ours",
+        "latitude": 45.08821,
+        "longitude": 5.56088
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56088,
+          45.08821
+        ]
+      }
     }
   ]
 }

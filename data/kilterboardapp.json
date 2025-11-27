@@ -6719,6 +6719,13 @@
       "name": "The Climbing Boardroom",
       "latitude": 26.22361,
       "longitude": 50.58759
+    },
+    {
+      "id": 819066,
+      "username": "esrocodrom",
+      "name": "esRocodrom",
+      "latitude": 39.72222,
+      "longitude": 2.90134
     }
   ]
 }
