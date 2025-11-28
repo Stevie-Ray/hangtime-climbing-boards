@@ -10726,16 +10726,16 @@
       ]
     },
     {
-      "Name": "Sýslumannsveggurinn",
-      "Description": "Located in an old barn. 2019 DYI kit. The wall is built on hinges so the angle can be set from 25° to 40°.  Built in 2021. ",
-      "Image": "/Content/Account/Users/MoonBoards/1540_dfa1eafa-328a-4be7-a9df-4f6e737d52ef.jpeg",
-      "Latitude": 65.2598297,
-      "Longitude": -14.0100135,
-      "IsCommercial": false,
+      "Name": "Herðubreið Klifur",
+      "Description": "Moonboard Masters 2019 - full set - 25° or 40°\r\n\r\nLocated on the stage of Herðubreið, the community centre in Seyðisfjörður. The angle of the wall can be changed. The wall was originally built in 2021 inside an old barn in the town and then moved to Herðubreið in 2025.",
+      "Image": "/Content/Account/Users/MoonBoards/1540_dfa1eafa-328a-4be7-a9df-4f6e737d52ef.jpg",
+      "Latitude": 65.259937,
+      "Longitude": -14.008821,
+      "IsCommercial": true,
       "IsLed": true,
       "LatLng": [
-        65.2598297,
-        -14.0100135
+        65.259937,
+        -14.008821
       ]
     },
     {
