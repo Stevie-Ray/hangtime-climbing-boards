@@ -17298,6 +17298,24 @@
           39.72222
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 819667,
+      "properties": {
+        "id": 819667,
+        "username": "orbit_interlaken",
+        "name": "Orbit Interlaken",
+        "latitude": 46.67102,
+        "longitude": 7.87892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.87892,
+          46.67102
+        ]
+      }
     }
   ]
 }

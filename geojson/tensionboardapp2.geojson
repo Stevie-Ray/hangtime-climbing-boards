@@ -4971,6 +4971,24 @@
     },
     {
       "type": "Feature",
+      "id": 218031,
+      "properties": {
+        "id": 218031,
+        "username": "DieKnaepperei",
+        "name": "Die Knäpperei Boulderhalle",
+        "latitude": 48.19613,
+        "longitude": 16.31488
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31488,
+          48.19613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 218188,
       "properties": {
         "id": 218188,

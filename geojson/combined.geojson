@@ -20483,6 +20483,26 @@
     },
     {
       "type": "Feature",
+      "id": 819667,
+      "properties": {
+        "id": 819667,
+        "username": "orbit_interlaken",
+        "latitude": 46.67102,
+        "longitude": 7.87892,
+        "title": "Orbit Interlaken",
+        "description": "Kilter Board at Orbit Interlaken",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.87892,
+          46.67102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -61242,6 +61262,26 @@
         "coordinates": [
           -117.93439,
           33.70104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218031,
+      "properties": {
+        "id": 218031,
+        "username": "DieKnaepperei",
+        "latitude": 48.19613,
+        "longitude": 16.31488,
+        "title": "Die Knäpperei Boulderhalle",
+        "description": "Tension Board at Die Knäpperei Boulderhalle",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31488,
+          48.19613
         ]
       }
     },

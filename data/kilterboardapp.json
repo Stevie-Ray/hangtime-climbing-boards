@@ -6726,6 +6726,13 @@
       "name": "esRocodrom",
       "latitude": 39.72222,
       "longitude": 2.90134
+    },
+    {
+      "id": 819667,
+      "username": "orbit_interlaken",
+      "name": "Orbit Interlaken",
+      "latitude": 46.67102,
+      "longitude": 7.87892
     }
   ]
 }
