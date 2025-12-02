@@ -55567,6 +55567,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2182_7f47cb1e-fc73-47d4-831d-2a2501c710f1.jpeg",
+        "Latitude": 38.81398069999999,
+        "Longitude": -104.8400848,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          38.81398069999999,
+          -104.8400848
+        ],
+        "title": "Pure Bouldering Gym",
+        "description": "40° 2016 Moonboard at Pure Bouldering Gym ",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8400848,
+          38.81398069999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
