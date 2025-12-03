@@ -2036,6 +2036,13 @@
       "name": "Le Bloc de l'Ours",
       "latitude": 45.08821,
       "longitude": 5.56088
+    },
+    {
+      "id": 226310,
+      "username": "flow_bouldering",
+      "name": "Flow Bouldering",
+      "latitude": -26.67386,
+      "longitude": 153.00468
     }
   ]
 }

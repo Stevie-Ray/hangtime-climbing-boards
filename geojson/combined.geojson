@@ -61591,6 +61591,26 @@
     },
     {
       "type": "Feature",
+      "id": 226310,
+      "properties": {
+        "id": 226310,
+        "username": "flow_bouldering",
+        "latitude": -26.67386,
+        "longitude": 153.00468,
+        "title": "Flow Bouldering",
+        "description": "Tension Board at Flow Bouldering",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.00468,
+          -26.67386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
