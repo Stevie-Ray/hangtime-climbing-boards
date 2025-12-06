@@ -20503,6 +20503,26 @@
     },
     {
       "type": "Feature",
+      "id": 830621,
+      "properties": {
+        "id": 830621,
+        "username": "onsight_climbing_gym",
+        "latitude": 24.48598,
+        "longitude": 118.1563,
+        "title": "OnSight Climbing Gym",
+        "description": "Kilter Board at OnSight Climbing Gym",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1563,
+          24.48598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -55715,17 +55735,17 @@
       "properties": {
         "id": 880,
         "username": "camp5ecocity",
-        "latitude": 3.12002,
-        "longitude": 101.67445,
-        "title": "Camp5 Eco City",
-        "description": "So iLL Board at Camp5 Eco City",
+        "latitude": 3.14992,
+        "longitude": 101.61625,
+        "title": "Camp5 1 Utama",
+        "description": "So iLL Board at Camp5 1 Utama",
         "marker-color": "#8BB297"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.67445,
-          3.12002
+          101.61625,
+          3.14992
         ]
       }
     },

@@ -6733,6 +6733,13 @@
       "name": "Orbit Interlaken",
       "latitude": 46.67102,
       "longitude": 7.87892
+    },
+    {
+      "id": 830621,
+      "username": "onsight_climbing_gym",
+      "name": "OnSight Climbing Gym",
+      "latitude": 24.48598,
+      "longitude": 118.1563
     }
   ]
 }

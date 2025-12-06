@@ -17316,6 +17316,24 @@
           46.67102
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 830621,
+      "properties": {
+        "id": 830621,
+        "username": "onsight_climbing_gym",
+        "name": "OnSight Climbing Gym",
+        "latitude": 24.48598,
+        "longitude": 118.1563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1563,
+          24.48598
+        ]
+      }
     }
   ]
 }
