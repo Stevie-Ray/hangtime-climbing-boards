@@ -33626,6 +33626,29 @@
           38.81398069999999
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "闷头家的月亮板",
+        "Description": "Have one of the 2016 version and one of the 2020 miniversion",
+        "Image": "/Content/Account/Users/MoonBoards/2183_fe5b2680-9f6d-42e1-a01b-d145b5226d18.jpg",
+        "Latitude": 30.1424662,
+        "Longitude": 120.0691512,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          30.1424662,
+          120.0691512
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0691512,
+          30.1424662
+        ]
+      }
     }
   ]
 }

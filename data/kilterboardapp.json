@@ -6740,6 +6740,20 @@
       "name": "OnSight Climbing Gym",
       "latitude": 24.48598,
       "longitude": 118.1563
+    },
+    {
+      "id": 830695,
+      "username": "centre.sportif.mounier",
+      "name": "Mounier Centre Sportif",
+      "latitude": 50.85059,
+      "longitude": 4.45829
+    },
+    {
+      "id": 830704,
+      "username": "DieKnaepperei",
+      "name": "Die Knäpperei Boulderhalle",
+      "latitude": 48.19613,
+      "longitude": 16.31488
     }
   ]
 }

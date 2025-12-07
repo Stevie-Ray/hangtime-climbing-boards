@@ -20523,6 +20523,46 @@
     },
     {
       "type": "Feature",
+      "id": 830695,
+      "properties": {
+        "id": 830695,
+        "username": "centre.sportif.mounier",
+        "latitude": 50.85059,
+        "longitude": 4.45829,
+        "title": "Mounier Centre Sportif",
+        "description": "Kilter Board at Mounier Centre Sportif",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45829,
+          50.85059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 830704,
+      "properties": {
+        "id": 830704,
+        "username": "DieKnaepperei",
+        "latitude": 48.19613,
+        "longitude": 16.31488,
+        "title": "Die Knäpperei Boulderhalle",
+        "description": "Kilter Board at Die Knäpperei Boulderhalle",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31488,
+          48.19613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -55611,6 +55651,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2183_fe5b2680-9f6d-42e1-a01b-d145b5226d18.jpg",
+        "Latitude": 30.1424662,
+        "Longitude": 120.0691512,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          30.1424662,
+          120.0691512
+        ],
+        "title": "闷头家的月亮板",
+        "description": "Have one of the 2016 version and one of the 2020 miniversion",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0691512,
+          30.1424662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -55734,7 +55798,7 @@
       "id": 880,
       "properties": {
         "id": 880,
-        "username": "camp5ecocity",
+        "username": "camp5_1utama",
         "latitude": 3.14992,
         "longitude": 101.61625,
         "title": "Camp5 1 Utama",

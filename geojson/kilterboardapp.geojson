@@ -17334,6 +17334,42 @@
           24.48598
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 830695,
+      "properties": {
+        "id": 830695,
+        "username": "centre.sportif.mounier",
+        "name": "Mounier Centre Sportif",
+        "latitude": 50.85059,
+        "longitude": 4.45829
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45829,
+          50.85059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 830704,
+      "properties": {
+        "id": 830704,
+        "username": "DieKnaepperei",
+        "name": "Die Knäpperei Boulderhalle",
+        "latitude": 48.19613,
+        "longitude": 16.31488
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31488,
+          48.19613
+        ]
+      }
     }
   ]
 }
