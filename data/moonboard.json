@@ -19018,6 +19018,32 @@
         30.1424662,
         120.0691512
       ]
+    },
+    {
+      "Name": "Rockit 25 2019",
+      "Description": "25, 2019 set ",
+      "Image": "/Content/Account/Users/MoonBoards/2184_aca7cce9-5043-4c29-9ade-b300c083d7ca.jpeg",
+      "Latitude": -26.7275358,
+      "Longitude": 153.1208034,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        -26.7275358,
+        153.1208034
+      ]
+    },
+    {
+      "Name": "Rockit 25 ",
+      "Description": "25, 2019 set ",
+      "Image": "/Content/Account/Users/MoonBoards/2185_aca7cce9-5043-4c29-9ade-b300c083d7ca.jpeg",
+      "Latitude": -26.7275358,
+      "Longitude": 153.1208034,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        -26.7275358,
+        153.1208034
+      ]
     }
   ]
 }
