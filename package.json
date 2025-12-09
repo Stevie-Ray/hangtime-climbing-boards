@@ -33,26 +33,26 @@
     "url": "https://github.com/Stevie-Ray/hangtime-climbing-boards.git"
   },
   "engines": {
-    "node": ">=22"
+    "node": ">=22.18"
   },
   "scripts": {
-    "scrape": "node --experimental-strip-types scrape-locations.ts",
-    "convert": "node --experimental-strip-types convert-geojson.ts",
-    "combine": "node --experimental-strip-types combine-geojson.ts",
+    "scrape": "node scrape-locations.ts",
+    "convert": "node convert-geojson.ts",
+    "combine": "node combine-geojson.ts",
     "build": "npm run scrape && npm run convert && npm run combine",
     "dev": "tsc --watch"
   },
   "author": "Stevie-Ray Hartog <mail@stevie-ray.nl>",
   "license": "Unlicense",
   "dependencies": {
-    "@turf/turf": "^7.3.0",
+    "@turf/turf": "^7.3.1",
     "axios": "^1.13.2",
     "dotenv": "^17.2.3",
     "user-agents": "^1.1.669"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^22.19.1",
+    "@types/node": "^22.19.2",
     "@types/user-agents": "^1.0.4",
     "typescript": "^5.9.3"
   }
