@@ -61743,6 +61743,46 @@
     },
     {
       "type": "Feature",
+      "id": 227778,
+      "properties": {
+        "id": 227778,
+        "username": "blocs_walls",
+        "latitude": 55.69291,
+        "longitude": 12.61073,
+        "title": "Blocs & Walls",
+        "description": "Tension Board at Blocs & Walls",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61073,
+          55.69291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 227779,
+      "properties": {
+        "id": 227779,
+        "username": "elemental_performancefitness",
+        "latitude": 42.83385,
+        "longitude": -108.7275,
+        "title": "Elemental Performance + Fitness",
+        "description": "Tension Board at Elemental Performance + Fitness",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7275,
+          42.83385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

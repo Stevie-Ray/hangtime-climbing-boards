@@ -5256,6 +5256,42 @@
           -26.67386
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 227778,
+      "properties": {
+        "id": 227778,
+        "username": "blocs_walls",
+        "name": "Blocs & Walls",
+        "latitude": 55.69291,
+        "longitude": 12.61073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61073,
+          55.69291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 227779,
+      "properties": {
+        "id": 227779,
+        "username": "elemental_performancefitness",
+        "name": "Elemental Performance + Fitness",
+        "latitude": 42.83385,
+        "longitude": -108.7275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7275,
+          42.83385
+        ]
+      }
     }
   ]
 }
