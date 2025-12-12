@@ -2045,6 +2045,13 @@
       "longitude": 153.00468
     },
     {
+      "id": 227469,
+      "username": "Altissimo_Marseille",
+      "name": "Altissimo Marseille",
+      "latitude": 43.33397,
+      "longitude": 5.37314
+    },
+    {
       "id": 227778,
       "username": "blocs_walls",
       "name": "Blocs & Walls",
@@ -2057,6 +2064,13 @@
       "name": "Elemental Performance + Fitness",
       "latitude": 42.83385,
       "longitude": -108.7275
+    },
+    {
+      "id": 227959,
+      "username": "la_deglingue",
+      "name": "La Déglingue",
+      "latitude": 47.07702,
+      "longitude": 6.7591
     }
   ]
 }

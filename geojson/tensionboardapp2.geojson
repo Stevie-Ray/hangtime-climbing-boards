@@ -5259,6 +5259,24 @@
     },
     {
       "type": "Feature",
+      "id": 227469,
+      "properties": {
+        "id": 227469,
+        "username": "Altissimo_Marseille",
+        "name": "Altissimo Marseille",
+        "latitude": 43.33397,
+        "longitude": 5.37314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37314,
+          43.33397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 227778,
       "properties": {
         "id": 227778,
@@ -5290,6 +5308,24 @@
         "coordinates": [
           -108.7275,
           42.83385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 227959,
+      "properties": {
+        "id": 227959,
+        "username": "la_deglingue",
+        "name": "La Déglingue",
+        "latitude": 47.07702,
+        "longitude": 6.7591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7591,
+          47.07702
         ]
       }
     }
