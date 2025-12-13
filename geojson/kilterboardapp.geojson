@@ -17085,6 +17085,24 @@
     },
     {
       "type": "Feature",
+      "id": 787784,
+      "properties": {
+        "id": 787784,
+        "username": "salewa_cube_waltherpark",
+        "name": "Salewa Cube Waltherpark",
+        "latitude": 46.49666,
+        "longitude": 11.35563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35563,
+          46.49666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 788625,
       "properties": {
         "id": 788625,

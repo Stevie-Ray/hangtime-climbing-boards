@@ -20243,6 +20243,26 @@
     },
     {
       "type": "Feature",
+      "id": 787784,
+      "properties": {
+        "id": 787784,
+        "username": "salewa_cube_waltherpark",
+        "latitude": 46.49666,
+        "longitude": 11.35563,
+        "title": "Salewa Cube Waltherpark",
+        "description": "Kilter Board at Salewa Cube Waltherpark",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35563,
+          46.49666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 788625,
       "properties": {
         "id": 788625,
@@ -55946,18 +55966,18 @@
       "id": 15330,
       "properties": {
         "id": 15330,
-        "username": "quboantigua",
-        "latitude": 14.55229,
-        "longitude": -90.73218,
-        "title": "Qubo Antigua",
-        "description": "Tension Board at Qubo Antigua",
+        "username": "tacanaclimbing",
+        "latitude": 14.567,
+        "longitude": -90.74202,
+        "title": "Tacaná Climbing Gym",
+        "description": "Tension Board at Tacaná Climbing Gym",
         "marker-color": "#000000"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.73218,
-          14.55229
+          -90.74202,
+          14.567
         ]
       }
     },

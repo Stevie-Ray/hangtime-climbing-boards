@@ -42,16 +42,16 @@
       "id": 15330,
       "properties": {
         "id": 15330,
-        "username": "quboantigua",
-        "name": "Qubo Antigua",
-        "latitude": 14.55229,
-        "longitude": -90.73218
+        "username": "tacanaclimbing",
+        "name": "Tacaná Climbing Gym",
+        "latitude": 14.567,
+        "longitude": -90.74202
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.73218,
-          14.55229
+          -90.74202,
+          14.567
         ]
       }
     },
