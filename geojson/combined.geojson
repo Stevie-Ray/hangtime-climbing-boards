@@ -20583,6 +20583,26 @@
     },
     {
       "type": "Feature",
+      "id": 836015,
+      "properties": {
+        "id": 836015,
+        "username": "pareti.sport.center",
+        "latitude": 44.81285,
+        "longitude": 10.27965,
+        "title": "Pareti Sport Center",
+        "description": "Kilter Board at Pareti Sport Center",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.27965,
+          44.81285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
