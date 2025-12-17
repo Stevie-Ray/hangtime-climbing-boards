@@ -33695,6 +33695,29 @@
           -26.7275358
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Borestranda",
+        "Description": "Mini MoonBoard 2020 40 ° - Woodholds and Original School Shitholds. \r\nRed Hot Chili Peppers Radio on repeat. ",
+        "Image": "/Content/Account/Users/MoonBoards/2186_4b34f535-323c-41d1-a333-57bf74bf58ec.jpg",
+        "Latitude": 58.77882439999999,
+        "Longitude": 5.623686000000001,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          58.77882439999999,
+          5.623686000000001
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.623686000000001,
+          58.77882439999999
+        ]
+      }
     }
   ]
 }
