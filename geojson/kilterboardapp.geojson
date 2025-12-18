@@ -4107,24 +4107,6 @@
     },
     {
       "type": "Feature",
-      "id": 164300,
-      "properties": {
-        "id": 164300,
-        "username": "hoytundertaketkokstad",
-        "name": "Høyt Under Taket Kokstad",
-        "latitude": 60.29332,
-        "longitude": 5.25244
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.25244,
-          60.29332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 164301,
       "properties": {
         "id": 164301,

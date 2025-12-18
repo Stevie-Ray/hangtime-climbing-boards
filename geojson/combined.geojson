@@ -5823,26 +5823,6 @@
     },
     {
       "type": "Feature",
-      "id": 164300,
-      "properties": {
-        "id": 164300,
-        "username": "hoytundertaketkokstad",
-        "latitude": 60.29332,
-        "longitude": 5.25244,
-        "title": "Høyt Under Taket Kokstad",
-        "description": "Kilter Board at Høyt Under Taket Kokstad",
-        "marker-color": "#ED1D24"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.25244,
-          60.29332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 164301,
       "properties": {
         "id": 164301,
@@ -55787,6 +55767,78 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2187_04e1f0c3-b6a2-4f43-91ba-94ee082e8b1d.jpeg",
+        "Latitude": 55.5870295,
+        "Longitude": 13.0544454,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          55.5870295,
+          13.0544454
+        ],
+        "title": "Klättercentret Malmö",
+        "description": "it's great",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0544454,
+          55.5870295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2188_04e1f0c3-b6a2-4f43-91ba-94ee082e8b1d.jpeg",
+        "Latitude": 55.5874446,
+        "Longitude": 13.0251295,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          55.5874446,
+          13.0251295
+        ],
+        "title": "Klättercentret Malmo",
+        "description": "2024 board, 40-degree angle",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0251295,
+          55.5874446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2189_04e1f0c3-b6a2-4f43-91ba-94ee082e8b1d.jpeg",
+        "Latitude": 56.0597542,
+        "Longitude": 12.7071127,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          56.0597542,
+          12.7071127
+        ],
+        "title": "Klättercentret Helsingborg",
+        "description": "2019 board, 40-degree angle",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7071127,
+          56.0597542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -61882,6 +61934,46 @@
         "coordinates": [
           6.7591,
           47.07702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 229262,
+      "properties": {
+        "id": 229262,
+        "username": "jining_journey",
+        "latitude": 35.4,
+        "longitude": 116.7,
+        "title": "济宁征途攀岩馆 Jining Journey Climbing Gym",
+        "description": "Tension Board at 济宁征途攀岩馆 Jining Journey Climbing Gym",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7,
+          35.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 229264,
+      "properties": {
+        "id": 229264,
+        "username": "studiovertikal.no",
+        "latitude": 60.29345,
+        "longitude": 5.25202,
+        "title": "Studio Vertikal Klatresenter",
+        "description": "Tension Board at Studio Vertikal Klatresenter",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.25202,
+          60.29345
         ]
       }
     },

@@ -2071,6 +2071,20 @@
       "name": "La Déglingue",
       "latitude": 47.07702,
       "longitude": 6.7591
+    },
+    {
+      "id": 229262,
+      "username": "jining_journey",
+      "name": "济宁征途攀岩馆 Jining Journey Climbing Gym",
+      "latitude": 35.4,
+      "longitude": 116.7
+    },
+    {
+      "id": 229264,
+      "username": "studiovertikal.no",
+      "name": "Studio Vertikal Klatresenter",
+      "latitude": 60.29345,
+      "longitude": 5.25202
     }
   ]
 }

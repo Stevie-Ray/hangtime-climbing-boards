@@ -33718,6 +33718,75 @@
           58.77882439999999
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Klättercentret Malmö",
+        "Description": "it's great",
+        "Image": "/Content/Account/Users/MoonBoards/2187_04e1f0c3-b6a2-4f43-91ba-94ee082e8b1d.jpeg",
+        "Latitude": 55.5870295,
+        "Longitude": 13.0544454,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          55.5870295,
+          13.0544454
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0544454,
+          55.5870295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Klättercentret Malmo",
+        "Description": "2024 board, 40-degree angle",
+        "Image": "/Content/Account/Users/MoonBoards/2188_04e1f0c3-b6a2-4f43-91ba-94ee082e8b1d.jpeg",
+        "Latitude": 55.5874446,
+        "Longitude": 13.0251295,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          55.5874446,
+          13.0251295
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0251295,
+          55.5874446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Klättercentret Helsingborg",
+        "Description": "2019 board, 40-degree angle",
+        "Image": "/Content/Account/Users/MoonBoards/2189_04e1f0c3-b6a2-4f43-91ba-94ee082e8b1d.jpeg",
+        "Latitude": 56.0597542,
+        "Longitude": 12.7071127,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          56.0597542,
+          12.7071127
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7071127,
+          56.0597542
+        ]
+      }
     }
   ]
 }
