@@ -14081,15 +14081,15 @@
     },
     {
       "Name": "Coeur Climbing Co",
-      "Description": "It’s a board",
-      "Image": "/Content/Account/Users/MoonBoards/1804_ccb59cc8-1108-428d-8421-45041a3ce52b.jpeg",
-      "Latitude": 47.69832479999999,
-      "Longitude": -117.0124677,
+      "Description": "Coeur Climbing Company's premier training board in the Inland Northwest.",
+      "Image": "/Content/Account/Users/MoonBoards/1804_00def42c-283e-495a-91a6-30c9e511673a.jpg",
+      "Latitude": 47.6983502,
+      "Longitude": -117.0125198,
       "IsCommercial": true,
       "IsLed": true,
       "LatLng": [
-        47.69832479999999,
-        -117.0124677
+        47.6983502,
+        -117.0125198
       ]
     },
     {
@@ -19095,6 +19095,19 @@
       "LatLng": [
         56.0597542,
         12.7071127
+      ]
+    },
+    {
+      "Name": "Table Rock Bouldering",
+      "Description": "Come enjoy our 2017 MB Masters board, and our uniquely small bouldering gym (the smallest in the USA, as far as we know)!",
+      "Image": "/Content/Account/Users/MoonBoards/2190_ec23b1ae-4290-420b-b700-6a0fa52474cc.jpeg",
+      "Latitude": 42.4513689,
+      "Longitude": -75.06316799999999,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        42.4513689,
+        -75.06316799999999
       ]
     }
   ]
