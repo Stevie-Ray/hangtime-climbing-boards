@@ -20583,6 +20583,26 @@
     },
     {
       "type": "Feature",
+      "id": 840578,
+      "properties": {
+        "id": 840578,
+        "username": "studiovertikal.no",
+        "latitude": 60.29345,
+        "longitude": 5.25202,
+        "title": "Studio Vertikal Klatresenter",
+        "description": "Kilter Board at Studio Vertikal Klatresenter",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.25202,
+          60.29345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -61998,6 +62018,46 @@
         "coordinates": [
           5.25202,
           60.29345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230135,
+      "properties": {
+        "id": 230135,
+        "username": "island_rock_gym",
+        "latitude": 40.78776,
+        "longitude": -73.46546,
+        "title": "Island Rock Climbing Gym",
+        "description": "Tension Board at Island Rock Climbing Gym",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.46546,
+          40.78776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230140,
+      "properties": {
+        "id": 230140,
+        "username": "banana_bouldering",
+        "latitude": 31.2,
+        "longitude": 121.4,
+        "title": "上海嘉里城香蕉攀岩馆 Banana Bouldering Kerry Plus",
+        "description": "Tension Board at 上海嘉里城香蕉攀岩馆 Banana Bouldering Kerry Plus",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4,
+          31.2
         ]
       }
     },

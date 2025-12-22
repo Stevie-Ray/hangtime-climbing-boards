@@ -2085,6 +2085,20 @@
       "name": "Studio Vertikal Klatresenter",
       "latitude": 60.29345,
       "longitude": 5.25202
+    },
+    {
+      "id": 230135,
+      "username": "island_rock_gym",
+      "name": "Island Rock Climbing Gym",
+      "latitude": 40.78776,
+      "longitude": -73.46546
+    },
+    {
+      "id": 230140,
+      "username": "banana_bouldering",
+      "name": "上海嘉里城香蕉攀岩馆 Banana Bouldering Kerry Plus",
+      "latitude": 31.2,
+      "longitude": 121.4
     }
   ]
 }

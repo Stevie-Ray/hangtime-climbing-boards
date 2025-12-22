@@ -5364,6 +5364,42 @@
           60.29345
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 230135,
+      "properties": {
+        "id": 230135,
+        "username": "island_rock_gym",
+        "name": "Island Rock Climbing Gym",
+        "latitude": 40.78776,
+        "longitude": -73.46546
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.46546,
+          40.78776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230140,
+      "properties": {
+        "id": 230140,
+        "username": "banana_bouldering",
+        "name": "上海嘉里城香蕉攀岩馆 Banana Bouldering Kerry Plus",
+        "latitude": 31.2,
+        "longitude": 121.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4,
+          31.2
+        ]
+      }
     }
   ]
 }
