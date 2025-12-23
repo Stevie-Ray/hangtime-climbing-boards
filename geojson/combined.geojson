@@ -53781,7 +53781,7 @@
           47.8598408,
           15.0305202
         ],
-        "title": "Mountain Dudes",
+        "title": "Mountain Dudes Mooncave",
         "description": "Moonboard 2024 at 40° with complete hold set",
         "marker-color": "#FEB91E"
       },
@@ -55878,6 +55878,30 @@
         "coordinates": [
           -75.06316799999999,
           42.4513689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2191_eb7429a1-242f-4457-a8f8-a5c4bf1d0240.jpeg",
+        "Latitude": -22.3316894,
+        "Longitude": -42.5435499,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          -22.3316894,
+          -42.5435499
+        ],
+        "title": "Tunay Kitazawa MoonBoard 2016",
+        "description": "Muro dentro de casa para compartilhar com amigos.",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5435499,
+          -22.3316894
         ]
       }
     },
