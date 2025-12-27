@@ -55907,6 +55907,54 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2192_5105e53e-5b82-4fd0-b6fe-87e81c5b8a2d.jpg",
+        "Latitude": -37.3505342,
+        "Longitude": -58.99804419999999,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          -37.3505342,
+          -58.99804419999999
+        ],
+        "title": "La Palanca",
+        "description": "esta hecha en casa  es una Mini 2010 ",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.99804419999999,
+          -37.3505342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2193_cd300c3d-ad14-43cb-9430-3631f5ed7256.jpeg",
+        "Latitude": -23.5635839,
+        "Longitude": -47.46335149999999,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          -23.5635839,
+          -47.46335149999999
+        ],
+        "title": "GEOMETRIK ESCALADA",
+        "description": "Second 2024 Moonboard in Brazil. LezzzGooo!!",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.46335149999999,
+          -23.5635839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
