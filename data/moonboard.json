@@ -19148,6 +19148,19 @@
         -23.5635839,
         -47.46335149999999
       ]
+    },
+    {
+      "Name": "University of Calgary Moonboard",
+      "Description": "The UoC Moonboard located in the Kinesiology Building. A booking is required to climb on the board, visit https://outdoor-centre.ucalgary.ca/climbingbouldering-wall/moonboard-kilter-board.  Installed in 2025.",
+      "Image": "/Content/Account/Users/MoonBoards/2194_9F7BA4DB-4525-4E4C-B33D-5165D6C1A64E.jpg",
+      "Latitude": 51.0779562,
+      "Longitude": -114.1337454,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        51.0779562,
+        -114.1337454
+      ]
     }
   ]
 }

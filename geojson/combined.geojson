@@ -55955,6 +55955,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2194_9F7BA4DB-4525-4E4C-B33D-5165D6C1A64E.jpg",
+        "Latitude": 51.0779562,
+        "Longitude": -114.1337454,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          51.0779562,
+          -114.1337454
+        ],
+        "title": "University of Calgary Moonboard",
+        "description": "The UoC Moonboard located in the Kinesiology Building. A booking is required to climb on the board, visit https://outdoor-centre.ucalgary.ca/climbingbouldering-wall/moonboard-kilter-board.  Installed in 2025.",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1337454,
+          51.0779562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -62130,6 +62154,26 @@
         "coordinates": [
           121.4,
           31.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 231615,
+      "properties": {
+        "id": 231615,
+        "username": "stoneclimbing_jax",
+        "latitude": 30.2478,
+        "longitude": -81.53996,
+        "title": "Stone Climbing JAX",
+        "description": "Tension Board at Stone Climbing JAX",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53996,
+          30.2478
         ]
       }
     },

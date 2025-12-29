@@ -5400,6 +5400,24 @@
           31.2
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 231615,
+      "properties": {
+        "id": 231615,
+        "username": "stoneclimbing_jax",
+        "name": "Stone Climbing JAX",
+        "latitude": 30.2478,
+        "longitude": -81.53996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53996,
+          30.2478
+        ]
+      }
     }
   ]
 }
