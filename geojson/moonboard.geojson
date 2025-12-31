@@ -33902,6 +33902,29 @@
           51.0779562
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Oaks ",
+        "Description": "2024 Moonboard",
+        "Image": "/Content/Account/Users/MoonBoards/2195_c2ee5e4c-8e43-4964-9cd6-cc7ec42a1df8.png",
+        "Latitude": 37.8915707,
+        "Longitude": -122.2780005,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          37.8915707,
+          -122.2780005
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2780005,
+          37.8915707
+        ]
+      }
     }
   ]
 }
