@@ -17406,6 +17406,24 @@
           60.29345
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 847064,
+      "properties": {
+        "id": 847064,
+        "username": "boulderhalnirvana",
+        "name": "Boulderhal Nirvana",
+        "latitude": 52.11007,
+        "longitude": 4.28358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.28358,
+          52.11007
+        ]
+      }
     }
   ]
 }

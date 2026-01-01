@@ -20603,6 +20603,26 @@
     },
     {
       "type": "Feature",
+      "id": 847064,
+      "properties": {
+        "id": 847064,
+        "username": "boulderhalnirvana",
+        "latitude": 52.11007,
+        "longitude": 4.28358,
+        "title": "Boulderhal Nirvana",
+        "description": "Kilter Board at Boulderhal Nirvana",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.28358,
+          52.11007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -25140,14 +25160,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Image": "/Content/Account/Users/MoonBoards/moonclimbing.png",
-        "Latitude": 44.0520691,
-        "Longitude": -123.0867536,
+        "Image": "/Content/Account/Users/MoonBoards/852_C361107F-773F-4D4A-B877-EB34F7D02B05.jpg",
+        "Latitude": 44.05630619999999,
+        "Longitude": -123.0983852,
         "IsCommercial": true,
         "IsLed": true,
         "LatLng": [
-          44.0520691,
-          -123.0867536
+          44.05630619999999,
+          -123.0983852
         ],
         "title": "Elevation Moon Board",
         "description": "Built in 2017 by the build crew of Elevation Bouldering Gym, this board has been constructed to the exact Moon Climbing specifications, and is well-braced to eliminate perceptible flex.  Located in an alcove dedicated to training,  users can enjoy an uncontested landing zone.\r\n\r\nWhile the photo does not show the kickboard, it has been built to exact specs as well, and was designed to compensate for the padding height. \r\n\r\nIf the comments are to believed, every problem set for the moonboard is 's",
@@ -25156,8 +25176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.0867536,
-          44.0520691
+          -123.0983852,
+          44.05630619999999
         ]
       }
     },
@@ -56003,6 +56023,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2196_61631dba-8f34-4f39-be62-13ba40349bd7.png",
+        "Latitude": 40.2107084,
+        "Longitude": -8.433596399999999,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          40.2107084,
+          -8.433596399999999
+        ],
+        "title": "upa! Escalódromo de Coimbra",
+        "description": "Moonboard 2024 full set",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.433596399999999,
+          40.2107084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -62198,6 +62242,46 @@
         "coordinates": [
           -81.53996,
           30.2478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232378,
+      "properties": {
+        "id": 232378,
+        "username": "depotarmley",
+        "latitude": 53.79844,
+        "longitude": -1.57338,
+        "title": "Depot Climbing Armley",
+        "description": "Tension Board at Depot Climbing Armley",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.57338,
+          53.79844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232385,
+      "properties": {
+        "id": 232385,
+        "username": "movement_grapevine",
+        "latitude": 32.90468,
+        "longitude": -97.0958,
+        "title": "Movement Grapevine",
+        "description": "Tension Board at Movement Grapevine",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0958,
+          32.90468
         ]
       }
     },

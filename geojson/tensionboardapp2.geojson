@@ -5418,6 +5418,42 @@
           30.2478
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 232378,
+      "properties": {
+        "id": 232378,
+        "username": "depotarmley",
+        "name": "Depot Climbing Armley",
+        "latitude": 53.79844,
+        "longitude": -1.57338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.57338,
+          53.79844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232385,
+      "properties": {
+        "id": 232385,
+        "username": "movement_grapevine",
+        "name": "Movement Grapevine",
+        "latitude": 32.90468,
+        "longitude": -97.0958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0958,
+          32.90468
+        ]
+      }
     }
   ]
 }

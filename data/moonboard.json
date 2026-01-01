@@ -2460,14 +2460,14 @@
     {
       "Name": "Elevation Moon Board",
       "Description": "Built in 2017 by the build crew of Elevation Bouldering Gym, this board has been constructed to the exact Moon Climbing specifications, and is well-braced to eliminate perceptible flex.  Located in an alcove dedicated to training,  users can enjoy an uncontested landing zone.\r\n\r\nWhile the photo does not show the kickboard, it has been built to exact specs as well, and was designed to compensate for the padding height. \r\n\r\nIf the comments are to believed, every problem set for the moonboard is 's",
-      "Image": "/Content/Account/Users/MoonBoards/moonclimbing.png",
-      "Latitude": 44.0520691,
-      "Longitude": -123.0867536,
+      "Image": "/Content/Account/Users/MoonBoards/852_C361107F-773F-4D4A-B877-EB34F7D02B05.jpg",
+      "Latitude": 44.05630619999999,
+      "Longitude": -123.0983852,
       "IsCommercial": true,
       "IsLed": true,
       "LatLng": [
-        44.0520691,
-        -123.0867536
+        44.05630619999999,
+        -123.0983852
       ]
     },
     {
@@ -19173,6 +19173,19 @@
       "LatLng": [
         37.8915707,
         -122.2780005
+      ]
+    },
+    {
+      "Name": "upa! Escalódromo de Coimbra",
+      "Description": "Moonboard 2024 full set",
+      "Image": "/Content/Account/Users/MoonBoards/2196_61631dba-8f34-4f39-be62-13ba40349bd7.png",
+      "Latitude": 40.2107084,
+      "Longitude": -8.433596399999999,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        40.2107084,
+        -8.433596399999999
       ]
     }
   ]

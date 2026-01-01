@@ -2106,6 +2106,20 @@
       "name": "Stone Climbing JAX",
       "latitude": 30.2478,
       "longitude": -81.53996
+    },
+    {
+      "id": 232378,
+      "username": "depotarmley",
+      "name": "Depot Climbing Armley",
+      "latitude": 53.79844,
+      "longitude": -1.57338
+    },
+    {
+      "id": 232385,
+      "username": "movement_grapevine",
+      "name": "Movement Grapevine",
+      "latitude": 32.90468,
+      "longitude": -97.0958
     }
   ]
 }
