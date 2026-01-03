@@ -19187,6 +19187,110 @@
         40.2107084,
         -8.433596399999999
       ]
+    },
+    {
+      "Name": "WRG MB",
+      "Description": "2024 set on our DOUBLE MB",
+      "Image": "/Content/Account/Users/MoonBoards/2197_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
+      "Latitude": 42.3152901,
+      "Longitude": -83.0034458,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        42.3152901,
+        -83.0034458
+      ]
+    },
+    {
+      "Name": "WRG MoonBoard",
+      "Description": "2024 set on our DOUBLE MB",
+      "Image": "/Content/Account/Users/MoonBoards/2198_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
+      "Latitude": 42.3152901,
+      "Longitude": -83.0034458,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        42.3152901,
+        -83.0034458
+      ]
+    },
+    {
+      "Name": "Windsor Rock Gym MoonBoard",
+      "Description": "2024 set on our DOUBLE MB",
+      "Image": "/Content/Account/Users/MoonBoards/2199_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
+      "Latitude": 42.3152901,
+      "Longitude": -83.0034458,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        42.3152901,
+        -83.0034458
+      ]
+    },
+    {
+      "Name": "Windsor Rock Gym",
+      "Description": "2024 set on our DOUBLE MB",
+      "Image": "/Content/Account/Users/MoonBoards/2200_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
+      "Latitude": 42.3152901,
+      "Longitude": -83.0034458,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        42.3152901,
+        -83.0034458
+      ]
+    },
+    {
+      "Name": "WRG 2x MoonBoard",
+      "Description": "2024 set on our DOUBLE MB",
+      "Image": "/Content/Account/Users/MoonBoards/2201_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
+      "Latitude": 42.3152901,
+      "Longitude": -83.0034458,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        42.3152901,
+        -83.0034458
+      ]
+    },
+    {
+      "Name": "WRG 2x MB",
+      "Description": "2024 set on our DOUBLE MB",
+      "Image": "/Content/Account/Users/MoonBoards/2202_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
+      "Latitude": 42.3152901,
+      "Longitude": -83.0034458,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        42.3152901,
+        -83.0034458
+      ]
+    },
+    {
+      "Name": "WRG_2x MB",
+      "Description": "2024 set on our DOUBLE MB",
+      "Image": "/Content/Account/Users/MoonBoards/2203_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
+      "Latitude": 42.3152901,
+      "Longitude": -83.0034458,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        42.3152901,
+        -83.0034458
+      ]
+    },
+    {
+      "Name": "Windsor_Rock_Gym",
+      "Description": "2024 set on our DOUBLE MB",
+      "Image": "/Content/Account/Users/MoonBoards/2204_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
+      "Latitude": 42.3152901,
+      "Longitude": -83.0034458,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        42.3152901,
+        -83.0034458
+      ]
     }
   ]
 }
