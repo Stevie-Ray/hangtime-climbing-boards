@@ -5454,6 +5454,42 @@
           32.90468
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 233207,
+      "properties": {
+        "id": 233207,
+        "username": "boardroombyclimbersrock",
+        "name": "The Boardroom x Climber's Rock",
+        "latitude": 43.38377,
+        "longitude": -79.76251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76251,
+          43.38377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233217,
+      "properties": {
+        "id": 233217,
+        "username": "flagstaffclimbing_mainst",
+        "name": "Flagstaff Climbing - Main Street Boulders",
+        "latitude": 35.20246,
+        "longitude": -111.61826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.61826,
+          35.20246
+        ]
+      }
     }
   ]
 }

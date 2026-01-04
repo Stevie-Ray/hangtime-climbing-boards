@@ -2120,6 +2120,20 @@
       "name": "Movement Grapevine",
       "latitude": 32.90468,
       "longitude": -97.0958
+    },
+    {
+      "id": 233207,
+      "username": "boardroombyclimbersrock",
+      "name": "The Boardroom x Climber's Rock",
+      "latitude": 43.38377,
+      "longitude": -79.76251
+    },
+    {
+      "id": 233217,
+      "username": "flagstaffclimbing_mainst",
+      "name": "Flagstaff Climbing - Main Street Boulders",
+      "latitude": 35.20246,
+      "longitude": -111.61826
     }
   ]
 }

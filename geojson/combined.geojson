@@ -62479,6 +62479,46 @@
     },
     {
       "type": "Feature",
+      "id": 233207,
+      "properties": {
+        "id": 233207,
+        "username": "boardroombyclimbersrock",
+        "latitude": 43.38377,
+        "longitude": -79.76251,
+        "title": "The Boardroom x Climber's Rock",
+        "description": "Tension Board at The Boardroom x Climber's Rock",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76251,
+          43.38377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233217,
+      "properties": {
+        "id": 233217,
+        "username": "flagstaffclimbing_mainst",
+        "latitude": 35.20246,
+        "longitude": -111.61826,
+        "title": "Flagstaff Climbing - Main Street Boulders",
+        "description": "Tension Board at Flagstaff Climbing - Main Street Boulders",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.61826,
+          35.20246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
