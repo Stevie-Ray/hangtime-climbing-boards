@@ -56048,30 +56048,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Image": "/Content/Account/Users/MoonBoards/2197_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
-        "Latitude": 42.3152901,
-        "Longitude": -83.0034458,
-        "IsCommercial": true,
-        "IsLed": true,
-        "LatLng": [
-          42.3152901,
-          -83.0034458
-        ],
-        "title": "WRG MB",
-        "description": "2024 set on our DOUBLE MB",
-        "marker-color": "#FEB91E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0034458,
-          42.3152901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Image": "/Content/Account/Users/MoonBoards/2198_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
         "Latitude": 42.3152901,
         "Longitude": -83.0034458,
@@ -56096,144 +56072,24 @@
     {
       "type": "Feature",
       "properties": {
-        "Image": "/Content/Account/Users/MoonBoards/2199_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
-        "Latitude": 42.3152901,
-        "Longitude": -83.0034458,
+        "Image": "/Content/Account/Users/MoonBoards/2205_a4a16f2e-37d2-4c8c-beec-4c34ea477e7d.JPG",
+        "Latitude": -33.8887316,
+        "Longitude": 151.147536,
         "IsCommercial": true,
         "IsLed": true,
         "LatLng": [
-          42.3152901,
-          -83.0034458
+          -33.8887316,
+          151.147536
         ],
-        "title": "Windsor Rock Gym MoonBoard",
-        "description": "2024 set on our DOUBLE MB",
+        "title": "BlocHaus Leichhardt",
+        "description": "BlocHaus Sydney's MoonBoard, located in Sydney's Inner West, Leichhardt. \r\n\r\nCurrently there is the 2016 & 2024 full set ups installed.\r\n\r\nBlocHaus is all about making bouldering social, accessible, & fun, so that anyone & everyone can be boulder & better.\r\n\r\nOur Haus is your Haus.\r\n\r\nFully air-conditioned & open 7 days a week :)",
         "marker-color": "#FEB91E"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.0034458,
-          42.3152901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Image": "/Content/Account/Users/MoonBoards/2200_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
-        "Latitude": 42.3152901,
-        "Longitude": -83.0034458,
-        "IsCommercial": true,
-        "IsLed": true,
-        "LatLng": [
-          42.3152901,
-          -83.0034458
-        ],
-        "title": "Windsor Rock Gym",
-        "description": "2024 set on our DOUBLE MB",
-        "marker-color": "#FEB91E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0034458,
-          42.3152901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Image": "/Content/Account/Users/MoonBoards/2201_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
-        "Latitude": 42.3152901,
-        "Longitude": -83.0034458,
-        "IsCommercial": true,
-        "IsLed": true,
-        "LatLng": [
-          42.3152901,
-          -83.0034458
-        ],
-        "title": "WRG 2x MoonBoard",
-        "description": "2024 set on our DOUBLE MB",
-        "marker-color": "#FEB91E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0034458,
-          42.3152901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Image": "/Content/Account/Users/MoonBoards/2202_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
-        "Latitude": 42.3152901,
-        "Longitude": -83.0034458,
-        "IsCommercial": true,
-        "IsLed": true,
-        "LatLng": [
-          42.3152901,
-          -83.0034458
-        ],
-        "title": "WRG 2x MB",
-        "description": "2024 set on our DOUBLE MB",
-        "marker-color": "#FEB91E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0034458,
-          42.3152901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Image": "/Content/Account/Users/MoonBoards/2203_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
-        "Latitude": 42.3152901,
-        "Longitude": -83.0034458,
-        "IsCommercial": true,
-        "IsLed": true,
-        "LatLng": [
-          42.3152901,
-          -83.0034458
-        ],
-        "title": "WRG_2x MB",
-        "description": "2024 set on our DOUBLE MB",
-        "marker-color": "#FEB91E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0034458,
-          42.3152901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Image": "/Content/Account/Users/MoonBoards/2204_06f015c3-18db-4fe0-b14f-1b32f2684d3d.png",
-        "Latitude": 42.3152901,
-        "Longitude": -83.0034458,
-        "IsCommercial": true,
-        "IsLed": true,
-        "LatLng": [
-          42.3152901,
-          -83.0034458
-        ],
-        "title": "Windsor_Rock_Gym",
-        "description": "2024 set on our DOUBLE MB",
-        "marker-color": "#FEB91E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0034458,
-          42.3152901
+          151.147536,
+          -33.8887316
         ]
       }
     },
