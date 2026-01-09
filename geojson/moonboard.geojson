@@ -33994,6 +33994,29 @@
           -33.8887316
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Roots Board MoonBoard 2016",
+        "Description": "Muro no quintal de casa para escalar com os amigos",
+        "Image": "/Content/Account/Users/MoonBoards/2206_6355aec4-4de3-45ec-9c28-74a6554dd467.jpg",
+        "Latitude": -22.1631595,
+        "Longitude": -42.4257923,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          -22.1631595,
+          -42.4257923
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4257923,
+          -22.1631595
+        ]
+      }
     }
   ]
 }
