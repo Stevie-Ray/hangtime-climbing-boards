@@ -11168,12 +11168,12 @@
       ]
     },
     {
-      "Name": "WRG annex",
+      "Name": "WRG MoonBoard",
       "Description": "2016 set up @40",
       "Image": "/Content/Account/Users/MoonBoards/1574_0dcd97ed-2639-4ab2-8996-a7141b2e1b17.jpg",
       "Latitude": 42.3149367,
       "Longitude": -83.03636329999999,
-      "IsCommercial": false,
+      "IsCommercial": true,
       "IsLed": true,
       "LatLng": [
         42.3149367,

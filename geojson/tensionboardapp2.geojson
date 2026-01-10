@@ -5490,6 +5490,42 @@
           35.20246
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 234635,
+      "properties": {
+        "id": 234635,
+        "username": "redrockclimbingcenter",
+        "name": "Red Rock Climbing Center",
+        "latitude": 36.15867,
+        "longitude": -115.2717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2717,
+          36.15867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 234726,
+      "properties": {
+        "id": 234726,
+        "username": "fitbloc_telok_ayer",
+        "name": "fit • bloc Telok Ayer",
+        "latitude": 1.27917,
+        "longitude": 103.84651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84651,
+          1.27917
+        ]
+      }
     }
   ]
 }

@@ -41243,13 +41243,13 @@
         "Image": "/Content/Account/Users/MoonBoards/1574_0dcd97ed-2639-4ab2-8996-a7141b2e1b17.jpg",
         "Latitude": 42.3149367,
         "Longitude": -83.03636329999999,
-        "IsCommercial": false,
+        "IsCommercial": true,
         "IsLed": true,
         "LatLng": [
           42.3149367,
           -83.03636329999999
         ],
-        "title": "WRG annex",
+        "title": "WRG MoonBoard",
         "description": "2016 set up @40",
         "marker-color": "#FEB91E"
       },
@@ -62394,6 +62394,46 @@
         "coordinates": [
           -111.61826,
           35.20246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 234635,
+      "properties": {
+        "id": 234635,
+        "username": "redrockclimbingcenter",
+        "latitude": 36.15867,
+        "longitude": -115.2717,
+        "title": "Red Rock Climbing Center",
+        "description": "Tension Board at Red Rock Climbing Center",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2717,
+          36.15867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 234726,
+      "properties": {
+        "id": 234726,
+        "username": "fitbloc_telok_ayer",
+        "latitude": 1.27917,
+        "longitude": 103.84651,
+        "title": "fit • bloc Telok Ayer",
+        "description": "Tension Board at fit • bloc Telok Ayer",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84651,
+          1.27917
         ]
       }
     },
