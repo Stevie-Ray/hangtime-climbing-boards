@@ -29961,13 +29961,13 @@
       "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/1102_6193a59b-39dc-49ce-9b38-febbdb4fc779.jpg",
-        "Latitude": 61.52401,
-        "Longitude": 105.318756,
+        "Latitude": 54.278214,
+        "Longitude": 41.7325804,
         "IsCommercial": false,
         "IsLed": false,
         "LatLng": [
-          61.52401,
-          105.318756
+          54.278214,
+          41.7325804
         ],
         "title": "Moon ",
         "description": "Home moonboard in Decembrists",
@@ -29976,8 +29976,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.318756,
-          61.52401
+          41.7325804,
+          54.278214
         ]
       }
     },
@@ -56114,6 +56114,54 @@
         "coordinates": [
           -42.4257923,
           -22.1631595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2207_3be7a0b5-577d-43a2-b7b0-1d10cfd8195a.jpeg",
+        "Latitude": 47.3300611,
+        "Longitude": 7.9035474,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          47.3300611,
+          7.9035474
+        ],
+        "title": "Kletterhalle Isatis AG",
+        "description": "Hybrid 25° & 40°",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9035474,
+          47.3300611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2208_df288f63-8d0c-4b91-914b-7a316ff53a71.jpg",
+        "Latitude": 49.9456399,
+        "Longitude": 11.5713346,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          49.9456399,
+          11.5713346
+        ],
+        "title": "Fichtelgebirgsboard",
+        "description": "Buildt in a former Carport that is slowly transforming into our small climbing gym. Open air in the summer and heated and protected in the cold winter. But W.I.P.",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5713346,
+          49.9456399
         ]
       }
     },
