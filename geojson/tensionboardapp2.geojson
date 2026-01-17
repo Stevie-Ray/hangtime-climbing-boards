@@ -5526,6 +5526,24 @@
           1.27917
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 236487,
+      "properties": {
+        "id": 236487,
+        "username": "boulderhal_luchthaven",
+        "name": "Boulderhal Luchthaven",
+        "latitude": 52.33979,
+        "longitude": 4.84227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84227,
+          52.33979
+        ]
+      }
     }
   ]
 }

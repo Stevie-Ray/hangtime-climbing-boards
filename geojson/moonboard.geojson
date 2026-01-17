@@ -3799,23 +3799,23 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "The Training Room - Awesome Walls Dublin",
-        "Description": "We love our Moon Board! Our training room also has a 52deg board, campus baord, finger baords &amp; rings. We've added extra t-nuts between our Moon board grid to allow for more variety of holds on the 40deg while not interfering with the Moon Board set up.",
+        "Name": "The Training Room",
+        "Description": "We love our Moon Board! Our training room also has a 52deg board, campus baord, finger boords and a growing range of S&C equipment",
         "Image": "/Content/Account/Users/MoonBoards/2015-11-10-09.12.21.jpg",
-        "Latitude": 53.3498053,
-        "Longitude": -6.2603097,
+        "Latitude": 53.401674,
+        "Longitude": -6.3164966,
         "IsCommercial": true,
-        "IsLed": false,
+        "IsLed": true,
         "LatLng": [
-          53.3498053,
-          -6.2603097
+          53.401674,
+          -6.3164966
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2603097,
-          53.3498053
+          -6.3164966,
+          53.401674
         ]
       }
     },
