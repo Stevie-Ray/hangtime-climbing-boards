@@ -17424,6 +17424,24 @@
           52.11007
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 860366,
+      "properties": {
+        "id": 860366,
+        "username": "boulderhalvrijhaven",
+        "name": "Boulderhal Vrijhaven",
+        "latitude": 52.24774,
+        "longitude": 6.17245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17245,
+          52.24774
+        ]
+      }
     }
   ]
 }

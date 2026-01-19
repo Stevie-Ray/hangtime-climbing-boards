@@ -20623,6 +20623,26 @@
     },
     {
       "type": "Feature",
+      "id": 860366,
+      "properties": {
+        "id": 860366,
+        "username": "boulderhalvrijhaven",
+        "latitude": 52.24774,
+        "longitude": 6.17245,
+        "title": "Boulderhal Vrijhaven",
+        "description": "Kilter Board at Boulderhal Vrijhaven",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17245,
+          52.24774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
