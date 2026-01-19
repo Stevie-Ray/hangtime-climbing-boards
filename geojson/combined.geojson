@@ -56187,6 +56187,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2209_102cfd72-5dbf-43f1-a230-f15c76d276a3.jpeg",
+        "Latitude": 43.7951617,
+        "Longitude": -79.5422165,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          43.7951617,
+          -79.5422165
+        ],
+        "title": "RockHaus",
+        "description": "Community loved moonboard that got added to the gym in fall 2025",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5422165,
+          43.7951617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
