@@ -18726,8 +18726,8 @@
       "Image": "/Content/Account/Users/MoonBoards/2161_eead717b-4537-4087-a5b3-0173b16bc22e.jpg",
       "Latitude": 43.3773928,
       "Longitude": -8.405797999999999,
-      "IsCommercial": true,
-      "IsLed": false,
+      "IsCommercial": false,
+      "IsLed": true,
       "LatLng": [
         43.3773928,
         -8.405797999999999

@@ -20643,6 +20643,26 @@
     },
     {
       "type": "Feature",
+      "id": 861754,
+      "properties": {
+        "id": 861754,
+        "username": "eifelblock_trier",
+        "latitude": 49.72864,
+        "longitude": 6.60532,
+        "title": "Eifelblock Trier",
+        "description": "Kilter Board at Eifelblock Trier",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60532,
+          49.72864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -55207,8 +55227,8 @@
         "Image": "/Content/Account/Users/MoonBoards/2161_eead717b-4537-4087-a5b3-0173b16bc22e.jpg",
         "Latitude": 43.3773928,
         "Longitude": -8.405797999999999,
-        "IsCommercial": true,
-        "IsLed": false,
+        "IsCommercial": false,
+        "IsLed": true,
         "LatLng": [
           43.3773928,
           -8.405797999999999
