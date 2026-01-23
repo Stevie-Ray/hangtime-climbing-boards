@@ -20663,6 +20663,26 @@
     },
     {
       "type": "Feature",
+      "id": 862414,
+      "properties": {
+        "id": 862414,
+        "username": "club_treparriscos",
+        "latitude": 43.4106,
+        "longitude": -3.83235,
+        "title": "Rocódromo Treparriscos",
+        "description": "Kilter Board at Rocódromo Treparriscos",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83235,
+          43.4106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,

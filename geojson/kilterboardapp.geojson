@@ -17460,6 +17460,24 @@
           49.72864
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 862414,
+      "properties": {
+        "id": 862414,
+        "username": "club_treparriscos",
+        "name": "Rocódromo Treparriscos",
+        "latitude": 43.4106,
+        "longitude": -3.83235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83235,
+          43.4106
+        ]
+      }
     }
   ]
 }
