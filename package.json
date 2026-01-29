@@ -45,8 +45,8 @@
   "author": "Stevie-Ray Hartog <mail@stevie-ray.nl>",
   "license": "Unlicense",
   "dependencies": {
-    "@turf/turf": "^7.3.2",
-    "axios": "^1.13.2",
+    "@turf/turf": "^7.3.3",
+    "axios": "^1.13.4",
     "dotenv": "^17.2.3",
     "user-agents": "^1.1.669"
   },
