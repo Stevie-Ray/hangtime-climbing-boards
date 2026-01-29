@@ -17478,6 +17478,24 @@
           43.4106
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 867709,
+      "properties": {
+        "id": 867709,
+        "username": "studio_bloc_wiesbaden",
+        "name": "Studio Bloc Wiesbaden",
+        "latitude": 50.07471,
+        "longitude": 8.20761
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.20761,
+          50.07471
+        ]
+      }
     }
   ]
 }

@@ -20683,6 +20683,26 @@
     },
     {
       "type": "Feature",
+      "id": 867709,
+      "properties": {
+        "id": 867709,
+        "username": "studio_bloc_wiesbaden",
+        "latitude": 50.07471,
+        "longitude": 8.20761,
+        "title": "Studio Bloc Wiesbaden",
+        "description": "Kilter Board at Studio Bloc Wiesbaden",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.20761,
+          50.07471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,
@@ -56251,6 +56271,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2210_5C1A150C-28BA-47D7-ADF4-6066155C900A.png",
+        "Latitude": 45.516286,
+        "Longitude": 9.222550400000001,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          45.516286,
+          9.222550400000001
+        ],
+        "title": "MANGA climbing B 2024",
+        "description": "stika!",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.222550400000001,
+          45.516286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -62586,6 +62630,26 @@
         "coordinates": [
           4.84227,
           52.33979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239471,
+      "properties": {
+        "id": 239471,
+        "username": "metrorocktyngsboro",
+        "latitude": 42.69614,
+        "longitude": -71.4411,
+        "title": "MetroROCK Tyngsborough",
+        "description": "Tension Board at MetroROCK Tyngsborough",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4411,
+          42.69614
         ]
       }
     },

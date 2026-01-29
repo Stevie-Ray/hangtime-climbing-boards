@@ -19265,6 +19265,19 @@
         43.7951617,
         -79.5422165
       ]
+    },
+    {
+      "Name": "MANGA climbing B 2024",
+      "Description": "stika!",
+      "Image": "/Content/Account/Users/MoonBoards/2210_5C1A150C-28BA-47D7-ADF4-6066155C900A.png",
+      "Latitude": 45.516286,
+      "Longitude": 9.222550400000001,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        45.516286,
+        9.222550400000001
+      ]
     }
   ]
 }

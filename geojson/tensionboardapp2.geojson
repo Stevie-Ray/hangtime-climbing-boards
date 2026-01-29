@@ -5544,6 +5544,24 @@
           52.33979
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 239471,
+      "properties": {
+        "id": 239471,
+        "username": "metrorocktyngsboro",
+        "name": "MetroROCK Tyngsborough",
+        "latitude": 42.69614,
+        "longitude": -71.4411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4411,
+          42.69614
+        ]
+      }
     }
   ]
 }
