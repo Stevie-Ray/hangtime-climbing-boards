@@ -2162,6 +2162,20 @@
       "name": "MetroROCK Tyngsborough",
       "latitude": 42.69614,
       "longitude": -71.4411
+    },
+    {
+      "id": 239718,
+      "username": "esrocodrom",
+      "name": "esRocodrom",
+      "latitude": 39.72222,
+      "longitude": 2.90134
+    },
+    {
+      "id": 239743,
+      "username": "boulderz_mississauga",
+      "name": "Boulderz Climbing Mississauga",
+      "latitude": 43.60597,
+      "longitude": -79.73227
     }
   ]
 }

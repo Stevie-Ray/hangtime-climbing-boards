@@ -19278,6 +19278,19 @@
         45.516286,
         9.222550400000001
       ]
+    },
+    {
+      "Name": "Refuge Vertical",
+      "Description": "Moonboard du CAF Chalons en Champagne.",
+      "Image": "/Content/Account/Users/MoonBoards/2211_6baa89d1-b047-4162-b7ce-9a2d79a9ff74.jpg",
+      "Latitude": 48.9517535,
+      "Longitude": 4.3265131,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        48.9517535,
+        4.3265131
+      ]
     }
   ]
 }

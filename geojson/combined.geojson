@@ -4446,11 +4446,11 @@
       "id": 157778,
       "properties": {
         "id": 157778,
-        "username": "boulderzclimbingcentre",
+        "username": "boulderz_etobicoke",
         "latitude": 43.61934,
         "longitude": -79.54964,
-        "title": "Boulderz Climbing Center",
-        "description": "Kilter Board at Boulderz Climbing Center",
+        "title": "Boulderz Climbing Etobicoke",
+        "description": "Kilter Board at Boulderz Climbing Etobicoke",
         "marker-color": "#ED1D24"
       },
       "geometry": {
@@ -56295,6 +56295,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2211_6baa89d1-b047-4162-b7ce-9a2d79a9ff74.jpg",
+        "Latitude": 48.9517535,
+        "Longitude": 4.3265131,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          48.9517535,
+          4.3265131
+        ],
+        "title": "Refuge Vertical",
+        "description": "Moonboard du CAF Chalons en Champagne.",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3265131,
+          48.9517535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -62650,6 +62674,46 @@
         "coordinates": [
           -71.4411,
           42.69614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239718,
+      "properties": {
+        "id": 239718,
+        "username": "esrocodrom",
+        "latitude": 39.72222,
+        "longitude": 2.90134,
+        "title": "esRocodrom",
+        "description": "Tension Board at esRocodrom",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90134,
+          39.72222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239743,
+      "properties": {
+        "id": 239743,
+        "username": "boulderz_mississauga",
+        "latitude": 43.60597,
+        "longitude": -79.73227,
+        "title": "Boulderz Climbing Mississauga",
+        "description": "Tension Board at Boulderz Climbing Mississauga",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.73227,
+          43.60597
         ]
       }
     },

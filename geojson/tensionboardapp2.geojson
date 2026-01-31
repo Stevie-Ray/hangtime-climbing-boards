@@ -5562,6 +5562,42 @@
           42.69614
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 239718,
+      "properties": {
+        "id": 239718,
+        "username": "esrocodrom",
+        "name": "esRocodrom",
+        "latitude": 39.72222,
+        "longitude": 2.90134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90134,
+          39.72222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239743,
+      "properties": {
+        "id": 239743,
+        "username": "boulderz_mississauga",
+        "name": "Boulderz Climbing Mississauga",
+        "latitude": 43.60597,
+        "longitude": -79.73227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.73227,
+          43.60597
+        ]
+      }
     }
   ]
 }
