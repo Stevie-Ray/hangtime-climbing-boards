@@ -56319,6 +56319,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2212_81fcc284-9919-496e-a6d1-b954459809ae.jpg",
+        "Latitude": 54.2857788,
+        "Longitude": -0.4034476,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          54.2857788,
+          -0.4034476
+        ],
+        "title": "Street Rocks",
+        "description": "Celebrating the power of community spirit.\r\nOur members took part in a 24 hour sponsored climb-a-thon to raise the fund to bring this elite climbing tool to our facility!",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4034476,
+          54.2857788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
