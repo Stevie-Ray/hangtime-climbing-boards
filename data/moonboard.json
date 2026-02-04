@@ -19304,6 +19304,32 @@
         54.2857788,
         -0.4034476
       ]
+    },
+    {
+      "Name": "KletterPuls",
+      "Description": "Mini Moonboard with 2025 setup that will be changed from time to time to 2020",
+      "Image": "/Content/Account/Users/MoonBoards/2213_35fd95ef-7f1a-42c9-9fc6-117c57c9c56e.jpeg",
+      "Latitude": 47.7564747,
+      "Longitude": 11.3709765,
+      "IsCommercial": false,
+      "IsLed": false,
+      "LatLng": [
+        47.7564747,
+        11.3709765
+      ]
+    },
+    {
+      "Name": "Mad Complex",
+      "Description": "2024 holdset",
+      "Image": "/Content/Account/Users/MoonBoards/2214_35e94f76-4a24-4a94-a206-9f9d796ae3fa.jpg",
+      "Latitude": 25.7034572,
+      "Longitude": -100.3703552,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        25.7034572,
+        -100.3703552
+      ]
     }
   ]
 }

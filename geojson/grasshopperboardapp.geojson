@@ -399,24 +399,6 @@
     },
     {
       "type": "Feature",
-      "id": 13735,
-      "properties": {
-        "id": 13735,
-        "username": "sbp_fremont",
-        "name": "Seattle Bouldering Project Fremont",
-        "latitude": 47.65048,
-        "longitude": -122.34177
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.34177,
-          47.65048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 14056,
       "properties": {
         "id": 14056,

@@ -883,26 +883,6 @@
     },
     {
       "type": "Feature",
-      "id": 13735,
-      "properties": {
-        "id": 13735,
-        "username": "sbp_fremont",
-        "latitude": 47.65048,
-        "longitude": -122.34177,
-        "title": "Seattle Bouldering Project Fremont",
-        "description": "Grasshopper Board at Seattle Bouldering Project Fremont",
-        "marker-color": "#00EAFF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.34177,
-          47.65048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 14056,
       "properties": {
         "id": 14056,
@@ -56338,6 +56318,54 @@
         "coordinates": [
           -0.4034476,
           54.2857788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2213_35fd95ef-7f1a-42c9-9fc6-117c57c9c56e.jpeg",
+        "Latitude": 47.7564747,
+        "Longitude": 11.3709765,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          47.7564747,
+          11.3709765
+        ],
+        "title": "KletterPuls",
+        "description": "Mini Moonboard with 2025 setup that will be changed from time to time to 2020",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3709765,
+          47.7564747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2214_35e94f76-4a24-4a94-a206-9f9d796ae3fa.jpg",
+        "Latitude": 25.7034572,
+        "Longitude": -100.3703552,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          25.7034572,
+          -100.3703552
+        ],
+        "title": "Mad Complex",
+        "description": "2024 holdset",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3703552,
+          25.7034572
         ]
       }
     },
