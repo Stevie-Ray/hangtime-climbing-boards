@@ -5598,6 +5598,42 @@
           43.60597
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 241137,
+      "properties": {
+        "id": 241137,
+        "username": "highsportsbrighton",
+        "name": "High Sports Brighton",
+        "latitude": 50.85264,
+        "longitude": -0.16024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16024,
+          50.85264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241143,
+      "properties": {
+        "id": 241143,
+        "username": "socialclimbing_coventry",
+        "name": "Social Climbing Coventry",
+        "latitude": 52.40906,
+        "longitude": -1.51112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51112,
+          52.40906
+        ]
+      }
     }
   ]
 }
