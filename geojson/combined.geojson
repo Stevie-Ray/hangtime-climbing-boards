@@ -20683,6 +20683,26 @@
     },
     {
       "type": "Feature",
+      "id": 874560,
+      "properties": {
+        "id": 874560,
+        "username": "rainbowrocket_boulders",
+        "latitude": 47.73857,
+        "longitude": 10.33245,
+        "title": "Rainbow Rocket Boulders",
+        "description": "Kilter Board at Rainbow Rocket Boulders",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33245,
+          47.73857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,

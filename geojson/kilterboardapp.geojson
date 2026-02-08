@@ -17496,6 +17496,24 @@
           50.07471
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 874560,
+      "properties": {
+        "id": 874560,
+        "username": "rainbowrocket_boulders",
+        "name": "Rainbow Rocket Boulders",
+        "latitude": 47.73857,
+        "longitude": 10.33245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33245,
+          47.73857
+        ]
+      }
     }
   ]
 }
