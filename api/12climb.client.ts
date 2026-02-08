@@ -1,4 +1,4 @@
-import type { TwelveClimbPin } from "../models/12climb.client.ts";
+import type { TwelveClimbPin } from "../interfaces/pin.ts";
 import { TwelveClimbClient } from "../models/12climb.client.ts";
 
 /**

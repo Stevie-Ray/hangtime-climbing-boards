@@ -10,6 +10,7 @@ const RATE_LIMITS: Record<BoardType, number> = {
   soillboardapp: 30,
   touchstoneboardapp: 30,
   auroraboardapp: 30,
+  "12climb": 30,
 };
 
 // Track request timestamps per board
@@ -22,6 +23,7 @@ const requestTimestamps: Record<BoardType, number[]> = {
   soillboardapp: [],
   touchstoneboardapp: [],
   auroraboardapp: [],
+  "12climb": [],
 };
 
 // Clean up old timestamps (older than 1 minute)

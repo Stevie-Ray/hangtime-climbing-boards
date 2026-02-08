@@ -20,13 +20,27 @@ export class MoonboardClient {
   }
 
   /**
-   * Parse and store cookies from set-cookie header
+   * Get Set-Cookie value(s) from a Response. Uses getSetCookie() when available to capture all headers.
    */
-  private parseCookies(setCookieHeader: string | null): void {
+  private getSetCookieValues(headers: Headers): string | string[] | null {
+    const h = headers as Headers & { getSetCookie?: () => string[] };
+    if (typeof h.getSetCookie === "function") {
+      const all = h.getSetCookie();
+      return all.length > 0 ? all : null;
+    }
+    return headers.get("set-cookie");
+  }
+
+  /**
+   * Parse and store cookies from Set-Cookie header(s).
+   * Accepts a single header string (comma-separated) or array from headers.getSetCookie().
+   */
+  private parseCookies(setCookieHeader: string | string[] | null): void {
     if (!setCookieHeader) return;
 
-    // Handle multiple set-cookie headers properly
-    const cookieStrings = setCookieHeader.split(/,(?=\s*\w+\s*=)/);
+    const cookieStrings = Array.isArray(setCookieHeader)
+      ? setCookieHeader
+      : setCookieHeader.split(/,(?=\s*\w+\s*=)/);
 
     cookieStrings.forEach((cookieString) => {
       const trimmed = cookieString.trim();
@@ -79,8 +93,8 @@ export class MoonboardClient {
 
       const loginPageText = await loginPageResponse.text();
 
-      // Parse and store cookies from the login page response
-      this.parseCookies(loginPageResponse.headers.get("set-cookie"));
+      // Parse and store cookies from the login page response (getSetCookie() returns all headers)
+      this.parseCookies(this.getSetCookieValues(loginPageResponse.headers));
 
       // Step 2: Extract CSRF tokens from the login form
       const formMatch = loginPageText.match(
@@ -130,7 +144,7 @@ export class MoonboardClient {
       });
 
       // Parse cookies from login response
-      this.parseCookies(loginResponse.headers.get("set-cookie"));
+      this.parseCookies(this.getSetCookieValues(loginResponse.headers));
 
       // Handle redirect manually to capture cookies
       if (loginResponse.status >= 300 && loginResponse.status < 400) {
@@ -150,7 +164,7 @@ export class MoonboardClient {
           });
 
           // Parse cookies from redirect response
-          this.parseCookies(redirectResponse.headers.get("set-cookie"));
+          this.parseCookies(this.getSetCookieValues(redirectResponse.headers));
 
           // Check if redirect was successful
           if (!redirectResponse.ok) {

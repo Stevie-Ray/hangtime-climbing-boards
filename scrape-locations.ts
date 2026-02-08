@@ -10,7 +10,11 @@ dotenv.config();
 import { boards, type BoardType } from "./boards.ts";
 
 // Interfaces
-import type { AuroraPin, MoonboardPin } from "./interfaces/pin.ts";
+import type {
+  AuroraPin,
+  MoonboardPin,
+  TwelveClimbPin,
+} from "./interfaces/pin.ts";
 import type { Gym, User, Wall } from "./interfaces/user.ts";
 
 // API
@@ -23,7 +27,10 @@ interface AuroraPinWithOptionalUser extends AuroraPin {
   gym?: Gym;
 }
 
-type PinWithOptionalUser = AuroraPinWithOptionalUser | MoonboardPin;
+type PinWithOptionalUser =
+  | AuroraPinWithOptionalUser
+  | MoonboardPin
+  | TwelveClimbPin;
 
 /**
  * Gets credentials for a specific board from environment variables
@@ -82,7 +89,7 @@ async function scrapeUser(
       credentials.password,
     );
 
-    const PinWithOptionalUser = await Promise.all(
+    const pinsWithUser = await Promise.all(
       pins.map(async (pin: AuroraPin | MoonboardPin) => {
         try {
           const pinInfo = getPinInfo(pin);
@@ -119,7 +126,7 @@ async function scrapeUser(
     );
 
     // Flatten the array in case some pins returned arrays
-    return PinWithOptionalUser.flat();
+    return pinsWithUser.flat();
   } catch (error) {
     console.error(
       `Authentication failed for ${board}: ${
@@ -157,15 +164,39 @@ async function scrapePins(): Promise<void> {
         credentials?.password,
       );
 
+      const filePath = path.join(dataDir, `${board}.json`);
+
+      // On empty result keep existing data instead of overwriting
+      if (pins.gyms.length === 0 && fs.existsSync(filePath)) {
+        try {
+          const existing = JSON.parse(
+            fs.readFileSync(filePath, "utf8"),
+          ) as { gyms?: PinWithOptionalUser[] };
+          if (existing.gyms?.length) {
+            console.warn(
+              `Skipping write for ${board}: API returned no gyms; keeping ${existing.gyms.length} existing gyms`,
+            );
+            continue;
+          }
+        } catch {
+          // If we can't read existing file, fall through and write empty
+        }
+      }
+
       // Aurora Climbing: If credentials are provided, fetch gym details (walls, info)
-      const gymsOptionallyWithUser: PinWithOptionalUser[] =
-        credentials && pins.gyms.length > 0 && board !== "moonboard"
-          ? await scrapeUser(pins.gyms, board, credentials)
-          : pins.gyms;
+      const gymsOptionallyWithUser: PinWithOptionalUser[] = credentials &&
+          pins.gyms.length > 0 &&
+          board !== "moonboard" &&
+          board !== "12climb"
+        ? await scrapeUser(
+          pins.gyms as AuroraPin[] | MoonboardPin[],
+          board,
+          credentials,
+        )
+        : pins.gyms;
 
       const jsonData = { gyms: gymsOptionallyWithUser };
 
-      const filePath = path.join(dataDir, `${board}.json`);
       fs.writeFileSync(
         filePath,
         JSON.stringify(jsonData, null, 2) + "\n",
@@ -177,4 +208,7 @@ async function scrapePins(): Promise<void> {
   }
 }
 
-scrapePins();
+scrapePins().catch((err) => {
+  console.error(err);
+  // process.exit(1);
+});

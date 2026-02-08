@@ -8,7 +8,7 @@ import type { AxiosError } from "axios";
  * @param {BoardType} board - The name of the board app
  * @param {string} username - User's username
  * @param {string} password - User's password
- * @returns {Promise<Login>} Session token
+ * @returns {Promise<string>} Session token
  */
 export async function getLogins(
   board: BoardType,
