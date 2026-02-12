@@ -19330,6 +19330,19 @@
         25.7034572,
         -100.3703552
       ]
+    },
+    {
+      "Name": "Pulse Climbing Warners Bay",
+      "Description": "40 degree Moonboard ",
+      "Image": "/Content/Account/Users/MoonBoards/2215_84ebda5e-e4b1-48d6-872b-ed17fb35239b.png",
+      "Latitude": -32.9624388,
+      "Longitude": 151.660896,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        -32.9624388,
+        151.660896
+      ]
     }
   ]
 }

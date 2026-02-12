@@ -56391,6 +56391,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2215_84ebda5e-e4b1-48d6-872b-ed17fb35239b.png",
+        "Latitude": -32.9624388,
+        "Longitude": 151.660896,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          -32.9624388,
+          151.660896
+        ],
+        "title": "Pulse Climbing Warners Bay",
+        "description": "40 degree Moonboard ",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.660896,
+          -32.9624388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -57626,26 +57650,6 @@
         "coordinates": [
           -111.04919,
           32.33046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 86045,
-      "properties": {
-        "id": 86045,
-        "username": "climb.youngstown",
-        "latitude": 40.98776,
-        "longitude": -80.6735,
-        "title": "Climb Youngstown",
-        "description": "Tension Board at Climb Youngstown",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.6735,
-          40.98776
         ]
       }
     },

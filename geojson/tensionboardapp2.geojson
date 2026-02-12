@@ -957,24 +957,6 @@
     },
     {
       "type": "Feature",
-      "id": 86045,
-      "properties": {
-        "id": 86045,
-        "username": "climb.youngstown",
-        "name": "Climb Youngstown",
-        "latitude": 40.98776,
-        "longitude": -80.6735
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.6735,
-          40.98776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86046,
       "properties": {
         "id": 86046,
