@@ -55753,8 +55753,8 @@
           49.0131548,
           13.2340409
         ],
-        "title": "KaffBoard Zwiesel",
-        "description": "Zu den Öffnungszeiten des Jugendcafe Zwiesel geöffnet. ",
+        "title": "Zwiesel Jugendcafe ",
+        "description": "Zu den Öffnungszeiten des Jugendcafe Zwiesel geöffnet. \r\nDienstag - Samstag ab 15:00 Uhr ",
         "marker-color": "#FEB91E"
       },
       "geometry": {
@@ -59830,26 +59830,6 @@
         "coordinates": [
           -104.87486,
           39.56905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 145054,
-      "properties": {
-        "id": 145054,
-        "username": "beyondthewall_climbing",
-        "latitude": 45.51273,
-        "longitude": -122.97213,
-        "title": "Beyond The Wall Climbing",
-        "description": "Tension Board at Beyond The Wall Climbing",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.97213,
-          45.51273
         ]
       }
     },

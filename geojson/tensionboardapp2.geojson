@@ -2919,24 +2919,6 @@
     },
     {
       "type": "Feature",
-      "id": 145054,
-      "properties": {
-        "id": 145054,
-        "username": "beyondthewall_climbing",
-        "name": "Beyond The Wall Climbing",
-        "latitude": 45.51273,
-        "longitude": -122.97213
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.97213,
-          45.51273
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 145169,
       "properties": {
         "id": 145169,
