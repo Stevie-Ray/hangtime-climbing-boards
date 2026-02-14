@@ -34224,6 +34224,29 @@
           -32.9624388
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Monk Hilversum",
+        "Description": "In the back of the gym, at the training area.",
+        "Image": "/Content/Account/Users/MoonBoards/2216_dbe1b576-bdc4-4acb-be10-8b337464d773.png",
+        "Latitude": 52.2198204,
+        "Longitude": 5.149333899999999,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          52.2198204,
+          5.149333899999999
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.149333899999999,
+          52.2198204
+        ]
+      }
     }
   ]
 }
