@@ -3369,24 +3369,6 @@
     },
     {
       "type": "Feature",
-      "id": 161823,
-      "properties": {
-        "id": 161823,
-        "username": "centralrockwynwood",
-        "name": "Central Rock Gym Wynwood",
-        "latitude": 25.80454,
-        "longitude": -80.19568
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.19568,
-          25.80454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 163415,
       "properties": {
         "id": 163415,
@@ -5596,6 +5578,42 @@
         "coordinates": [
           -1.51112,
           52.40906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243746,
+      "properties": {
+        "id": 243746,
+        "username": "blockerbouldersjacksonville",
+        "name": "Blocker Boulders",
+        "latitude": 30.26416,
+        "longitude": -81.59616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59616,
+          30.26416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243750,
+      "properties": {
+        "id": 243750,
+        "username": "brooklynuprising",
+        "name": "Brooklyn Uprising",
+        "latitude": 40.70445,
+        "longitude": -73.98779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98779,
+          40.70445
         ]
       }
     }

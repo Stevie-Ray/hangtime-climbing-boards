@@ -3,6 +3,26 @@
   "features": [
     {
       "type": "Feature",
+      "id": 3896,
+      "properties": {
+        "id": 3896,
+        "username": "centralrockcambridge",
+        "latitude": 42.39084,
+        "longitude": -71.1399,
+        "title": "Central Rock Gym Cambridge",
+        "description": "Aurora Board at Central Rock Gym Cambridge",
+        "marker-color": "#B93655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1399,
+          42.39084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1134,
       "properties": {
         "id": 1134,
@@ -60359,26 +60379,6 @@
     },
     {
       "type": "Feature",
-      "id": 161823,
-      "properties": {
-        "id": 161823,
-        "username": "centralrockwynwood",
-        "latitude": 25.80454,
-        "longitude": -80.19568,
-        "title": "Central Rock Gym Wynwood",
-        "description": "Tension Board at Central Rock Gym Wynwood",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.19568,
-          25.80454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 163415,
       "properties": {
         "id": 163415,
@@ -62834,6 +62834,46 @@
         "coordinates": [
           -1.51112,
           52.40906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243746,
+      "properties": {
+        "id": 243746,
+        "username": "blockerbouldersjacksonville",
+        "latitude": 30.26416,
+        "longitude": -81.59616,
+        "title": "Blocker Boulders",
+        "description": "Tension Board at Blocker Boulders",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59616,
+          30.26416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243750,
+      "properties": {
+        "id": 243750,
+        "username": "brooklynuprising",
+        "latitude": 40.70445,
+        "longitude": -73.98779,
+        "title": "Brooklyn Uprising",
+        "description": "Tension Board at Brooklyn Uprising",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98779,
+          40.70445
         ]
       }
     },

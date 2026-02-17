@@ -1,4 +1,23 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 3896,
+      "properties": {
+        "id": 3896,
+        "username": "centralrockcambridge",
+        "name": "Central Rock Gym Cambridge",
+        "latitude": 42.39084,
+        "longitude": -71.1399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1399,
+          42.39084
+        ]
+      }
+    }
+  ]
 }

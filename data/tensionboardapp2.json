@@ -1310,13 +1310,6 @@
       "longitude": 100.53072
     },
     {
-      "id": 161823,
-      "username": "centralrockwynwood",
-      "name": "Central Rock Gym Wynwood",
-      "latitude": 25.80454,
-      "longitude": -80.19568
-    },
-    {
       "id": 163415,
       "username": "gravityvault_westbury",
       "name": "The Gravity Vault Westbury",
@@ -2176,6 +2169,20 @@
       "name": "Social Climbing Coventry",
       "latitude": 52.40906,
       "longitude": -1.51112
+    },
+    {
+      "id": 243746,
+      "username": "blockerbouldersjacksonville",
+      "name": "Blocker Boulders",
+      "latitude": 30.26416,
+      "longitude": -81.59616
+    },
+    {
+      "id": 243750,
+      "username": "brooklynuprising",
+      "name": "Brooklyn Uprising",
+      "latitude": 40.70445,
+      "longitude": -73.98779
     }
   ]
 }
