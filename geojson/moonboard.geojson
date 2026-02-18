@@ -34247,6 +34247,29 @@
           52.2198204
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pulse Climbing Gosford",
+        "Description": "The Coasts Only 2024 Moonboard!",
+        "Image": "/Content/Account/Users/MoonBoards/2217_44754e3c-26fb-469f-b31b-74723e40ba33.jpg",
+        "Latitude": -33.4190224,
+        "Longitude": 151.3202408,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          -33.4190224,
+          151.3202408
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3202408,
+          -33.4190224
+        ]
+      }
     }
   ]
 }
