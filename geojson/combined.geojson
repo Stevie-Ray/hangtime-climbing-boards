@@ -56483,6 +56483,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": null,
+        "Latitude": 52.3675734,
+        "Longitude": 4.9041389,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          52.3675734,
+          4.9041389
+        ],
+        "title": "Home Board",
+        "description": "Moon Board at Home Board",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041389,
+          52.3675734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,

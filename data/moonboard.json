@@ -19369,6 +19369,19 @@
         -33.4190224,
         151.3202408
       ]
+    },
+    {
+      "Name": "Home Board",
+      "Description": null,
+      "Image": null,
+      "Latitude": 52.3675734,
+      "Longitude": 4.9041389,
+      "IsCommercial": false,
+      "IsLed": true,
+      "LatLng": [
+        52.3675734,
+        4.9041389
+      ]
     }
   ]
 }
