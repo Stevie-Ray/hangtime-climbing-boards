@@ -34279,7 +34279,7 @@
         "Image": null,
         "Latitude": 52.3675734,
         "Longitude": 4.9041389,
-        "IsCommercial": false,
+        "IsCommercial": true,
         "IsLed": true,
         "LatLng": [
           52.3675734,
@@ -34291,6 +34291,29 @@
         "coordinates": [
           4.9041389,
           52.3675734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ferschke Estate",
+        "Description": "Just a little school project done right",
+        "Image": "/Content/Account/Users/MoonBoards/2219_8c72fecc-539d-4c28-bc3d-64240f0743d4.jpeg",
+        "Latitude": 41.6395372,
+        "Longitude": -70.98648870000001,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          41.6395372,
+          -70.98648870000001
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.98648870000001,
+          41.6395372
         ]
       }
     }
