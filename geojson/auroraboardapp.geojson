@@ -3,6 +3,42 @@
   "features": [
     {
       "type": "Feature",
+      "id": 90,
+      "properties": {
+        "id": 90,
+        "username": "boulderhouse.victoria",
+        "name": "BoulderHouse Victoria",
+        "latitude": 48.44049,
+        "longitude": -123.36583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36583,
+          48.44049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2939,
+      "properties": {
+        "id": 2939,
+        "username": "boulderhouse.langford",
+        "name": "BoulderHouse Langford",
+        "latitude": 48.44353,
+        "longitude": -123.52561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.52561,
+          48.44353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 3896,
       "properties": {
         "id": 3896,

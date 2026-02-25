@@ -1,6 +1,20 @@
 {
   "gyms": [
     {
+      "id": 90,
+      "username": "boulderhouse.victoria",
+      "name": "BoulderHouse Victoria",
+      "latitude": 48.44049,
+      "longitude": -123.36583
+    },
+    {
+      "id": 2939,
+      "username": "boulderhouse.langford",
+      "name": "BoulderHouse Langford",
+      "latitude": 48.44353,
+      "longitude": -123.52561
+    },
+    {
       "id": 3896,
       "username": "centralrockcambridge",
       "name": "Central Rock Gym Cambridge",

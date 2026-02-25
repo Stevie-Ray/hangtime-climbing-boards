@@ -3,6 +3,46 @@
   "features": [
     {
       "type": "Feature",
+      "id": 90,
+      "properties": {
+        "id": 90,
+        "username": "boulderhouse.victoria",
+        "latitude": 48.44049,
+        "longitude": -123.36583,
+        "title": "BoulderHouse Victoria",
+        "description": "Aurora Board at BoulderHouse Victoria",
+        "marker-color": "#B93655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36583,
+          48.44049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2939,
+      "properties": {
+        "id": 2939,
+        "username": "boulderhouse.langford",
+        "latitude": 48.44353,
+        "longitude": -123.52561,
+        "title": "BoulderHouse Langford",
+        "description": "Aurora Board at BoulderHouse Langford",
+        "marker-color": "#B93655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.52561,
+          48.44353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 3896,
       "properties": {
         "id": 3896,
@@ -56487,7 +56527,7 @@
         "Image": null,
         "Latitude": 52.3675734,
         "Longitude": 4.9041389,
-        "IsCommercial": true,
+        "IsCommercial": false,
         "IsLed": true,
         "LatLng": [
           52.3675734,
@@ -62946,6 +62986,26 @@
         "coordinates": [
           -73.98779,
           40.70445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 245619,
+      "properties": {
+        "id": 245619,
+        "username": "wellsacstate",
+        "latitude": 38.55701,
+        "longitude": -121.42356,
+        "title": "The WELL",
+        "description": "Tension Board at The WELL",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42356,
+          38.55701
         ]
       }
     },
