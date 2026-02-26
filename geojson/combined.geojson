@@ -63011,6 +63011,26 @@
     },
     {
       "type": "Feature",
+      "id": 245853,
+      "properties": {
+        "id": 245853,
+        "username": "boardroom.fit",
+        "latitude": 22.27708,
+        "longitude": 114.17568,
+        "title": "The Board Room",
+        "description": "Tension Board at The Board Room",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17568,
+          22.27708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

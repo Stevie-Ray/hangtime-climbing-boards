@@ -5634,6 +5634,24 @@
           38.55701
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 245853,
+      "properties": {
+        "id": 245853,
+        "username": "boardroom.fit",
+        "name": "The Board Room",
+        "latitude": 22.27708,
+        "longitude": 114.17568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17568,
+          22.27708
+        ]
+      }
     }
   ]
 }

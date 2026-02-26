@@ -2190,6 +2190,13 @@
       "name": "The WELL",
       "latitude": 38.55701,
       "longitude": -121.42356
+    },
+    {
+      "id": 245853,
+      "username": "boardroom.fit",
+      "name": "The Board Room",
+      "latitude": 22.27708,
+      "longitude": 114.17568
     }
   ]
 }
