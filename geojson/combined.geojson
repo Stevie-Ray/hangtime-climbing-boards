@@ -56571,6 +56571,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2220_b2290f47-5d2b-4666-a5e3-9e611b5f7010.jpeg",
+        "Latitude": 42.445438,
+        "Longitude": -76.4766356,
+        "IsCommercial": true,
+        "IsLed": false,
+        "LatLng": [
+          42.445438,
+          -76.4766356
+        ],
+        "title": "Lindseth Climbing Center Moonboard",
+        "description": "located in the back corner of Cornell University's Lindseth Climbing Center, funded and built by Cornell Rock Climbing Club",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4766356,
+          42.445438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
