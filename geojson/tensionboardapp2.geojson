@@ -5652,6 +5652,24 @@
           22.27708
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 246019,
+      "properties": {
+        "id": 246019,
+        "username": "blocx.luxembourg",
+        "name": "BlocX - Urban Fitness",
+        "latitude": 49.49443,
+        "longitude": 5.96847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.96847,
+          49.49443
+        ]
+      }
     }
   ]
 }

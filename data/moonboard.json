@@ -19408,6 +19408,19 @@
         42.445438,
         -76.4766356
       ]
+    },
+    {
+      "Name": "Rock Room",
+      "Description": "2016 set on adjustable Lemur wall.",
+      "Image": "/Content/Account/Users/MoonBoards/2221_db3142ee-f0d6-4475-9ca3-41988abaf6fd.jpeg",
+      "Latitude": 48.3842148,
+      "Longitude": -89.2436231,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        48.3842148,
+        -89.2436231
+      ]
     }
   ]
 }

@@ -56595,6 +56595,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2221_db3142ee-f0d6-4475-9ca3-41988abaf6fd.jpeg",
+        "Latitude": 48.3842148,
+        "Longitude": -89.2436231,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          48.3842148,
+          -89.2436231
+        ],
+        "title": "Rock Room",
+        "description": "2016 set on adjustable Lemur wall.",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2436231,
+          48.3842148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -63050,6 +63074,26 @@
         "coordinates": [
           114.17568,
           22.27708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246019,
+      "properties": {
+        "id": 246019,
+        "username": "blocx.luxembourg",
+        "latitude": 49.49443,
+        "longitude": 5.96847,
+        "title": "BlocX - Urban Fitness",
+        "description": "Tension Board at BlocX - Urban Fitness",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.96847,
+          49.49443
         ]
       }
     },
