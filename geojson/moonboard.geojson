@@ -34362,6 +34362,29 @@
           48.3842148
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Up and Down Boulder Point",
+        "Description": "We have 2 MoonBoard2, 25° (setup 2016) and 40° (setup 2017)",
+        "Image": "/Content/Account/Users/MoonBoards/2222_22ef546a-d8db-4b15-b3a8-b192f367a53a.jpg",
+        "Latitude": 45.7127423,
+        "Longitude": 6.9514436,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          45.7127423,
+          6.9514436
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9514436,
+          45.7127423
+        ]
+      }
     }
   ]
 }
