@@ -20763,6 +20763,26 @@
     },
     {
       "type": "Feature",
+      "id": 891226,
+      "properties": {
+        "id": 891226,
+        "username": "ss_petrogradskaya",
+        "latitude": 59.96832,
+        "longitude": 30.29237,
+        "title": "Severnaya Stena Peteogradskaya",
+        "description": "Kilter Board at Severnaya Stena Peteogradskaya",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.29237,
+          59.96832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/SchoolRoom.jpg",
         "Latitude": 53.386304,

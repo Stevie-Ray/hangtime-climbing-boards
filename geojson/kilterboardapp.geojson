@@ -17514,6 +17514,24 @@
           47.73857
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 891226,
+      "properties": {
+        "id": 891226,
+        "username": "ss_petrogradskaya",
+        "name": "Severnaya Stena Peteogradskaya",
+        "latitude": 59.96832,
+        "longitude": 30.29237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.29237,
+          59.96832
+        ]
+      }
     }
   ]
 }
