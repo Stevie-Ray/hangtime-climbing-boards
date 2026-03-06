@@ -19434,6 +19434,19 @@
         45.7127423,
         6.9514436
       ]
+    },
+    {
+      "Name": "Ystad tortyrkammare",
+      "Description": "2016 setup in my garage",
+      "Image": "/Content/Account/Users/MoonBoards/2223_2f8a56fb-8eed-48a5-b743-785a4f95ffcb.jpeg",
+      "Latitude": 55.4295051,
+      "Longitude": 13.8200308,
+      "IsCommercial": false,
+      "IsLed": false,
+      "LatLng": [
+        55.4295051,
+        13.8200308
+      ]
     }
   ]
 }
