@@ -5670,6 +5670,24 @@
           49.49443
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 247873,
+      "properties": {
+        "id": 247873,
+        "username": "theriseclimbingproject",
+        "name": "Rise Climbing",
+        "latitude": 51.51126,
+        "longitude": 0.01277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.01277,
+          51.51126
+        ]
+      }
     }
   ]
 }

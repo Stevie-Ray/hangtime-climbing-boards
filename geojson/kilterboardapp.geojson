@@ -17532,6 +17532,24 @@
           59.96832
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 893685,
+      "properties": {
+        "id": 893685,
+        "username": "tca_thenewsroom",
+        "name": "The Climbing Academy Glasgow",
+        "latitude": 55.85054,
+        "longitude": -4.28184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28184,
+          55.85054
+        ]
+      }
     }
   ]
 }
