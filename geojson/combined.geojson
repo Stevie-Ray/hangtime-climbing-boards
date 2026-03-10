@@ -63207,6 +63207,26 @@
     },
     {
       "type": "Feature",
+      "id": 247927,
+      "properties": {
+        "id": 247927,
+        "username": "urbanclimb_newstead",
+        "latitude": -27.45492,
+        "longitude": 153.04053,
+        "title": "Urban Climb Newstead",
+        "description": "Tension Board at Urban Climb Newstead",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04053,
+          -27.45492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

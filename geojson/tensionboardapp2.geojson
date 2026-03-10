@@ -5688,6 +5688,24 @@
           51.51126
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 247927,
+      "properties": {
+        "id": 247927,
+        "username": "urbanclimb_newstead",
+        "name": "Urban Climb Newstead",
+        "latitude": -27.45492,
+        "longitude": 153.04053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04053,
+          -27.45492
+        ]
+      }
     }
   ]
 }
