@@ -34408,6 +34408,29 @@
           55.4295051
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "moon master 2017 ",
+        "Description": "moon board 2017 - 25º \r\nno leds ",
+        "Image": "/Content/Account/Users/MoonBoards/2224_68fb894d-0b37-499f-8748-ad050fee37b2.png",
+        "Latitude": 0,
+        "Longitude": 0,
+        "IsCommercial": true,
+        "IsLed": false,
+        "LatLng": [
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     }
   ]
 }
