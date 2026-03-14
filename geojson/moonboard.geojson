@@ -34431,6 +34431,29 @@
           0
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mjøsa Klatresenter",
+        "Description": "Its a Moonboard 2024 set up",
+        "Image": "/Content/Account/Users/MoonBoards/2225_c00a20b9-711c-4886-a9e6-bf231b2195cf.png",
+        "Latitude": 60.7887508,
+        "Longitude": 11.09,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          60.7887508,
+          11.09
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09,
+          60.7887508
+        ]
+      }
     }
   ]
 }
