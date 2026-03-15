@@ -34454,6 +34454,29 @@
           60.7887508
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bitterroot Board",
+        "Description": "Shop Board, 40degree, 2024 set ",
+        "Image": "/Content/Account/Users/MoonBoards/2226_bb3dbd52-44fc-48da-9391-90ec95b4f1d6.jpg",
+        "Latitude": 34.1973393,
+        "Longitude": -79.7660945,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          34.1973393,
+          -79.7660945
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7660945,
+          34.1973393
+        ]
+      }
     }
   ]
 }
