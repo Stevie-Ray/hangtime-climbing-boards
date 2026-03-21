@@ -44238,7 +44238,7 @@
           106.733678
         ],
         "title": "Vertical District",
-        "description": "Located in the District 2 of Ho Chi Minh City, our gym offers more than 400 square meters climbing surface with an up to 4.5 meters high wall including slab, vertical, overhang. The board angle is fixed at 40degree.",
+        "description": "Located in the District 2 of Ho Chi Minh City, our gym offers more than 400 square meters climbing surface with an up to 4.5 meters high wall including slab, vertical, overhang. The board angle is fixed @ 40degree",
         "marker-color": "#FEB91E"
       },
       "geometry": {
