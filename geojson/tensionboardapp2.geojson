@@ -5493,6 +5493,24 @@
     },
     {
       "type": "Feature",
+      "id": 237112,
+      "properties": {
+        "id": 237112,
+        "username": "boulderzimmer",
+        "name": "Boulderzimmer",
+        "latitude": 52.44968,
+        "longitude": 13.25183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25183,
+          52.44968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 239471,
       "properties": {
         "id": 239471,

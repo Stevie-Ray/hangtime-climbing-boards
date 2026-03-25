@@ -63059,6 +63059,26 @@
     },
     {
       "type": "Feature",
+      "id": 237112,
+      "properties": {
+        "id": 237112,
+        "username": "boulderzimmer",
+        "latitude": 52.44968,
+        "longitude": 13.25183,
+        "title": "Boulderzimmer",
+        "description": "Tension Board at Boulderzimmer",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25183,
+          52.44968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 239471,
       "properties": {
         "id": 239471,
