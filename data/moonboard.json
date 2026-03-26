@@ -19486,6 +19486,19 @@
         34.1973393,
         -79.7660945
       ]
+    },
+    {
+      "Name": "Iskra",
+      "Description": "One and only LED MoonBoard in Chelyabinsk.\r\nBest climbing Gym with friendly vibes.",
+      "Image": "/Content/Account/Users/MoonBoards/2227_84f5d8e5-c7e3-4033-a12f-7da9bd57e875.png",
+      "Latitude": 55.1644419,
+      "Longitude": 61.4368431,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        55.1644419,
+        61.4368431
+      ]
     }
   ]
 }
