@@ -52461,23 +52461,23 @@
       "type": "Feature",
       "properties": {
         "Image": "/Content/Account/Users/MoonBoards/2040_6e9143c6-cd20-4406-986a-8b1d3a0c06b7.jpg",
-        "Latitude": 30.18590739999999,
-        "Longitude": -92.0640937,
+        "Latitude": 30.1862645,
+        "Longitude": -92.064216,
         "IsCommercial": true,
         "IsLed": true,
         "LatLng": [
-          30.18590739999999,
-          -92.0640937
+          30.1862645,
+          -92.064216
         ],
-        "title": "Southern Stone - The Dojo",
+        "title": "Southern Stone",
         "description": "Loved by many, climbed by few. ",
         "marker-color": "#FEB91E"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.0640937,
-          30.18590739999999
+          -92.064216,
+          30.1862645
         ]
       }
     },
