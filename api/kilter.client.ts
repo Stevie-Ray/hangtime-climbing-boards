@@ -176,12 +176,20 @@ function mapWallsByGym(
       wall_uuid: wall.wall_uuid,
       name: wall.name ?? "Kilter Board",
       product_name: wall.product_name ?? "Kilter Board",
-      is_adjustable: wall.is_adjustable ? wall.is_adjustable !== 0 : null,
+      is_adjustable: wall.is_adjustable === 1
+        ? true
+        : wall.is_adjustable === 0
+        ? false
+        : null,
       min_angle: wall.min_angle,
       max_angle: wall.max_angle,
       angle: wall.angle,
       serial_number: wall.serial_number,
-      is_listed: wall.is_listed ? wall.is_listed !== 0 : null,
+      is_listed: wall.is_listed === 1
+        ? true
+        : wall.is_listed === 0
+        ? false
+        : null,
     };
 
     const existingWalls = wallsByGym.get(wall.gym_uuid) ?? [];
@@ -218,7 +226,7 @@ function mapGymsToPins(
       country: gym.country,
       countryCode: gym.countryCode,
       postal_code: gym.postal_code,
-      is_listed: gym.isListed ? gym.isListed !== 0 : null,
+      is_listed: gym.isListed === 1 ? true : gym.isListed === 0 ? false : null,
       walls: wallsByGym.get(gym.gym_uuid) ?? [],
     }))
     .sort((a, b) => a.name.localeCompare(b.name));
