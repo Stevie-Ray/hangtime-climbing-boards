@@ -5,6 +5,7 @@ import type {
   TwelveClimbPin,
 } from "../interfaces/pin.ts";
 import { getAuroraPins } from "./aurora.client.ts";
+import { getKilterPins } from "./kilter.client.ts";
 import { getMoonboardPins } from "./moonboard.client.ts";
 import { getTwelveClimbPins } from "./12climb.client.ts";
 
@@ -24,6 +25,13 @@ export async function getPins(
   // Handle Moonboard
   if (board === "moonboard") {
     return await getMoonboardPins(username, password);
+  }
+  // Handle Kilter via the new PowerSync backend
+  if (board === "kilterboardapp") {
+    if (!username || !password) {
+      throw new Error("Kilter scraping requires credentials");
+    }
+    return await getKilterPins(username, password);
   }
   // Handle 12Climb
   if (board === "12climb") {

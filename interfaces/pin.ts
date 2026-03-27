@@ -1,10 +1,10 @@
 /**
- * Represents a public climbing gym object (pin) from the Aurora Climbing API.
- * This is the original format used by Aurora, Kilter, Tension, Grasshopper, Decoy, So iLL, and Touchstone boards.
+ * Represents a public climbing gym object (pin) from the legacy Aurora APIs
+ * and Kilter's newer PowerSync-backed catalogue.
  */
 export interface AuroraPin {
   /** Unique identifier for the gym */
-  id: number;
+  id: number | string;
   /** Username associated with the gym */
   username: string;
   /** Display name of the gym */

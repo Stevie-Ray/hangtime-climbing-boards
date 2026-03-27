@@ -152,8 +152,11 @@ async function scrapePins(): Promise<void> {
       // Get board-specific credentials from environment variables
       const credentials = getBoardCredentials(board);
 
-      // Skip Moonboard if no credentials are provided
-      if (board === "moonboard" && !credentials) {
+      // Skip boards that now require authentication when credentials are missing.
+      if (
+        (board === "moonboard" || board === "kilterboardapp") &&
+        !credentials
+      ) {
         continue;
       }
 
@@ -187,6 +190,7 @@ async function scrapePins(): Promise<void> {
       const gymsOptionallyWithUser: PinWithOptionalUser[] = credentials &&
           pins.gyms.length > 0 &&
           board !== "moonboard" &&
+          board !== "kilterboardapp" &&
           board !== "12climb"
         ? await scrapeUser(
           pins.gyms as AuroraPin[] | MoonboardPin[],
