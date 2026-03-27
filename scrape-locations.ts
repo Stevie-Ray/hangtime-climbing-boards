@@ -62,7 +62,10 @@ function getPinInfo(
 ): { id: string | number; name: string } {
   if ("id" in pin && "name" in pin) {
     // AuroraPin format
-    return { id: pin.id, name: pin.name };
+    return {
+      id: pin.id,
+      name: pin.name ?? ("gym_uuid" in pin ? pin.gym_uuid : ""),
+    };
   } else {
     // MoonboardPin format
     return { id: pin.Name, name: pin.Name };

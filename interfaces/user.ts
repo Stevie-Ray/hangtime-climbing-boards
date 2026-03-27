@@ -58,6 +58,8 @@ export interface AuroraGym {
  * Represents a wall row selected from Kilter's PowerSync-backed catalogue.
  */
 export interface KilterWall {
+  /** Unique identifier for the wall row */
+  id: string;
   /** UUID of the wall */
   wall_uuid: string;
   /** Gym UUID the wall belongs to */
@@ -66,18 +68,26 @@ export interface KilterWall {
   name: string | null;
   /** Product family for the wall */
   product_name: string | null;
+  /** Product layout UUID, if available */
+  product_layout_uuid: string | null;
   /** Whether the wall angle can be adjusted */
   is_adjustable: number | null;
   /** Minimum supported angle, if available */
   min_angle: number | null;
   /** Maximum supported angle, if available */
   max_angle: number | null;
+  /** Available angle increments, if available */
+  angle_increments: number | null;
   /** Current angle of the wall */
   angle: number | null;
   /** Serial number, if published */
   serial_number: string | null;
+  /** Accumulated hold set value, if available */
+  accumulated_hold_set_value: number | null;
   /** Whether the wall is listed in the app */
   is_listed: number | null;
+  /** Creation timestamp, if available */
+  created_at: string | null;
 }
 
 /**
@@ -89,11 +99,11 @@ export interface KilterGym {
   /** UUID of the gym */
   gym_uuid: string;
   /** Display name of the gym */
-  name: string;
+  name: string | null;
   /** Latitude of the gym */
-  latitude: number;
+  latitude: number | null;
   /** Longitude of the gym */
-  longitude: number;
+  longitude: number | null;
   /** Instagram username, if available */
   instagram_username: string | null;
   /** Street address, if available */
@@ -106,6 +116,10 @@ export interface KilterGym {
   countryCode: string | null;
   /** Postal code of the gym */
   postal_code: string | null;
+  /** Gym logo URL, if available */
+  gym_logo: string | null;
+  /** Banner logo URL, if available */
+  banner_logo: string | null;
   /** Whether the gym is listed in the app */
   is_listed: number | null;
 }

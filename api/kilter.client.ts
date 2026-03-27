@@ -39,6 +39,8 @@ const KILTER_SCHEMA = new Schema({
     postal_code: column.text,
     latitude: column.real,
     longitude: column.real,
+    gymLogo: column.text,
+    bannerLogo: column.text,
     instagramUsername: column.text,
     isListed: column.integer,
   }),
@@ -47,12 +49,16 @@ const KILTER_SCHEMA = new Schema({
     name: column.text,
     gym_uuid: column.text,
     product_name: column.text,
+    product_layout_uuid: column.text,
     is_adjustable: column.integer,
     min_angle: column.real,
     max_angle: column.real,
+    angle_increments: column.real,
     angle: column.real,
     serial_number: column.text,
+    accumulated_hold_set_value: column.real,
     is_listed: column.integer,
+    created_at: column.text,
   }),
 });
 
@@ -158,7 +164,6 @@ export async function getKilterPins(
         id,
         gym_uuid,
         name,
-        instagramUsername AS instagram_username,
         address,
         city,
         country,
@@ -166,28 +171,33 @@ export async function getKilterPins(
         postal_code,
         latitude,
         longitude,
+        gymLogo AS gym_logo,
+        bannerLogo AS banner_logo,
+        instagramUsername AS instagram_username,
         isListed AS is_listed
       FROM gyms
-      WHERE name IS NOT NULL
-        AND latitude IS NOT NULL
-        AND longitude IS NOT NULL
-      ORDER BY name`,
+      ORDER BY name, id`,
     );
 
     const walls = await db.getAll<KilterWall>(
       `SELECT
+        id,
         wall_uuid,
         gym_uuid,
         name,
         product_name,
+        product_layout_uuid,
         is_adjustable,
         min_angle,
         max_angle,
+        angle_increments,
         angle,
         serial_number,
-        is_listed
+        accumulated_hold_set_value,
+        is_listed,
+        created_at
       FROM walls
-      ORDER BY gym_uuid, product_name, wall_uuid`,
+      ORDER BY gym_uuid, product_name, wall_uuid, id`,
     );
 
     const wallsByGym = mapWallsByGym(walls);

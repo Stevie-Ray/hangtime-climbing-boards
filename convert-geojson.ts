@@ -50,6 +50,10 @@ const convertAuroraPin = (pin: AuroraPin, filename: string) => {
 };
 
 const convertKilterPin = (pin: KilterPin, filename: string) => {
+  if (typeof pin.longitude !== "number" || typeof pin.latitude !== "number") {
+    return null;
+  }
+
   validateCoordinates(pin.longitude, pin.latitude, `id ${pin.id}`, filename);
   return point([pin.longitude, pin.latitude], pin, { id: pin.id });
 };
@@ -75,16 +79,17 @@ const convertBoardData = (filename: string): FeatureCollection | false => {
       );
     }
 
-    const features = data.gyms.map(
+    const features = data.gyms.flatMap(
       (item: AuroraPin | KilterPin | MoonboardPin | TwelveClimbPin) => {
         if (isTwelveClimbPin(item)) {
-          return convertTwelveClimbPin(item, filename);
+          return [convertTwelveClimbPin(item, filename)];
         } else if (isMoonboardPin(item)) {
-          return convertMoonboardPin(item, filename);
+          return [convertMoonboardPin(item, filename)];
         } else if (isKilterPin(item)) {
-          return convertKilterPin(item, filename);
+          const feature = convertKilterPin(item, filename);
+          return feature ? [feature] : [];
         } else {
-          return convertAuroraPin(item as AuroraPin, filename);
+          return [convertAuroraPin(item as AuroraPin, filename)];
         }
       },
     );
