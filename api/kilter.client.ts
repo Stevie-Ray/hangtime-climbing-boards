@@ -9,7 +9,8 @@ import {
   Schema,
   Table,
 } from "@powersync/node";
-import type { AuroraPin } from "../interfaces/pin.ts";
+import type { KilterPin } from "../interfaces/pin.ts";
+import type { KilterGym, KilterWall } from "../interfaces/user.ts";
 
 const KILTER_AUTH_URL =
   "https://idp.kiltergrips.com/realms/kilter/protocol/openid-connect/token";
@@ -26,57 +27,6 @@ interface KilterTokenResponse {
   access_token: string;
   expires_in: number;
 }
-
-interface KilterGymRow {
-  id: string;
-  gym_uuid: string;
-  name: string | null;
-  address: string | null;
-  city: string | null;
-  country: string | null;
-  countryCode: string | null;
-  postal_code: string | null;
-  latitude: number | null;
-  longitude: number | null;
-  instagramUsername: string | null;
-  isListed: number | null;
-}
-
-interface KilterWallRow {
-  wall_uuid: string;
-  name: string | null;
-  gym_uuid: string | null;
-  product_name: string | null;
-  is_adjustable: number | null;
-  min_angle: number | null;
-  max_angle: number | null;
-  angle: number | null;
-  serial_number: string | null;
-  is_listed: number | null;
-}
-
-interface KilterWallSummary {
-  wall_uuid: string;
-  name: string;
-  product_name: string;
-  is_adjustable: boolean | null;
-  min_angle: number | null;
-  max_angle: number | null;
-  angle: number | null;
-  serial_number: string | null;
-  is_listed: boolean | null;
-}
-
-type KilterPin = AuroraPin & {
-  gym_uuid: string;
-  address: string | null;
-  city: string | null;
-  country: string | null;
-  countryCode: string | null;
-  postal_code: string | null;
-  is_listed: boolean | null;
-  walls: KilterWallSummary[];
-};
 
 const KILTER_SCHEMA = new Schema({
   gyms: new Table({
@@ -163,83 +113,30 @@ function createKilterConnector(
 }
 
 function mapWallsByGym(
-  walls: KilterWallRow[],
-): Map<string, KilterWallSummary[]> {
-  const wallsByGym = new Map<string, KilterWallSummary[]>();
+  walls: KilterWall[],
+): Map<string, KilterWall[]> {
+  const wallsByGym = new Map<string, KilterWall[]>();
 
   for (const wall of walls) {
     if (!wall.gym_uuid) {
       continue;
     }
 
-    const summary: KilterWallSummary = {
-      wall_uuid: wall.wall_uuid,
-      name: wall.name ?? "Kilter Board",
-      product_name: wall.product_name ?? "Kilter Board",
-      is_adjustable: wall.is_adjustable === 1
-        ? true
-        : wall.is_adjustable === 0
-        ? false
-        : null,
-      min_angle: wall.min_angle,
-      max_angle: wall.max_angle,
-      angle: wall.angle,
-      serial_number: wall.serial_number,
-      is_listed: wall.is_listed === 1
-        ? true
-        : wall.is_listed === 0
-        ? false
-        : null,
-    };
-
     const existingWalls = wallsByGym.get(wall.gym_uuid) ?? [];
-    existingWalls.push(summary);
+    existingWalls.push(wall);
     wallsByGym.set(wall.gym_uuid, existingWalls);
-  }
-
-  for (const wallList of wallsByGym.values()) {
-    wallList.sort((a, b) => a.product_name.localeCompare(b.product_name));
   }
 
   return wallsByGym;
 }
 
-function mapGymsToPins(
-  gyms: KilterGymRow[],
-  wallsByGym: Map<string, KilterWallSummary[]>,
-): KilterPin[] {
-  return gyms
-    .filter((gym) =>
-      gym.name &&
-      typeof gym.latitude === "number" &&
-      typeof gym.longitude === "number"
-    )
-    .map((gym) => ({
-      id: gym.id,
-      username: gym.instagramUsername ?? "",
-      name: gym.name as string,
-      latitude: gym.latitude as number,
-      longitude: gym.longitude as number,
-      gym_uuid: gym.gym_uuid,
-      address: gym.address,
-      city: gym.city,
-      country: gym.country,
-      countryCode: gym.countryCode,
-      postal_code: gym.postal_code,
-      is_listed: gym.isListed === 1 ? true : gym.isListed === 0 ? false : null,
-      walls: wallsByGym.get(gym.gym_uuid) ?? [],
-    }))
-    .sort((a, b) => a.name.localeCompare(b.name));
-}
-
 /**
  * Downloads Kilter gym and wall data from the app's PowerSync backend.
- * The Kilter app no longer exposes the old Aurora `/pins` endpoint.
  */
 export async function getKilterPins(
   username: string,
   password: string,
-): Promise<{ gyms: AuroraPin[] }> {
+): Promise<{ gyms: KilterPin[] }> {
   const db = new PowerSyncDatabase({
     schema: KILTER_SCHEMA,
     database: {
@@ -256,11 +153,12 @@ export async function getKilterPins(
       signal: AbortSignal.timeout(KILTER_SYNC_TIMEOUT_MS),
     });
 
-    const gyms = await db.getAll<KilterGymRow>(
+    const gyms = await db.getAll<KilterGym>(
       `SELECT
         id,
         gym_uuid,
         name,
+        instagramUsername AS instagram_username,
         address,
         city,
         country,
@@ -268,16 +166,19 @@ export async function getKilterPins(
         postal_code,
         latitude,
         longitude,
-        instagramUsername,
-        isListed
-      FROM gyms`,
+        isListed AS is_listed
+      FROM gyms
+      WHERE name IS NOT NULL
+        AND latitude IS NOT NULL
+        AND longitude IS NOT NULL
+      ORDER BY name`,
     );
 
-    const walls = await db.getAll<KilterWallRow>(
+    const walls = await db.getAll<KilterWall>(
       `SELECT
         wall_uuid,
-        name,
         gym_uuid,
+        name,
         product_name,
         is_adjustable,
         min_angle,
@@ -285,11 +186,22 @@ export async function getKilterPins(
         angle,
         serial_number,
         is_listed
-      FROM walls`,
+      FROM walls
+      ORDER BY gym_uuid, product_name, wall_uuid`,
     );
 
+    const wallsByGym = mapWallsByGym(walls);
+    const pins: KilterPin[] = [];
+
+    for (const gym of gyms) {
+      pins.push({
+        ...gym,
+        walls: wallsByGym.get(gym.gym_uuid) ?? [],
+      });
+    }
+
     return {
-      gyms: mapGymsToPins(gyms, mapWallsByGym(walls)),
+      gyms: pins,
     };
   } finally {
     await db.close();

@@ -12,10 +12,11 @@ import { boards, type BoardType } from "./boards.ts";
 // Interfaces
 import type {
   AuroraPin,
+  KilterPin,
   MoonboardPin,
   TwelveClimbPin,
 } from "./interfaces/pin.ts";
-import type { Gym, User, Wall } from "./interfaces/user.ts";
+import type { AuroraGym, AuroraUser, AuroraWall } from "./interfaces/user.ts";
 
 // API
 import { getLogins } from "./api/logins.ts";
@@ -23,12 +24,13 @@ import { getUsers } from "./api/users.ts";
 import { getPins } from "./api/pins.ts";
 
 interface AuroraPinWithOptionalUser extends AuroraPin {
-  walls?: Wall[];
-  gym?: Gym;
+  walls?: AuroraWall[];
+  gym?: AuroraGym;
 }
 
 type PinWithOptionalUser =
   | AuroraPinWithOptionalUser
+  | KilterPin
   | MoonboardPin
   | TwelveClimbPin;
 
@@ -56,7 +58,7 @@ function getBoardCredentials(
  * @returns {Object} Object with id and name properties
  */
 function getPinInfo(
-  pin: AuroraPin | MoonboardPin,
+  pin: AuroraPin | KilterPin | MoonboardPin,
 ): { id: string | number; name: string } {
   if ("id" in pin && "name" in pin) {
     // AuroraPin format
@@ -103,7 +105,7 @@ async function scrapeUser(
               login.users.length > 0
             ) {
               // Return an array of pins, one for each user
-              return login.users.map((user: User) => ({
+              return login.users.map((user: AuroraUser) => ({
                 ...pin,
                 walls: user.walls,
                 gym: user.gym,

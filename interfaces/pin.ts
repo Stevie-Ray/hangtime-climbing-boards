@@ -1,10 +1,11 @@
+import type { KilterGym, KilterWall } from "./user.ts";
+
 /**
- * Represents a public climbing gym object (pin) from the legacy Aurora APIs
- * and Kilter's newer PowerSync-backed catalogue.
+ * Represents a public climbing gym object (pin) from the Aurora Climbing APIs.
  */
 export interface AuroraPin {
   /** Unique identifier for the gym */
-  id: number | string;
+  id: number;
   /** Username associated with the gym */
   username: string;
   /** Display name of the gym */
@@ -13,6 +14,14 @@ export interface AuroraPin {
   latitude: number;
   /** Longitude coordinate of the gym's location */
   longitude: number;
+}
+
+/**
+ * Represents a public Kilter board location in the scraped dataset.
+ */
+export interface KilterPin extends KilterGym {
+  /** Walls installed at this gym */
+  walls: KilterWall[];
 }
 
 /**

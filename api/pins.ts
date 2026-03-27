@@ -1,6 +1,7 @@
 import type { BoardType } from "../boards.ts";
 import type {
   AuroraPin,
+  KilterPin,
   MoonboardPin,
   TwelveClimbPin,
 } from "../interfaces/pin.ts";
@@ -12,16 +13,18 @@ import { getTwelveClimbPins } from "./12climb.client.ts";
 /**
  * Downloads gym data for a specific board app from its API.
  * @param {BoardType} board - The name of the board app
- * @param {string} username - Username for authentication (required for Moonboard)
- * @param {string} password - Password for authentication (required for Moonboard)
- * @returns {Promise<{ gyms: AuroraPin[] | MoonboardPin[] }>} Gym data
+ * @param {string} username - Username for authentication (required for Moonboard and Kilter)
+ * @param {string} password - Password for authentication (required for Moonboard and Kilter)
+ * @returns {Promise<{ gyms: AuroraPin[] | KilterPin[] }>} Gym data
  * @throws {Error} If the API request fails
  */
 export async function getPins(
   board: BoardType,
   username?: string,
   password?: string,
-): Promise<{ gyms: AuroraPin[] | MoonboardPin[] | TwelveClimbPin[] }> {
+): Promise<
+  { gyms: AuroraPin[] | KilterPin[] | MoonboardPin[] | TwelveClimbPin[] }
+> {
   // Handle Moonboard
   if (board === "moonboard") {
     return await getMoonboardPins(username, password);

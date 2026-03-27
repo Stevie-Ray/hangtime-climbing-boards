@@ -10,6 +10,7 @@ import { boards } from "./boards.ts";
 import type { FeatureCollection } from "geojson";
 import type {
   AuroraPin,
+  KilterPin,
   MoonboardPin,
   TwelveClimbPin,
 } from "./interfaces/pin.ts";
@@ -18,6 +19,10 @@ import type {
 const isMoonboardPin = (item: unknown): item is MoonboardPin =>
   typeof item === "object" && item !== null && "Name" in item &&
   "IsCommercial" in item;
+
+const isKilterPin = (item: unknown): item is KilterPin =>
+  typeof item === "object" && item !== null && "gym_uuid" in item &&
+  "walls" in item;
 
 const isTwelveClimbPin = (item: unknown): item is TwelveClimbPin =>
   typeof item === "object" && item !== null && "name" in item &&
@@ -44,6 +49,11 @@ const convertAuroraPin = (pin: AuroraPin, filename: string) => {
   return point([pin.longitude, pin.latitude], pin, { id: pin.id });
 };
 
+const convertKilterPin = (pin: KilterPin, filename: string) => {
+  validateCoordinates(pin.longitude, pin.latitude, `id ${pin.id}`, filename);
+  return point([pin.longitude, pin.latitude], pin, { id: pin.id });
+};
+
 const convertMoonboardPin = (pin: MoonboardPin, filename: string) => {
   validateCoordinates(pin.Longitude, pin.Latitude, pin.Name, filename);
   return point([pin.Longitude, pin.Latitude], pin, {});
@@ -66,11 +76,13 @@ const convertBoardData = (filename: string): FeatureCollection | false => {
     }
 
     const features = data.gyms.map(
-      (item: AuroraPin | MoonboardPin | TwelveClimbPin) => {
+      (item: AuroraPin | KilterPin | MoonboardPin | TwelveClimbPin) => {
         if (isTwelveClimbPin(item)) {
           return convertTwelveClimbPin(item, filename);
         } else if (isMoonboardPin(item)) {
           return convertMoonboardPin(item, filename);
+        } else if (isKilterPin(item)) {
+          return convertKilterPin(item, filename);
         } else {
           return convertAuroraPin(item as AuroraPin, filename);
         }

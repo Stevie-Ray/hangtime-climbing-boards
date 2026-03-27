@@ -74,7 +74,7 @@ This repository uses GitHub Actions to:
 # Install dependencies
 npm ci
 
-# Scrape data from Aurora API
+# Scrape data from board APIs
 npm run scrape
 
 # Convert scraped data to GeoJSON
@@ -92,12 +92,12 @@ npm run dev
 
 ### Authentication
 
-Required to get MoonBoard locations. To get detailed information about Aurora
-Boards such as (Kilter, Tension, etc.) including the gym's address, board angle,
-or rotatability status, you need to provide your credentials through environment
-variables. Each climbing board app requires its own set of login credentials.
-The scraper will only fetch additional details for the specific apps where you
-provide valid login details.
+Required to get MoonBoard and Kilter Board locations. To get detailed
+information about Aurora Boards such as (Tension, Grasshoper etc.) including the
+gym's address, board angle, or rotatability status, you need to provide your
+credentials through environment variables. Each climbing board app requires its
+own set of login credentials. The scraper will only fetch additional details for
+the specific apps where you provide valid login details.
 
 **Important Legal Notice**: Before using this scraper with credentials, you
 must:
@@ -118,12 +118,13 @@ cp .env.example .env
 2. Fill in your credentials in the `.env` file:
 
 ```bash
-# Aurora Climbing Boards (Kilter, Tension, etc.)
-KILTERBOARDAPP_USERNAME=your_username
-KILTERBOARDAPP_PASSWORD=your_password
-
+# Aurora Climbing Boards (Tension, Grasshoper etc.)
 TENSIONBOARDAPP_USERNAME=your_username
 TENSIONBOARDAPP_PASSWORD=your_password
+
+# Kilter Boards (requires authentication for location data)
+KILTERBOARDAPP_USERNAME=your_username
+KILTERBOARDAPP_PASSWORD=your_password
 
 # MoonBoard (requires authentication for location data)
 MOONBOARD_USERNAME=your_username

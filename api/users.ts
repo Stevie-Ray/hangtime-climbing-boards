@@ -1,5 +1,5 @@
 import type { BoardType } from "../boards.ts";
-import type { User } from "../interfaces/user.ts";
+import type { AuroraUser } from "../interfaces/user.ts";
 import { AuroraClient } from "../models/aurora.client.ts";
 import type { AxiosError } from "axios";
 
@@ -8,16 +8,16 @@ import type { AxiosError } from "axios";
  * @param {BoardType} board - The name of the board app
  * @param {number} userId - The ID of the user
  * @param {string} token - Session token
- * @returns {Promise<{ users: User[] } | undefined>} User details or undefined if the user is not found
+ * @returns {Promise<{ users: AuroraUser[] } | undefined>} User details or undefined if the user is not found
  */
 export async function getUsers(
   board: BoardType,
   userId: number,
   token: string,
-): Promise<{ users: User[] } | undefined> {
+): Promise<{ users: AuroraUser[] } | undefined> {
   const client = new AuroraClient(board);
   try {
-    return await client.request<{ users: User[] }>({
+    return await client.request<{ users: AuroraUser[] }>({
       method: "GET",
       url: `/users/${userId}`,
       headers: {
