@@ -2,12 +2,12 @@ import os from "node:os";
 import path from "node:path";
 import axios from "axios";
 import {
-  PowerSyncDatabase,
+  column,
   type PowerSyncBackendConnector,
   type PowerSyncCredentials,
+  PowerSyncDatabase,
   Schema,
   Table,
-  column,
 } from "@powersync/node";
 import type { AuroraPin } from "../interfaces/pin.ts";
 
@@ -118,12 +118,16 @@ async function getKilterAccessToken(
     scope: KILTER_SCOPE,
   });
 
-  const { data } = await axios.post<KilterTokenResponse>(KILTER_AUTH_URL, body, {
-    headers: {
-      "Content-Type": "application/x-www-form-urlencoded",
+  const { data } = await axios.post<KilterTokenResponse>(
+    KILTER_AUTH_URL,
+    body,
+    {
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      timeout: 10_000,
     },
-    timeout: 10_000,
-  });
+  );
 
   return {
     endpoint: KILTER_SYNC_ENDPOINT,
@@ -158,7 +162,9 @@ function createKilterConnector(
   };
 }
 
-function mapWallsByGym(walls: KilterWallRow[]): Map<string, KilterWallSummary[]> {
+function mapWallsByGym(
+  walls: KilterWallRow[],
+): Map<string, KilterWallSummary[]> {
   const wallsByGym = new Map<string, KilterWallSummary[]>();
 
   for (const wall of walls) {
