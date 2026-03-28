@@ -2865,24 +2865,6 @@
     },
     {
       "type": "Feature",
-      "id": 142503,
-      "properties": {
-        "id": 142503,
-        "username": "premiumbouldering",
-        "name": "Premium Bouldering",
-        "latitude": 38.91728,
-        "longitude": -120.00087
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.00087,
-          38.91728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 143965,
       "properties": {
         "id": 143965,
@@ -5722,6 +5704,24 @@
         "coordinates": [
           153.04053,
           -27.45492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252420,
+      "properties": {
+        "id": 252420,
+        "username": "centralrockwatertown",
+        "name": "Central Rock Gym Watertown",
+        "latitude": 42.37026,
+        "longitude": -71.19885
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19885,
+          42.37026
         ]
       }
     }

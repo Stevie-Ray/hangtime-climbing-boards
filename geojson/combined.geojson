@@ -1591,6 +1591,54 @@
     },
     {
       "type": "Feature",
+      "id": "99fd4b0e-16cb-4ea4-be00-b153255c811c",
+      "properties": {
+        "id": "99fd4b0e-16cb-4ea4-be00-b153255c811c",
+        "gym_uuid": "99fd4b0e-16cb-4ea4-be00-b153255c811c",
+        "address": null,
+        "city": null,
+        "country": null,
+        "countryCode": null,
+        "postal_code": null,
+        "latitude": -25.215260569377044,
+        "longitude": 153.1519274200911,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "3f2eeab9-763f-4283-a156-3da9eb180fbc",
+            "wall_uuid": "3f2eeab9-763f-4283-a156-3da9eb180fbc",
+            "gym_uuid": "99fd4b0e-16cb-4ea4-be00-b153255c811c",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "17",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-27 21:09:07.067172Z"
+          }
+        ],
+        "title": "7x10 HW NK",
+        "description": "Kilter Board at 7x10 HW NK",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1519274200911,
+          -25.215260569377044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "48719",
       "properties": {
         "id": "48719",
@@ -21963,6 +22011,54 @@
     },
     {
       "type": "Feature",
+      "id": "e6e0e7f9-1100-4b52-ab66-9339bf9a185f",
+      "properties": {
+        "id": "e6e0e7f9-1100-4b52-ab66-9339bf9a185f",
+        "gym_uuid": "e6e0e7f9-1100-4b52-ab66-9339bf9a185f",
+        "address": "701 Rohlwing Rd, , IL , ",
+        "city": "Arlington Heights",
+        "country": "US",
+        "countryCode": null,
+        "postal_code": "60005",
+        "latitude": 42.09078035751713,
+        "longitude": -88.0244765595274,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "c4a19a48-a73a-4edd-a5ba-0f18d0d96f81",
+            "wall_uuid": "c4a19a48-a73a-4edd-a5ba-0f18d0d96f81",
+            "gym_uuid": "e6e0e7f9-1100-4b52-ab66-9339bf9a185f",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-28 00:47:22.340551Z"
+          }
+        ],
+        "title": "First Ascent Arlington Heights",
+        "description": "Kilter Board at First Ascent Arlington Heights",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0244765595274,
+          42.09078035751713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "227194",
       "properties": {
         "id": "227194",
@@ -41593,6 +41689,54 @@
         "coordinates": [
           8.6119,
           49.81624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "258120a8-53d7-4583-94a2-84f72c1941ec",
+      "properties": {
+        "id": "258120a8-53d7-4583-94a2-84f72c1941ec",
+        "gym_uuid": "258120a8-53d7-4583-94a2-84f72c1941ec",
+        "address": "Kokstadflaten 33",
+        "city": "Kokstad",
+        "country": null,
+        "countryCode": null,
+        "postal_code": "5257",
+        "latitude": 60.293389018785966,
+        "longitude": 5.253067886000761,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "e4c749ee-8a40-4237-9c40-01c8786f97b5",
+            "wall_uuid": "e4c749ee-8a40-4237-9c40-01c8786f97b5",
+            "gym_uuid": "258120a8-53d7-4583-94a2-84f72c1941ec",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 60,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "75692",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-27 22:39:24.080537Z"
+          }
+        ],
+        "title": "Studio Vertikal Klatresenter",
+        "description": "Kilter Board at Studio Vertikal Klatresenter",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.253067886000761,
+          60.293389018785966
         ]
       }
     },
@@ -89799,26 +89943,6 @@
     },
     {
       "type": "Feature",
-      "id": 142503,
-      "properties": {
-        "id": 142503,
-        "username": "premiumbouldering",
-        "latitude": 38.91728,
-        "longitude": -120.00087,
-        "title": "Premium Bouldering",
-        "description": "Tension Board at Premium Bouldering",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.00087,
-          38.91728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 143965,
       "properties": {
         "id": 143965,
@@ -92974,6 +93098,26 @@
         "coordinates": [
           153.04053,
           -27.45492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252420,
+      "properties": {
+        "id": 252420,
+        "username": "centralrockwatertown",
+        "latitude": 42.37026,
+        "longitude": -71.19885,
+        "title": "Central Rock Gym Watertown",
+        "description": "Tension Board at Central Rock Gym Watertown",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19885,
+          42.37026
         ]
       }
     },
