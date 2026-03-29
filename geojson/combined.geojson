@@ -10771,6 +10771,54 @@
     },
     {
       "type": "Feature",
+      "id": "daa3b06d-6a60-4606-bbf3-8ba821d873ee",
+      "properties": {
+        "id": "daa3b06d-6a60-4606-bbf3-8ba821d873ee",
+        "gym_uuid": "daa3b06d-6a60-4606-bbf3-8ba821d873ee",
+        "address": "Berkenbosch Blokstraat 9A",
+        "city": "HD Den Haag",
+        "country": "NL",
+        "countryCode": null,
+        "postal_code": "2586",
+        "latitude": 52.11019628136243,
+        "longitude": 4.2836240000000005,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "dd58bf13-52a6-4d57-9d35-74541ade6be8",
+            "wall_uuid": "dd58bf13-52a6-4d57-9d35-74541ade6be8",
+            "gym_uuid": "daa3b06d-6a60-4606-bbf3-8ba821d873ee",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 25,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-28 07:29:36.393789Z"
+          }
+        ],
+        "title": "Boulderhal Nirvana",
+        "description": "Kilter Board at Boulderhal Nirvana",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2836240000000005,
+          52.11019628136243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "486847",
       "properties": {
         "id": "486847",
@@ -28323,6 +28371,54 @@
     },
     {
       "type": "Feature",
+      "id": "ed67ae21-2012-4f45-b58d-1a7fafc25cec",
+      "properties": {
+        "id": "ed67ae21-2012-4f45-b58d-1a7fafc25cec",
+        "gym_uuid": "ed67ae21-2012-4f45-b58d-1a7fafc25cec",
+        "address": "Vlijtseweg 106",
+        "city": "Apeldoorn",
+        "country": "NL",
+        "countryCode": null,
+        "postal_code": "7317",
+        "latitude": 52.22466112634577,
+        "longitude": 5.971771073018263,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "fc8a1c09-c6c4-4e34-b1ca-dccc5aa2442b",
+            "wall_uuid": "fc8a1c09-c6c4-4e34-b1ca-dccc5aa2442b",
+            "gym_uuid": "ed67ae21-2012-4f45-b58d-1a7fafc25cec",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "752094",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-28 07:45:52.853023Z"
+          }
+        ],
+        "title": "Kei Boulderhal Apeldoorn",
+        "description": "Kilter Board at Kei Boulderhal Apeldoorn",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.971771073018263,
+          52.22466112634577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "307239",
       "properties": {
         "id": "307239",
@@ -37080,6 +37176,54 @@
     },
     {
       "type": "Feature",
+      "id": "e297efd8-e596-4657-b8a5-10606aa53bf8",
+      "properties": {
+        "id": "e297efd8-e596-4657-b8a5-10606aa53bf8",
+        "gym_uuid": "e297efd8-e596-4657-b8a5-10606aa53bf8",
+        "address": "Reinhartser Strasse 5",
+        "city": "Kempten Bavaria",
+        "country": "Germany",
+        "countryCode": null,
+        "postal_code": "87437",
+        "latitude": 47.7387,
+        "longitude": 10.33247,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "2e047e2f-f903-49c6-ab06-fec225b77112",
+            "wall_uuid": "2e047e2f-f903-49c6-ab06-fec225b77112",
+            "gym_uuid": "e297efd8-e596-4657-b8a5-10606aa53bf8",
+            "name": "Kilter Board HW Fullride 10x12",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "25",
+            "is_adjustable": 1,
+            "min_angle": 25,
+            "max_angle": 60,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751229",
+            "accumulated_hold_set_value": 15,
+            "is_listed": 1,
+            "created_at": "2026-03-28 13:45:40.709204Z"
+          }
+        ],
+        "title": "Rainbow Rocket Boulders",
+        "description": "Kilter Board at Rainbow Rocket Boulders",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33247,
+          47.7387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "474056",
       "properties": {
         "id": "474056",
@@ -38995,6 +39139,54 @@
         "coordinates": [
           2.09888,
           41.52992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "45aa55de-2b2a-48b1-924c-3d79b2c5230e",
+      "properties": {
+        "id": "45aa55de-2b2a-48b1-924c-3d79b2c5230e",
+        "gym_uuid": "45aa55de-2b2a-48b1-924c-3d79b2c5230e",
+        "address": "Via Waltraud-Gebert-Deeg, 4",
+        "city": "Bolzano BZ",
+        "country": "Italy",
+        "countryCode": null,
+        "postal_code": "39100",
+        "latitude": 46.47043,
+        "longitude": 11.31389,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "74c340c4-5331-4060-ac4b-2181fa219d34",
+            "wall_uuid": "74c340c4-5331-4060-ac4b-2181fa219d34",
+            "gym_uuid": "45aa55de-2b2a-48b1-924c-3d79b2c5230e",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "752000",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-28 16:31:22.744918Z"
+          }
+        ],
+        "title": "Salewa Cube Waltherpark",
+        "description": "Kilter Board at Salewa Cube Waltherpark",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.31389,
+          46.47043
         ]
       }
     },
@@ -41353,6 +41545,54 @@
         "coordinates": [
           13.79816,
           47.92844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23539b41-91c7-4ab1-89ea-7d2d14b1e4b5",
+      "properties": {
+        "id": "23539b41-91c7-4ab1-89ea-7d2d14b1e4b5",
+        "gym_uuid": "23539b41-91c7-4ab1-89ea-7d2d14b1e4b5",
+        "address": "Avenue E. Mounier 87",
+        "city": "Woluwe-Saint-Lambert",
+        "country": "Belgium",
+        "countryCode": null,
+        "postal_code": "1200",
+        "latitude": 50.8511,
+        "longitude": 4.45897,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "e2bd9ff9-ab50-40e6-969b-e23cc53023cf",
+            "wall_uuid": "e2bd9ff9-ab50-40e6-969b-e23cc53023cf",
+            "gym_uuid": "23539b41-91c7-4ab1-89ea-7d2d14b1e4b5",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751879",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-28 13:33:12.757726Z"
+          }
+        ],
+        "title": "Stone Age",
+        "description": "Kilter Board at Stone Age",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45897,
+          50.8511
         ]
       }
     },
