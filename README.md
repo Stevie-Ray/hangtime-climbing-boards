@@ -68,6 +68,12 @@ This repository uses GitHub Actions to:
 
 - Node.js 22 / Deno / Bun
 
+### Install
+
+```bash
+npm i @hangtime/climbing-boards
+```
+
 ### Available Scripts
 
 ```bash
