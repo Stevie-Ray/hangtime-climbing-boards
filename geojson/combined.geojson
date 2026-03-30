@@ -15397,7 +15397,25 @@
         "banner_logo": null,
         "instagram_username": null,
         "is_listed": null,
-        "walls": [],
+        "walls": [
+          {
+            "id": "dc2ca102-6eb3-4c91-becf-2d0d93036dc2",
+            "wall_uuid": "dc2ca102-6eb3-4c91-becf-2d0d93036dc2",
+            "gym_uuid": "02c3ab88-81e7-4960-bcf9-007d9eaff55c",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 07:16:10.503539Z"
+          }
+        ],
         "title": "City Boulder AG",
         "description": "Kilter Board at City Boulder AG",
         "marker-color": "#ED1D24"
@@ -17663,6 +17681,54 @@
         "coordinates": [
           -80.41082,
           37.15166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7fef1db4-9b28-4572-96ee-8b2d8bbf2a0b",
+      "properties": {
+        "id": "7fef1db4-9b28-4572-96ee-8b2d8bbf2a0b",
+        "gym_uuid": "7fef1db4-9b28-4572-96ee-8b2d8bbf2a0b",
+        "address": "Nový Svět 705",
+        "city": "Harrachov",
+        "country": "CZ",
+        "countryCode": null,
+        "postal_code": "51246",
+        "latitude": 50.780882755796554,
+        "longitude": 15.420550728836115,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "4e3a414d-4c5a-44b8-873a-e20094cb215a",
+            "wall_uuid": "4e3a414d-4c5a-44b8-873a-e20094cb215a",
+            "gym_uuid": "7fef1db4-9b28-4572-96ee-8b2d8bbf2a0b",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000168",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-02 19:35:17.985636Z"
+          }
+        ],
+        "title": "Crux 24",
+        "description": "Kilter Board at Crux 24",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420550728836115,
+          50.780882755796554
         ]
       }
     },
@@ -38035,6 +38101,54 @@
         "coordinates": [
           -73.26536,
           41.14187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cee95f6-4d73-4399-b983-9a2812473ad6",
+      "properties": {
+        "id": "1cee95f6-4d73-4399-b983-9a2812473ad6",
+        "gym_uuid": "1cee95f6-4d73-4399-b983-9a2812473ad6",
+        "address": "Ohmstrasse 6",
+        "city": "Wuerzburg",
+        "country": "Germany",
+        "countryCode": null,
+        "postal_code": "97076",
+        "latitude": 49.80103,
+        "longitude": 9.97185,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "15c501b6-ba36-43fb-a506-7e1273a182a8",
+            "wall_uuid": "15c501b6-ba36-43fb-a506-7e1273a182a8",
+            "gym_uuid": "1cee95f6-4d73-4399-b983-9a2812473ad6",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 12:36:21.043955Z"
+          }
+        ],
+        "title": "Rock Inn Boulderhalle",
+        "description": "Kilter Board at Rock Inn Boulderhalle",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97185,
+          49.80103
         ]
       }
     },
