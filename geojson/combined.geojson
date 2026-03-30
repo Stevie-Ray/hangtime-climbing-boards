@@ -3799,6 +3799,54 @@
     },
     {
       "type": "Feature",
+      "id": "1bee4fc9-83d0-4d56-a75e-23c4eb1921c9",
+      "properties": {
+        "id": "1bee4fc9-83d0-4d56-a75e-23c4eb1921c9",
+        "gym_uuid": "1bee4fc9-83d0-4d56-a75e-23c4eb1921c9",
+        "address": "270 Bronte St N Unit 2",
+        "city": "Milton",
+        "country": "CA",
+        "countryCode": null,
+        "postal_code": "ON L9T 2N9",
+        "latitude": 43.51374599053669,
+        "longitude": -79.89567089814535,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "6e35d430-6c88-4704-8f92-cce64be9d5ab",
+            "wall_uuid": "6e35d430-6c88-4704-8f92-cce64be9d5ab",
+            "gym_uuid": "1bee4fc9-83d0-4d56-a75e-23c4eb1921c9",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000271",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-29 04:08:03.187328Z"
+          }
+        ],
+        "title": "Aspire Climbing Milton",
+        "description": "Kilter Board at Aspire Climbing Milton",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89567089814535,
+          43.51374599053669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "214721",
       "properties": {
         "id": "214721",
@@ -4099,6 +4147,54 @@
         "coordinates": [
           -97.79908,
           30.23066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "93212666-91c9-4662-a463-4cc050282ab9",
+      "properties": {
+        "id": "93212666-91c9-4662-a463-4cc050282ab9",
+        "gym_uuid": "93212666-91c9-4662-a463-4cc050282ab9",
+        "address": "Rafael Nuñez 4877",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "countryCode": null,
+        "postal_code": "5009",
+        "latitude": -31.3586,
+        "longitude": -64.23966,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "01de9d0f-a50b-4527-9846-59fe9c3695c8",
+            "wall_uuid": "01de9d0f-a50b-4527-9846-59fe9c3695c8",
+            "gym_uuid": "93212666-91c9-4662-a463-4cc050282ab9",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000344",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-28 22:46:16.074151Z"
+          }
+        ],
+        "title": "Avista Cerro",
+        "description": "Kilter Board at Avista Cerro",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.23966,
+          -31.3586
         ]
       }
     },
@@ -8648,6 +8744,54 @@
         "coordinates": [
           153.12141,
           -26.73507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5ab12c6a-a098-47e4-87af-517fb7130e30",
+      "properties": {
+        "id": "5ab12c6a-a098-47e4-87af-517fb7130e30",
+        "gym_uuid": "5ab12c6a-a098-47e4-87af-517fb7130e30",
+        "address": "Gillis van Ledenberchstraat 62",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "countryCode": null,
+        "postal_code": "1052 VK",
+        "latitude": 52.38621,
+        "longitude": 4.87252,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "80f3f64a-4b24-4825-878f-35ac0c0d13b7",
+            "wall_uuid": "80f3f64a-4b24-4825-878f-35ac0c0d13b7",
+            "gym_uuid": "5ab12c6a-a098-47e4-87af-517fb7130e30",
+            "name": "Kilter Board 7x10 HW FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "17",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 45,
+            "serial_number": "752024",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-28 22:11:09.661326Z"
+          }
+        ],
+        "title": "Boulder Amsterdam",
+        "description": "Kilter Board at Boulder Amsterdam",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87252,
+          52.38621
         ]
       }
     },
@@ -17528,7 +17672,7 @@
       "properties": {
         "id": "b74cd865-9ed9-470d-a03b-53e6bb5a8b7e",
         "gym_uuid": "b74cd865-9ed9-470d-a03b-53e6bb5a8b7e",
-        "address": "Ursulinenstraat 1/1bus 2",
+        "address": "Ursulinenstraat 1bus2",
         "city": "Herk-de-Stad",
         "country": "BE",
         "countryCode": null,
@@ -38563,6 +38707,54 @@
         "coordinates": [
           103.72773,
           1.58009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7329a273-f957-475f-be09-e2fc120009a3",
+      "properties": {
+        "id": "7329a273-f957-475f-be09-e2fc120009a3",
+        "gym_uuid": "7329a273-f957-475f-be09-e2fc120009a3",
+        "address": "Carrer Frederic Ribó, 9",
+        "city": "Peramola, Lleida",
+        "country": "Spain",
+        "countryCode": null,
+        "postal_code": "25790",
+        "latitude": 42.05786,
+        "longitude": 1.26798,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "ba7d72ae-7477-4da3-923b-5118b337f2f2",
+            "wall_uuid": "ba7d72ae-7477-4da3-923b-5118b337f2f2",
+            "gym_uuid": "7329a273-f957-475f-be09-e2fc120009a3",
+            "name": "Kilter Board 10x12 HW FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "25",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751992",
+            "accumulated_hold_set_value": 15,
+            "is_listed": 1,
+            "created_at": "2026-03-28 22:17:38.339294Z"
+          }
+        ],
+        "title": "Rocodromo Peramola",
+        "description": "Kilter Board at Rocodromo Peramola",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.26798,
+          42.05786
         ]
       }
     },
