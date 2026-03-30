@@ -60,7 +60,7 @@ This repository uses GitHub Actions to:
 - Scrape the latest location data daily
 - Convert the data to GeoJSON format
 - Combine all sources into a single GeoJSON file
-- Automatically commit and push updates
+- Automatically commit, push and publish updates
 
 ## Development
 

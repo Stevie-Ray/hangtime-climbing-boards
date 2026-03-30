@@ -4,12 +4,18 @@
   "description": "Auto-updating GeoJSON dataset of Aurora Climbing board locations: Kilter, Tension, Grasshopper, Decoy, So iLL, Touchstone and Aurora.",
   "type": "module",
   "main": "geojson/combined.geojson",
+  "exports": {
+    ".": "./geojson/combined.geojson",
+    "./*.geojson": "./geojson/*.geojson"
+  },
   "files": [
     "geojson",
-    "interfaces",
     "LICENSE",
     "README.md"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "climbing",
     "geojson",
