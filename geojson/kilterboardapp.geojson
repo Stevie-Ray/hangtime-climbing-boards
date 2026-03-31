@@ -2762,7 +2762,7 @@
             "min_angle": null,
             "max_angle": null,
             "angle_increments": 5,
-            "angle": 40,
+            "angle": 45,
             "serial_number": "K000344",
             "accumulated_hold_set_value": 3,
             "is_listed": 1,
@@ -3804,6 +3804,52 @@
         "coordinates": [
           4.75726,
           51.59598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a6405e2-1613-4c9d-8c43-a5fa43fd980b",
+      "properties": {
+        "id": "4a6405e2-1613-4c9d-8c43-a5fa43fd980b",
+        "gym_uuid": "4a6405e2-1613-4c9d-8c43-a5fa43fd980b",
+        "name": "Beest Boulders Delft",
+        "address": "Mercurius 16",
+        "city": "Delft",
+        "country": "Netherlands",
+        "countryCode": null,
+        "postal_code": "2624BC",
+        "latitude": 51.99991,
+        "longitude": 4.356,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "55197f8e-db43-499a-9b4e-8c6fc10a162e",
+            "wall_uuid": "55197f8e-db43-499a-9b4e-8c6fc10a162e",
+            "gym_uuid": "4a6405e2-1613-4c9d-8c43-a5fa43fd980b",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000334",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 22:10:41.83141Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.356,
+          51.99991
         ]
       }
     },
@@ -7615,52 +7661,6 @@
         "coordinates": [
           145.26925,
           -37.88366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "598611",
-      "properties": {
-        "id": "598611",
-        "gym_uuid": "598611",
-        "name": "Boulder Line 2 Euromédecine",
-        "address": "148 Rue Jean Giroux",
-        "city": "Montpellier",
-        "country": "FR",
-        "countryCode": null,
-        "postal_code": "34090",
-        "latitude": 43.6381,
-        "longitude": 3.82606,
-        "gym_logo": null,
-        "banner_logo": null,
-        "instagram_username": null,
-        "is_listed": null,
-        "walls": [
-          {
-            "id": "fe0c3e9c-0747-4454-93f1-1cd492ece390",
-            "wall_uuid": "fe0c3e9c-0747-4454-93f1-1cd492ece390",
-            "gym_uuid": "598611",
-            "name": "Kilter Board",
-            "product_name": "Kilter Board Original",
-            "product_layout_uuid": "10",
-            "is_adjustable": 1,
-            "min_angle": null,
-            "max_angle": null,
-            "angle_increments": null,
-            "angle": 40,
-            "serial_number": "751876",
-            "accumulated_hold_set_value": 3,
-            "is_listed": 1,
-            "created_at": "2024-12-08 17:06:07.963748Z"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.82606,
-          43.6381
         ]
       }
     },
@@ -11942,6 +11942,52 @@
     },
     {
       "type": "Feature",
+      "id": "91bf8e13-317d-483f-9ed1-9e958f58fc93",
+      "properties": {
+        "id": "91bf8e13-317d-483f-9ed1-9e958f58fc93",
+        "gym_uuid": "91bf8e13-317d-483f-9ed1-9e958f58fc93",
+        "name": "Camp5 Eco City",
+        "address": "Lot 07 & 08, 4th Floor Inc KL Eco City, 3 INC, KL Eco City",
+        "city": "Jalan Bangsar, Bangsar",
+        "country": "Kuala Lumpur",
+        "countryCode": null,
+        "postal_code": "59200",
+        "latitude": 3.12019,
+        "longitude": 101.67444,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "5bf710a8-0d03-45d7-995f-6b9f1730b259",
+            "wall_uuid": "5bf710a8-0d03-45d7-995f-6b9f1730b259",
+            "gym_uuid": "91bf8e13-317d-483f-9ed1-9e958f58fc93",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 23:06:14.902601Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.67444,
+          3.12019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "493583",
       "properties": {
         "id": "493583",
@@ -12586,6 +12632,52 @@
     },
     {
       "type": "Feature",
+      "id": "83eb87ec-426e-4631-9af9-81f8b0131dd5",
+      "properties": {
+        "id": "83eb87ec-426e-4631-9af9-81f8b0131dd5",
+        "gym_uuid": "83eb87ec-426e-4631-9af9-81f8b0131dd5",
+        "name": "Central Rock Ft. Myers",
+        "address": "6150 Exchange Ln",
+        "city": "Fort Myers",
+        "country": "Florida",
+        "countryCode": null,
+        "postal_code": "33912",
+        "latitude": 26.52731,
+        "longitude": -81.84924,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "d1d394ed-ebfe-40aa-bf87-39bb59cf3e1c",
+            "wall_uuid": "d1d394ed-ebfe-40aa-bf87-39bb59cf3e1c",
+            "gym_uuid": "83eb87ec-426e-4631-9af9-81f8b0131dd5",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 17:39:14.103599Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84924,
+          26.52731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "715342",
       "properties": {
         "id": "715342",
@@ -13159,12 +13251,12 @@
             "id": "09227fbf-d604-4613-aa73-3becf529b545",
             "wall_uuid": "09227fbf-d604-4613-aa73-3becf529b545",
             "gym_uuid": "175365",
-            "name": "Kilter Board",
+            "name": "Kilter Board 12x12",
             "product_name": "Kilter Board Original",
             "product_layout_uuid": "10",
             "is_adjustable": 1,
-            "min_angle": null,
-            "max_angle": null,
+            "min_angle": 0,
+            "max_angle": 70,
             "angle_increments": null,
             "angle": 40,
             "serial_number": null,
@@ -14288,6 +14380,52 @@
     },
     {
       "type": "Feature",
+      "id": "6533ef9b-685a-4707-b7a3-3b651647813e",
+      "properties": {
+        "id": "6533ef9b-685a-4707-b7a3-3b651647813e",
+        "gym_uuid": "6533ef9b-685a-4707-b7a3-3b651647813e",
+        "name": "Climb Malawi",
+        "address": "Ntchisi",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "countryCode": null,
+        "postal_code": null,
+        "latitude": -13.93661,
+        "longitude": 33.77632,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "458bcb3d-b4e5-4419-8f75-8d6614c2e9aa",
+            "wall_uuid": "458bcb3d-b4e5-4419-8f75-8d6614c2e9aa",
+            "gym_uuid": "6533ef9b-685a-4707-b7a3-3b651647813e",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 17:05:00.665386Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.77632,
+          -13.93661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "415858",
       "properties": {
         "id": "415858",
@@ -14329,6 +14467,52 @@
         "coordinates": [
           -109.468447,
           38.493873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37965dec-5873-4836-85c1-b383c851adf4",
+      "properties": {
+        "id": "37965dec-5873-4836-85c1-b383c851adf4",
+        "gym_uuid": "37965dec-5873-4836-85c1-b383c851adf4",
+        "name": "Climb Nora",
+        "address": "30820 Pacific Highway S",
+        "city": "Federal Way",
+        "country": "United States",
+        "countryCode": null,
+        "postal_code": "98003",
+        "latitude": 47.32538,
+        "longitude": -122.31272,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "a3766f07-4122-40f0-91cd-45d294841895",
+            "wall_uuid": "a3766f07-4122-40f0-91cd-45d294841895",
+            "gym_uuid": "37965dec-5873-4836-85c1-b383c851adf4",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 21:35:55.755695Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31272,
+          47.32538
         ]
       }
     },
@@ -16445,6 +16629,52 @@
         "coordinates": [
           11.59888321140746,
           49.93608301069035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7015b0aa-891e-4e7f-8253-662a5574e827",
+      "properties": {
+        "id": "7015b0aa-891e-4e7f-8253-662a5574e827",
+        "gym_uuid": "7015b0aa-891e-4e7f-8253-662a5574e827",
+        "name": "DAV Feucht",
+        "address": "Schulstrasse 28",
+        "city": "Feucht",
+        "country": "Germany",
+        "countryCode": null,
+        "postal_code": "90537",
+        "latitude": 49.37692,
+        "longitude": 11.20295,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "936c5be2-a82e-4290-a455-73c63bae0b79",
+            "wall_uuid": "936c5be2-a82e-4290-a455-73c63bae0b79",
+            "gym_uuid": "7015b0aa-891e-4e7f-8253-662a5574e827",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 14:51:41.63183Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.20295,
+          49.37692
         ]
       }
     },
@@ -22060,6 +22290,52 @@
     },
     {
       "type": "Feature",
+      "id": "159fd57e-b988-4b31-8e5a-75cdffaeb7f7",
+      "properties": {
+        "id": "159fd57e-b988-4b31-8e5a-75cdffaeb7f7",
+        "gym_uuid": "159fd57e-b988-4b31-8e5a-75cdffaeb7f7",
+        "name": "Gravity Vault - Jersey City",
+        "address": "150 Pacific Ave Building P",
+        "city": "Jersey City",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "07304",
+        "latitude": 40.70857,
+        "longitude": -74.06459,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "a4cda656-2cda-441b-9773-b06988a99bf6",
+            "wall_uuid": "a4cda656-2cda-441b-9773-b06988a99bf6",
+            "gym_uuid": "159fd57e-b988-4b31-8e5a-75cdffaeb7f7",
+            "name": "Kilter Board Original 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 21:38:54.559107Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06459,
+          40.70857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "610965",
       "properties": {
         "id": "610965",
@@ -23295,6 +23571,23 @@
             "accumulated_hold_set_value": 15,
             "is_listed": 1,
             "created_at": "2025-10-24 23:18:24.935743Z"
+          },
+          {
+            "id": "02d9c745-a88e-4507-a0aa-cdcd4a8e46e2",
+            "wall_uuid": "02d9c745-a88e-4507-a0aa-cdcd4a8e46e2",
+            "gym_uuid": "795572",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 21:44:06.561422Z"
           }
         ]
       },
@@ -24361,6 +24654,52 @@
         "coordinates": [
           -120.2174,
           39.32747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25837df3-3310-4ba3-a6c2-1d5e15b9879c",
+      "properties": {
+        "id": "25837df3-3310-4ba3-a6c2-1d5e15b9879c",
+        "gym_uuid": "25837df3-3310-4ba3-a6c2-1d5e15b9879c",
+        "name": "High Mountain Fitness",
+        "address": "730 Lincoln St",
+        "city": "Lander",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "82520",
+        "latitude": 42.83654,
+        "longitude": -108.73918,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "f7084772-fe53-4602-b253-999121375110",
+            "wall_uuid": "f7084772-fe53-4602-b253-999121375110",
+            "gym_uuid": "25837df3-3310-4ba3-a6c2-1d5e15b9879c",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 21:46:53.972283Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.73918,
+          42.83654
         ]
       }
     },
@@ -30857,6 +31196,52 @@
         "coordinates": [
           18.07344,
           59.31302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1097a2ea-3bdd-49a8-b320-c7d54ae9e013",
+      "properties": {
+        "id": "1097a2ea-3bdd-49a8-b320-c7d54ae9e013",
+        "gym_uuid": "1097a2ea-3bdd-49a8-b320-c7d54ae9e013",
+        "name": "Mountain Extreme",
+        "address": "4th Street Al Quoz 3",
+        "city": "Dubai",
+        "country": "UAE",
+        "countryCode": null,
+        "postal_code": null,
+        "latitude": 25.16322,
+        "longitude": 55.23868,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "0e5d48b6-cb64-4670-9b88-b50cf0471cc3",
+            "wall_uuid": "0e5d48b6-cb64-4670-9b88-b50cf0471cc3",
+            "gym_uuid": "1097a2ea-3bdd-49a8-b320-c7d54ae9e013",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 21:56:28.106647Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.23868,
+          25.16322
         ]
       }
     },
@@ -40223,52 +40608,6 @@
     },
     {
       "type": "Feature",
-      "id": "307209",
-      "properties": {
-        "id": "307209",
-        "gym_uuid": "307209",
-        "name": "The Boardroom Climbing Ltd. Wimbledon",
-        "address": "Centre Court Shopping Centre",
-        "city": "Wimbledon",
-        "country": "UK",
-        "countryCode": null,
-        "postal_code": "SW19 8YE",
-        "latitude": 51.42122,
-        "longitude": -0.20453,
-        "gym_logo": null,
-        "banner_logo": null,
-        "instagram_username": null,
-        "is_listed": null,
-        "walls": [
-          {
-            "id": "3e70c41f-83db-438d-87b2-bcc307cf9ece",
-            "wall_uuid": "3e70c41f-83db-438d-87b2-bcc307cf9ece",
-            "gym_uuid": "307209",
-            "name": "Kilter Board",
-            "product_name": "Kilter Board Original",
-            "product_layout_uuid": "10",
-            "is_adjustable": 0,
-            "min_angle": null,
-            "max_angle": null,
-            "angle_increments": null,
-            "angle": 40,
-            "serial_number": "751396",
-            "accumulated_hold_set_value": 3,
-            "is_listed": 1,
-            "created_at": "2023-06-19 17:40:38.906617Z"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.20453,
-          51.42122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "568540",
       "properties": {
         "id": "568540",
@@ -41276,52 +41615,6 @@
         "coordinates": [
           -75.33066,
           40.10515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "506812",
-      "properties": {
-        "id": "506812",
-        "gym_uuid": "506812",
-        "name": "The Font Wandsworth",
-        "address": "30 Lydden Rd",
-        "city": "London",
-        "country": "UK",
-        "countryCode": null,
-        "postal_code": "SW18 4LR",
-        "latitude": 51.44716,
-        "longitude": -0.19118,
-        "gym_logo": null,
-        "banner_logo": null,
-        "instagram_username": null,
-        "is_listed": null,
-        "walls": [
-          {
-            "id": "0d0bd1b2-b392-494a-b4ba-b8b774adf73a",
-            "wall_uuid": "0d0bd1b2-b392-494a-b4ba-b8b774adf73a",
-            "gym_uuid": "506812",
-            "name": "Kilter Board",
-            "product_name": "Kilter Board Original",
-            "product_layout_uuid": "28",
-            "is_adjustable": 1,
-            "min_angle": null,
-            "max_angle": null,
-            "angle_increments": null,
-            "angle": 40,
-            "serial_number": null,
-            "accumulated_hold_set_value": 3,
-            "is_listed": 1,
-            "created_at": "2024-06-29 17:51:47.243767Z"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.19118,
-          51.44716
         ]
       }
     },
@@ -43235,6 +43528,52 @@
     },
     {
       "type": "Feature",
+      "id": "331b70a2-809d-4e67-a9e9-5ace6bd7a150",
+      "properties": {
+        "id": "331b70a2-809d-4e67-a9e9-5ace6bd7a150",
+        "gym_uuid": "331b70a2-809d-4e67-a9e9-5ace6bd7a150",
+        "name": "Triaden Klatresenter",
+        "address": "Skårersletta 65",
+        "city": "Lørenskog",
+        "country": "Norway",
+        "countryCode": null,
+        "postal_code": "1461",
+        "latitude": 59.91952,
+        "longitude": 10.95448,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "0caa886e-d9ac-46e3-bf63-89f64cac0e76",
+            "wall_uuid": "0caa886e-d9ac-46e3-bf63-89f64cac0e76",
+            "gym_uuid": "331b70a2-809d-4e67-a9e9-5ace6bd7a150",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 22:00:47.362801Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95448,
+          59.91952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "215611",
       "properties": {
         "id": "215611",
@@ -43460,6 +43799,52 @@
         "coordinates": [
           -3.7089,
           40.42839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3fb18ce-5c50-4134-a04e-42e38c608fcd",
+      "properties": {
+        "id": "c3fb18ce-5c50-4134-a04e-42e38c608fcd",
+        "gym_uuid": "c3fb18ce-5c50-4134-a04e-42e38c608fcd",
+        "name": "University of Calgary Outdoor Centre",
+        "address": "2500 University Drive NW",
+        "city": "Calgary",
+        "country": "Canada",
+        "countryCode": null,
+        "postal_code": "T2N1N4",
+        "latitude": 51.07767,
+        "longitude": -114.13419,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "978b0076-2047-4400-a3b6-75f86e26bf78",
+            "wall_uuid": "978b0076-2047-4400-a3b6-75f86e26bf78",
+            "gym_uuid": "c3fb18ce-5c50-4134-a04e-42e38c608fcd",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000274",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-30 23:45:06.276093Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.13419,
+          51.07767
         ]
       }
     },

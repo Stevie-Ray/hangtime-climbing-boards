@@ -3121,7 +3121,7 @@
       "properties": {
         "id": 156694,
         "username": "hangdogrockclimbing",
-        "name": "HangDog",
+        "name": "HangDog Climbing",
         "latitude": -41.21355,
         "longitude": 174.8897
       },
@@ -5119,7 +5119,7 @@
       "properties": {
         "id": 224988,
         "username": "gravityvaultjerseycity",
-        "name": "Gravity Vault Jersey City",
+        "name": "The Gravity Vault Jersey City",
         "latitude": 40.70779,
         "longitude": -74.06659
       },
@@ -5722,6 +5722,24 @@
         "coordinates": [
           -71.19885,
           42.37026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253200,
+      "properties": {
+        "id": 253200,
+        "username": "energy_climbing_gym",
+        "name": "元气攀岩 Energy Climbing Gym",
+        "latitude": 38.8489,
+        "longitude": 121.5145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5145,
+          38.8489
         ]
       }
     }

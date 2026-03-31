@@ -1214,7 +1214,7 @@
     {
       "id": 156694,
       "username": "hangdogrockclimbing",
-      "name": "HangDog",
+      "name": "HangDog Climbing",
       "latitude": -41.21355,
       "longitude": 174.8897
     },
@@ -1991,7 +1991,7 @@
     {
       "id": 224988,
       "username": "gravityvaultjerseycity",
-      "name": "Gravity Vault Jersey City",
+      "name": "The Gravity Vault Jersey City",
       "latitude": 40.70779,
       "longitude": -74.06659
     },
@@ -2225,6 +2225,13 @@
       "name": "Central Rock Gym Watertown",
       "latitude": 42.37026,
       "longitude": -71.19885
+    },
+    {
+      "id": 253200,
+      "username": "energy_climbing_gym",
+      "name": "元气攀岩 Energy Climbing Gym",
+      "latitude": 38.8489,
+      "longitude": 121.5145
     }
   ]
 }
