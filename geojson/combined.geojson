@@ -11011,6 +11011,54 @@
     },
     {
       "type": "Feature",
+      "id": "e9bdb8ce-1bf6-4714-933d-a9d260f3a4f0",
+      "properties": {
+        "id": "e9bdb8ce-1bf6-4714-933d-a9d260f3a4f0",
+        "gym_uuid": "e9bdb8ce-1bf6-4714-933d-a9d260f3a4f0",
+        "address": "Sint Olafstraat 5,  ",
+        "city": "CG Deventer",
+        "country": "NL",
+        "countryCode": null,
+        "postal_code": "7418",
+        "latitude": 52.247847221009664,
+        "longitude": 6.172424421175363,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "0278ee5f-a0c2-4798-b255-9cab2ec71282",
+            "wall_uuid": "0278ee5f-a0c2-4798-b255-9cab2ec71282",
+            "gym_uuid": "e9bdb8ce-1bf6-4714-933d-a9d260f3a4f0",
+            "name": "Kilter Board 16x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751673",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-31 07:32:47.519648Z"
+          }
+        ],
+        "title": "Boulderhal Vrijhaven",
+        "description": "Kilter Board at Boulderhal Vrijhaven",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.172424421175363,
+          52.247847221009664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "596488",
       "properties": {
         "id": "596488",
@@ -21145,6 +21193,54 @@
     },
     {
       "type": "Feature",
+      "id": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
+      "properties": {
+        "id": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
+        "gym_uuid": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
+        "address": "Leibnizstr. 12",
+        "city": "Neu Ulm",
+        "country": "DE",
+        "countryCode": null,
+        "postal_code": "89231",
+        "latitude": 48.38998,
+        "longitude": 10.02949,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "3046c8f0-e5bb-4daf-9c6a-4029ef4e36b1",
+            "wall_uuid": "3046c8f0-e5bb-4daf-9c6a-4029ef4e36b1",
+            "gym_uuid": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
+            "name": "Kilter Board Original 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-31 15:18:10.393727Z"
+          }
+        ],
+        "title": "Einstein Neu Ulm",
+        "description": "Kilter Board at Einstein Neu Ulm",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02949,
+          48.38998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "412001",
       "properties": {
         "id": "412001",
@@ -22792,6 +22888,54 @@
         "coordinates": [
           -3.19767,
           51.46194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba5981b8-8e68-4ef9-846c-37474ca923b1",
+      "properties": {
+        "id": "ba5981b8-8e68-4ef9-846c-37474ca923b1",
+        "gym_uuid": "ba5981b8-8e68-4ef9-846c-37474ca923b1",
+        "address": "Kövér Lajos u. 23",
+        "city": "Budapest",
+        "country": "HU",
+        "countryCode": null,
+        "postal_code": "1149",
+        "latitude": 47.51476813536509,
+        "longitude": 19.11432501487862,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "6baedfd2-1a83-4987-8645-bf32e9269df1",
+            "wall_uuid": "6baedfd2-1a83-4987-8645-bf32e9269df1",
+            "gym_uuid": "ba5981b8-8e68-4ef9-846c-37474ca923b1",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 50,
+            "serial_number": "K000032",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-31 07:36:28.185743Z"
+          }
+        ],
+        "title": "Fless!",
+        "description": "Kilter Board at Fless!",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11432501487862,
+          47.51476813536509
         ]
       }
     },
@@ -36318,6 +36462,54 @@
     },
     {
       "type": "Feature",
+      "id": "1e91243b-87d0-4fcc-8a22-522a91db8272",
+      "properties": {
+        "id": "1e91243b-87d0-4fcc-8a22-522a91db8272",
+        "gym_uuid": "1e91243b-87d0-4fcc-8a22-522a91db8272",
+        "address": "Via Francesco Magani, 14a",
+        "city": "Parma",
+        "country": "IT",
+        "countryCode": null,
+        "postal_code": "43126",
+        "latitude": 44.812988645630455,
+        "longitude": 10.279608813490865,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "1f5e727e-c672-42d0-9f16-a48f4964b9d7",
+            "wall_uuid": "1f5e727e-c672-42d0-9f16-a48f4964b9d7",
+            "gym_uuid": "1e91243b-87d0-4fcc-8a22-522a91db8272",
+            "name": "Kilter Board 16x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": 15,
+            "max_angle": 50,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751843",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-31 07:26:56.055986Z"
+          }
+        ],
+        "title": "Pareti Sport Center",
+        "description": "Kilter Board at Pareti Sport Center",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.279608813490865,
+          44.812988645630455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "313620",
       "properties": {
         "id": "313620",
@@ -38513,7 +38705,7 @@
         "gym_uuid": "1cee95f6-4d73-4399-b983-9a2812473ad6",
         "address": "Ohmstrasse 6",
         "city": "Wuerzburg",
-        "country": "Germany",
+        "country": "DE",
         "countryCode": null,
         "postal_code": "97076",
         "latitude": 49.80103,
@@ -46956,7 +47148,7 @@
         "gym_uuid": "c3fb18ce-5c50-4134-a04e-42e38c608fcd",
         "address": "2500 University Drive NW",
         "city": "Calgary",
-        "country": "Canada",
+        "country": "CA",
         "countryCode": null,
         "postal_code": "T2N1N4",
         "latitude": 51.07767,
@@ -87525,6 +87717,30 @@
         "coordinates": [
           61.4368431,
           55.1644419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2228_54e14b36-210e-4fd5-a0c3-f7bf336f2846.jpeg",
+        "Latitude": 51.1110222,
+        "Longitude": 4.0876445,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          51.1110222,
+          4.0876445
+        ],
+        "title": "Mini font",
+        "description": "Our training board for fontainebleau!",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0876445,
+          51.1110222
         ]
       }
     },

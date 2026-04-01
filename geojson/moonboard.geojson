@@ -34500,6 +34500,29 @@
           55.1644419
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mini font",
+        "Description": "Our training board for fontainebleau!",
+        "Image": "/Content/Account/Users/MoonBoards/2228_54e14b36-210e-4fd5-a0c3-f7bf336f2846.jpeg",
+        "Latitude": 51.1110222,
+        "Longitude": 4.0876445,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          51.1110222,
+          4.0876445
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0876445,
+          51.1110222
+        ]
+      }
     }
   ]
 }
