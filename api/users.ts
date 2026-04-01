@@ -1,7 +1,6 @@
 import type { BoardType } from "../boards.ts";
 import type { AuroraUser } from "../interfaces/user.ts";
 import { AuroraClient } from "../models/aurora.client.ts";
-import type { AxiosError } from "axios";
 
 /**
  * Fetches user details for a specific user
@@ -26,7 +25,13 @@ export async function getUsers(
     });
   } catch (error) {
     // Handle 404 gracefully by returning undefined
-    if ((error as AxiosError).response?.status === 404) {
+    if (
+      error instanceof Error &&
+      typeof error.cause === "object" &&
+      error.cause !== null &&
+      "status" in error.cause &&
+      error.cause.status === 404
+    ) {
       return undefined;
     }
     throw error; // Let other errors be handled by the AuroraClient

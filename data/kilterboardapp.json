@@ -24264,6 +24264,41 @@
       ]
     },
     {
+      "id": "4fcc4e87-75d3-4623-83a6-c6e1ff5f89ed",
+      "gym_uuid": "4fcc4e87-75d3-4623-83a6-c6e1ff5f89ed",
+      "name": "Movement Belmont",
+      "address": "100 El Camino Real",
+      "city": "Belmont",
+      "country": "US",
+      "countryCode": null,
+      "postal_code": "94002",
+      "latitude": 37.529101090294304,
+      "longitude": -122.28735852786686,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "d30950f8-5d6e-4cf3-8d38-eb49375ea993",
+          "wall_uuid": "d30950f8-5d6e-4cf3-8d38-eb49375ea993",
+          "gym_uuid": "4fcc4e87-75d3-4623-83a6-c6e1ff5f89ed",
+          "name": "Kilter 10x10",
+          "product_name": "Kilter Board Homewall",
+          "product_layout_uuid": "21",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 45,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-01 06:07:15.889157Z"
+        }
+      ]
+    },
+    {
       "id": "328733",
       "gym_uuid": "328733",
       "name": "Movement Boulder",
@@ -25607,6 +25642,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2025-03-27 15:14:33.320459Z"
+        }
+      ]
+    },
+    {
+      "id": "fbf913c5-02ff-4862-9867-e6742a515c02",
+      "gym_uuid": "fbf913c5-02ff-4862-9867-e6742a515c02",
+      "name": "Orbit Interlaken",
+      "address": "Industriestrasse 17",
+      "city": "Wilderswil",
+      "country": "CH",
+      "countryCode": null,
+      "postal_code": "3812",
+      "latitude": 46.67113880148077,
+      "longitude": 7.878928299999998,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "5d630e99-56f5-4f9c-bc43-c9491ecfd39d",
+          "wall_uuid": "5d630e99-56f5-4f9c-bc43-c9491ecfd39d",
+          "gym_uuid": "fbf913c5-02ff-4862-9867-e6742a515c02",
+          "name": "Kilter Board 12x12",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 25,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "751946",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-01 08:45:08.67987Z"
         }
       ]
     },
@@ -27578,6 +27648,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2022-07-05 03:28:40.851404Z"
+        }
+      ]
+    },
+    {
+      "id": "9f962200-0a45-4039-a0cd-8730b72847e9",
+      "gym_uuid": "9f962200-0a45-4039-a0cd-8730b72847e9",
+      "name": "Rock & Wall Climbing",
+      "address": "C. Labrador, 8",
+      "city": "Sevilla",
+      "country": "ES",
+      "countryCode": null,
+      "postal_code": "41007",
+      "latitude": 37.392502956111336,
+      "longitude": -5.957352871163623,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "411c46fa-e612-4ff7-81db-c5048997e115",
+          "wall_uuid": "411c46fa-e612-4ff7-81db-c5048997e115",
+          "gym_uuid": "9f962200-0a45-4039-a0cd-8730b72847e9",
+          "name": "Kilter Board 12x12",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-01 06:03:01.473164Z"
         }
       ]
     },

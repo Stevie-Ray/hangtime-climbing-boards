@@ -1,7 +1,6 @@
 import type { BoardType } from "../boards.ts";
 import type { Login } from "../interfaces/login.ts";
 import { AuroraClient } from "../models/aurora.client.ts";
-import type { AxiosError } from "axios";
 
 /**
  * Authenticates with the board app API and returns a session token
@@ -32,8 +31,11 @@ export async function getLogins(
     return response.session.token;
   } catch (error: unknown) {
     if (
-      (error as AxiosError).response &&
-      (error as AxiosError).response!.status === 422
+      error instanceof Error &&
+      typeof error.cause === "object" &&
+      error.cause !== null &&
+      "status" in error.cause &&
+      error.cause.status === 422
     ) {
       throw new Error(
         "Invalid username or password. Please check your credentials and try again.",

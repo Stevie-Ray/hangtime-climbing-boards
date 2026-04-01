@@ -1,6 +1,5 @@
 import os from "node:os";
 import path from "node:path";
-import axios from "axios";
 import {
   column,
   type PowerSyncBackendConnector,
@@ -74,16 +73,22 @@ async function getKilterAccessToken(
     scope: KILTER_SCOPE,
   });
 
-  const { data } = await axios.post<KilterTokenResponse>(
-    KILTER_AUTH_URL,
-    body,
-    {
-      headers: {
-        "Content-Type": "application/x-www-form-urlencoded",
-      },
-      timeout: 10_000,
+  const response = await fetch(KILTER_AUTH_URL, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/x-www-form-urlencoded",
     },
-  );
+    body,
+    signal: AbortSignal.timeout(10_000),
+  });
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch Kilter access token: ${response.status} ${response.statusText}`,
+    );
+  }
+
+  const data = await response.json() as KilterTokenResponse;
 
   return {
     endpoint: KILTER_SYNC_ENDPOINT,

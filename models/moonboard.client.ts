@@ -4,7 +4,6 @@ import type { MoonboardPin } from "../interfaces/pin.ts";
 /**
  * Moonboard-specific API client for handling Moonboard API interactions.
  * Based on the BoardLib Python implementation's get_map_markers function.
- * Uses Deno's built-in fetch instead of axios to avoid environment variable issues.
  * Requires authentication for the get_map_markers endpoint.
  */
 export class MoonboardClient {

@@ -51,11 +51,10 @@
   "author": "Stevie-Ray Hartog <mail@stevie-ray.nl>",
   "license": "Unlicense",
   "dependencies": {
-    "@powersync/node": "^0.18.2",
+    "@powersync/node": "^0.18.3",
     "@turf/turf": "^7.3.4",
-    "axios": "^1.13.6",
     "dotenv": "^17.3.1",
-    "user-agents": "^2.1.12"
+    "user-agents": "^2.1.17"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",

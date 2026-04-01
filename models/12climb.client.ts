@@ -1,21 +1,16 @@
-import axios from "axios";
-import type { AxiosInstance } from "axios";
 import UserAgent from "user-agents";
 import type { TwelveClimbPin } from "../interfaces/pin.ts";
 
 export class TwelveClimbClient {
-  private readonly client: AxiosInstance;
+  private readonly headers: HeadersInit;
 
   constructor() {
     const userAgent = new UserAgent({ deviceCategory: "mobile" });
 
-    this.client = axios.create({
-      timeout: 30000,
-      headers: {
-        "User-Agent": userAgent.toString(),
-        "Accept": "application/xml, text/xml, */*",
-      },
-    });
+    this.headers = {
+      "User-Agent": userAgent.toString(),
+      "Accept": "application/xml, text/xml, */*",
+    };
   }
 
   /**
@@ -38,11 +33,18 @@ export class TwelveClimbClient {
       const url =
         "https://www.google.com/maps/d/kml?mid=193vm5XWh8uVnqQS71aVd130TNV2JkDnA&forcekml=1";
 
-      const response = await this.client.get(url, {
-        responseType: "text",
+      const response = await fetch(url, {
+        headers: this.headers,
+        signal: AbortSignal.timeout(30_000),
       });
 
-      const kmlData = response.data;
+      if (!response.ok) {
+        throw new Error(
+          `Failed to fetch 12Climb pins: ${response.status} ${response.statusText}`,
+        );
+      }
+
+      const kmlData = await response.text();
       const pins = this.parseKMLToPins(kmlData);
 
       return { gyms: pins };
