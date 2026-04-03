@@ -5742,6 +5742,42 @@
           38.8489
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 254172,
+      "properties": {
+        "id": 254172,
+        "username": "boulder_labor",
+        "name": "Boulderlabor",
+        "latitude": 47.84413,
+        "longitude": 12.96669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96669,
+          47.84413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254174,
+      "properties": {
+        "id": 254174,
+        "username": "gripstonecs",
+        "name": "Gripstone Colorado Springs",
+        "latitude": 38.92234,
+        "longitude": -104.71875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.71875,
+          38.92234
+        ]
+      }
     }
   ]
 }

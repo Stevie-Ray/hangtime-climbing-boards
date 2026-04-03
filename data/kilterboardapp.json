@@ -14482,6 +14482,41 @@
       ]
     },
     {
+      "id": "8cd30f64-052c-42b5-b2c4-f78798bc9347",
+      "gym_uuid": "8cd30f64-052c-42b5-b2c4-f78798bc9347",
+      "name": "Einstein Boulderhalle Köln",
+      "address": "Widdersdorfer str. 205",
+      "city": "Köln",
+      "country": "DE",
+      "countryCode": null,
+      "postal_code": "50825",
+      "latitude": 50.94496,
+      "longitude": 6.90254,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "df232c7e-cf29-4f28-9344-b9812450cfc4",
+          "wall_uuid": "df232c7e-cf29-4f28-9344-b9812450cfc4",
+          "gym_uuid": "8cd30f64-052c-42b5-b2c4-f78798bc9347",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-02 12:30:13.963623Z"
+        }
+      ]
+    },
+    {
       "id": "160201",
       "gym_uuid": "160201",
       "name": "Einstein Boulderhalle München",
@@ -14513,6 +14548,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2022-07-15 20:35:06.811065Z"
+        }
+      ]
+    },
+    {
+      "id": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
+      "gym_uuid": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
+      "name": "Einstein Boulderhalle Neu Ulm",
+      "address": "Leibnizstr. 12",
+      "city": "Neu Ulm",
+      "country": "DE",
+      "countryCode": null,
+      "postal_code": "89231",
+      "latitude": 48.38998,
+      "longitude": 10.02949,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "3046c8f0-e5bb-4daf-9c6a-4029ef4e36b1",
+          "wall_uuid": "3046c8f0-e5bb-4daf-9c6a-4029ef4e36b1",
+          "gym_uuid": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
+          "name": "Kilter Board Original 12x12",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-03-31 15:18:10.393727Z"
         }
       ]
     },
@@ -14583,41 +14653,6 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2022-07-15 20:34:17.704209Z"
-        }
-      ]
-    },
-    {
-      "id": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
-      "gym_uuid": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
-      "name": "Einstein Neu Ulm",
-      "address": "Leibnizstr. 12",
-      "city": "Neu Ulm",
-      "country": "DE",
-      "countryCode": null,
-      "postal_code": "89231",
-      "latitude": 48.38998,
-      "longitude": 10.02949,
-      "gym_logo": null,
-      "banner_logo": null,
-      "instagram_username": null,
-      "is_listed": null,
-      "walls": [
-        {
-          "id": "3046c8f0-e5bb-4daf-9c6a-4029ef4e36b1",
-          "wall_uuid": "3046c8f0-e5bb-4daf-9c6a-4029ef4e36b1",
-          "gym_uuid": "2b273144-3b8e-4b26-9dc6-e52c83a84ea8",
-          "name": "Kilter Board Original 12x12",
-          "product_name": "Kilter Board Original",
-          "product_layout_uuid": "10",
-          "is_adjustable": 1,
-          "min_angle": 0,
-          "max_angle": 70,
-          "angle_increments": 5,
-          "angle": 40,
-          "serial_number": null,
-          "accumulated_hold_set_value": 3,
-          "is_listed": 1,
-          "created_at": "2026-03-31 15:18:10.393727Z"
         }
       ]
     },
@@ -29240,6 +29275,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2022-06-07 20:01:39.650393Z"
+        }
+      ]
+    },
+    {
+      "id": "e739e113-c33a-4324-83cd-9bf7a2427134",
+      "gym_uuid": "e739e113-c33a-4324-83cd-9bf7a2427134",
+      "name": "Severnaya stena Petrogradskaya",
+      "address": "Gazovaya Ulitsa, 10з",
+      "city": "St Petersburg",
+      "country": "RU",
+      "countryCode": null,
+      "postal_code": "197136",
+      "latitude": 59.96842762347872,
+      "longitude": 30.29279685344697,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "bb84bd9b-a61e-4e00-a4e5-6185888d13da",
+          "wall_uuid": "bb84bd9b-a61e-4e00-a4e5-6185888d13da",
+          "gym_uuid": "e739e113-c33a-4324-83cd-9bf7a2427134",
+          "name": "Kilter Board 12x12",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 10,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "751736",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-03 10:58:21.254126Z"
         }
       ]
     },

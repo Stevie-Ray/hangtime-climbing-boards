@@ -2232,6 +2232,20 @@
       "name": "元气攀岩 Energy Climbing Gym",
       "latitude": 38.8489,
       "longitude": 121.5145
+    },
+    {
+      "id": 254172,
+      "username": "boulder_labor",
+      "name": "Boulderlabor",
+      "latitude": 47.84413,
+      "longitude": 12.96669
+    },
+    {
+      "id": 254174,
+      "username": "gripstonecs",
+      "name": "Gripstone Colorado Springs",
+      "latitude": 38.92234,
+      "longitude": -104.71875
     }
   ]
 }
