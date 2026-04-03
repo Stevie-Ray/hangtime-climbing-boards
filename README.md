@@ -152,6 +152,7 @@ are still responsible for ensuring your usage complies with each service's terms
 of use.
 
 ## Publications
+
 [The Kilter Board App Disappeared Overnight. It Wasn't an Accident.](https://www.climbing.com/news/what-really-caused-the-kilter-pocalypse/)
 
 ## Credits

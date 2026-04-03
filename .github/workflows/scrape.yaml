@@ -8,16 +8,19 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: read
+
 concurrency:
   group: scrape-latest-data
   cancel-in-progress: false
 
 jobs:
-  scheduled:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      id-token: write
+    outputs:
+      tag: ${{ steps.version.outputs.tag }}
+      version: ${{ steps.version.outputs.version }}
     steps:
       - name: Check out this repo
         uses: actions/checkout@v6
@@ -29,8 +32,6 @@ jobs:
           registry-url: "https://registry.npmjs.org"
           scope: "@hangtime"
           cache: npm
-      - name: Use NPM 11 for trusted publishing
-        run: npm install --global npm@11
       - name: Install dependencies
         run: npm ci
       - name: Fetch latest data
@@ -67,26 +68,89 @@ jobs:
           version=$(npm version patch --no-git-tag-version)
           echo "tag=${version}" >> "$GITHUB_OUTPUT"
           echo "version=${version#v}" >> "$GITHUB_OUTPUT"
-      - name: Publish package
+      - name: Upload release workspace
         if: steps.version.outputs.version != ''
+        uses: actions/upload-artifact@v7
+        with:
+          name: release-workspace
+          if-no-files-found: error
+          retention-days: 7
+          path: |
+            package.json
+            package-lock.json
+            data
+            geojson
+
+  publish:
+    needs: build
+    if: needs.build.outputs.version != ''
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      id-token: write
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - name: Clear generated files
+        run: rm -rf data geojson && rm -f package.json package-lock.json
+      - name: Download release workspace
+        uses: actions/download-artifact@v8
+        with:
+          name: release-workspace
+          path: .
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          registry-url: "https://registry.npmjs.org"
+          scope: "@hangtime"
+      - name: Check whether version is already published
+        id: published
+        env:
+          VERSION: ${{ needs.build.outputs.version }}
+        run: |
+          package_name=$(node -p "JSON.parse(require('node:fs').readFileSync('package.json', 'utf8')).name")
+          if npm view "${package_name}@${VERSION}" version --registry=https://registry.npmjs.org >/dev/null 2>&1; then
+            echo "published=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "published=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Publish package
+        if: steps.published.outputs.published != 'true'
         run: |
           npm publish --access public
-      - name: Commit and push release if it changed
-        if: steps.version.outputs.version != ''
-        run: |-
+      - name: Commit and push release commit if it changed
+        run: |
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
-          timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
-          git tag -a "${{ steps.version.outputs.tag }}" -m "${{ steps.version.outputs.tag }}"
+          if git diff --cached --quiet; then
+            echo "No repository changes to commit"
+            exit 0
+          fi
+          timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          git commit -m "Latest data: ${timestamp}"
           git push origin HEAD:${{ github.ref_name }}
-          git push origin "${{ steps.version.outputs.tag }}"
-      - name: Create GitHub release
-        if: steps.version.outputs.version != ''
+      - name: Create and push release tag
+        run: |
+          tag="${{ needs.build.outputs.tag }}"
+          git fetch --tags --force
+          if git rev-parse "${tag}" >/dev/null 2>&1; then
+            echo "Tag ${tag} already exists"
+          else
+            git tag -a "${tag}" -m "${tag}"
+          fi
+          git push origin "${{ needs.build.outputs.tag }}"
+      - name: Create GitHub release if missing
         env:
           GH_TOKEN: ${{ github.token }}
-        run: >
-          gh release create "${{ steps.version.outputs.tag }}"
-          --verify-tag
-          --title "${{ steps.version.outputs.tag }}"
+        run: |
+          tag="${{ needs.build.outputs.tag }}"
+          if gh release view "${tag}" >/dev/null 2>&1; then
+            echo "Release ${tag} already exists"
+          else
+            gh release create "${tag}" \
+              --verify-tag \
+              --title "${tag}"
+          fi
