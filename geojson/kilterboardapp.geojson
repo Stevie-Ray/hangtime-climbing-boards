@@ -26965,10 +26965,27 @@
         "is_listed": null,
         "walls": [
           {
+            "id": "1ac13dae-c55a-4a7d-b654-233fd96448e8",
+            "wall_uuid": "1ac13dae-c55a-4a7d-b654-233fd96448e8",
+            "gym_uuid": "440a7dd2-dd84-4a3e-83f0-fb3e9dc9eb1f",
+            "name": "KilterBoard HW 10x10 FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "21",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-04 23:39:11.170101Z"
+          },
+          {
             "id": "9e12f212-1860-4132-b937-8982b30adaf1",
             "wall_uuid": "9e12f212-1860-4132-b937-8982b30adaf1",
             "gym_uuid": "440a7dd2-dd84-4a3e-83f0-fb3e9dc9eb1f",
-            "name": "KilterBoard ChangeName Test",
+            "name": "KilterBoard HW 10x12",
             "product_name": "Kilter Board Homewall",
             "product_layout_uuid": "25",
             "is_adjustable": 1,
@@ -26982,12 +26999,12 @@
             "created_at": "2026-01-30 22:38:19.615124Z"
           },
           {
-            "id": "15ebaa2e-2603-4cb4-8a0d-2ed0cf637e34",
-            "wall_uuid": "15ebaa2e-2603-4cb4-8a0d-2ed0cf637e34",
+            "id": "c2694f71-52d3-45a7-acc8-430babe9ddf3",
+            "wall_uuid": "c2694f71-52d3-45a7-acc8-430babe9ddf3",
             "gym_uuid": "440a7dd2-dd84-4a3e-83f0-fb3e9dc9eb1f",
-            "name": "Kilter Easy Board",
-            "product_name": "Kilter Board Original",
-            "product_layout_uuid": "10",
+            "name": "KilterBoard HW 7x10 FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "17",
             "is_adjustable": 1,
             "min_angle": 0,
             "max_angle": 70,
@@ -26996,7 +27013,92 @@
             "serial_number": null,
             "accumulated_hold_set_value": 3,
             "is_listed": 1,
+            "created_at": "2026-04-04 23:37:35.09753Z"
+          },
+          {
+            "id": "da1dbe67-84dc-4e35-acc3-010ab2a6bf00",
+            "wall_uuid": "da1dbe67-84dc-4e35-acc3-010ab2a6bf00",
+            "gym_uuid": "440a7dd2-dd84-4a3e-83f0-fb3e9dc9eb1f",
+            "name": "KilterBoard HW 8x12 FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "23",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 15,
+            "is_listed": 1,
+            "created_at": "2026-04-04 23:38:28.493197Z"
+          },
+          {
+            "id": "15ebaa2e-2603-4cb4-8a0d-2ed0cf637e34",
+            "wall_uuid": "15ebaa2e-2603-4cb4-8a0d-2ed0cf637e34",
+            "gym_uuid": "440a7dd2-dd84-4a3e-83f0-fb3e9dc9eb1f",
+            "name": "KilterBoard OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
             "created_at": "2026-01-30 22:38:43.886825Z"
+          },
+          {
+            "id": "34a85e16-3097-4d1d-860a-6c1756f36539",
+            "wall_uuid": "34a85e16-3097-4d1d-860a-6c1756f36539",
+            "gym_uuid": "440a7dd2-dd84-4a3e-83f0-fb3e9dc9eb1f",
+            "name": "KilterBoard OG 12x12 NO KICKBOARD",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "27",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 14,
+            "is_listed": 1,
+            "created_at": "2026-04-04 23:36:49.55963Z"
+          },
+          {
+            "id": "350f9218-3588-414e-8910-5a04c67170f3",
+            "wall_uuid": "350f9218-3588-414e-8910-5a04c67170f3",
+            "gym_uuid": "440a7dd2-dd84-4a3e-83f0-fb3e9dc9eb1f",
+            "name": "KilterBoard OG 7x10 NO KICKBOARD",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "14",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-04 23:42:09.997147Z"
+          },
+          {
+            "id": "f55be42f-6f46-4823-a7f4-324e023474b0",
+            "wall_uuid": "f55be42f-6f46-4823-a7f4-324e023474b0",
+            "gym_uuid": "440a7dd2-dd84-4a3e-83f0-fb3e9dc9eb1f",
+            "name": "KilterBoard OG 8x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "8",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-04 23:36:04.384303Z"
           }
         ]
       },
@@ -33915,6 +34017,52 @@
         "coordinates": [
           10.279608813490865,
           44.812988645630455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32d1b8b8-c0a0-428c-8ccc-c69db96c684a",
+      "properties": {
+        "id": "32d1b8b8-c0a0-428c-8ccc-c69db96c684a",
+        "gym_uuid": "32d1b8b8-c0a0-428c-8ccc-c69db96c684a",
+        "name": "Parthian Climbing Southampton",
+        "address": "E1 Adanac Park, Adanac Dr, Nursling",
+        "city": "Southampton",
+        "country": "UK",
+        "countryCode": null,
+        "postal_code": "SO16 0BT",
+        "latitude": 50.93992,
+        "longitude": -1.47019,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "89b46877-b53a-488f-9368-b7177764f653",
+            "wall_uuid": "89b46877-b53a-488f-9368-b7177764f653",
+            "gym_uuid": "32d1b8b8-c0a0-428c-8ccc-c69db96c684a",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751631",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-04 12:02:03.416152Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.47019,
+          50.93992
         ]
       }
     },
