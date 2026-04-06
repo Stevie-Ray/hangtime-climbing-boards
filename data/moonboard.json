@@ -19512,6 +19512,19 @@
         51.1110222,
         4.0876445
       ]
+    },
+    {
+      "Name": "Climbnasium!",
+      "Description": "Climbnasium is a grass roots climbing gym located in a central Pennsylvania barn! The oldest gym in PA still in operation and the original owners still climb there. There is no place like it on Earth!",
+      "Image": "/Content/Account/Users/MoonBoards/2229_a0fdc615-8433-4f7a-b877-2adfe0bf8c45.jpg",
+      "Latitude": 40.2358146,
+      "Longitude": -77.08198850000001,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        40.2358146,
+        -77.08198850000001
+      ]
     }
   ]
 }
