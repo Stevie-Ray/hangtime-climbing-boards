@@ -16992,16 +16992,16 @@
       ]
     },
     {
-      "Name": "KN Climb",
-      "Description": "Moonboard in my garage. Named after Kronk and Nami (our dogs).",
+      "Name": "KNA Climbs",
+      "Description": "Moonboard in my garage. Named after Kronk, Nami, and Argos (our dogs).",
       "Image": "/Content/Account/Users/MoonBoards/2028_c86422cf-786e-4bd5-ae16-0b41b4345434.jpg",
-      "Latitude": 38.3036354,
-      "Longitude": -85.9568494,
+      "Latitude": 38.2989739,
+      "Longitude": -85.9568289,
       "IsCommercial": false,
       "IsLed": true,
       "LatLng": [
-        38.3036354,
-        -85.9568494
+        38.2989739,
+        -85.9568289
       ]
     },
     {
@@ -18241,7 +18241,7 @@
     },
     {
       "Name": "68Nord Buldrehall",
-      "Description": "2019 setup that stands at 40 degrees. 68Nord bouldering center is run on a volunteer basis by Narvik climbing club. It is open every day from 05.00-22.00. Admission is purchased in the app with a QR code on the door.",
+      "Description": "2024 setup that stands at 40 degrees. 68Nord bouldering center is run on a volunteer basis by Narvik climbing club. It is open every day from 05.00-22.00. Admission is purchased in the app with a QR code on the door, or through the webside, narvikklatreklubb.no  We also have the Kilterboard.",
       "Image": "/Content/Account/Users/MoonBoards/2124_4285da49-3a29-43df-bc60-88db4e74d358.jpg",
       "Latitude": 68.4463676,
       "Longitude": 17.4498911,
@@ -19524,6 +19524,32 @@
       "LatLng": [
         40.2358146,
         -77.08198850000001
+      ]
+    },
+    {
+      "Name": "Climbing Hut Shrewsbury ",
+      "Description": "Our 2016 MoonBoard at Climbing Hut Shrewsbury, well used and well loved. ",
+      "Image": "/Content/Account/Users/MoonBoards/2230_b15ed1fb-96ef-4854-8796-d70ebc8e13e7.png",
+      "Latitude": 52.73845739999999,
+      "Longitude": -2.7190273,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        52.73845739999999,
+        -2.7190273
+      ]
+    },
+    {
+      "Name": "Studio Moon Board",
+      "Description": "Freestanding 2024 Moonboard. Located inside Studio Climbing on the 2nd floor.",
+      "Image": "/Content/Account/Users/MoonBoards/2231_6f4df081-1925-4aea-8970-6e335c20cea0.jpg",
+      "Latitude": 37.3303191,
+      "Longitude": -121.8857449,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        37.3303191,
+        -121.8857449
       ]
     }
   ]

@@ -1389,7 +1389,7 @@
     {
       "id": 171712,
       "username": "krag_sentral",
-      "name": "Krag Sentral",
+      "name": "Krag Sentrale",
       "latitude": -33.93792,
       "longitude": 18.46448
     },
@@ -2246,6 +2246,13 @@
       "name": "Gripstone Colorado Springs",
       "latitude": 38.92234,
       "longitude": -104.71875
+    },
+    {
+      "id": 255080,
+      "username": "superb_yeongtong",
+      "name": "Superb Climbing",
+      "latitude": 37.25296,
+      "longitude": 127.07628
     }
   ]
 }

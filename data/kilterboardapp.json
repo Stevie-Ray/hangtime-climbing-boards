@@ -15548,6 +15548,41 @@
       ]
     },
     {
+      "id": "c703b10a-e30b-4032-a5d8-d3b3bdd3dff4",
+      "gym_uuid": "c703b10a-e30b-4032-a5d8-d3b3bdd3dff4",
+      "name": "Face Nord",
+      "address": "Chem. du Chêne aux Haies 2",
+      "city": "Mons",
+      "country": "BE",
+      "countryCode": null,
+      "postal_code": "7000",
+      "latitude": 50.459092047240844,
+      "longitude": 3.976567968979885,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "337c78ef-07f9-450a-af2e-952096768372",
+          "wall_uuid": "337c78ef-07f9-450a-af2e-952096768372",
+          "gym_uuid": "c703b10a-e30b-4032-a5d8-d3b3bdd3dff4",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000242",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-07 23:41:32.791712Z"
+        }
+      ]
+    },
+    {
       "id": "159010",
       "gym_uuid": "159010",
       "name": "Factory Climbing",
@@ -18035,6 +18070,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2024-09-27 19:53:52.5191Z"
+        }
+      ]
+    },
+    {
+      "id": "808f2b44-e36e-4deb-b167-8256c8c54d9c",
+      "gym_uuid": "808f2b44-e36e-4deb-b167-8256c8c54d9c",
+      "name": "Griffwerk Ludwigsburg",
+      "address": "Fuchshofstraße 66",
+      "city": "Ludwigsburg",
+      "country": "DE",
+      "countryCode": null,
+      "postal_code": "71638",
+      "latitude": 48.89278735536054,
+      "longitude": 9.216486042327244,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "2977ee32-4edb-4710-bfde-e0d80cd3b838",
+          "wall_uuid": "2977ee32-4edb-4710-bfde-e0d80cd3b838",
+          "gym_uuid": "808f2b44-e36e-4deb-b167-8256c8c54d9c",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000347",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-07 23:38:07.250853Z"
         }
       ]
     },
@@ -21319,6 +21389,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2022-09-26 19:28:17.717795Z"
+        }
+      ]
+    },
+    {
+      "id": "124fc70d-9f1f-41ab-a864-2fa814c43e20",
+      "gym_uuid": "124fc70d-9f1f-41ab-a864-2fa814c43e20",
+      "name": "Kletterhalle Camp 4",
+      "address": "Pariser Str. 24",
+      "city": "Zweibrücken",
+      "country": "DE",
+      "countryCode": null,
+      "postal_code": "66482",
+      "latitude": 49.224821502854034,
+      "longitude": 7.398761999558282,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "e93f6266-c52c-4bc0-842b-db5e30d6c62e",
+          "wall_uuid": "e93f6266-c52c-4bc0-842b-db5e30d6c62e",
+          "gym_uuid": "124fc70d-9f1f-41ab-a864-2fa814c43e20",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "751968",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-07 23:47:56.214838Z"
         }
       ]
     },
@@ -29254,6 +29359,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2024-05-31 01:57:10.677652Z"
+        }
+      ]
+    },
+    {
+      "id": "7dc7d6a5-1923-4c05-93d0-d45a4ee5396b",
+      "gym_uuid": "7dc7d6a5-1923-4c05-93d0-d45a4ee5396b",
+      "name": "Sender One Climbing - Aliso Viejo",
+      "address": "26505 Aliso Creek Rd",
+      "city": "Aliso Viejo",
+      "country": "US",
+      "countryCode": null,
+      "postal_code": "92656",
+      "latitude": 33.579669449221754,
+      "longitude": -117.72424701111056,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "4850e6eb-9ef9-4b11-9a0b-aa8ff31b4c15",
+          "wall_uuid": "4850e6eb-9ef9-4b11-9a0b-aa8ff31b4c15",
+          "gym_uuid": "7dc7d6a5-1923-4c05-93d0-d45a4ee5396b",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 0,
+          "min_angle": null,
+          "max_angle": null,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K00221",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-07 23:44:49.253117Z"
         }
       ]
     },
