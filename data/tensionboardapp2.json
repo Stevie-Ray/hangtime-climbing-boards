@@ -2253,6 +2253,13 @@
       "name": "Superb Climbing",
       "latitude": 37.25296,
       "longitude": 127.07628
+    },
+    {
+      "id": 255291,
+      "username": "hi_notch_climbing_gym",
+      "name": "Hi-Notch Climbing Gym",
+      "latitude": 44.21913,
+      "longitude": -73.92288
     }
   ]
 }

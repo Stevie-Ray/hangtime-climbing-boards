@@ -1291,6 +1291,52 @@
     },
     {
       "type": "Feature",
+      "id": "5c2e2499-f88d-415b-97a0-6308a41a32fe",
+      "properties": {
+        "id": "5c2e2499-f88d-415b-97a0-6308a41a32fe",
+        "gym_uuid": "5c2e2499-f88d-415b-97a0-6308a41a32fe",
+        "name": "Alpenverein Wien",
+        "address": "Rahlgasse 6/14",
+        "city": "Wien",
+        "country": "AT",
+        "countryCode": null,
+        "postal_code": "1060",
+        "latitude": 48.20227277056378,
+        "longitude": 16.3614044253851,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "078027ef-3713-4eb8-9151-d0957b071c7b",
+            "wall_uuid": "078027ef-3713-4eb8-9151-d0957b071c7b",
+            "gym_uuid": "5c2e2499-f88d-415b-97a0-6308a41a32fe",
+            "name": "Kilter Board 8x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "8",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "59512",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-09 01:36:45.7488Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3614044253851,
+          48.20227277056378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "406386",
       "properties": {
         "id": "406386",
@@ -1751,6 +1797,52 @@
     },
     {
       "type": "Feature",
+      "id": "f135914e-be9f-4098-8239-48fef214e89d",
+      "properties": {
+        "id": "f135914e-be9f-4098-8239-48fef214e89d",
+        "gym_uuid": "f135914e-be9f-4098-8239-48fef214e89d",
+        "name": "Ape Boulder Camp",
+        "address": "Jl. Kp. Rw. II No.4, RT.14/RW.4, Kb. Jeruk, Kec. Kb. Jeruk",
+        "city": "JAKARTA",
+        "country": "ID",
+        "countryCode": null,
+        "postal_code": "11530",
+        "latitude": -5.253198671413569,
+        "longitude": 106.69263229014086,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "1e6c5e21-b293-4a40-8fb0-cba4e7a98cde",
+            "wall_uuid": "1e6c5e21-b293-4a40-8fb0-cba4e7a98cde",
+            "gym_uuid": "f135914e-be9f-4098-8239-48fef214e89d",
+            "name": "KilterBoard OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-09 01:39:23.358529Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69263229014086,
+          -5.253198671413569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "158309",
       "properties": {
         "id": "158309",
@@ -1976,6 +2068,52 @@
         "coordinates": [
           39.135,
           21.61947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc82726a-a98f-4272-8b4e-a1cbf3d3d04c",
+      "properties": {
+        "id": "dc82726a-a98f-4272-8b4e-a1cbf3d3d04c",
+        "gym_uuid": "dc82726a-a98f-4272-8b4e-a1cbf3d3d04c",
+        "name": "Armadillo Boulders Downtown",
+        "address": "1119 Camden St",
+        "city": "San Antonio",
+        "country": "US",
+        "countryCode": null,
+        "postal_code": "78215",
+        "latitude": 29.439938893369703,
+        "longitude": -98.48408264962742,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "45df238e-9d00-4e17-a3ca-8ac8fba9a4ca",
+            "wall_uuid": "45df238e-9d00-4e17-a3ca-8ac8fba9a4ca",
+            "gym_uuid": "dc82726a-a98f-4272-8b4e-a1cbf3d3d04c",
+            "name": "Kilter Board OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-09 01:41:36.818896Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.48408264962742,
+          29.439938893369703
         ]
       }
     },
@@ -6833,6 +6971,52 @@
     },
     {
       "type": "Feature",
+      "id": "25d40dcb-cd12-449a-8107-380764d90c54",
+      "properties": {
+        "id": "25d40dcb-cd12-449a-8107-380764d90c54",
+        "gym_uuid": "25d40dcb-cd12-449a-8107-380764d90c54",
+        "name": "BoardRoom",
+        "address": "178-186 Johnston Rd, Wan Chai",
+        "city": "Wan Chai",
+        "country": "HK",
+        "countryCode": null,
+        "postal_code": null,
+        "latitude": 22.277204660983397,
+        "longitude": 114.17565974232724,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "565c973d-7a52-4934-91c1-094e38a2a771",
+            "wall_uuid": "565c973d-7a52-4934-91c1-094e38a2a771",
+            "gym_uuid": "25d40dcb-cd12-449a-8107-380764d90c54",
+            "name": "Kilter Board 7x10 hello@boardroom.fit",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "14",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000197",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-09 01:32:51.519046Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17565974232724,
+          22.277204660983397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "224838",
       "properties": {
         "id": "224838",
@@ -9955,8 +10139,8 @@
             "product_name": "Kilter Board Original",
             "product_layout_uuid": "10",
             "is_adjustable": 1,
-            "min_angle": null,
-            "max_angle": null,
+            "min_angle": 0,
+            "max_angle": 70,
             "angle_increments": null,
             "angle": 40,
             "serial_number": "75974",
@@ -31131,6 +31315,52 @@
         "coordinates": [
           23.36823,
           42.66773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7dcb2117-380f-47b6-ac6b-1625bf962888",
+      "properties": {
+        "id": "7dcb2117-380f-47b6-ac6b-1625bf962888",
+        "gym_uuid": "7dcb2117-380f-47b6-ac6b-1625bf962888",
+        "name": "Momentum Indoor Climbing Trolley Square",
+        "address": "602 E 500 S P-103",
+        "city": "Salt Lake City",
+        "country": "US",
+        "countryCode": null,
+        "postal_code": "84102",
+        "latitude": 40.757291020886484,
+        "longitude": -111.8732246779946,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "37377488-7d79-4225-bef3-6bfdb9310e5c",
+            "wall_uuid": "37377488-7d79-4225-bef3-6bfdb9310e5c",
+            "gym_uuid": "7dcb2117-380f-47b6-ac6b-1625bf962888",
+            "name": "Kilter Board OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 15,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-06 23:17:37.5208Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8732246779946,
+          40.757291020886484
         ]
       }
     },

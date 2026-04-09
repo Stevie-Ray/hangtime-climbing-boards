@@ -5796,6 +5796,24 @@
           37.25296
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 255291,
+      "properties": {
+        "id": 255291,
+        "username": "hi_notch_climbing_gym",
+        "name": "Hi-Notch Climbing Gym",
+        "latitude": 44.21913,
+        "longitude": -73.92288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92288,
+          44.21913
+        ]
+      }
     }
   ]
 }
