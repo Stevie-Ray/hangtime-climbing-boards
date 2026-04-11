@@ -32550,6 +32550,52 @@
     },
     {
       "type": "Feature",
+      "id": "8b02f93b-1feb-4c38-bac7-34fe0352b236",
+      "properties": {
+        "id": "8b02f93b-1feb-4c38-bac7-34fe0352b236",
+        "gym_uuid": "8b02f93b-1feb-4c38-bac7-34fe0352b236",
+        "name": "Movement Golden",
+        "address": "700 Golden Ridge Rd",
+        "city": "Golden",
+        "country": "US",
+        "countryCode": null,
+        "postal_code": "80401",
+        "latitude": 39.728251047927145,
+        "longitude": -105.20727654232763,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "e92ccf2b-b604-4bb6-a361-6b279a46202e",
+            "wall_uuid": "e92ccf2b-b604-4bb6-a361-6b279a46202e",
+            "gym_uuid": "8b02f93b-1feb-4c38-bac7-34fe0352b236",
+            "name": "Kilter Board OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000108",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-10 11:41:20.39867Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.20727654232763,
+          39.728251047927145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "158306",
       "properties": {
         "id": "158306",
