@@ -5814,6 +5814,24 @@
           44.21913
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 255984,
+      "properties": {
+        "id": 255984,
+        "username": "guiyan_hot_rock",
+        "name": "贵阳热岩攀岩馆 Guiyang Hot Rock Climbing Gym",
+        "latitude": 26.6492997,
+        "longitude": 106.61523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61523,
+          26.6492997
+        ]
+      }
     }
   ]
 }

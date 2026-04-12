@@ -2260,6 +2260,13 @@
       "name": "Hi-Notch Climbing Gym",
       "latitude": 44.21913,
       "longitude": -73.92288
+    },
+    {
+      "id": 255984,
+      "username": "guiyan_hot_rock",
+      "name": "贵阳热岩攀岩馆 Guiyang Hot Rock Climbing Gym",
+      "latitude": 26.6492997,
+      "longitude": 106.61523
     }
   ]
 }
