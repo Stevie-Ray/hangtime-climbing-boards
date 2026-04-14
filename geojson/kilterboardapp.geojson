@@ -6649,6 +6649,52 @@
     },
     {
       "type": "Feature",
+      "id": "9307416e-5995-40ec-b5df-06ebc2b22625",
+      "properties": {
+        "id": "9307416e-5995-40ec-b5df-06ebc2b22625",
+        "gym_uuid": "9307416e-5995-40ec-b5df-06ebc2b22625",
+        "name": "Blocs Brasil",
+        "address": "104 Alameda Milho Verde",
+        "city": "Serra do Cipo",
+        "country": "Brazil",
+        "countryCode": null,
+        "postal_code": "35847000",
+        "latitude": -19.33012,
+        "longitude": -43.62311,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "5d0ea7cf-04b2-48ec-a4b5-ab1d3af5d69e",
+            "wall_uuid": "5d0ea7cf-04b2-48ec-a4b5-ab1d3af5d69e",
+            "gym_uuid": "9307416e-5995-40ec-b5df-06ebc2b22625",
+            "name": "Kilter Board 12x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000373",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-13 13:33:59.815276Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.62311,
+          -19.33012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "256442",
       "properties": {
         "id": "256442",
@@ -11477,6 +11523,52 @@
         "coordinates": [
           4.42198,
           51.23889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c5a040c3-548a-417e-b0dc-8e0e09f511c7",
+      "properties": {
+        "id": "c5a040c3-548a-417e-b0dc-8e0e09f511c7",
+        "gym_uuid": "c5a040c3-548a-417e-b0dc-8e0e09f511c7",
+        "name": "Boulderzaal Topo",
+        "address": "Grote Markt 31",
+        "city": "Tienen",
+        "country": "BE",
+        "countryCode": null,
+        "postal_code": "3300",
+        "latitude": 50.80696993884857,
+        "longitude": 4.9367702,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "d73b605a-273b-4b4b-8c8b-e6d105f9dc1c",
+            "wall_uuid": "d73b605a-273b-4b4b-8c8b-e6d105f9dc1c",
+            "gym_uuid": "c5a040c3-548a-417e-b0dc-8e0e09f511c7",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000050",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-03-02 12:52:25.386191Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9367702,
+          50.80696993884857
         ]
       }
     },
@@ -18060,6 +18152,52 @@
         "coordinates": [
           9.30892,
           47.40872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c4d6b12-5445-4887-a18c-05b1762534ad",
+      "properties": {
+        "id": "1c4d6b12-5445-4887-a18c-05b1762534ad",
+        "gym_uuid": "1c4d6b12-5445-4887-a18c-05b1762534ad",
+        "name": "Die Knäpperei",
+        "address": "Flachgasse 30",
+        "city": "Wien",
+        "country": "AT",
+        "countryCode": null,
+        "postal_code": "1150",
+        "latitude": 48.196208449388536,
+        "longitude": 16.315214120473954,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "238964ca-2fd2-4be0-ac17-1abd1f5b1ac5",
+            "wall_uuid": "238964ca-2fd2-4be0-ac17-1abd1f5b1ac5",
+            "gym_uuid": "1c4d6b12-5445-4887-a18c-05b1762534ad",
+            "name": "Kilter Board 16x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": 20,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000287",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-13 06:34:29.688817Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.315214120473954,
+          48.196208449388536
         ]
       }
     },

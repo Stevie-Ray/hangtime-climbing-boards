@@ -5832,6 +5832,24 @@
           26.6492997
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 256395,
+      "properties": {
+        "id": 256395,
+        "username": "minimum_fluela",
+        "name": "Minimum Flüela",
+        "latitude": 47.38186,
+        "longitude": 8.49534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.49534,
+          47.38186
+        ]
+      }
     }
   ]
 }
