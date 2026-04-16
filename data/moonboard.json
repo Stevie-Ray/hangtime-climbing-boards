@@ -19551,6 +19551,45 @@
         37.3303191,
         -121.8857449
       ]
+    },
+    {
+      "Name": "Dirk's Dungeon Leiden",
+      "Description": "Mini Moonboard in my attic",
+      "Image": "/Content/Account/Users/MoonBoards/2232_8EF8B3F6-3B0E-46D0-B3CC-65F765A418A3.png",
+      "Latitude": 52.16361879999999,
+      "Longitude": 4.4802444,
+      "IsCommercial": false,
+      "IsLed": true,
+      "LatLng": [
+        52.16361879999999,
+        4.4802444
+      ]
+    },
+    {
+      "Name": "15B Climbing",
+      "Description": "Community gym in Ankara, limited public access, feel free to contact. ",
+      "Image": "/Content/Account/Users/MoonBoards/2233_12e30df1-8aec-48fd-9803-912ebd17fe42.jpg",
+      "Latitude": 39.908993,
+      "Longitude": 32.8530534,
+      "IsCommercial": false,
+      "IsLed": false,
+      "LatLng": [
+        39.908993,
+        32.8530534
+      ]
+    },
+    {
+      "Name": "climb pamoja ",
+      "Description": "2024 moonboard, 25 degrees, at climb pamoja. gym is almost complete! more updates coming soon!",
+      "Image": "/Content/Account/Users/MoonBoards/2234_efdaff8c-f481-4ab0-95da-73d8f8015f30.jpg",
+      "Latitude": -3.3446354,
+      "Longitude": 40.0291505,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        -3.3446354,
+        40.0291505
+      ]
     }
   ]
 }

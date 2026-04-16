@@ -16312,6 +16312,69 @@
     },
     {
       "type": "Feature",
+      "id": "47595696-c691-4325-87b3-c41a48d0a8a4",
+      "properties": {
+        "id": "47595696-c691-4325-87b3-c41a48d0a8a4",
+        "gym_uuid": "47595696-c691-4325-87b3-c41a48d0a8a4",
+        "name": "Crimp Boulderhalle",
+        "address": "Wieblinger Weg 100",
+        "city": "Heidelberg",
+        "country": "DE",
+        "countryCode": null,
+        "postal_code": "69123",
+        "latitude": 49.41254,
+        "longitude": 8.64456,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "3afaed6a-4718-45e2-b4d3-dadb9e894586",
+            "wall_uuid": "3afaed6a-4718-45e2-b4d3-dadb9e894586",
+            "gym_uuid": "47595696-c691-4325-87b3-c41a48d0a8a4",
+            "name": "Kilter Board 8x12 FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "23",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "75899",
+            "accumulated_hold_set_value": 15,
+            "is_listed": 1,
+            "created_at": "2026-04-15 11:40:03.38119Z"
+          },
+          {
+            "id": "4b4f989d-0e8c-4995-ac15-4ffa95dae5df",
+            "wall_uuid": "4b4f989d-0e8c-4995-ac15-4ffa95dae5df",
+            "gym_uuid": "47595696-c691-4325-87b3-c41a48d0a8a4",
+            "name": "Kilter Board 16x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751618",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-15 11:40:28.828721Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64456,
+          49.41254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "165316",
       "properties": {
         "id": "165316",

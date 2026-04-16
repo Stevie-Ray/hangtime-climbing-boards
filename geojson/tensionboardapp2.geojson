@@ -5850,6 +5850,24 @@
           47.38186
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 256853,
+      "properties": {
+        "id": 256853,
+        "username": "maniak_niv",
+        "name": "Maniak Nivelles",
+        "latitude": 50.6198,
+        "longitude": 4.33027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33027,
+          50.6198
+        ]
+      }
     }
   ]
 }

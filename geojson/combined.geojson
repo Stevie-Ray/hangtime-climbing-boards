@@ -18310,6 +18310,71 @@
     },
     {
       "type": "Feature",
+      "id": "47595696-c691-4325-87b3-c41a48d0a8a4",
+      "properties": {
+        "id": "47595696-c691-4325-87b3-c41a48d0a8a4",
+        "gym_uuid": "47595696-c691-4325-87b3-c41a48d0a8a4",
+        "address": "Wieblinger Weg 100",
+        "city": "Heidelberg",
+        "country": "DE",
+        "countryCode": null,
+        "postal_code": "69123",
+        "latitude": 49.41254,
+        "longitude": 8.64456,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "3afaed6a-4718-45e2-b4d3-dadb9e894586",
+            "wall_uuid": "3afaed6a-4718-45e2-b4d3-dadb9e894586",
+            "gym_uuid": "47595696-c691-4325-87b3-c41a48d0a8a4",
+            "name": "Kilter Board 8x12 FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "23",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "75899",
+            "accumulated_hold_set_value": 15,
+            "is_listed": 1,
+            "created_at": "2026-04-15 11:40:03.38119Z"
+          },
+          {
+            "id": "4b4f989d-0e8c-4995-ac15-4ffa95dae5df",
+            "wall_uuid": "4b4f989d-0e8c-4995-ac15-4ffa95dae5df",
+            "gym_uuid": "47595696-c691-4325-87b3-c41a48d0a8a4",
+            "name": "Kilter Board 16x12 OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751618",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-15 11:40:28.828721Z"
+          }
+        ],
+        "title": "Crimp Boulderhalle",
+        "description": "Kilter Board at Crimp Boulderhalle",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64456,
+          49.41254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "165316",
       "properties": {
         "id": "165316",
@@ -89137,6 +89202,78 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2232_8EF8B3F6-3B0E-46D0-B3CC-65F765A418A3.png",
+        "Latitude": 52.16361879999999,
+        "Longitude": 4.4802444,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          52.16361879999999,
+          4.4802444
+        ],
+        "title": "Dirk's Dungeon Leiden",
+        "description": "Mini Moonboard in my attic",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4802444,
+          52.16361879999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2233_12e30df1-8aec-48fd-9803-912ebd17fe42.jpg",
+        "Latitude": 39.908993,
+        "Longitude": 32.8530534,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          39.908993,
+          32.8530534
+        ],
+        "title": "15B Climbing",
+        "description": "Community gym in Ankara, limited public access, feel free to contact. ",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8530534,
+          39.908993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2234_efdaff8c-f481-4ab0-95da-73d8f8015f30.jpg",
+        "Latitude": -3.3446354,
+        "Longitude": 40.0291505,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          -3.3446354,
+          40.0291505
+        ],
+        "title": "climb pamoja ",
+        "description": "2024 moonboard, 25 degrees, at climb pamoja. gym is almost complete! more updates coming soon!",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0291505,
+          -3.3446354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -95812,6 +95949,26 @@
         "coordinates": [
           8.49534,
           47.38186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 256853,
+      "properties": {
+        "id": 256853,
+        "username": "maniak_niv",
+        "latitude": 50.6198,
+        "longitude": 4.33027,
+        "title": "Maniak Nivelles",
+        "description": "Tension Board at Maniak Nivelles",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33027,
+          50.6198
         ]
       }
     },
