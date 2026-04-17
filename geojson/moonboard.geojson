@@ -34661,6 +34661,29 @@
           -3.3446354
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NewBee Climbing Gym",
+        "Description": "We have MoonBoard 2025",
+        "Image": "/Content/Account/Users/MoonBoards/2235_b79fd0e7-655f-476e-9f36-e5ffc8eedd4c.jpg",
+        "Latitude": 35.8386262,
+        "Longitude": 128.6124429,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          35.8386262,
+          128.6124429
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6124429,
+          35.8386262
+        ]
+      }
     }
   ]
 }
