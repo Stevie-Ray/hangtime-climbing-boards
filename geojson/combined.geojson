@@ -3232,8 +3232,8 @@
         "country": "ID",
         "countryCode": null,
         "postal_code": "11530",
-        "latitude": -5.253198671413569,
-        "longitude": 106.69263229014086,
+        "latitude": -6.190983137451172,
+        "longitude": 106.77520712298725,
         "gym_logo": null,
         "banner_logo": null,
         "instagram_username": null,
@@ -3264,8 +3264,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.69263229014086,
-          -5.253198671413569
+          106.77520712298725,
+          -6.190983137451172
         ]
       }
     },
@@ -16102,6 +16102,54 @@
     },
     {
       "type": "Feature",
+      "id": "06e638a6-92c4-47fe-8215-6bfdf99d6f0e",
+      "properties": {
+        "id": "06e638a6-92c4-47fe-8215-6bfdf99d6f0e",
+        "gym_uuid": "06e638a6-92c4-47fe-8215-6bfdf99d6f0e",
+        "address": "9 Milner St Paarden Eiland",
+        "city": "Cape Town",
+        "country": "ZA",
+        "countryCode": null,
+        "postal_code": "7405",
+        "latitude": -33.89869,
+        "longitude": 18.48122,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "7904b8c1-6b43-48ff-a486-7b41badab49b",
+            "wall_uuid": "7904b8c1-6b43-48ff-a486-7b41badab49b",
+            "gym_uuid": "06e638a6-92c4-47fe-8215-6bfdf99d6f0e",
+            "name": "16x12 Kilter Board OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751981",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-17 12:20:16.151973Z"
+          }
+        ],
+        "title": "CityROCK Cape Town",
+        "description": "Kilter Board at CityROCK Cape Town",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.48122,
+          -33.89869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "543874",
       "properties": {
         "id": "543874",
@@ -22504,6 +22552,54 @@
         "coordinates": [
           11.336683864416273,
           50.99519942062045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b9dea8a-e9a3-46cc-8f41-6eb69d3ab836",
+      "properties": {
+        "id": "4b9dea8a-e9a3-46cc-8f41-6eb69d3ab836",
+        "gym_uuid": "4b9dea8a-e9a3-46cc-8f41-6eb69d3ab836",
+        "address": "Place des Sports 1",
+        "city": "Ottignies-Louvain-la-Neuve",
+        "country": "BE",
+        "countryCode": null,
+        "postal_code": "1348",
+        "latitude": 50.67039479401434,
+        "longitude": 4.600441957672755,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "edec3f42-e91f-4a29-9917-f252d6df93c5",
+            "wall_uuid": "edec3f42-e91f-4a29-9917-f252d6df93c5",
+            "gym_uuid": "4b9dea8a-e9a3-46cc-8f41-6eb69d3ab836",
+            "name": "Kilter Board OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751704",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-17 12:07:58.469537Z"
+          }
+        ],
+        "title": "Entre Ciel & Terre | Blocry",
+        "description": "Kilter Board at Entre Ciel & Terre | Blocry",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.600441957672755,
+          50.67039479401434
         ]
       }
     },
@@ -36677,6 +36773,54 @@
     },
     {
       "type": "Feature",
+      "id": "0ce97096-a9ea-4854-865b-b1c62b5d0f94",
+      "properties": {
+        "id": "0ce97096-a9ea-4854-865b-b1c62b5d0f94",
+        "gym_uuid": "0ce97096-a9ea-4854-865b-b1c62b5d0f94",
+        "address": "10340 71 Ave NW",
+        "city": "Edmonton",
+        "country": "CA",
+        "countryCode": null,
+        "postal_code": "AB T6E 0W8",
+        "latitude": 53.507648757633206,
+        "longitude": -113.4964880846553,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "e60f9b29-cea3-4821-87f3-c1ab04764263",
+            "wall_uuid": "e60f9b29-cea3-4821-87f3-c1ab04764263",
+            "gym_uuid": "0ce97096-a9ea-4854-865b-b1c62b5d0f94",
+            "name": "Kilter Board OG 16x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751582",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-17 03:51:37.902824Z"
+          }
+        ],
+        "title": "Niche Climbing Gym",
+        "description": "Kilter Board at Niche Climbing Gym",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4964880846553,
+          53.507648757633206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "759324",
       "properties": {
         "id": "759324",
@@ -42551,6 +42695,102 @@
     },
     {
       "type": "Feature",
+      "id": "2a384bf7-8b10-4c55-af02-768338459bb4",
+      "properties": {
+        "id": "2a384bf7-8b10-4c55-af02-768338459bb4",
+        "gym_uuid": "2a384bf7-8b10-4c55-af02-768338459bb4",
+        "address": "Trolladalen 30",
+        "city": "Sogndal",
+        "country": "NO",
+        "countryCode": null,
+        "postal_code": "6856",
+        "latitude": 61.23072478430315,
+        "longitude": 7.083987569243897,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "9202b77a-25c0-4943-b148-89bebec12f2d",
+            "wall_uuid": "9202b77a-25c0-4943-b148-89bebec12f2d",
+            "gym_uuid": "2a384bf7-8b10-4c55-af02-768338459bb4",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-17 16:58:02.230709Z"
+          }
+        ],
+        "title": "Sogndal Klatresenter",
+        "description": "Kilter Board at Sogndal Klatresenter",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.083987569243897,
+          61.23072478430315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aacd1786-fdb9-4f72-aa52-9a9401340241",
+      "properties": {
+        "id": "aacd1786-fdb9-4f72-aa52-9a9401340241",
+        "gym_uuid": "aacd1786-fdb9-4f72-aa52-9a9401340241",
+        "address": "Røyrgata 4",
+        "city": "Sogndal",
+        "country": "NO",
+        "countryCode": null,
+        "postal_code": "6856",
+        "latitude": 61.23071445717611,
+        "longitude": 7.083987569055467,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "3a3f6385-c805-4833-bd97-b82020b823b3",
+            "wall_uuid": "3a3f6385-c805-4833-bd97-b82020b823b3",
+            "gym_uuid": "aacd1786-fdb9-4f72-aa52-9a9401340241",
+            "name": "Kilter Board OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-17 03:56:25.303483Z"
+          }
+        ],
+        "title": "Sogndal Klatresenter",
+        "description": "Kilter Board at Sogndal Klatresenter",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.083987569055467,
+          61.23071445717611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "681041",
       "properties": {
         "id": "681041",
@@ -44121,6 +44361,54 @@
     },
     {
       "type": "Feature",
+      "id": "61f051c3-733c-4d2f-a00b-a64a1ed8cd7a",
+      "properties": {
+        "id": "61f051c3-733c-4d2f-a00b-a64a1ed8cd7a",
+        "gym_uuid": "61f051c3-733c-4d2f-a00b-a64a1ed8cd7a",
+        "address": "Holzstraße 11",
+        "city": "Wiesbaden",
+        "country": "Germany",
+        "countryCode": null,
+        "postal_code": "65197 ",
+        "latitude": 50.07483365533944,
+        "longitude": 8.207645312876332,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "c3dfa531-928d-4f7d-8f83-f714182dd923",
+            "wall_uuid": "c3dfa531-928d-4f7d-8f83-f714182dd923",
+            "gym_uuid": "61f051c3-733c-4d2f-a00b-a64a1ed8cd7a",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-17 18:48:57.457496Z"
+          }
+        ],
+        "title": "Studio Bloc GmbH Wiesbaden",
+        "description": "Kilter Board at Studio Bloc GmbH Wiesbaden",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.207645312876332,
+          50.07483365533944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "258120a8-53d7-4583-94a2-84f72c1941ec",
       "properties": {
         "id": "258120a8-53d7-4583-94a2-84f72c1941ec",
@@ -44457,6 +44745,54 @@
     },
     {
       "type": "Feature",
+      "id": "1ac8a17c-da4f-4780-bdb8-bed9319ab097",
+      "properties": {
+        "id": "1ac8a17c-da4f-4780-bdb8-bed9319ab097",
+        "gym_uuid": "1ac8a17c-da4f-4780-bdb8-bed9319ab097",
+        "address": "2 School St,",
+        "city": "Geneseo",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "14454",
+        "latitude": 42.79586306525299,
+        "longitude": -77.81768163626862,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "c336194d-2f8c-4224-a0f3-f4474a74c7ba",
+            "wall_uuid": "c336194d-2f8c-4224-a0f3-f4474a74c7ba",
+            "gym_uuid": "1ac8a17c-da4f-4780-bdb8-bed9319ab097",
+            "name": "Kilter Board 10x10",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "22",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 50,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 1,
+            "is_listed": 1,
+            "created_at": "2026-04-17 19:32:34.605436Z"
+          }
+        ],
+        "title": "Sunrise Bouldering",
+        "description": "Kilter Board at Sunrise Bouldering",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.81768163626862,
+          42.79586306525299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "150794",
       "properties": {
         "id": "150794",
@@ -44661,6 +44997,54 @@
         "coordinates": [
           13.37965,
           52.44004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c649ad1-b379-43db-822a-89c765f4d4c8",
+      "properties": {
+        "id": "2c649ad1-b379-43db-822a-89c765f4d4c8",
+        "gym_uuid": "2c649ad1-b379-43db-822a-89c765f4d4c8",
+        "address": "Bahnhofstrasse 9",
+        "city": "Engelberg",
+        "country": "Switzerland",
+        "countryCode": null,
+        "postal_code": "6390",
+        "latitude": 46.81957073854385,
+        "longitude": 8.402384722090277,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "5970236f-e3e6-4d31-aea0-67473f49bfb5",
+            "wall_uuid": "5970236f-e3e6-4d31-aea0-67473f49bfb5",
+            "gym_uuid": "2c649ad1-b379-43db-822a-89c765f4d4c8",
+            "name": "Kilter Board HW FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "21",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 50,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-17 19:10:52.091161Z"
+          }
+        ],
+        "title": "Südwand Engelberg",
+        "description": "Kilter Board at Südwand Engelberg",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.402384722090277,
+          46.81957073854385
         ]
       }
     },
@@ -44997,6 +45381,54 @@
         "coordinates": [
           -121.84623,
           39.72295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8c219da-23c2-41bd-bff7-b42d1be953a8",
+      "properties": {
+        "id": "e8c219da-23c2-41bd-bff7-b42d1be953a8",
+        "gym_uuid": "e8c219da-23c2-41bd-bff7-b42d1be953a8",
+        "address": "1870 Boxwood Road",
+        "city": "Nanaimo",
+        "country": "Canada",
+        "countryCode": null,
+        "postal_code": "V9S 5Y2",
+        "latitude": 49.1824420014394,
+        "longitude": -123.98420325192382,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "39715062-b5dc-4cee-be1f-669a32fb5185",
+            "wall_uuid": "39715062-b5dc-4cee-be1f-669a32fb5185",
+            "gym_uuid": "e8c219da-23c2-41bd-bff7-b42d1be953a8",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 25,
+            "max_angle": 50,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-17 20:15:22.440003Z"
+          }
+        ],
+        "title": "The Bloc Bouldering ",
+        "description": "Kilter Board at The Bloc Bouldering ",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.98420325192382,
+          49.1824420014394
         ]
       }
     },
@@ -48114,16 +48546,16 @@
             "id": "3fc1372e-8843-4f23-b518-2dc61b1deab9",
             "wall_uuid": "3fc1372e-8843-4f23-b518-2dc61b1deab9",
             "gym_uuid": "27a8dd89-9999-4d1d-a06e-36dd339f1b59",
-            "name": "Kilter Board",
+            "name": "Kilter Board OG 8x12",
             "product_name": "Kilter Board Original",
             "product_layout_uuid": "8",
             "is_adjustable": 1,
-            "min_angle": 0,
+            "min_angle": null,
             "max_angle": 70,
             "angle_increments": 5,
             "angle": 40,
             "serial_number": null,
-            "accumulated_hold_set_value": 0,
+            "accumulated_hold_set_value": 3,
             "is_listed": 1,
             "created_at": "2026-01-29 20:19:47.015141Z"
           }
@@ -49865,6 +50297,54 @@
         "coordinates": [
           -87.48165,
           37.98894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d1f40221-5451-43c1-a442-25793fb5dea7",
+      "properties": {
+        "id": "d1f40221-5451-43c1-a442-25793fb5dea7",
+        "gym_uuid": "d1f40221-5451-43c1-a442-25793fb5dea7",
+        "address": "122 Chem. des Négadoux",
+        "city": "Six-Fours-les-Plages",
+        "country": "FR",
+        "countryCode": null,
+        "postal_code": "83140",
+        "latitude": 43.10903399343013,
+        "longitude": 5.843577610433562,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "ac903603-0c63-4033-b3a6-deea863fbc4d",
+            "wall_uuid": "ac903603-0c63-4033-b3a6-deea863fbc4d",
+            "gym_uuid": "d1f40221-5451-43c1-a442-25793fb5dea7",
+            "name": "Kilter Board OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000339",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-17 03:54:44.145372Z"
+          }
+        ],
+        "title": "Vertical’Art Six-Fours-les-plages",
+        "description": "Kilter Board at Vertical’Art Six-Fours-les-plages",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.843577610433562,
+          43.10903399343013
         ]
       }
     },
