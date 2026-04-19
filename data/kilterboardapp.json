@@ -5043,7 +5043,7 @@
       "gym_uuid": "278187",
       "name": "Bloclab Climbing",
       "address": "Av. Pedro de Valdivia 1985",
-      "city": "Metropolitana",
+      "city": "Metropolitana, Santiago",
       "country": "CL",
       "countryCode": null,
       "postal_code": "7501110",
@@ -5070,6 +5070,23 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2023-04-22 23:15:44.60351Z"
+        },
+        {
+          "id": "47f134a3-65d2-4973-b0f3-620234e43386",
+          "wall_uuid": "47f134a3-65d2-4973-b0f3-620234e43386",
+          "gym_uuid": "278187",
+          "name": "Kilter Board 16x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "28",
+          "is_adjustable": 1,
+          "min_angle": 35,
+          "max_angle": 55,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "752112",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-18 13:06:51.970355Z"
         }
       ]
     },
@@ -10896,6 +10913,76 @@
       ]
     },
     {
+      "id": "8f37d4f3-3539-4a02-b521-c7054e9ac566",
+      "gym_uuid": "8f37d4f3-3539-4a02-b521-c7054e9ac566",
+      "name": "CityROCK JHB",
+      "address": "46 Fourth Ave S Fontainebleau, Randburg",
+      "city": "Johannesburg",
+      "country": "ZA",
+      "countryCode": null,
+      "postal_code": "2194",
+      "latitude": -26.10627,
+      "longitude": 27.97596,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "ccc78552-2865-46ee-a902-6c8def1cc771",
+          "wall_uuid": "ccc78552-2865-46ee-a902-6c8def1cc771",
+          "gym_uuid": "8f37d4f3-3539-4a02-b521-c7054e9ac566",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-18 10:57:32.748617Z"
+        }
+      ]
+    },
+    {
+      "id": "0bdf167f-f947-47a6-88b3-33cd704278d4",
+      "gym_uuid": "0bdf167f-f947-47a6-88b3-33cd704278d4",
+      "name": "CityROCK Pretoria",
+      "address": "warehouse B, 11 Saltus St, Irene, Centurion",
+      "city": "Pretoria",
+      "country": "ZA",
+      "countryCode": null,
+      "postal_code": "0062",
+      "latitude": -25.85158,
+      "longitude": 28.25072,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "4c3160ee-e2cb-4acb-943b-5dd08969d654",
+          "wall_uuid": "4c3160ee-e2cb-4acb-943b-5dd08969d654",
+          "gym_uuid": "0bdf167f-f947-47a6-88b3-33cd704278d4",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-18 11:19:40.065783Z"
+        }
+      ]
+    },
+    {
       "id": "543874",
       "gym_uuid": "543874",
       "name": "Class 5",
@@ -15623,7 +15710,7 @@
           "product_name": "Kilter Board Original",
           "product_layout_uuid": "10",
           "is_adjustable": 1,
-          "min_angle": 0,
+          "min_angle": 15,
           "max_angle": 70,
           "angle_increments": 5,
           "angle": 40,
@@ -26923,9 +27010,9 @@
           "gym_uuid": "32d1b8b8-c0a0-428c-8ccc-c69db96c684a",
           "name": "Kilter Board 12x12 OG",
           "product_name": "Kilter Board Original",
-          "product_layout_uuid": "10",
+          "product_layout_uuid": "28",
           "is_adjustable": 1,
-          "min_angle": 0,
+          "min_angle": null,
           "max_angle": 70,
           "angle_increments": 5,
           "angle": 40,
@@ -28659,6 +28746,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2026-03-30 12:36:21.043955Z"
+        }
+      ]
+    },
+    {
+      "id": "5c3a5c8e-1ea8-4595-be27-f637790e08a0",
+      "gym_uuid": "5c3a5c8e-1ea8-4595-be27-f637790e08a0",
+      "name": "Rock Island Bali",
+      "address": "Jl. Sempol No. 25 Pererenan, Kec. Mengwi",
+      "city": "Kabupaten Badung, Bali",
+      "country": "ID",
+      "countryCode": null,
+      "postal_code": "80351",
+      "latitude": -8.63688,
+      "longitude": 115.13838,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "2591c86f-25a4-49c2-9798-db5437f24161",
+          "wall_uuid": "2591c86f-25a4-49c2-9798-db5437f24161",
+          "gym_uuid": "5c3a5c8e-1ea8-4595-be27-f637790e08a0",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-18 11:40:49.149618Z"
         }
       ]
     },

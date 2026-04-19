@@ -5868,6 +5868,24 @@
           50.6198
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 257520,
+      "properties": {
+        "id": 257520,
+        "username": "vertikon_singingrock",
+        "name": "Vertikon",
+        "latitude": 49.23045,
+        "longitude": 17.65388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.65388,
+          49.23045
+        ]
+      }
     }
   ]
 }
