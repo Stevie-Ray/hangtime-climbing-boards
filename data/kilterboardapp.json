@@ -1716,6 +1716,41 @@
       ]
     },
     {
+      "id": "9a8e2820-e387-48fb-9e3a-03aa29128ddd",
+      "gym_uuid": "9a8e2820-e387-48fb-9e3a-03aa29128ddd",
+      "name": "Art Bloc Escalade",
+      "address": "23 Av. Auguste Verola",
+      "city": "Nice",
+      "country": "France",
+      "countryCode": null,
+      "postal_code": "06200",
+      "latitude": 43.71040163145131,
+      "longitude": 7.19328332618448,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "b3c2d8c7-75de-4f53-9b4e-05a09e57d586",
+          "wall_uuid": "b3c2d8c7-75de-4f53-9b4e-05a09e57d586",
+          "gym_uuid": "9a8e2820-e387-48fb-9e3a-03aa29128ddd",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-19 16:09:07.329085Z"
+        }
+      ]
+    },
+    {
       "id": "613415",
       "gym_uuid": "613415",
       "name": "ArtBloc Salle d'Escalade",
@@ -27008,11 +27043,11 @@
           "id": "89b46877-b53a-488f-9368-b7177764f653",
           "wall_uuid": "89b46877-b53a-488f-9368-b7177764f653",
           "gym_uuid": "32d1b8b8-c0a0-428c-8ccc-c69db96c684a",
-          "name": "Kilter Board 12x12 OG",
+          "name": "Kilter Board 16x12 OG",
           "product_name": "Kilter Board Original",
           "product_layout_uuid": "28",
           "is_adjustable": 1,
-          "min_angle": null,
+          "min_angle": 0,
           "max_angle": 70,
           "angle_increments": 5,
           "angle": 40,
@@ -32789,6 +32824,41 @@
       ]
     },
     {
+      "id": "307209",
+      "gym_uuid": "307209",
+      "name": "The Boardroom Climbing Ltd. Wimbledon",
+      "address": "Centre Court Shopping Centre",
+      "city": "Wimbledon",
+      "country": "UK",
+      "countryCode": null,
+      "postal_code": "SW19 8YE",
+      "latitude": 51.42122,
+      "longitude": -0.20453,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "3e70c41f-83db-438d-87b2-bcc307cf9ece",
+          "wall_uuid": "3e70c41f-83db-438d-87b2-bcc307cf9ece",
+          "gym_uuid": "307209",
+          "name": "Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 0,
+          "min_angle": null,
+          "max_angle": null,
+          "angle_increments": null,
+          "angle": 40,
+          "serial_number": "751396",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2023-06-19 17:40:38.906617Z"
+        }
+      ]
+    },
+    {
       "id": "568540",
       "gym_uuid": "568540",
       "name": "The Boardroom x Climber's Rock",
@@ -34010,6 +34080,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2024-02-18 18:42:58.605644Z"
+        }
+      ]
+    },
+    {
+      "id": "84f386af-9b2f-4ea6-abe2-204bb59ebfb4",
+      "gym_uuid": "84f386af-9b2f-4ea6-abe2-204bb59ebfb4",
+      "name": "The Hold Co, Ltd.",
+      "address": "80 Hattam St",
+      "city": "Golden Gully",
+      "country": "Australia",
+      "countryCode": null,
+      "postal_code": "3555",
+      "latitude": -36.78204239034518,
+      "longitude": 144.26338550176908,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "eec49277-d2ad-4655-bb9a-a30b7bed6234",
+          "wall_uuid": "eec49277-d2ad-4655-bb9a-a30b7bed6234",
+          "gym_uuid": "84f386af-9b2f-4ea6-abe2-204bb59ebfb4",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-19 17:22:45.986591Z"
         }
       ]
     },
