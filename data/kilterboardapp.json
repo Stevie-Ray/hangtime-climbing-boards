@@ -4409,6 +4409,41 @@
       ]
     },
     {
+      "id": "3b1c4338-c462-4ba4-965d-62579e9fa691",
+      "gym_uuid": "3b1c4338-c462-4ba4-965d-62579e9fa691",
+      "name": "Bloc Lodge",
+      "address": null,
+      "city": "Puiseaux",
+      "country": "FR",
+      "countryCode": null,
+      "postal_code": null,
+      "latitude": 48.20484,
+      "longitude": 2.47222,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "a9aac902-58d5-4c52-980d-4d3c822fd9e2",
+          "wall_uuid": "a9aac902-58d5-4c52-980d-4d3c822fd9e2",
+          "gym_uuid": "3b1c4338-c462-4ba4-965d-62579e9fa691",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 30,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-20 13:02:15.298344Z"
+        }
+      ]
+    },
+    {
       "id": "331794",
       "gym_uuid": "331794",
       "name": "Bloc No Limit Boulderhalle Leipzig",
@@ -5096,11 +5131,11 @@
           "name": "Kilter Board",
           "product_name": "Kilter Board Original",
           "product_layout_uuid": "10",
-          "is_adjustable": 1,
+          "is_adjustable": 0,
           "min_angle": null,
           "max_angle": null,
           "angle_increments": null,
-          "angle": 40,
+          "angle": 45,
           "serial_number": "751408",
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
@@ -23509,6 +23544,41 @@
       ]
     },
     {
+      "id": "5913c226-f8a8-4f97-9a2f-cac34821546c",
+      "gym_uuid": "5913c226-f8a8-4f97-9a2f-cac34821546c",
+      "name": "Låven, Oppsal Gård",
+      "address": "Oppsal gård Oppsalveien 20",
+      "city": "Oslo",
+      "country": "NO",
+      "countryCode": null,
+      "postal_code": "0686",
+      "latitude": 59.89262,
+      "longitude": 10.83776,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "39a1a1fc-b850-45b2-9d4e-8c8f98c29f39",
+          "wall_uuid": "39a1a1fc-b850-45b2-9d4e-8c8f98c29f39",
+          "gym_uuid": "5913c226-f8a8-4f97-9a2f-cac34821546c",
+          "name": "Kilter Board 12x12 OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 0,
+          "min_angle": null,
+          "max_angle": null,
+          "angle_increments": 5,
+          "angle": 60,
+          "serial_number": "75547",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-20 11:31:41.746626Z"
+        }
+      ]
+    },
+    {
       "id": "164302",
       "gym_uuid": "164302",
       "name": "MOOD",
@@ -27195,6 +27265,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2022-07-06 18:36:58.381492Z"
+        }
+      ]
+    },
+    {
+      "id": "dfaf1044-a441-4f4a-892c-c40e621616f7",
+      "gym_uuid": "dfaf1044-a441-4f4a-892c-c40e621616f7",
+      "name": "Planet Climbing",
+      "address": "Av. des Morgines 10",
+      "city": "Petit-Lancy",
+      "country": "CH",
+      "countryCode": null,
+      "postal_code": "1213",
+      "latitude": 46.190825110299706,
+      "longitude": 6.111380637625461,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "8cd2cc25-b1c6-4d9e-b006-76b97df08181",
+          "wall_uuid": "8cd2cc25-b1c6-4d9e-b006-76b97df08181",
+          "gym_uuid": "dfaf1044-a441-4f4a-892c-c40e621616f7",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-20 15:08:21.213025Z"
         }
       ]
     },
@@ -34185,6 +34290,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2024-11-15 18:10:19.621066Z"
+        }
+      ]
+    },
+    {
+      "id": "f495e9a4-2d3f-4505-9fb8-0fe3d99972f1",
+      "gym_uuid": "f495e9a4-2d3f-4505-9fb8-0fe3d99972f1",
+      "name": "The Overlook Boulder + Fitness",
+      "address": "1030 White St SW",
+      "city": "Atlanta",
+      "country": "USA",
+      "countryCode": null,
+      "postal_code": "30310",
+      "latitude": 33.73181575135975,
+      "longitude": -84.42132553032215,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "23873d8c-942d-4ae9-a411-0094c23123ad",
+          "wall_uuid": "23873d8c-942d-4ae9-a411-0094c23123ad",
+          "gym_uuid": "f495e9a4-2d3f-4505-9fb8-0fe3d99972f1",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-20 14:46:07.041293Z"
         }
       ]
     },
