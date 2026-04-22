@@ -7323,54 +7323,6 @@
     },
     {
       "type": "Feature",
-      "id": "3b1c4338-c462-4ba4-965d-62579e9fa691",
-      "properties": {
-        "id": "3b1c4338-c462-4ba4-965d-62579e9fa691",
-        "gym_uuid": "3b1c4338-c462-4ba4-965d-62579e9fa691",
-        "address": null,
-        "city": "Puiseaux",
-        "country": "FR",
-        "countryCode": null,
-        "postal_code": null,
-        "latitude": 48.20484,
-        "longitude": 2.47222,
-        "gym_logo": null,
-        "banner_logo": null,
-        "instagram_username": null,
-        "is_listed": null,
-        "walls": [
-          {
-            "id": "a9aac902-58d5-4c52-980d-4d3c822fd9e2",
-            "wall_uuid": "a9aac902-58d5-4c52-980d-4d3c822fd9e2",
-            "gym_uuid": "3b1c4338-c462-4ba4-965d-62579e9fa691",
-            "name": "Kilter Board 12x12 OG",
-            "product_name": "Kilter Board Original",
-            "product_layout_uuid": "10",
-            "is_adjustable": 1,
-            "min_angle": 30,
-            "max_angle": 70,
-            "angle_increments": 5,
-            "angle": 40,
-            "serial_number": null,
-            "accumulated_hold_set_value": 3,
-            "is_listed": 1,
-            "created_at": "2026-04-20 13:02:15.298344Z"
-          }
-        ],
-        "title": "Bloc Lodge",
-        "description": "Kilter Board at Bloc Lodge",
-        "marker-color": "#ED1D24"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.47222,
-          48.20484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "331794",
       "properties": {
         "id": "331794",
@@ -90275,6 +90227,30 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2236_621df9ef-ce5d-402e-9ae6-da2ec91ccfe0.jpg",
+        "Latitude": 59.3216177,
+        "Longitude": 18.699286,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          59.3216177,
+          18.699286
+        ],
+        "title": "Djurö Moonboard variation",
+        "description": "Placed outside in the yard. \r\nMixed set up with yellow and white holds 2016. Rest is different holds from Jugs to small crimps.\r\n\r\nSearch boardclimbs for info on alternative boulders. ",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.699286,
+          59.3216177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -97010,6 +96986,26 @@
         "coordinates": [
           13.40988,
           52.56398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258206,
+      "properties": {
+        "id": 258206,
+        "username": "kleivania_klatre_klubb",
+        "latitude": 68.33297,
+        "longitude": 13.99315,
+        "title": "Kleivania Klatre Klubb",
+        "description": "Tension Board at Kleivania Klatre Klubb",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.99315,
+          68.33297
         ]
       }
     },
