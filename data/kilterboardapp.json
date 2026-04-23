@@ -13676,6 +13676,41 @@
       ]
     },
     {
+      "id": "0f71f250-5dea-4960-8cdb-353703281c97",
+      "gym_uuid": "0f71f250-5dea-4960-8cdb-353703281c97",
+      "name": "DAV Kletterzentrum Siegerland",
+      "address": "Effertsufer 105",
+      "city": "Siegen",
+      "country": "Germany",
+      "countryCode": null,
+      "postal_code": "57072",
+      "latitude": 50.86894011939988,
+      "longitude": 8.004782526563105,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "62f12231-0175-464b-b009-43b0c221a6b0",
+          "wall_uuid": "62f12231-0175-464b-b009-43b0c221a6b0",
+          "gym_uuid": "0f71f250-5dea-4960-8cdb-353703281c97",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000202",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-22 19:09:17.221264Z"
+        }
+      ]
+    },
+    {
       "id": "580256",
       "gym_uuid": "580256",
       "name": "DAV Kletterzentrum Wupperwände",
@@ -24348,6 +24383,41 @@
       ]
     },
     {
+      "id": "4bc42a76-7402-43a4-8476-a64a3e990b5d",
+      "gym_uuid": "4bc42a76-7402-43a4-8476-a64a3e990b5d",
+      "name": "Mitō Bouldering",
+      "address": "Badenerstrasse 434",
+      "city": "Zürich",
+      "country": "Switzerland",
+      "countryCode": null,
+      "postal_code": "8004 ",
+      "latitude": 47.38077156036091,
+      "longitude": 8.50559518406294,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "067e48dd-942f-4e6e-a08d-88ba50a912c1",
+          "wall_uuid": "067e48dd-942f-4e6e-a08d-88ba50a912c1",
+          "gym_uuid": "4bc42a76-7402-43a4-8476-a64a3e990b5d",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 30,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000027",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-22 19:16:16.071237Z"
+        }
+      ]
+    },
+    {
       "id": "704994",
       "gym_uuid": "704994",
       "name": "Moco Bouldering and Fitness",
@@ -29504,16 +29574,16 @@
           "id": "e795f503-b696-48ba-a162-23ac70250af6",
           "wall_uuid": "e795f503-b696-48ba-a162-23ac70250af6",
           "gym_uuid": "4c8baa0d-504f-4f4e-b00b-009a1d12fe2c",
-          "name": "Kilter Board",
-          "product_name": "Kilter Board Homewall",
-          "product_layout_uuid": "30",
+          "name": "Kilter Board OG 12x12",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
           "is_adjustable": 1,
-          "min_angle": null,
+          "min_angle": 0,
           "max_angle": 70,
           "angle_increments": 5,
           "angle": 40,
           "serial_number": "K000101",
-          "accumulated_hold_set_value": 15,
+          "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2026-01-29 20:13:03.014022Z"
         }
