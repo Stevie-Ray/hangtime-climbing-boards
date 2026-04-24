@@ -5922,6 +5922,24 @@
           68.33297
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 258615,
+      "properties": {
+        "id": 258615,
+        "username": "mito.bouldering",
+        "name": "Mitō Bouldering",
+        "latitude": 47.3807,
+        "longitude": 8.50559
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.50559,
+          47.3807
+        ]
+      }
     }
   ]
 }

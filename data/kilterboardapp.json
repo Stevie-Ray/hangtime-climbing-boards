@@ -35552,6 +35552,41 @@
       ]
     },
     {
+      "id": "858f5060-e792-43f1-838d-84b5a0499561",
+      "gym_uuid": "858f5060-e792-43f1-838d-84b5a0499561",
+      "name": "University of Colorado Boulder",
+      "address": "1835 Pleasant St",
+      "city": "Boulder",
+      "country": "US",
+      "countryCode": null,
+      "postal_code": "80302",
+      "latitude": 40.0098042,
+      "longitude": -105.2691736,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "eaad1f3d-5302-4a73-863e-8648c09a1762",
+          "wall_uuid": "eaad1f3d-5302-4a73-863e-8648c09a1762",
+          "gym_uuid": "858f5060-e792-43f1-838d-84b5a0499561",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-23 23:26:29.196058Z"
+        }
+      ]
+    },
+    {
       "id": "467684",
       "gym_uuid": "467684",
       "name": "University of Illinois",
@@ -36357,6 +36392,41 @@
       ]
     },
     {
+      "id": "33793a17-811d-40aa-b8e1-62a8fc98a01a",
+      "gym_uuid": "33793a17-811d-40aa-b8e1-62a8fc98a01a",
+      "name": "Vertical Adventures",
+      "address": "6513 Kingsmill Ct",
+      "city": "Columbus",
+      "country": "USA",
+      "countryCode": null,
+      "postal_code": "43229",
+      "latitude": 40.0986191,
+      "longitude": -82.9955726,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "c8099a4b-714d-400d-9fef-e4e47480fd71",
+          "wall_uuid": "c8099a4b-714d-400d-9fef-e4e47480fd71",
+          "gym_uuid": "33793a17-811d-40aa-b8e1-62a8fc98a01a",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "8",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-23 15:08:42.002714Z"
+        }
+      ]
+    },
+    {
       "id": "258566",
       "gym_uuid": "258566",
       "name": "Vertical Bloc",
@@ -36703,6 +36773,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2025-10-20 21:58:46.888674Z"
+        }
+      ]
+    },
+    {
+      "id": "aee2f57c-44d4-48ea-9c6b-c8d5ba241e32",
+      "gym_uuid": "aee2f57c-44d4-48ea-9c6b-c8d5ba241e32",
+      "name": "Vest-Lofoten Klatreklubb",
+      "address": "Sentralbaneveien 100",
+      "city": "Leknes",
+      "country": "Norway",
+      "countryCode": null,
+      "postal_code": " 8370  ",
+      "latitude": 68.15402004212,
+      "longitude": 13.637025156106494,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "98697d5e-5cb0-4377-904b-2db4fbf1260a",
+          "wall_uuid": "98697d5e-5cb0-4377-904b-2db4fbf1260a",
+          "gym_uuid": "aee2f57c-44d4-48ea-9c6b-c8d5ba241e32",
+          "name": "OG KIlter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-04-23 15:44:59.27581Z"
         }
       ]
     },
