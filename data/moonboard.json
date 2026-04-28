@@ -19616,6 +19616,19 @@
         59.3216177,
         18.699286
       ]
+    },
+    {
+      "Name": "Rocky Climb Moon",
+      "Description": "Located on the Mezzanine",
+      "Image": "/Content/Account/Users/MoonBoards/2237_d60e55c8-e387-40d5-9f9d-7e01c38b6f67.jpg",
+      "Latitude": -23.3750142,
+      "Longitude": 150.5090838,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        -23.3750142,
+        150.5090838
+      ]
     }
   ]
 }

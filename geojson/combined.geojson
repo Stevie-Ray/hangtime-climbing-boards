@@ -5417,6 +5417,54 @@
     },
     {
       "type": "Feature",
+      "id": "f607bf1b-b74b-4393-86b5-5858bb375e74",
+      "properties": {
+        "id": "f607bf1b-b74b-4393-86b5-5858bb375e74",
+        "gym_uuid": "f607bf1b-b74b-4393-86b5-5858bb375e74",
+        "address": "Zone 5 Cibyn Estate",
+        "city": "Caernarfon",
+        "country": "UK",
+        "countryCode": null,
+        "postal_code": "LL55 2BD",
+        "latitude": 53.1406108,
+        "longitude": 4.2517792,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "c0514b04-2eb4-4743-aae8-6666e1fd1370",
+            "wall_uuid": "c0514b04-2eb4-4743-aae8-6666e1fd1370",
+            "gym_uuid": "f607bf1b-b74b-4393-86b5-5858bb375e74",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 45,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-27 19:13:33.624129Z"
+          }
+        ],
+        "title": "Beacon Climbing Centre",
+        "description": "Kilter Board at Beacon Climbing Centre",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2517792,
+          53.1406108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "201977",
       "properties": {
         "id": "201977",
@@ -90534,6 +90582,30 @@
         "coordinates": [
           18.699286,
           59.3216177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2237_d60e55c8-e387-40d5-9f9d-7e01c38b6f67.jpg",
+        "Latitude": -23.3750142,
+        "Longitude": 150.5090838,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          -23.3750142,
+          150.5090838
+        ],
+        "title": "Rocky Climb Moon",
+        "description": "Located on the Mezzanine",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5090838,
+          -23.3750142
         ]
       }
     },
