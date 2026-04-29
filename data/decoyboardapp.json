@@ -153,6 +153,13 @@
       "name": "The Lab Climbing",
       "latitude": 40.01671,
       "longitude": -105.22462
+    },
+    {
+      "id": 10163,
+      "username": "climbingcommons",
+      "name": "Climbing Commons Stroud",
+      "latitude": 51.72019,
+      "longitude": -2.19443
     }
   ]
 }

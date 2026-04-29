@@ -503,6 +503,26 @@
     },
     {
       "type": "Feature",
+      "id": 10163,
+      "properties": {
+        "id": 10163,
+        "username": "climbingcommons",
+        "latitude": 51.72019,
+        "longitude": -2.19443,
+        "title": "Climbing Commons Stroud",
+        "description": "Decoy Board at Climbing Commons Stroud",
+        "marker-color": "#C256C8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.19443,
+          51.72019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2117,
       "properties": {
         "id": 2117,
@@ -10972,6 +10992,54 @@
         "coordinates": [
           15.43638,
           47.02564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47ebb839-d805-4d95-9079-48e12e290f0e",
+      "properties": {
+        "id": "47ebb839-d805-4d95-9079-48e12e290f0e",
+        "gym_uuid": "47ebb839-d805-4d95-9079-48e12e290f0e",
+        "address": "880 Hampshire Road Suite A",
+        "city": "Thousand Oaks",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "91362",
+        "latitude": 34.154703019237175,
+        "longitude": -118.83040452019476,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "713315e9-4c9b-4889-bff2-a179fd380fe6",
+            "wall_uuid": "713315e9-4c9b-4889-bff2-a179fd380fe6",
+            "gym_uuid": "47ebb839-d805-4d95-9079-48e12e290f0e",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-28 19:56:17.718577Z"
+          }
+        ],
+        "title": "Boulderdash Thousand Oaks",
+        "description": "Kilter Board at Boulderdash Thousand Oaks",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.83040452019476,
+          34.154703019237175
         ]
       }
     },
@@ -41252,6 +41320,54 @@
     },
     {
       "type": "Feature",
+      "id": "bc8477c5-30d0-45e1-8d56-5759e0a9b1ae",
+      "properties": {
+        "id": "bc8477c5-30d0-45e1-8d56-5759e0a9b1ae",
+        "gym_uuid": "bc8477c5-30d0-45e1-8d56-5759e0a9b1ae",
+        "address": "100 Bolsover St",
+        "city": "Rockhampton",
+        "country": "Australia",
+        "countryCode": null,
+        "postal_code": "4700",
+        "latitude": -23.37473390979055,
+        "longitude": 150.50910055119093,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "3cee5fe3-d460-4f9b-b35c-61dcefa76e3d",
+            "wall_uuid": "3cee5fe3-d460-4f9b-b35c-61dcefa76e3d",
+            "gym_uuid": "bc8477c5-30d0-45e1-8d56-5759e0a9b1ae",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-28 20:03:40.112914Z"
+          }
+        ],
+        "title": "Rocky Climb",
+        "description": "Kilter Board at Rocky Climb",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.50910055119093,
+          -23.37473390979055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "7329a273-f957-475f-be09-e2fc120009a3",
       "properties": {
         "id": "7329a273-f957-475f-be09-e2fc120009a3",
@@ -53886,6 +54002,54 @@
         "coordinates": [
           126.67303,
           37.59289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b6a8b6d1-da99-45a0-9cce-fe24c85b1680",
+      "properties": {
+        "id": "b6a8b6d1-da99-45a0-9cce-fe24c85b1680",
+        "gym_uuid": "b6a8b6d1-da99-45a0-9cce-fe24c85b1680",
+        "address": "40 Cheongmyeongnam-ro,",
+        "city": "Suwon-si,",
+        "country": "South Korea",
+        "countryCode": null,
+        "postal_code": "16704",
+        "latitude": 37.40419948268017,
+        "longitude": 127.0681308821087,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "d0558edb-ca98-4970-b726-c7b7fd96edf3",
+            "wall_uuid": "d0558edb-ca98-4970-b726-c7b7fd96edf3",
+            "gym_uuid": "b6a8b6d1-da99-45a0-9cce-fe24c85b1680",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-04-28 20:17:03.211058Z"
+          }
+        ],
+        "title": "슈퍼비클라이밍 SuperB Climbing",
+        "description": "Kilter Board at 슈퍼비클라이밍 SuperB Climbing",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0681308821087,
+          37.40419948268017
         ]
       }
     },
