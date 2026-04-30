@@ -1323,6 +1323,26 @@
     },
     {
       "type": "Feature",
+      "id": 34818,
+      "properties": {
+        "id": 34818,
+        "username": "social_climber",
+        "latitude": 40.0566,
+        "longitude": -82.47824,
+        "title": "Social Climber",
+        "description": "Grasshopper Board at Social Climber",
+        "marker-color": "#00EAFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47824,
+          40.0566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "258851",
       "properties": {
         "id": "258851",
@@ -90775,6 +90795,54 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2238_271ff110-9874-4fc6-b4aa-917229fe082e.jpg",
+        "Latitude": 46.0682733,
+        "Longitude": 14.5194972,
+        "IsCommercial": true,
+        "IsLed": true,
+        "LatLng": [
+          46.0682733,
+          14.5194972
+        ],
+        "title": "BALVANIJA MOONBOARD",
+        "description": "It's a 40° MoonBoard 2024 setup with LED\r\nfollow us on IG @balvanijac",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5194972,
+          46.0682733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2239_16a1cbcd-29bf-4297-aba6-f410b1be00f8.jpg",
+        "Latitude": 37.8393332,
+        "Longitude": -84.2700179,
+        "IsCommercial": false,
+        "IsLed": true,
+        "LatLng": [
+          37.8393332,
+          -84.2700179
+        ],
+        "title": "TheDomWall",
+        "description": "A garage board located in Louisville, Kentucky. Frequented by a stoked crew of guys whose love language is s*** talking. Brushing and laughs are provided by a tiny baby. (Sponsored by Kroger brand spicy water)",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2700179,
+          37.8393332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 17,
       "properties": {
         "id": 17,
@@ -91750,26 +91818,6 @@
         "coordinates": [
           -111.693,
           33.2909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 84077,
-      "properties": {
-        "id": 84077,
-        "username": "longmontcc",
-        "latitude": 40.16257,
-        "longitude": -105.04174,
-        "title": "Longmont Climbing Collective",
-        "description": "Tension Board at Longmont Climbing Collective",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.04174,
-          40.16257
         ]
       }
     },

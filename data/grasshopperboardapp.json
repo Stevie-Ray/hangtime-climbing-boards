@@ -279,6 +279,13 @@
       "name": "sigma boy",
       "latitude": 40.64901,
       "longitude": -112.0068
+    },
+    {
+      "id": 34818,
+      "username": "social_climber",
+      "name": "Social Climber",
+      "latitude": 40.0566,
+      "longitude": -82.47824
     }
   ]
 }

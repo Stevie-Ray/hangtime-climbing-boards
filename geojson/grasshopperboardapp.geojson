@@ -720,6 +720,24 @@
           40.64901
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 34818,
+      "properties": {
+        "id": 34818,
+        "username": "social_climber",
+        "name": "Social Climber",
+        "latitude": 40.0566,
+        "longitude": -82.47824
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47824,
+          40.0566
+        ]
+      }
     }
   ]
 }

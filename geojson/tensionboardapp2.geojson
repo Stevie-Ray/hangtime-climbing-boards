@@ -723,24 +723,6 @@
     },
     {
       "type": "Feature",
-      "id": 84077,
-      "properties": {
-        "id": 84077,
-        "username": "longmontcc",
-        "name": "Longmont Climbing Collective",
-        "latitude": 40.16257,
-        "longitude": -105.04174
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.04174,
-          40.16257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 84317,
       "properties": {
         "id": 84317,

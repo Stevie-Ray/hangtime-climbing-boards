@@ -19629,6 +19629,32 @@
         -23.3750142,
         150.5090838
       ]
+    },
+    {
+      "Name": "BALVANIJA MOONBOARD",
+      "Description": "It's a 40° MoonBoard 2024 setup with LED\r\nfollow us on IG @balvanijac",
+      "Image": "/Content/Account/Users/MoonBoards/2238_271ff110-9874-4fc6-b4aa-917229fe082e.jpg",
+      "Latitude": 46.0682733,
+      "Longitude": 14.5194972,
+      "IsCommercial": true,
+      "IsLed": true,
+      "LatLng": [
+        46.0682733,
+        14.5194972
+      ]
+    },
+    {
+      "Name": "TheDomWall",
+      "Description": "A garage board located in Louisville, Kentucky. Frequented by a stoked crew of guys whose love language is s*** talking. Brushing and laughs are provided by a tiny baby. (Sponsored by Kroger brand spicy water)",
+      "Image": "/Content/Account/Users/MoonBoards/2239_16a1cbcd-29bf-4297-aba6-f410b1be00f8.jpg",
+      "Latitude": 37.8393332,
+      "Longitude": -84.2700179,
+      "IsCommercial": false,
+      "IsLed": true,
+      "LatLng": [
+        37.8393332,
+        -84.2700179
+      ]
     }
   ]
 }
