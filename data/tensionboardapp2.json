@@ -1149,13 +1149,6 @@
       "longitude": 7.77947
     },
     {
-      "id": 148557,
-      "username": "metrorock_everett",
-      "name": "MetroROCK Everett",
-      "latitude": 42.40785,
-      "longitude": -71.06709
-    },
-    {
       "id": 149906,
       "username": "vitallowereastside",
       "name": "Vital Lower East Side",
@@ -2302,6 +2295,13 @@
       "name": "Mitō Bouldering",
       "latitude": 47.3807,
       "longitude": 8.50559
+    },
+    {
+      "id": 260107,
+      "username": "cruxcc_south",
+      "name": "Crux Climbing Center South",
+      "latitude": 30.17515,
+      "longitude": -97.79041
     }
   ]
 }

@@ -2955,24 +2955,6 @@
     },
     {
       "type": "Feature",
-      "id": 148557,
-      "properties": {
-        "id": 148557,
-        "username": "metrorock_everett",
-        "name": "MetroROCK Everett",
-        "latitude": 42.40785,
-        "longitude": -71.06709
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.06709,
-          42.40785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 149906,
       "properties": {
         "id": 149906,
@@ -5920,6 +5902,24 @@
         "coordinates": [
           8.50559,
           47.3807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260107,
+      "properties": {
+        "id": 260107,
+        "username": "cruxcc_south",
+        "name": "Crux Climbing Center South",
+        "latitude": 30.17515,
+        "longitude": -97.79041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.79041,
+          30.17515
         ]
       }
     }
