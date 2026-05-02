@@ -283,14 +283,14 @@
     {
       "id": 84317,
       "username": "movementgymshampden",
-      "name": "Movement Climbing + Fitness Hampden",
+      "name": "Movement Hampden",
       "latitude": 39.33619,
       "longitude": -76.64375
     },
     {
       "id": 84590,
       "username": "movementgyms_golden",
-      "name": "Movement Climbing + Fitness Golden",
+      "name": "Movement Golden",
       "latitude": 39.72874,
       "longitude": -105.20719
     },
@@ -304,7 +304,7 @@
     {
       "id": 85403,
       "username": "movementgymsrino",
-      "name": "Movement Climbing + Fitness RiNo",
+      "name": "Movement RiNo",
       "latitude": 39.76571,
       "longitude": -104.97869
     },
@@ -493,7 +493,7 @@
     {
       "id": 88034,
       "username": "movementgyms_wrigleyville",
-      "name": "Movement Climbing + Fitness Wrigleyville",
+      "name": "Movement Wrigleyville",
       "latitude": 41.94749,
       "longitude": -87.65745
     },

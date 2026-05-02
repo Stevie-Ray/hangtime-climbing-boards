@@ -92021,8 +92021,8 @@
         "username": "movementgymshampden",
         "latitude": 39.33619,
         "longitude": -76.64375,
-        "title": "Movement Climbing + Fitness Hampden",
-        "description": "Tension Board at Movement Climbing + Fitness Hampden",
+        "title": "Movement Hampden",
+        "description": "Tension Board at Movement Hampden",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -92041,8 +92041,8 @@
         "username": "movementgyms_golden",
         "latitude": 39.72874,
         "longitude": -105.20719,
-        "title": "Movement Climbing + Fitness Golden",
-        "description": "Tension Board at Movement Climbing + Fitness Golden",
+        "title": "Movement Golden",
+        "description": "Tension Board at Movement Golden",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -92081,8 +92081,8 @@
         "username": "movementgymsrino",
         "latitude": 39.76571,
         "longitude": -104.97869,
-        "title": "Movement Climbing + Fitness RiNo",
-        "description": "Tension Board at Movement Climbing + Fitness RiNo",
+        "title": "Movement RiNo",
+        "description": "Tension Board at Movement RiNo",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -92621,8 +92621,8 @@
         "username": "movementgyms_wrigleyville",
         "latitude": 41.94749,
         "longitude": -87.65745,
-        "title": "Movement Climbing + Fitness Wrigleyville",
-        "description": "Tension Board at Movement Climbing + Fitness Wrigleyville",
+        "title": "Movement Wrigleyville",
+        "description": "Tension Board at Movement Wrigleyville",
         "marker-color": "#000000"
       },
       "geometry": {
