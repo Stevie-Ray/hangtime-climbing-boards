@@ -71020,24 +71020,24 @@
     {
       "type": "Feature",
       "properties": {
-        "Image": "/Content/Account/Users/MoonBoards/1393_0851e1d8-faf3-4b0c-aec1-91f966442aa9.jpg",
-        "Latitude": 47.0080767,
-        "Longitude": 8.647163299999999,
+        "Image": "/Content/Account/Users/MoonBoards/1393_0851e1d8-faf3-4b0c-aec1-91f966442aa9.png",
+        "Latitude": 47.0081764,
+        "Longitude": 8.6471354,
         "IsCommercial": true,
         "IsLed": true,
         "LatLng": [
-          47.0080767,
-          8.647163299999999
+          47.0081764,
+          8.6471354
         ],
-        "title": "SPINNEREI INDOOR",
-        "description": "2019 Moonboard Masters Holds\r\n40 Degrees\r\nwww.spinnerei-indoor.ch\r\nwww.instagram.com/spinnerei_indoor/",
+        "title": "Spinnerei Indoor",
+        "description": "2024 Moonboard \r\n40 Degrees\r\nwww.spinnerei-indoor.ch\r\nwww.instagram.com/spinnerei_indoor/",
         "marker-color": "#FEB91E"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.647163299999999,
-          47.0080767
+          8.6471354,
+          47.0081764
         ]
       }
     },
