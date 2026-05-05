@@ -97795,6 +97795,26 @@
     },
     {
       "type": "Feature",
+      "id": 260869,
+      "properties": {
+        "id": 260869,
+        "username": "metalmarkclimbing",
+        "latitude": 36.79074,
+        "longitude": -119.75197,
+        "title": "MetalMark Climbing",
+        "description": "Tension Board at MetalMark Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.75197,
+          36.79074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

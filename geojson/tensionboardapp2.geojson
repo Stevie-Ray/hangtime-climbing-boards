@@ -5922,6 +5922,24 @@
           30.17515
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 260869,
+      "properties": {
+        "id": 260869,
+        "username": "metalmarkclimbing",
+        "name": "MetalMark Climbing",
+        "latitude": 36.79074,
+        "longitude": -119.75197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.75197,
+          36.79074
+        ]
+      }
     }
   ]
 }
