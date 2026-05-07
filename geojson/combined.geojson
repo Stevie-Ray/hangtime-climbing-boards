@@ -42749,6 +42749,54 @@
     },
     {
       "type": "Feature",
+      "id": "12cb810d-cac6-4b97-b2b5-1e581bae9dcb",
+      "properties": {
+        "id": "12cb810d-cac6-4b97-b2b5-1e581bae9dcb",
+        "gym_uuid": "12cb810d-cac6-4b97-b2b5-1e581bae9dcb",
+        "address": null,
+        "city": "Superior",
+        "country": "US",
+        "countryCode": null,
+        "postal_code": null,
+        "latitude": 39.95263,
+        "longitude": -105.16759,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "0f3eed8f-187f-4012-b64a-49a4382dd472",
+            "wall_uuid": "0f3eed8f-187f-4012-b64a-49a4382dd472",
+            "gym_uuid": "12cb810d-cac6-4b97-b2b5-1e581bae9dcb",
+            "name": "8x12 Kilter Board OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "8",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 45,
+            "serial_number": "751686",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-05-06 17:22:44.81386Z"
+          }
+        ],
+        "title": "Sesame Street",
+        "description": "Kilter Board at Sesame Street",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.16759,
+          39.95263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "156310",
       "properties": {
         "id": "156310",
