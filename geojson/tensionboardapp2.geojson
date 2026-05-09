@@ -5940,6 +5940,24 @@
           36.79074
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 261604,
+      "properties": {
+        "id": 261604,
+        "username": "moldeklatresenter",
+        "name": "Molde Klatresenter",
+        "latitude": 62.73626,
+        "longitude": 7.18192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.18192,
+          62.73626
+        ]
+      }
     }
   ]
 }

@@ -97863,6 +97863,26 @@
     },
     {
       "type": "Feature",
+      "id": 261604,
+      "properties": {
+        "id": 261604,
+        "username": "moldeklatresenter",
+        "latitude": 62.73626,
+        "longitude": 7.18192,
+        "title": "Molde Klatresenter",
+        "description": "Tension Board at Molde Klatresenter",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.18192,
+          62.73626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
