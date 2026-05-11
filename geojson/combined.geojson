@@ -97883,6 +97883,26 @@
     },
     {
       "type": "Feature",
+      "id": 262185,
+      "properties": {
+        "id": 262185,
+        "username": "flowstone_climbing",
+        "latitude": 34.05516,
+        "longitude": -117.2049,
+        "title": "Flowstone Climbing",
+        "description": "Tension Board at Flowstone Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2049,
+          34.05516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

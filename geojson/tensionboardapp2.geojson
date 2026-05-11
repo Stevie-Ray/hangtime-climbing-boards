@@ -5958,6 +5958,24 @@
           62.73626
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 262185,
+      "properties": {
+        "id": 262185,
+        "username": "flowstone_climbing",
+        "name": "Flowstone Climbing",
+        "latitude": 34.05516,
+        "longitude": -117.2049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2049,
+          34.05516
+        ]
+      }
     }
   ]
 }
