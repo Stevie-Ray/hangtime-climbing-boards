@@ -10119,6 +10119,54 @@
     },
     {
       "type": "Feature",
+      "id": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
+      "properties": {
+        "id": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
+        "gym_uuid": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
+        "address": null,
+        "city": null,
+        "country": null,
+        "countryCode": null,
+        "postal_code": null,
+        "latitude": 13.443104764773443,
+        "longitude": 144.7682185292665,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "63d59d38-c370-42d4-9ed5-2079280d0f3f",
+            "wall_uuid": "63d59d38-c370-42d4-9ed5-2079280d0f3f",
+            "gym_uuid": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
+            "name": "OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "KB000443",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-05-12 09:39:02.10229Z"
+          }
+        ],
+        "title": "Boulder Reservoir",
+        "description": "Kilter Board at Boulder Reservoir",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7682185292665,
+          13.443104764773443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "509368",
       "properties": {
         "id": "509368",
@@ -19014,7 +19062,7 @@
         "gym_uuid": "0596988f-1411-4f07-95c7-bb13414554c9",
         "address": "220 Ralph Ablanedo Dr Unit 100",
         "city": "Austin",
-        "country": "USA",
+        "country": "US",
         "countryCode": null,
         "postal_code": "78748",
         "latitude": 30.181421802025056,
@@ -39589,7 +39637,7 @@
         "gym_uuid": "a30d9528-d004-4ed8-bacd-f4105dd7bb44",
         "address": "1415 Elliott Ave W Seattle ",
         "city": "Washington",
-        "country": " United States of America",
+        "country": "US",
         "countryCode": null,
         "postal_code": "98119",
         "latitude": 47.63079,
@@ -91078,6 +91126,30 @@
         "coordinates": [
           -84.2700179,
           37.8393332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "/Content/Account/Users/MoonBoards/2240_218009d0-3fe9-42a5-b7c5-d772dace936e.jpeg",
+        "Latitude": 39.529919,
+        "Longitude": -119.8142691,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          39.529919,
+          -119.8142691
+        ],
+        "title": "Glen Eagles Garage",
+        "description": "Garage wall with no climate control, but fanatic brushing. ",
+        "marker-color": "#FEB91E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8142691,
+          39.529919
         ]
       }
     },

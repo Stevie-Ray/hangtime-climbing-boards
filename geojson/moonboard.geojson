@@ -34776,6 +34776,29 @@
           37.8393332
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glen Eagles Garage",
+        "Description": "Garage wall with no climate control, but fanatic brushing. ",
+        "Image": "/Content/Account/Users/MoonBoards/2240_218009d0-3fe9-42a5-b7c5-d772dace936e.jpeg",
+        "Latitude": 39.529919,
+        "Longitude": -119.8142691,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          39.529919,
+          -119.8142691
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8142691,
+          39.529919
+        ]
+      }
     }
   ]
 }

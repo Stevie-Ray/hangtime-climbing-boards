@@ -8419,6 +8419,52 @@
     },
     {
       "type": "Feature",
+      "id": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
+      "properties": {
+        "id": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
+        "gym_uuid": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
+        "name": "Boulder Reservoir",
+        "address": null,
+        "city": null,
+        "country": null,
+        "countryCode": null,
+        "postal_code": null,
+        "latitude": 13.443104764773443,
+        "longitude": 144.7682185292665,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "63d59d38-c370-42d4-9ed5-2079280d0f3f",
+            "wall_uuid": "63d59d38-c370-42d4-9ed5-2079280d0f3f",
+            "gym_uuid": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
+            "name": "OG 12x12",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "KB000443",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-05-12 09:39:02.10229Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7682185292665,
+          13.443104764773443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "509368",
       "properties": {
         "id": "509368",
@@ -16951,7 +16997,7 @@
         "name": "Crux Climbing Center South",
         "address": "220 Ralph Ablanedo Dr Unit 100",
         "city": "Austin",
-        "country": "USA",
+        "country": "US",
         "countryCode": null,
         "postal_code": "78748",
         "latitude": 30.181421802025056,
@@ -36702,7 +36748,7 @@
         "name": "ROQ Climbing",
         "address": "1415 Elliott Ave W Seattle ",
         "city": "Washington",
-        "country": " United States of America",
+        "country": "US",
         "countryCode": null,
         "postal_code": "98119",
         "latitude": 47.63079,
