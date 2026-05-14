@@ -30400,6 +30400,52 @@
     },
     {
       "type": "Feature",
+      "id": "deba792b-16e3-4138-a223-0a2f1db28157",
+      "properties": {
+        "id": "deba792b-16e3-4138-a223-0a2f1db28157",
+        "gym_uuid": "deba792b-16e3-4138-a223-0a2f1db28157",
+        "name": "Le Camp de Base",
+        "address": "Rue de Theux 107",
+        "city": "Ixelles",
+        "country": "BE",
+        "countryCode": null,
+        "postal_code": "1050",
+        "latitude": 50.82179,
+        "longitude": 4.38092,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "ae9f69ee-f852-4477-beb6-e97655867386",
+            "wall_uuid": "ae9f69ee-f852-4477-beb6-e97655867386",
+            "gym_uuid": "deba792b-16e3-4138-a223-0a2f1db28157",
+            "name": "12x12 Kilter Board OG",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751705",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-05-13 16:29:18.979211Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38092,
+          50.82179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "150559",
       "properties": {
         "id": "150559",

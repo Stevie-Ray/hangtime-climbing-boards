@@ -34799,6 +34799,29 @@
           39.529919
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "bleepboard",
+        "Description": "its blue",
+        "Image": "/Content/Account/Users/MoonBoards/2241_72c9c89b-2f27-4eab-825d-d2320b80aa7a.jpg",
+        "Latitude": -33.4365164,
+        "Longitude": 151.349346,
+        "IsCommercial": false,
+        "IsLed": false,
+        "LatLng": [
+          -33.4365164,
+          151.349346
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.349346,
+          -33.4365164
+        ]
+      }
     }
   ]
 }
