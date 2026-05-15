@@ -51,15 +51,15 @@
   "author": "Stevie-Ray Hartog <mail@stevie-ray.nl>",
   "license": "Unlicense",
   "dependencies": {
-    "@powersync/node": "^0.18.3",
-    "@turf/turf": "^7.3.4",
-    "dotenv": "^17.4.0",
-    "user-agents": "^2.1.19"
+    "@powersync/node": "^0.18.6",
+    "@turf/turf": "^7.3.5",
+    "dotenv": "^17.4.2",
+    "user-agents": "^2.1.61"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^22.19.17",
+    "@types/node": "^22.19.19",
     "@types/user-agents": "^1.0.4",
-    "typescript": "^6.0.2"
+    "typescript": "^6.0.3"
   }
 }
