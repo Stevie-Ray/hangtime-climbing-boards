@@ -97967,6 +97967,26 @@
     },
     {
       "type": "Feature",
+      "id": 259406,
+      "properties": {
+        "id": 259406,
+        "username": "DepotBirmingham",
+        "latitude": 52.47221,
+        "longitude": -1.89175,
+        "title": "Depot Climbing Birmingham",
+        "description": "Tension Board at Depot Climbing Birmingham",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89175,
+          52.47221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 260107,
       "properties": {
         "id": 260107,
