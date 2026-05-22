@@ -738,6 +738,24 @@
           40.0566
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 35144,
+      "properties": {
+        "id": 35144,
+        "username": "tcu_outdoor_center",
+        "name": "TCU Outdoor Center",
+        "latitude": 30.70774,
+        "longitude": -97.36392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.36392,
+          30.70774
+        ]
+      }
     }
   ]
 }

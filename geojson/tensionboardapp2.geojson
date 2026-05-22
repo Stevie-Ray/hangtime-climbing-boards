@@ -5709,6 +5709,24 @@
     },
     {
       "type": "Feature",
+      "id": 253398,
+      "properties": {
+        "id": 253398,
+        "username": "benchmark_climbing3",
+        "name": "Benchmark Climbing Gym 3",
+        "latitude": 31.22124,
+        "longitude": 121.35944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.35944,
+          31.22124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 254172,
       "properties": {
         "id": 254172,

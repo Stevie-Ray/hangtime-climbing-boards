@@ -11928,6 +11928,41 @@
       ]
     },
     {
+      "id": "768d5561-f797-4c0f-ab8b-55c5c1ac4e9a",
+      "gym_uuid": "768d5561-f797-4c0f-ab8b-55c5c1ac4e9a",
+      "name": "Climb World",
+      "address": "68 Avenue du Maine",
+      "city": "Paris",
+      "country": "FR",
+      "countryCode": null,
+      "postal_code": "75014",
+      "latitude": 48.83901,
+      "longitude": 2.322,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "d4e5924a-de23-4be4-99d7-2fc77daeb02f",
+          "wall_uuid": "d4e5924a-de23-4be4-99d7-2fc77daeb02f",
+          "gym_uuid": "768d5561-f797-4c0f-ab8b-55c5c1ac4e9a",
+          "name": "16x12 Kilter Board OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "28",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "752075",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-05-21 20:04:12.084375Z"
+        }
+      ]
+    },
+    {
       "id": "2bfac9ae-60c8-45a6-8cd6-73a6e3cd0714",
       "gym_uuid": "2bfac9ae-60c8-45a6-8cd6-73a6e3cd0714",
       "name": "Climb Yukon Collective",
@@ -35095,6 +35130,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2026-03-17 21:13:29.463709Z"
+        }
+      ]
+    },
+    {
+      "id": "0a007341-a481-4292-8cf5-71fb7da3ad38",
+      "gym_uuid": "0a007341-a481-4292-8cf5-71fb7da3ad38",
+      "name": "The Roof Saint-Brieuc",
+      "address": "14 rue Pierre de Coubertin",
+      "city": "Ploufragan",
+      "country": "FR",
+      "countryCode": null,
+      "postal_code": "22440",
+      "latitude": 48.49882,
+      "longitude": -2.76647,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "11608413-2060-4634-b870-23b3ecad6507",
+          "wall_uuid": "11608413-2060-4634-b870-23b3ecad6507",
+          "gym_uuid": "0a007341-a481-4292-8cf5-71fb7da3ad38",
+          "name": "12x12 Kilter Board OG",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 35,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000165",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-05-21 18:29:34.80534Z"
         }
       ]
     },

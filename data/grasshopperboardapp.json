@@ -286,6 +286,13 @@
       "name": "Social Climber",
       "latitude": 40.0566,
       "longitude": -82.47824
+    },
+    {
+      "id": 35144,
+      "username": "tcu_outdoor_center",
+      "name": "TCU Outdoor Center",
+      "latitude": 30.70774,
+      "longitude": -97.36392
     }
   ]
 }
