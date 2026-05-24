@@ -2337,6 +2337,13 @@
       "name": "Flowstone Climbing",
       "latitude": 34.05516,
       "longitude": -117.2049
+    },
+    {
+      "id": 265598,
+      "username": "rocksteadyclimb",
+      "name": "Rocksteady",
+      "latitude": 40.90429,
+      "longitude": -73.07511
     }
   ]
 }

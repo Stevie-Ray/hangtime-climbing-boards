@@ -98251,6 +98251,26 @@
     },
     {
       "type": "Feature",
+      "id": 265598,
+      "properties": {
+        "id": 265598,
+        "username": "rocksteadyclimb",
+        "latitude": 40.90429,
+        "longitude": -73.07511,
+        "title": "Rocksteady",
+        "description": "Tension Board at Rocksteady",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.07511,
+          40.90429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
