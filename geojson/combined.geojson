@@ -94111,26 +94111,6 @@
     },
     {
       "type": "Feature",
-      "id": 119054,
-      "properties": {
-        "id": 119054,
-        "username": "reachclimbingphilly",
-        "latitude": 40.10477,
-        "longitude": -75.32985,
-        "title": "Reach Climbing & Fitness",
-        "description": "Tension Board at Reach Climbing & Fitness",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.32985,
-          40.10477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 119301,
       "properties": {
         "id": 119301,

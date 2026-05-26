@@ -2289,24 +2289,6 @@
     },
     {
       "type": "Feature",
-      "id": 119054,
-      "properties": {
-        "id": 119054,
-        "username": "reachclimbingphilly",
-        "name": "Reach Climbing & Fitness",
-        "latitude": 40.10477,
-        "longitude": -75.32985
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.32985,
-          40.10477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 119301,
       "properties": {
         "id": 119301,
