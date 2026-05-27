@@ -33038,6 +33038,54 @@
     },
     {
       "type": "Feature",
+      "id": "8c7a39d4-9e33-4937-b966-4e4c0291618c",
+      "properties": {
+        "id": "8c7a39d4-9e33-4937-b966-4e4c0291618c",
+        "gym_uuid": "8c7a39d4-9e33-4937-b966-4e4c0291618c",
+        "address": "9600 S Dixie Hwy",
+        "city": "Miami",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "33156 ",
+        "latitude": 25.681666663169874,
+        "longitude": -80.31642357116426,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "dc27d904-f9e0-47fb-bf6f-490ff58ad0f0",
+            "wall_uuid": "dc27d904-f9e0-47fb-bf6f-490ff58ad0f0",
+            "gym_uuid": "8c7a39d4-9e33-4937-b966-4e4c0291618c",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-05-26 14:43:38.72598Z"
+          }
+        ],
+        "title": "Las Rocas",
+        "description": "Kilter Board at Las Rocas",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31642357116426,
+          25.681666663169874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "195169",
       "properties": {
         "id": "195169",
@@ -49154,6 +49202,54 @@
         "coordinates": [
           -104.9933117,
           39.73565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8e9aadbe-c569-4534-83ee-e1ba941bc032",
+      "properties": {
+        "id": "8e9aadbe-c569-4534-83ee-e1ba941bc032",
+        "gym_uuid": "8e9aadbe-c569-4534-83ee-e1ba941bc032",
+        "address": "607 Pena Dr Suite 300",
+        "city": "Davis",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "95618",
+        "latitude": 38.55057428350317,
+        "longitude": -121.71676532883576,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "4c121939-8cc2-4d5b-91e2-09cc7e336911",
+            "wall_uuid": "4c121939-8cc2-4d5b-91e2-09cc7e336911",
+            "gym_uuid": "8e9aadbe-c569-4534-83ee-e1ba941bc032",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-05-26 14:48:30.841273Z"
+          }
+        ],
+        "title": "The Stack Climbing Davis",
+        "description": "Kilter Board at The Stack Climbing Davis",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.71676532883576,
+          38.55057428350317
         ]
       }
     },
@@ -92491,26 +92587,6 @@
     },
     {
       "type": "Feature",
-      "id": 85627,
-      "properties": {
-        "id": 85627,
-        "username": "senderone_playavista",
-        "latitude": 33.97652,
-        "longitude": -118.41722,
-        "title": "Sender One Playa Vista",
-        "description": "Tension Board at Sender One Playa Vista",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.41722,
-          33.97652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85696,
       "properties": {
         "id": 85696,
@@ -94117,8 +94193,8 @@
         "username": "sbp_upperwalls",
         "latitude": 47.65152,
         "longitude": -122.34175,
-        "title": "SBP Upper Walls",
-        "description": "Tension Board at SBP Upper Walls",
+        "title": "Seattle Boudering Project Upper Walls",
+        "description": "Tension Board at Seattle Boudering Project Upper Walls",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -98246,6 +98322,26 @@
         "coordinates": [
           -73.07511,
           40.90429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266109,
+      "properties": {
+        "id": 266109,
+        "username": "tchsheffield",
+        "latitude": 53.39067,
+        "longitude": -1.45063,
+        "title": "The Climbing Hangar Sheffield",
+        "description": "Tension Board at The Climbing Hangar Sheffield",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.45063,
+          53.39067
         ]
       }
     },

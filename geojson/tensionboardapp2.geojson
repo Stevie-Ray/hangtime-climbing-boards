@@ -831,24 +831,6 @@
     },
     {
       "type": "Feature",
-      "id": 85627,
-      "properties": {
-        "id": 85627,
-        "username": "senderone_playavista",
-        "name": "Sender One Playa Vista",
-        "latitude": 33.97652,
-        "longitude": -118.41722
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.41722,
-          33.97652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85696,
       "properties": {
         "id": 85696,
@@ -2293,7 +2275,7 @@
       "properties": {
         "id": 119301,
         "username": "sbp_upperwalls",
-        "name": "SBP Upper Walls",
+        "name": "Seattle Boudering Project Upper Walls",
         "latitude": 47.65152,
         "longitude": -122.34175
       },
@@ -6010,6 +5992,24 @@
         "coordinates": [
           -73.07511,
           40.90429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266109,
+      "properties": {
+        "id": 266109,
+        "username": "tchsheffield",
+        "name": "The Climbing Hangar Sheffield",
+        "latitude": 53.39067,
+        "longitude": -1.45063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.45063,
+          53.39067
         ]
       }
     }

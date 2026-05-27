@@ -23404,6 +23404,41 @@
       ]
     },
     {
+      "id": "8c7a39d4-9e33-4937-b966-4e4c0291618c",
+      "gym_uuid": "8c7a39d4-9e33-4937-b966-4e4c0291618c",
+      "name": "Las Rocas",
+      "address": "9600 S Dixie Hwy",
+      "city": "Miami",
+      "country": "USA",
+      "countryCode": null,
+      "postal_code": "33156 ",
+      "latitude": 25.681666663169874,
+      "longitude": -80.31642357116426,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "dc27d904-f9e0-47fb-bf6f-490ff58ad0f0",
+          "wall_uuid": "dc27d904-f9e0-47fb-bf6f-490ff58ad0f0",
+          "gym_uuid": "8c7a39d4-9e33-4937-b966-4e4c0291618c",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-05-26 14:43:38.72598Z"
+        }
+      ]
+    },
+    {
       "id": "195169",
       "gym_uuid": "195169",
       "name": "Latitude Climbing & Fitness Hampton",
@@ -35270,6 +35305,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2022-06-09 17:21:06.087957Z"
+        }
+      ]
+    },
+    {
+      "id": "8e9aadbe-c569-4534-83ee-e1ba941bc032",
+      "gym_uuid": "8e9aadbe-c569-4534-83ee-e1ba941bc032",
+      "name": "The Stack Climbing Davis",
+      "address": "607 Pena Dr Suite 300",
+      "city": "Davis",
+      "country": "USA",
+      "countryCode": null,
+      "postal_code": "95618",
+      "latitude": 38.55057428350317,
+      "longitude": -121.71676532883576,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "4c121939-8cc2-4d5b-91e2-09cc7e336911",
+          "wall_uuid": "4c121939-8cc2-4d5b-91e2-09cc7e336911",
+          "gym_uuid": "8e9aadbe-c569-4534-83ee-e1ba941bc032",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-05-26 14:48:30.841273Z"
         }
       ]
     },
