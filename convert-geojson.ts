@@ -1,10 +1,13 @@
 import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
-import { featureCollection, point } from "@turf/helpers";
 
 // Boards
 import { boards } from "./boards.ts";
+import {
+  createFeatureCollection,
+  createPointFeature,
+} from "./geojson-helpers.ts";
 
 // Interfaces
 import type { FeatureCollection } from "geojson";
@@ -46,7 +49,7 @@ const validateCoordinates = (
 // Pin conversion functions
 const convertAuroraPin = (pin: AuroraPin, filename: string) => {
   validateCoordinates(pin.longitude, pin.latitude, `id ${pin.id}`, filename);
-  return point([pin.longitude, pin.latitude], pin, { id: pin.id });
+  return createPointFeature([pin.longitude, pin.latitude], pin, pin.id);
 };
 
 const convertKilterPin = (pin: KilterPin, filename: string) => {
@@ -55,17 +58,17 @@ const convertKilterPin = (pin: KilterPin, filename: string) => {
   }
 
   validateCoordinates(pin.longitude, pin.latitude, `id ${pin.id}`, filename);
-  return point([pin.longitude, pin.latitude], pin, { id: pin.id });
+  return createPointFeature([pin.longitude, pin.latitude], pin, pin.id);
 };
 
 const convertMoonboardPin = (pin: MoonboardPin, filename: string) => {
   validateCoordinates(pin.Longitude, pin.Latitude, pin.Name, filename);
-  return point([pin.Longitude, pin.Latitude], pin, {});
+  return createPointFeature([pin.Longitude, pin.Latitude], pin);
 };
 
 const convertTwelveClimbPin = (pin: TwelveClimbPin, filename: string) => {
   validateCoordinates(pin.longitude, pin.latitude, pin.name, filename);
-  return point([pin.longitude, pin.latitude], pin, {});
+  return createPointFeature([pin.longitude, pin.latitude], pin);
 };
 
 // Main conversion function
@@ -94,7 +97,7 @@ const convertBoardData = (filename: string): FeatureCollection | false => {
       },
     );
 
-    return featureCollection(features);
+    return createFeatureCollection(features);
   } catch (err) {
     if (err instanceof Error) {
       console.error(`Unable to convert ${filename}: ${err.message}`);

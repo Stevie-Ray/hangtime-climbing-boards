@@ -1,10 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
-import { featureCollection } from "@turf/helpers";
 
 // Boards
 import { boards, type BoardType } from "./boards.ts";
+import { createFeatureCollection } from "./geojson-helpers.ts";
 
 // Interfaces
 import type { SimplestyleSpec } from "./interfaces/simplestyle-spec.ts";
@@ -98,7 +98,7 @@ const combineGeoJSONFiles = (): void => {
     allFeatures.push(...features);
   });
 
-  const combinedGeoJSON = featureCollection(allFeatures);
+  const combinedGeoJSON = createFeatureCollection(allFeatures);
   const outputFilePath = path.join(
     process.cwd(),
     "geojson",
