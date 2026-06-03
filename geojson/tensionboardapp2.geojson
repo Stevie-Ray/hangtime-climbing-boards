@@ -273,6 +273,24 @@
     },
     {
       "type": "Feature",
+      "id": 38880,
+      "properties": {
+        "id": 38880,
+        "username": "urbanclimb_adelaide",
+        "name": "Urban Climb Adelaide",
+        "latitude": -34.92305,
+        "longitude": 138.59481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.59481,
+          -34.92305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 45441,
       "properties": {
         "id": 45441,
@@ -1191,24 +1209,6 @@
     },
     {
       "type": "Feature",
-      "id": 87173,
-      "properties": {
-        "id": 87173,
-        "username": "urbanapes.basement",
-        "name": "Urban Apes Basement Berlin",
-        "latitude": 52.50402,
-        "longitude": 13.38439
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.38439,
-          52.50402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 87583,
       "properties": {
         "id": 87583,
@@ -1285,7 +1285,7 @@
       "properties": {
         "id": 88203,
         "username": "vitalsocal",
-        "name": "Vital California",
+        "name": "Vital California Oceanside",
         "latitude": 33.18991,
         "longitude": -117.37477
       },

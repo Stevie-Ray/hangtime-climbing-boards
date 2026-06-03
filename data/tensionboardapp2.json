@@ -106,6 +106,13 @@
       "longitude": -121.29945
     },
     {
+      "id": 38880,
+      "username": "urbanclimb_adelaide",
+      "name": "Urban Climb Adelaide",
+      "latitude": -34.92305,
+      "longitude": 138.59481
+    },
+    {
       "id": 45441,
       "username": "bendrockgym",
       "name": "Bend Rock Gym",
@@ -463,13 +470,6 @@
       "longitude": -78.86871
     },
     {
-      "id": 87173,
-      "username": "urbanapes.basement",
-      "name": "Urban Apes Basement Berlin",
-      "latitude": 52.50402,
-      "longitude": 13.38439
-    },
-    {
       "id": 87583,
       "username": "puebloathleticclub",
       "name": "Pueblo Athletic Club",
@@ -500,7 +500,7 @@
     {
       "id": 88203,
       "username": "vitalsocal",
-      "name": "Vital California",
+      "name": "Vital California Oceanside",
       "latitude": 33.18991,
       "longitude": -117.37477
     },

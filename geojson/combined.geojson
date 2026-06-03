@@ -11969,6 +11969,54 @@
     },
     {
       "type": "Feature",
+      "id": "91d70502-6bae-4d7d-8f05-d0bb177ce7fa",
+      "properties": {
+        "id": "91d70502-6bae-4d7d-8f05-d0bb177ce7fa",
+        "gym_uuid": "91d70502-6bae-4d7d-8f05-d0bb177ce7fa",
+        "address": "Levent, Büyükdere Cd. No:171",
+        "city": "İstanbul",
+        "country": "Turkey",
+        "countryCode": null,
+        "postal_code": "34330",
+        "latitude": 41.07611175615464,
+        "longitude": 29.01340927116426,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "ccbb224a-f1a9-4b01-9df8-f87a33e622ee",
+            "wall_uuid": "ccbb224a-f1a9-4b01-9df8-f87a33e622ee",
+            "gym_uuid": "91d70502-6bae-4d7d-8f05-d0bb177ce7fa",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 35,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-02 17:51:48.872661Z"
+          }
+        ],
+        "title": "Boulderhane",
+        "description": "Kilter Board at Boulderhane",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.01340927116426,
+          41.07611175615464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "155391",
       "properties": {
         "id": "155391",
@@ -46418,6 +46466,54 @@
         "coordinates": [
           -85.64668,
           42.93502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0d44638-a3aa-4fe2-aaf0-a4a230e53f9d",
+      "properties": {
+        "id": "d0d44638-a3aa-4fe2-aaf0-a4a230e53f9d",
+        "gym_uuid": "d0d44638-a3aa-4fe2-aaf0-a4a230e53f9d",
+        "address": "2655 E Grand River Ave, Suite A",
+        "city": "East Lansing",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "48823",
+        "latitude": 42.934894888058054,
+        "longitude": -85.64661628465706,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "dd8c502a-206e-4840-a548-4ac786718e49",
+            "wall_uuid": "dd8c502a-206e-4840-a548-4ac786718e49",
+            "gym_uuid": "d0d44638-a3aa-4fe2-aaf0-a4a230e53f9d",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 15,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-02 17:56:25.992049Z"
+          }
+        ],
+        "title": "Terra Firma Bouldering Co",
+        "description": "Kilter Board at Terra Firma Bouldering Co",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64661628465706,
+          42.934894888058054
         ]
       }
     },
@@ -91967,6 +92063,26 @@
     },
     {
       "type": "Feature",
+      "id": 38880,
+      "properties": {
+        "id": 38880,
+        "username": "urbanclimb_adelaide",
+        "latitude": -34.92305,
+        "longitude": 138.59481,
+        "title": "Urban Climb Adelaide",
+        "description": "Tension Board at Urban Climb Adelaide",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.59481,
+          -34.92305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 45441,
       "properties": {
         "id": 45441,
@@ -92987,26 +93103,6 @@
     },
     {
       "type": "Feature",
-      "id": 87173,
-      "properties": {
-        "id": 87173,
-        "username": "urbanapes.basement",
-        "latitude": 52.50402,
-        "longitude": 13.38439,
-        "title": "Urban Apes Basement Berlin",
-        "description": "Tension Board at Urban Apes Basement Berlin",
-        "marker-color": "#000000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.38439,
-          52.50402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 87583,
       "properties": {
         "id": 87583,
@@ -93093,8 +93189,8 @@
         "username": "vitalsocal",
         "latitude": 33.18991,
         "longitude": -117.37477,
-        "title": "Vital California",
-        "description": "Tension Board at Vital California",
+        "title": "Vital California Oceanside",
+        "description": "Tension Board at Vital California Oceanside",
         "marker-color": "#000000"
       },
       "geometry": {
