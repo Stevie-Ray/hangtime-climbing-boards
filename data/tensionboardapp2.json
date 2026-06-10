@@ -2337,6 +2337,27 @@
       "name": "The Climbing Hangar Sheffield",
       "latitude": 53.39067,
       "longitude": -1.45063
+    },
+    {
+      "id": 269111,
+      "username": "benchmarkclimbing_sf",
+      "name": "Benchmark Climbing SF",
+      "latitude": 37.78891,
+      "longitude": -122.42163
+    },
+    {
+      "id": 269112,
+      "username": "benchmarkclimbing_berkeley",
+      "name": "Benchmark Climbing Berkeley",
+      "latitude": 37.87804,
+      "longitude": -122.26885
+    },
+    {
+      "id": 269119,
+      "username": "capyclimb",
+      "name": "CapyClimb",
+      "latitude": 35.70682,
+      "longitude": 139.66606
     }
   ]
 }

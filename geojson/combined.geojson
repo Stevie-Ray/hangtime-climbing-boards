@@ -1363,6 +1363,54 @@
     },
     {
       "type": "Feature",
+      "id": "fdf19bb7-81d8-49ff-a2dc-b8ad223464f2",
+      "properties": {
+        "id": "fdf19bb7-81d8-49ff-a2dc-b8ad223464f2",
+        "gym_uuid": "fdf19bb7-81d8-49ff-a2dc-b8ad223464f2",
+        "address": "N.139 Mixc F1 wan xiang tian di , 369 guangji na Road",
+        "city": "Gusu District, Suzhou City",
+        "country": "CN",
+        "countryCode": null,
+        "postal_code": null,
+        "latitude": 31.298881516800712,
+        "longitude": 120.58426845767148,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "9ba597a7-d4da-4b02-8352-dc04d79f4348",
+            "wall_uuid": "9ba597a7-d4da-4b02-8352-dc04d79f4348",
+            "gym_uuid": "fdf19bb7-81d8-49ff-a2dc-b8ad223464f2",
+            "name": "OG Kilter Board 角度调节范围",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-09 03:22:08.525734Z"
+          }
+        ],
+        "title": "\"九星龙国际攀岩（万象店） Jiuxinglong Climbing Gym (Mixc）\"",
+        "description": "Kilter Board at \"九星龙国际攀岩（万象店） Jiuxinglong Climbing Gym (Mixc）\"",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58426845767148,
+          31.298881516800712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "258851",
       "properties": {
         "id": "258851",
@@ -8194,54 +8242,6 @@
         "coordinates": [
           2.42529,
           48.61244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "591615",
-      "properties": {
-        "id": "591615",
-        "gym_uuid": "591615",
-        "address": "9 Av du Danemark",
-        "city": "Tours",
-        "country": "FR",
-        "countryCode": null,
-        "postal_code": "37100",
-        "latitude": 47.43259,
-        "longitude": 0.69433,
-        "gym_logo": null,
-        "banner_logo": null,
-        "instagram_username": null,
-        "is_listed": null,
-        "walls": [
-          {
-            "id": "7d7c9691-004b-468b-a982-f28e1b5491ca",
-            "wall_uuid": "7d7c9691-004b-468b-a982-f28e1b5491ca",
-            "gym_uuid": "591615",
-            "name": "Kilter Board",
-            "product_name": "Kilter Board Original",
-            "product_layout_uuid": "10",
-            "is_adjustable": 1,
-            "min_angle": null,
-            "max_angle": null,
-            "angle_increments": null,
-            "angle": 40,
-            "serial_number": "751742",
-            "accumulated_hold_set_value": 3,
-            "is_listed": 1,
-            "created_at": "2024-11-27 00:57:59.600135Z"
-          }
-        ],
-        "title": "Block'Out Tours",
-        "description": "Kilter Board at Block'Out Tours",
-        "marker-color": "#ED1D24"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.69433,
-          47.43259
         ]
       }
     },
@@ -98438,6 +98438,66 @@
         "coordinates": [
           -1.45063,
           53.39067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269111,
+      "properties": {
+        "id": 269111,
+        "username": "benchmarkclimbing_sf",
+        "latitude": 37.78891,
+        "longitude": -122.42163,
+        "title": "Benchmark Climbing SF",
+        "description": "Tension Board at Benchmark Climbing SF",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42163,
+          37.78891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269112,
+      "properties": {
+        "id": 269112,
+        "username": "benchmarkclimbing_berkeley",
+        "latitude": 37.87804,
+        "longitude": -122.26885,
+        "title": "Benchmark Climbing Berkeley",
+        "description": "Tension Board at Benchmark Climbing Berkeley",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26885,
+          37.87804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269119,
+      "properties": {
+        "id": 269119,
+        "username": "capyclimb",
+        "latitude": 35.70682,
+        "longitude": 139.66606,
+        "title": "CapyClimb",
+        "description": "Tension Board at CapyClimb",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66606,
+          35.70682
         ]
       }
     },

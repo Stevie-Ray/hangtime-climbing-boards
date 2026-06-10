@@ -6012,6 +6012,60 @@
           53.39067
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 269111,
+      "properties": {
+        "id": 269111,
+        "username": "benchmarkclimbing_sf",
+        "name": "Benchmark Climbing SF",
+        "latitude": 37.78891,
+        "longitude": -122.42163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42163,
+          37.78891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269112,
+      "properties": {
+        "id": 269112,
+        "username": "benchmarkclimbing_berkeley",
+        "name": "Benchmark Climbing Berkeley",
+        "latitude": 37.87804,
+        "longitude": -122.26885
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26885,
+          37.87804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269119,
+      "properties": {
+        "id": 269119,
+        "username": "capyclimb",
+        "name": "CapyClimb",
+        "latitude": 35.70682,
+        "longitude": 139.66606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66606,
+          35.70682
+        ]
+      }
     }
   ]
 }
