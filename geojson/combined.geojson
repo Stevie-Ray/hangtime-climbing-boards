@@ -1347,7 +1347,7 @@
       "properties": {
         "id": 35144,
         "username": "tcu_outdoor_center",
-        "latitude": 30.70774,
+        "latitude": 32.70777,
         "longitude": -97.36392,
         "title": "TCU Outdoor Center",
         "description": "Grasshopper Board at TCU Outdoor Center",
@@ -1357,7 +1357,7 @@
         "type": "Point",
         "coordinates": [
           -97.36392,
-          30.70774
+          32.70777
         ]
       }
     },
@@ -98498,6 +98498,26 @@
         "coordinates": [
           139.66606,
           35.70682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269432,
+      "properties": {
+        "id": 269432,
+        "username": "rokcclimb_north",
+        "latitude": 39.13635,
+        "longitude": -94.5724,
+        "title": "RoKC North",
+        "description": "Tension Board at RoKC North",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5724,
+          39.13635
         ]
       }
     },

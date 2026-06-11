@@ -2358,6 +2358,13 @@
       "name": "CapyClimb",
       "latitude": 35.70682,
       "longitude": 139.66606
+    },
+    {
+      "id": 269432,
+      "username": "rokcclimb_north",
+      "name": "RoKC North",
+      "latitude": 39.13635,
+      "longitude": -94.5724
     }
   ]
 }

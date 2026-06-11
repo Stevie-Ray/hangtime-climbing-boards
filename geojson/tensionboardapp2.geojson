@@ -6066,6 +6066,24 @@
           35.70682
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 269432,
+      "properties": {
+        "id": 269432,
+        "username": "rokcclimb_north",
+        "name": "RoKC North",
+        "latitude": 39.13635,
+        "longitude": -94.5724
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5724,
+          39.13635
+        ]
+      }
     }
   ]
 }
