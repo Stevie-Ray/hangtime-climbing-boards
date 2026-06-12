@@ -49,6 +49,52 @@
     },
     {
       "type": "Feature",
+      "id": "c6044476-085b-4922-9655-b91ae6e0f06b",
+      "properties": {
+        "id": "c6044476-085b-4922-9655-b91ae6e0f06b",
+        "gym_uuid": "c6044476-085b-4922-9655-b91ae6e0f06b",
+        "name": "1778 CLIMBING",
+        "address": "A801, B1, No 133 Hai Chao Road, Huangpu District, Shanghai, China",
+        "city": "Shanghai",
+        "country": "China",
+        "countryCode": null,
+        "postal_code": "200011",
+        "latitude": 31.214574311841517,
+        "longitude": 121.49361072562584,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "bef5f406-e62c-4cb9-a13b-51893d04792f",
+            "wall_uuid": "bef5f406-e62c-4cb9-a13b-51893d04792f",
+            "gym_uuid": "c6044476-085b-4922-9655-b91ae6e0f06b",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-11 15:56:14.302697Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49361072562584,
+          31.214574311841517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "258851",
       "properties": {
         "id": "258851",
@@ -13293,6 +13339,52 @@
     },
     {
       "type": "Feature",
+      "id": "c6d8b6df-7059-4990-8792-435973797e91",
+      "properties": {
+        "id": "c6d8b6df-7059-4990-8792-435973797e91",
+        "gym_uuid": "c6d8b6df-7059-4990-8792-435973797e91",
+        "name": "CapyClimb",
+        "address": "5 Chome-61-4 Nakano",
+        "city": "Nakano City, Tokyo",
+        "country": "JPN",
+        "countryCode": null,
+        "postal_code": "164-0001",
+        "latitude": 35.709834416741565,
+        "longitude": 139.6658118837558,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "db981215-89ce-43cf-86ba-96640ef3b2f8",
+            "wall_uuid": "db981215-89ce-43cf-86ba-96640ef3b2f8",
+            "gym_uuid": "c6d8b6df-7059-4990-8792-435973797e91",
+            "name": "OG KIlter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 30,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-11 15:25:06.807332Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6658118837558,
+          35.709834416741565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "536685",
       "properties": {
         "id": "536685",
@@ -16738,6 +16830,52 @@
         "coordinates": [
           76.8762,
           43.2409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4be9fb6-aaa3-4855-a511-5092acd83900",
+      "properties": {
+        "id": "d4be9fb6-aaa3-4855-a511-5092acd83900",
+        "gym_uuid": "d4be9fb6-aaa3-4855-a511-5092acd83900",
+        "name": "Cracker boardroom",
+        "address": "223-8, Mangu-ro",
+        "city": "Seoul",
+        "country": "Republic of Korea",
+        "countryCode": null,
+        "postal_code": "2117",
+        "latitude": 37.59521079281958,
+        "longitude": 127.07784550983119,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "711ab017-7ad5-48d7-a7f2-4d3c26312c09",
+            "wall_uuid": "711ab017-7ad5-48d7-a7f2-4d3c26312c09",
+            "gym_uuid": "d4be9fb6-aaa3-4855-a511-5092acd83900",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-11 15:35:33.977243Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07784550983119,
+          37.59521079281958
         ]
       }
     },
@@ -38843,6 +38981,52 @@
         "coordinates": [
           1.26798,
           42.05786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9a00a96d-9370-49e0-9cda-1a1b481f7908",
+      "properties": {
+        "id": "9a00a96d-9370-49e0-9cda-1a1b481f7908",
+        "gym_uuid": "9a00a96d-9370-49e0-9cda-1a1b481f7908",
+        "name": "Rocódromo CerezaWall",
+        "address": "Calle Goicoechea, 36 PR 8a",
+        "city": "Plasencia",
+        "country": null,
+        "countryCode": null,
+        "postal_code": "10600",
+        "latitude": 40.00254575089308,
+        "longitude": -6.121014742329483,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "2511236c-2287-4f54-9d60-6935dcb270ab",
+            "wall_uuid": "2511236c-2287-4f54-9d60-6935dcb270ab",
+            "gym_uuid": "9a00a96d-9370-49e0-9cda-1a1b481f7908",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-11 16:02:29.643244Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.121014742329483,
+          40.00254575089308
         ]
       }
     },

@@ -2365,6 +2365,13 @@
       "name": "RoKC North",
       "latitude": 39.13635,
       "longitude": -94.5724
+    },
+    {
+      "id": 269569,
+      "username": "rokcclimb_underground",
+      "name": "RoKC Underground",
+      "latitude": 39.06982,
+      "longitude": -94.60143
     }
   ]
 }
