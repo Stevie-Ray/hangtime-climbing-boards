@@ -12488,6 +12488,41 @@
       ]
     },
     {
+      "id": "05324953-9865-483d-a056-5b35fc0670c4",
+      "gym_uuid": "05324953-9865-483d-a056-5b35fc0670c4",
+      "name": "Climb’Zone",
+      "address": "110 Avenue de Belgique",
+      "city": "Montauban",
+      "country": "FR",
+      "countryCode": null,
+      "postal_code": "82000",
+      "latitude": 43.99270161681986,
+      "longitude": 1.336295113494226,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "71739c37-0051-41d2-897b-5340d0c08a62",
+          "wall_uuid": "71739c37-0051-41d2-897b-5340d0c08a62",
+          "gym_uuid": "05324953-9865-483d-a056-5b35fc0670c4",
+          "name": "OG Kilter Board Wide",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "28",
+          "is_adjustable": 1,
+          "min_angle": 15,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-06-12 19:46:54.469208Z"
+        }
+      ]
+    },
+    {
       "id": "28fc7b03-79fa-4031-831c-8d358c3846ae",
       "gym_uuid": "28fc7b03-79fa-4031-831c-8d358c3846ae",
       "name": "Club Deportivo la Gotera",
