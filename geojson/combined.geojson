@@ -98783,6 +98783,26 @@
     },
     {
       "type": "Feature",
+      "id": 269991,
+      "properties": {
+        "id": 269991,
+        "username": "thrashinclimbandskate",
+        "latitude": 41.30573,
+        "longitude": -111.829766,
+        "title": "THRASHIN Climb & Skate",
+        "description": "Tension Board at THRASHIN Climb & Skate",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.829766,
+          41.30573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
