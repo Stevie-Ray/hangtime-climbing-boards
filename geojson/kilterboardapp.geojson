@@ -43531,8 +43531,8 @@
         "country": "USA",
         "countryCode": null,
         "postal_code": "49507",
-        "latitude": 42.93502,
-        "longitude": -85.64668,
+        "latitude": 42.93491845270286,
+        "longitude": -85.64672357301721,
         "gym_logo": null,
         "banner_logo": null,
         "instagram_username": null,
@@ -43560,8 +43560,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.64668,
-          42.93502
+          -85.64672357301721,
+          42.93491845270286
         ]
       }
     },
@@ -43577,8 +43577,8 @@
         "country": "USA",
         "countryCode": null,
         "postal_code": "48823",
-        "latitude": 42.934894888058054,
-        "longitude": -85.64661628465706,
+        "latitude": 42.72423973418426,
+        "longitude": -84.44852295396556,
         "gym_logo": null,
         "banner_logo": null,
         "instagram_username": null,
@@ -43606,8 +43606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.64661628465706,
-          42.934894888058054
+          -84.44852295396556,
+          42.72423973418426
         ]
       }
     },
