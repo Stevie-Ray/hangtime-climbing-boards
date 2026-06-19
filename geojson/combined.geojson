@@ -92043,6 +92043,26 @@
     },
     {
       "type": "Feature",
+      "id": 11118,
+      "properties": {
+        "id": 11118,
+        "username": "steil_boulderhalle",
+        "latitude": 48.998968,
+        "longitude": 8.361511,
+        "title": "Steil Boulderhalle",
+        "description": "Tension Board at Steil Boulderhalle",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.361511,
+          48.998968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 15330,
       "properties": {
         "id": 15330,
