@@ -53,11 +53,11 @@
   "dependencies": {
     "@powersync/node": "^0.18.8",
     "dotenv": "^17.4.2",
-    "user-agents": "^2.1.92"
+    "user-agents": "^2.1.99"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^22.19.21",
+    "@types/node": "^22.20.0",
     "@types/user-agents": "^1.0.4",
     "typescript": "^6.0.3"
   }

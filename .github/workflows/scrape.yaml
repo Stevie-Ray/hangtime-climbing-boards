@@ -18,6 +18,13 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8191:8191
+        env:
+          LOG_LEVEL: info
     outputs:
       tag: ${{ steps.version.outputs.tag }}
       version: ${{ steps.version.outputs.version }}
@@ -34,6 +41,17 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci
+      - name: Wait for FlareSolverr
+        run: |
+          for attempt in {1..30}; do
+            if curl -fsS http://127.0.0.1:8191/health >/dev/null; then
+              exit 0
+            fi
+            echo "Waiting for FlareSolverr (${attempt}/30)"
+            sleep 2
+          done
+          curl -v http://127.0.0.1:8191/health
+          exit 1
       - name: Fetch latest data
         env:
           MOONBOARD_USERNAME: ${{ secrets.MOONBOARD_USERNAME }}
@@ -52,6 +70,7 @@ jobs:
           TOUCHSTONEBOARDAPP_PASSWORD: ${{ secrets.TOUCHSTONEBOARDAPP_PASSWORD }}
           AURORABOARDAPP_USERNAME: ${{ secrets.AURORABOARDAPP_USERNAME }}
           AURORABOARDAPP_PASSWORD: ${{ secrets.AURORABOARDAPP_PASSWORD }}
+          FLARESOLVERR_URL: http://127.0.0.1:8191/v1
         run: npm run build
       - name: Detect generated changes
         id: changes

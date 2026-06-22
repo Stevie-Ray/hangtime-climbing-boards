@@ -1,5 +1,24 @@
+import process from "node:process";
 import UserAgent from "user-agents";
 import type { MoonboardPin } from "../interfaces/pin.ts";
+
+interface FlareSolverrCookie {
+  name: string;
+  value: string;
+}
+
+interface FlareSolverrSolution {
+  response?: string;
+  cookies?: FlareSolverrCookie[];
+  userAgent?: string;
+  status?: number;
+}
+
+interface FlareSolverrResponse {
+  status?: "ok" | "error";
+  message?: string;
+  solution?: FlareSolverrSolution;
+}
 
 /**
  * Moonboard-specific API client for handling Moonboard API interactions.
@@ -11,11 +30,23 @@ export class MoonboardClient {
   private readonly maxRetries: number = 3;
   private readonly retryDelay: number = 1000; // 1 second
   private readonly host = "https://moonboard.com";
+  private readonly flaresolverrUrl: string | undefined;
+  private readonly flaresolverrMaxTimeout: number;
   private isAuthenticated: boolean = false;
   private sessionCookies: string[] = [];
+  private userAgent: string;
 
-  constructor() {
-    // No initialization needed for fetch-based client
+  constructor(flaresolverrUrl = process.env.FLARESOLVERR_URL?.trim()) {
+    const flaresolverrMaxTimeout = Number(
+      process.env.FLARESOLVERR_MAX_TIMEOUT_MS ?? 120_000,
+    );
+
+    this.flaresolverrUrl = flaresolverrUrl || undefined;
+    this.flaresolverrMaxTimeout = Number.isFinite(flaresolverrMaxTimeout) &&
+        flaresolverrMaxTimeout > 0
+      ? flaresolverrMaxTimeout
+      : 120_000;
+    this.userAgent = new UserAgent({ deviceCategory: "mobile" }).toString();
   }
 
   /**
@@ -49,21 +80,34 @@ export class MoonboardClient {
         if (nameValue && nameValue.includes("=")) {
           const [name, ...valueParts] = nameValue.split("=");
           const value = valueParts.join("="); // Handle values that contain '='
-          if (name && value) {
-            const cookieName = name.trim();
-            const cookieValue = value.trim();
-
-            // Remove any existing cookie with the same name
-            this.sessionCookies = this.sessionCookies.filter((cookie) =>
-              !cookie.startsWith(`${cookieName}=`)
-            );
-
-            // Add the new cookie
-            this.sessionCookies.push(`${cookieName}=${cookieValue}`);
+          if (name && value !== undefined) {
+            this.setCookie(name.trim(), value.trim());
           }
         }
       }
     });
+  }
+
+  private parseFlareSolverrCookies(cookies?: FlareSolverrCookie[]): void {
+    if (!cookies) return;
+
+    for (const cookie of cookies) {
+      if (cookie.name && cookie.value !== undefined) {
+        this.setCookie(cookie.name, cookie.value);
+      }
+    }
+  }
+
+  private setCookie(name: string, value: string): void {
+    if (!name) return;
+
+    // Remove any existing cookie with the same name
+    this.sessionCookies = this.sessionCookies.filter((cookie) =>
+      !cookie.startsWith(`${name}=`)
+    );
+
+    // Add the new cookie
+    this.sessionCookies.push(`${name}=${value}`);
   }
 
   /**
@@ -71,6 +115,75 @@ export class MoonboardClient {
    */
   private getCookieString(): string {
     return this.sessionCookies.join("; ");
+  }
+
+  private async solveWithFlareSolverr(
+    url: string,
+  ): Promise<FlareSolverrSolution> {
+    if (!this.flaresolverrUrl) {
+      throw new Error("FLARESOLVERR_URL is not configured");
+    }
+
+    const response = await fetch(this.flaresolverrUrl, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        cmd: "request.get",
+        url,
+        maxTimeout: this.flaresolverrMaxTimeout,
+        disableMedia: true,
+      }),
+      signal: AbortSignal.timeout(this.flaresolverrMaxTimeout + 5_000),
+    });
+
+    if (!response.ok) {
+      throw new Error(
+        `FlareSolverr HTTP ${response.status}: ${response.statusText}`,
+      );
+    }
+
+    const body = await response.json() as FlareSolverrResponse;
+
+    if (body.status !== "ok" || !body.solution) {
+      throw new Error(
+        `FlareSolverr failed: ${body.message || "missing solution"}`,
+      );
+    }
+
+    this.parseFlareSolverrCookies(body.solution.cookies);
+    if (body.solution.userAgent) {
+      this.userAgent = body.solution.userAgent;
+    }
+
+    return body.solution;
+  }
+
+  private async fetchLoginPage(): Promise<string> {
+    const loginUrl = `${this.host}/account/login`;
+
+    if (this.flaresolverrUrl) {
+      const solution = await this.solveWithFlareSolverr(loginUrl);
+      if (!solution.response) {
+        throw new Error("FlareSolverr returned an empty login page");
+      }
+      return solution.response;
+    }
+
+    const loginPageResponse = await fetch(loginUrl, {
+      headers: {
+        "User-Agent": this.userAgent,
+      },
+      credentials: "include",
+    });
+
+    if (loginPageResponse.status !== 200) {
+      throw new Error(`Login page failed: ${loginPageResponse.status}`);
+    }
+
+    this.parseCookies(this.getSetCookieValues(loginPageResponse.headers));
+    return await loginPageResponse.text();
   }
 
   /**
@@ -82,18 +195,7 @@ export class MoonboardClient {
   async authenticate(username: string, password: string): Promise<void> {
     try {
       // Step 1: Get the login page to extract CSRF tokens
-      const loginPageResponse = await fetch(`${this.host}/account/login`, {
-        credentials: "include",
-      });
-
-      if (loginPageResponse.status !== 200) {
-        throw new Error(`Login page failed: ${loginPageResponse.status}`);
-      }
-
-      const loginPageText = await loginPageResponse.text();
-
-      // Parse and store cookies from the login page response (getSetCookie() returns all headers)
-      this.parseCookies(this.getSetCookieValues(loginPageResponse.headers));
+      const loginPageText = await this.fetchLoginPage();
 
       // Step 2: Extract CSRF tokens from the login form
       const formMatch = loginPageText.match(
@@ -121,7 +223,9 @@ export class MoonboardClient {
       // Step 3: Perform login
       const loginHeaders: Record<string, string> = {
         "Content-Type": "application/x-www-form-urlencoded",
+        "Origin": this.host,
         "Referer": `${this.host}/account/login`,
+        "User-Agent": this.userAgent,
       };
 
       const cookieString = this.getCookieString();
@@ -158,6 +262,7 @@ export class MoonboardClient {
             method: "GET",
             headers: {
               "Cookie": this.getCookieString(),
+              "User-Agent": this.userAgent,
             },
             credentials: "include",
           });
@@ -225,12 +330,10 @@ export class MoonboardClient {
         throw new Error("Authentication required. Call authenticate() first.");
       }
 
-      const userAgent = new UserAgent({ deviceCategory: "mobile" });
-
       const headers: Record<string, string> = {
         "Accept": "application/json",
         "Content-Type": "application/json",
-        "User-Agent": userAgent.toString(),
+        "User-Agent": this.userAgent,
         ...(options.headers as Record<string, string> || {}),
       };
 
