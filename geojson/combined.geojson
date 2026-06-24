@@ -31022,8 +31022,8 @@
         "country": "US",
         "countryCode": null,
         "postal_code": "80503",
-        "latitude": 40.192383900269895,
-        "longitude": -105.13883549813411,
+        "latitude": 40.193695,
+        "longitude": -105.151989,
         "gym_logo": null,
         "banner_logo": null,
         "instagram_username": null,
@@ -31190,8 +31190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.13883549813411,
-          40.192383900269895
+          -105.151989,
+          40.193695
         ]
       }
     },
