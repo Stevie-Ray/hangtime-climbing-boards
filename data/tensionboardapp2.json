@@ -2386,6 +2386,20 @@
       "name": "THRASHIN Climb & Skate",
       "latitude": 41.30573,
       "longitude": -111.829766
+    },
+    {
+      "id": 272215,
+      "username": "funabashirocky",
+      "name": "Rocky Funabashi",
+      "latitude": 35.700068,
+      "longitude": 139.975173
+    },
+    {
+      "id": 272219,
+      "username": "klimmerei",
+      "name": "Klimmerei Boulder",
+      "latitude": 47.157655,
+      "longitude": 9.806525
     }
   ]
 }

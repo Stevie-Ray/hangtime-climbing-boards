@@ -6138,6 +6138,42 @@
           41.30573
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 272215,
+      "properties": {
+        "id": 272215,
+        "username": "funabashirocky",
+        "name": "Rocky Funabashi",
+        "latitude": 35.700068,
+        "longitude": 139.975173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.975173,
+          35.700068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272219,
+      "properties": {
+        "id": 272219,
+        "username": "klimmerei",
+        "name": "Klimmerei Boulder",
+        "latitude": 47.157655,
+        "longitude": 9.806525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.806525,
+          47.157655
+        ]
+      }
     }
   ]
 }

@@ -12189,52 +12189,6 @@
     },
     {
       "type": "Feature",
-      "id": "151236",
-      "properties": {
-        "id": "151236",
-        "gym_uuid": "151236",
-        "name": "Brooklyn Boulders Chicago West Loop",
-        "address": "100 S Morgan St",
-        "city": "Chicago",
-        "country": "USA",
-        "countryCode": null,
-        "postal_code": "60607",
-        "latitude": 41.88035,
-        "longitude": -87.65213,
-        "gym_logo": null,
-        "banner_logo": null,
-        "instagram_username": null,
-        "is_listed": null,
-        "walls": [
-          {
-            "id": "f43f4366-ae3c-4d21-8cb6-22565400b5aa",
-            "wall_uuid": "f43f4366-ae3c-4d21-8cb6-22565400b5aa",
-            "gym_uuid": "151236",
-            "name": "Kilter Board",
-            "product_name": "Kilter Board Original",
-            "product_layout_uuid": "10",
-            "is_adjustable": 1,
-            "min_angle": null,
-            "max_angle": null,
-            "angle_increments": null,
-            "angle": 40,
-            "serial_number": "81096",
-            "accumulated_hold_set_value": 3,
-            "is_listed": 1,
-            "created_at": "2022-06-09 17:01:27.906943Z"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.65213,
-          41.88035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "659779",
       "properties": {
         "id": "659779",
@@ -22031,6 +21985,52 @@
     },
     {
       "type": "Feature",
+      "id": "151236",
+      "properties": {
+        "id": "151236",
+        "gym_uuid": "151236",
+        "name": "First Ascent West Loop",
+        "address": "100 S Morgan St",
+        "city": "Chicago",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "60607",
+        "latitude": 41.88035,
+        "longitude": -87.65213,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "f43f4366-ae3c-4d21-8cb6-22565400b5aa",
+            "wall_uuid": "f43f4366-ae3c-4d21-8cb6-22565400b5aa",
+            "gym_uuid": "151236",
+            "name": "Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": null,
+            "angle": 40,
+            "serial_number": "81096",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2022-06-09 17:01:27.906943Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65213,
+          41.88035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "155385",
       "properties": {
         "id": "155385",
@@ -28463,8 +28463,8 @@
         "country": "US",
         "countryCode": null,
         "postal_code": "80503",
-        "latitude": 40.193695,
-        "longitude": -105.151989,
+        "latitude": 40.192755,
+        "longitude": -105.155987,
         "gym_logo": null,
         "banner_logo": null,
         "instagram_username": null,
@@ -28628,8 +28628,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.151989,
-          40.193695
+          -105.155987,
+          40.192755
         ]
       }
     },
@@ -48414,6 +48414,52 @@
         "coordinates": [
           -73.53641,
           45.54716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f70f6865-2268-4b3a-a84e-9957347f13b2",
+      "properties": {
+        "id": "f70f6865-2268-4b3a-a84e-9957347f13b2",
+        "gym_uuid": "f70f6865-2268-4b3a-a84e-9957347f13b2",
+        "name": "Vertical Escalada",
+        "address": "Rua Eça de Queiroz",
+        "city": "Estombar",
+        "country": "Portugal",
+        "countryCode": null,
+        "postal_code": "8400-018",
+        "latitude": 37.14661226641366,
+        "longitude": -8.482054452243313,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "0ed5f4f5-d6c9-4035-922d-7e71a178d430",
+            "wall_uuid": "0ed5f4f5-d6c9-4035-922d-7e71a178d430",
+            "gym_uuid": "f70f6865-2268-4b3a-a84e-9957347f13b2",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-24 15:02:06.439904Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.482054452243313,
+          37.14661226641366
         ]
       }
     },
