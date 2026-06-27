@@ -31391,6 +31391,41 @@
       ]
     },
     {
+      "id": "5207c9c2-a259-4ccc-ba65-565bc7d71a25",
+      "gym_uuid": "5207c9c2-a259-4ccc-ba65-565bc7d71a25",
+      "name": "Sisport Genova",
+      "address": "Vico Chiuso degli Eroi, 2",
+      "city": "Genova",
+      "country": "Italy",
+      "countryCode": null,
+      "postal_code": "16128",
+      "latitude": 44.40557007188392,
+      "longitude": 8.933108505553752,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "fdaa9d7f-da97-4d08-b16f-42b183e063b4",
+          "wall_uuid": "fdaa9d7f-da97-4d08-b16f-42b183e063b4",
+          "gym_uuid": "5207c9c2-a259-4ccc-ba65-565bc7d71a25",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "8",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": null,
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-06-26 15:08:03.792709Z"
+        }
+      ]
+    },
+    {
       "id": "173612",
       "gym_uuid": "173612",
       "name": "Skarpa Bytom",

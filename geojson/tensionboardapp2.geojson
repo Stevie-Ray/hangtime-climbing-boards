@@ -6146,14 +6146,14 @@
         "id": 272215,
         "username": "funabashirocky",
         "name": "Rocky Funabashi",
-        "latitude": 35.700068,
-        "longitude": 139.975173
+        "latitude": 35.699996,
+        "longitude": 139.975146
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.975173,
-          35.700068
+          139.975146,
+          35.699996
         ]
       }
     },
@@ -6172,6 +6172,24 @@
         "coordinates": [
           9.806525,
           47.157655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272692,
+      "properties": {
+        "id": 272692,
+        "username": "long_beach_rising",
+        "name": "Long Beach Rising",
+        "latitude": 33.782753,
+        "longitude": -118.190802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.190802,
+          33.782753
         ]
       }
     }
