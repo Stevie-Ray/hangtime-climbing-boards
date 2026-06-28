@@ -43907,6 +43907,54 @@
     },
     {
       "type": "Feature",
+      "id": "5207c9c2-a259-4ccc-ba65-565bc7d71a25",
+      "properties": {
+        "id": "5207c9c2-a259-4ccc-ba65-565bc7d71a25",
+        "gym_uuid": "5207c9c2-a259-4ccc-ba65-565bc7d71a25",
+        "address": "Vico Chiuso degli Eroi, 2",
+        "city": "Genova",
+        "country": "Italy",
+        "countryCode": null,
+        "postal_code": "16128",
+        "latitude": 44.40557007188392,
+        "longitude": 8.933108505553752,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "fdaa9d7f-da97-4d08-b16f-42b183e063b4",
+            "wall_uuid": "fdaa9d7f-da97-4d08-b16f-42b183e063b4",
+            "gym_uuid": "5207c9c2-a259-4ccc-ba65-565bc7d71a25",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "8",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-26 15:08:03.792709Z"
+          }
+        ],
+        "title": "Sisport Genova",
+        "description": "Kilter Board at Sisport Genova",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.933108505553752,
+          44.40557007188392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "173612",
       "properties": {
         "id": "173612",
@@ -98875,8 +98923,8 @@
       "properties": {
         "id": 272215,
         "username": "funabashirocky",
-        "latitude": 35.700068,
-        "longitude": 139.975173,
+        "latitude": 35.699996,
+        "longitude": 139.975146,
         "title": "Rocky Funabashi",
         "description": "Tension Board at Rocky Funabashi",
         "marker-color": "#000000"
@@ -98884,8 +98932,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.975173,
-          35.700068
+          139.975146,
+          35.699996
         ]
       }
     },
@@ -98906,6 +98954,26 @@
         "coordinates": [
           9.806525,
           47.157655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272692,
+      "properties": {
+        "id": 272692,
+        "username": "long_beach_rising",
+        "latitude": 33.782753,
+        "longitude": -118.190802,
+        "title": "Long Beach Rising",
+        "description": "Tension Board at Long Beach Rising",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.190802,
+          33.782753
         ]
       }
     },

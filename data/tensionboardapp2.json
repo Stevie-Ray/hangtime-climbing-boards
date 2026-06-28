@@ -2391,8 +2391,8 @@
       "id": 272215,
       "username": "funabashirocky",
       "name": "Rocky Funabashi",
-      "latitude": 35.700068,
-      "longitude": 139.975173
+      "latitude": 35.699996,
+      "longitude": 139.975146
     },
     {
       "id": 272219,
@@ -2400,6 +2400,13 @@
       "name": "Klimmerei Boulder",
       "latitude": 47.157655,
       "longitude": 9.806525
+    },
+    {
+      "id": 272692,
+      "username": "long_beach_rising",
+      "name": "Long Beach Rising",
+      "latitude": 33.782753,
+      "longitude": -118.190802
     }
   ]
 }
