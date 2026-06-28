@@ -5,11 +5,12 @@ including ~~MoonBoard~~, Kilter Board, Tension Board, Grasshopper Board, Decoy
 Board, So iLL Board, Touchstone Board, Aurora Board, and 12Climb Board. This
 dataset is automatically updated daily through GitHub Actions.
 
-**Update 05-2026**: MoonBoard stopped updating since [GetMapMarkers](https://moonboard.com/MoonBoard/GetMapMarkers) got removed.
+**Update 05-2026**: MoonBoard stopped updating since
+[GetMapMarkers](https://moonboard.com/MoonBoard/GetMapMarkers) got removed.
 
-[Explore all system boards on GeoJSON.io](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
+[Explore all system boards on GeoJSON.io](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson&map=2/46/9)
 
-[![Climbing Boards](https://repository-images.githubusercontent.com/941517323/94c21be3-b32e-4ce3-a2d0-4284ec1e7781)](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson)
+[![Climbing Boards](https://repository-images.githubusercontent.com/941517323/94c21be3-b32e-4ce3-a2d0-4284ec1e7781)](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/combined.geojson&map=2/46/9)
 
 ## Data Sources
 
@@ -18,15 +19,15 @@ converts it to GeoJSON, a lightweight, open standard format that's perfect for
 mapping applications and geographic data visualization. Explore individual
 boards on GeoJSON.io:
 
-- [MoonBoard](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/moonboard.geojson)
-- [Kilter Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/kilterboardapp.geojson)
-- [Tension Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/tensionboardapp2.geojson)
-- [Grasshopper Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/grasshopperboardapp.geojson)
-- [Decoy Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/decoyboardapp.geojson)
-- [So iLL Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/soillboardapp.geojson)
-- [Touchstone Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/touchstoneboardapp.geojson)
-- [Aurora Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/auroraboardapp.geojson)
-- [12Climb Board](https://geojson.io/#id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/12climb.geojson)
+- [MoonBoard](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/moonboard.geojson&map=2/46/9)
+- [Kilter Board](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/kilterboardapp.geojson&map=2/46/9)
+- [Tension Board](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/tensionboardapp2.geojson&map=2/46/9)
+- [Grasshopper Board](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/grasshopperboardapp.geojson&map=2/46/9)
+- [Decoy Board](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/decoyboardapp.geojson&map=2/46/9)
+- [So iLL Board](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/soillboardapp.geojson&map=2/46/9)
+- [Touchstone Board](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/touchstoneboardapp.geojson&map=2/46/9)
+- [Aurora Board](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/auroraboardapp.geojson&map=2/46/9)
+- [12Climb Board](https://geojson.io/?id=github:Stevie-Ray/hangtime-climbing-boards/blob/main/geojson/12climb.geojson&map=2/46/9)
 
 ## Data Structure
 
