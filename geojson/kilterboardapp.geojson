@@ -35114,6 +35114,52 @@
     },
     {
       "type": "Feature",
+      "id": "6f1e401c-8758-41b9-b291-96afbd89fff0",
+      "properties": {
+        "id": "6f1e401c-8758-41b9-b291-96afbd89fff0",
+        "gym_uuid": "6f1e401c-8758-41b9-b291-96afbd89fff0",
+        "name": "Nightmare on Elm St",
+        "address": "",
+        "city": "Granville",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "43023",
+        "latitude": 37.14699988,
+        "longitude": -8.481398666,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "91ffa1b2-3c93-4baa-90f4-bb660e4e804f",
+            "wall_uuid": "91ffa1b2-3c93-4baa-90f4-bb660e4e804f",
+            "gym_uuid": "6f1e401c-8758-41b9-b291-96afbd89fff0",
+            "name": "Kilter HW FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "21",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-29 14:02:57.179959Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.481398666,
+          37.14699988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "759324",
       "properties": {
         "id": "759324",
