@@ -28865,6 +28865,52 @@
     },
     {
       "type": "Feature",
+      "id": "5916cb30-2f9b-4a0f-9ea9-0e498cdfcb0f",
+      "properties": {
+        "id": "5916cb30-2f9b-4a0f-9ea9-0e498cdfcb0f",
+        "gym_uuid": "5916cb30-2f9b-4a0f-9ea9-0e498cdfcb0f",
+        "name": "Klatreverket Løren / Kanonhallen",
+        "address": "Peter Møllers Vei 4B",
+        "city": "Oslo",
+        "country": "Norway",
+        "countryCode": null,
+        "postal_code": "585",
+        "latitude": 59.93158127,
+        "longitude": 10.7925199815953,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "66395841-43bc-418e-917e-1adfe41d2acc",
+            "wall_uuid": "66395841-43bc-418e-917e-1adfe41d2acc",
+            "gym_uuid": "5916cb30-2f9b-4a0f-9ea9-0e498cdfcb0f",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-30 16:18:15.505176Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7925199815953,
+          59.93158127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "411482",
       "properties": {
         "id": "411482",
@@ -32780,6 +32826,52 @@
     },
     {
       "type": "Feature",
+      "id": "ddcb0c1a-c8bb-45fd-ba43-5962eac0246b",
+      "properties": {
+        "id": "ddcb0c1a-c8bb-45fd-ba43-5962eac0246b",
+        "gym_uuid": "ddcb0c1a-c8bb-45fd-ba43-5962eac0246b",
+        "name": "Momentum Indoor Climbing Memorial City",
+        "address": "10516 Old Katy Rd",
+        "city": "Houston ",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "77043",
+        "latitude": 29.787145289980117,
+        "longitude": -95.55972364549756,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "51ea6006-24de-429b-b7d0-fdb31e97928f",
+            "wall_uuid": "51ea6006-24de-429b-b7d0-fdb31e97928f",
+            "gym_uuid": "ddcb0c1a-c8bb-45fd-ba43-5962eac0246b",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-06-30 16:26:38.746733Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.55972364549756,
+          29.787145289980117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "7dcb2117-380f-47b6-ac6b-1625bf962888",
       "properties": {
         "id": "7dcb2117-380f-47b6-ac6b-1625bf962888",
@@ -35132,21 +35224,21 @@
         "is_listed": null,
         "walls": [
           {
-            "id": "91ffa1b2-3c93-4baa-90f4-bb660e4e804f",
-            "wall_uuid": "91ffa1b2-3c93-4baa-90f4-bb660e4e804f",
+            "id": "9ee69e99-aeb4-4490-81ef-3bf19ca498a7",
+            "wall_uuid": "9ee69e99-aeb4-4490-81ef-3bf19ca498a7",
             "gym_uuid": "6f1e401c-8758-41b9-b291-96afbd89fff0",
-            "name": "Kilter HW FR",
+            "name": "Kilter Board HW FR",
             "product_name": "Kilter Board Homewall",
             "product_layout_uuid": "21",
-            "is_adjustable": 1,
-            "min_angle": 0,
-            "max_angle": 70,
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
             "angle_increments": 5,
             "angle": 40,
             "serial_number": null,
             "accumulated_hold_set_value": 3,
             "is_listed": 1,
-            "created_at": "2026-06-29 14:02:57.179959Z"
+            "created_at": "2026-06-30 06:01:36.49179Z"
           }
         ]
       },
