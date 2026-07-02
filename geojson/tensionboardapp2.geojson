@@ -6192,6 +6192,24 @@
           33.782753
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 273799,
+      "properties": {
+        "id": 273799,
+        "username": "rippleboulder",
+        "name": "Ripple Boulder",
+        "latitude": 39.848989,
+        "longitude": -86.141057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.141057,
+          39.848989
+        ]
+      }
     }
   ]
 }
