@@ -92677,8 +92677,8 @@
         "username": "momentumclimbingsodo",
         "latitude": 47.57801,
         "longitude": -122.3346,
-        "title": "Momentum Climbing SODO",
-        "description": "Tension Board at Momentum Climbing SODO",
+        "title": "Momentum Indoor Climbing SODO",
+        "description": "Tension Board at Momentum Indoor Climbing SODO",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -93397,8 +93397,8 @@
         "username": "momentum_millcreek",
         "latitude": 40.70132,
         "longitude": -111.80326,
-        "title": "Momentum Climbing Mill Creek",
-        "description": "Tension Board at Momentum Climbing Mill Creek",
+        "title": "Momentum Indoor Climbing Mill Creek",
+        "description": "Tension Board at Momentum Indoor Climbing Mill Creek",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -96497,8 +96497,8 @@
         "username": "momentumclimbing_fort_union",
         "latitude": 40.62042,
         "longitude": -111.86078,
-        "title": "Momentum Climbing Fort Union",
-        "description": "Tension Board at Momentum Climbing Fort Union",
+        "title": "Momentum Indoor Climbing Fort Union",
+        "description": "Tension Board at Momentum Indoor Climbing Fort Union",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -99186,6 +99186,26 @@
         "coordinates": [
           -86.141057,
           39.848989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274022,
+      "properties": {
+        "id": 274022,
+        "username": "momentum_memorial_city",
+        "latitude": 29.786429,
+        "longitude": -95.559271,
+        "title": "Momentum Indoor Climbing Memorial City",
+        "description": "Tension Board at Momentum Indoor Climbing Memorial City",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.559271,
+          29.786429
         ]
       }
     },

@@ -136,7 +136,7 @@
     {
       "id": 49027,
       "username": "momentumclimbingsodo",
-      "name": "Momentum Climbing SODO",
+      "name": "Momentum Indoor Climbing SODO",
       "latitude": 47.57801,
       "longitude": -122.3346
     },
@@ -388,7 +388,7 @@
     {
       "id": 86142,
       "username": "momentum_millcreek",
-      "name": "Momentum Climbing Mill Creek",
+      "name": "Momentum Indoor Climbing Mill Creek",
       "latitude": 40.70132,
       "longitude": -111.80326
     },
@@ -1473,7 +1473,7 @@
     {
       "id": 179573,
       "username": "momentumclimbing_fort_union",
-      "name": "Momentum Climbing Fort Union",
+      "name": "Momentum Indoor Climbing Fort Union",
       "latitude": 40.62042,
       "longitude": -111.86078
     },
@@ -2414,6 +2414,13 @@
       "name": "Ripple Boulder",
       "latitude": 39.848989,
       "longitude": -86.141057
+    },
+    {
+      "id": 274022,
+      "username": "momentum_memorial_city",
+      "name": "Momentum Indoor Climbing Memorial City",
+      "latitude": 29.786429,
+      "longitude": -95.559271
     }
   ]
 }
