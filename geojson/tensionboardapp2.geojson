@@ -6141,6 +6141,24 @@
     },
     {
       "type": "Feature",
+      "id": 272148,
+      "properties": {
+        "id": 272148,
+        "username": "FlowC",
+        "name": "FlowC 随石攀岩",
+        "latitude": 26.0572555,
+        "longitude": 119.2816946
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.2816946,
+          26.0572555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 272215,
       "properties": {
         "id": 272215,

@@ -99111,6 +99111,26 @@
     },
     {
       "type": "Feature",
+      "id": 272148,
+      "properties": {
+        "id": 272148,
+        "username": "FlowC",
+        "latitude": 26.0572555,
+        "longitude": 119.2816946,
+        "title": "FlowC 随石攀岩",
+        "description": "Tension Board at FlowC 随石攀岩",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.2816946,
+          26.0572555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 272215,
       "properties": {
         "id": 272215,
