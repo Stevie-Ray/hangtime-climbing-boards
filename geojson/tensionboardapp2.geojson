@@ -6213,6 +6213,24 @@
     },
     {
       "type": "Feature",
+      "id": 273685,
+      "properties": {
+        "id": 273685,
+        "username": "holdzclimbing",
+        "name": "HOLDZ Climbing",
+        "latitude": 31.216055,
+        "longitude": 120.602768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.602768,
+          31.216055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 273799,
       "properties": {
         "id": 273799,

@@ -22905,6 +22905,52 @@
     },
     {
       "type": "Feature",
+      "id": "6ceb0f04-8cc4-4715-bf27-9f6701287144",
+      "properties": {
+        "id": "6ceb0f04-8cc4-4715-bf27-9f6701287144",
+        "gym_uuid": "6ceb0f04-8cc4-4715-bf27-9f6701287144",
+        "name": "GRAVITY BLOC",
+        "address": "23 Rue de Pontarlier",
+        "city": "SOCHAUX",
+        "country": "France",
+        "countryCode": null,
+        "postal_code": "25600",
+        "latitude": 47.51288184647128,
+        "longitude": 6.8354212514257595,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "11575fa3-4867-41e4-ac73-1c82803613c3",
+            "wall_uuid": "11575fa3-4867-41e4-ac73-1c82803613c3",
+            "gym_uuid": "6ceb0f04-8cc4-4715-bf27-9f6701287144",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-06 18:22:55.771659Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8354212514257595,
+          47.51288184647128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "771314",
       "properties": {
         "id": "771314",
@@ -42791,14 +42837,14 @@
             "gym_uuid": "d9677d0a-b68a-4a60-b836-0083da97f374",
             "name": "HW FR Kilter Board",
             "product_name": "Kilter Board Homewall",
-            "product_layout_uuid": "22",
+            "product_layout_uuid": "17",
             "is_adjustable": 0,
             "min_angle": null,
             "max_angle": null,
             "angle_increments": 5,
             "angle": 40,
             "serial_number": null,
-            "accumulated_hold_set_value": 1,
+            "accumulated_hold_set_value": 3,
             "is_listed": 1,
             "created_at": "2026-07-01 14:57:56.311322Z"
           }
