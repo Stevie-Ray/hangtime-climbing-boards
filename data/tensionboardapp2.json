@@ -2435,6 +2435,13 @@
       "name": "Momentum Indoor Climbing Memorial City",
       "latitude": 29.786429,
       "longitude": -95.559271
+    },
+    {
+      "id": 275111,
+      "username": "delta_climb_trojmiasto",
+      "name": "Delta Climb",
+      "latitude": 54.371873,
+      "longitude": 18.508669
     }
   ]
 }

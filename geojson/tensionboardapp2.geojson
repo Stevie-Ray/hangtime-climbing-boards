@@ -6264,6 +6264,24 @@
           29.786429
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 275111,
+      "properties": {
+        "id": 275111,
+        "username": "delta_climb_trojmiasto",
+        "name": "Delta Climb",
+        "latitude": 54.371873,
+        "longitude": 18.508669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.508669,
+          54.371873
+        ]
+      }
     }
   ]
 }
