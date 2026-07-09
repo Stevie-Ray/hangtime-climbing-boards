@@ -4692,6 +4692,71 @@
     },
     {
       "type": "Feature",
+      "id": "53ee67de-0095-47e0-b58c-841d987dd282",
+      "properties": {
+        "id": "53ee67de-0095-47e0-b58c-841d987dd282",
+        "gym_uuid": "53ee67de-0095-47e0-b58c-841d987dd282",
+        "address": "North Park, Unit 6, North Rd",
+        "city": "Dublin",
+        "country": "Ireland",
+        "countryCode": null,
+        "postal_code": "D11YP40",
+        "latitude": 53.401808327278275,
+        "longitude": -6.31650732883577,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "418c9541-4e27-4280-965e-dda0a6f139ab",
+            "wall_uuid": "418c9541-4e27-4280-965e-dda0a6f139ab",
+            "gym_uuid": "53ee67de-0095-47e0-b58c-841d987dd282",
+            "name": "HW FR Kilter Board",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "25",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000310",
+            "accumulated_hold_set_value": 15,
+            "is_listed": 1,
+            "created_at": "2026-07-08 14:58:55.564404Z"
+          },
+          {
+            "id": "f296aa9e-7c76-4b03-bae0-ec2bb8f6f5a2",
+            "wall_uuid": "f296aa9e-7c76-4b03-bae0-ec2bb8f6f5a2",
+            "gym_uuid": "53ee67de-0095-47e0-b58c-841d987dd282",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000289",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-08 14:57:41.722238Z"
+          }
+        ],
+        "title": "Awesome Walls Dublin",
+        "description": "Kilter Board at Awesome Walls Dublin",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.31650732883577,
+          53.401808327278275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "214801",
       "properties": {
         "id": "214801",
@@ -13726,6 +13791,54 @@
         "coordinates": [
           12.12876,
           49.0323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2a45ec1-9340-47e2-b6ed-befc309bc8b9",
+      "properties": {
+        "id": "a2a45ec1-9340-47e2-b6ed-befc309bc8b9",
+        "gym_uuid": "a2a45ec1-9340-47e2-b6ed-befc309bc8b9",
+        "address": "Neumühler Weg 28",
+        "city": "Saarbrücken",
+        "country": "Germany",
+        "countryCode": null,
+        "postal_code": "66130",
+        "latitude": 49.206766837389395,
+        "longitude": 7.022961657671539,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "62c6b507-2f29-4904-800c-dd64507840d4",
+            "wall_uuid": "62c6b507-2f29-4904-800c-dd64507840d4",
+            "gym_uuid": "a2a45ec1-9340-47e2-b6ed-befc309bc8b9",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-08 15:29:54.550399Z"
+          }
+        ],
+        "title": "Boulderwerk Saarbrücken",
+        "description": "Kilter Board at Boulderwerk Saarbrücken",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.022961657671539,
+          49.206766837389395
         ]
       }
     },
@@ -33422,6 +33535,54 @@
     },
     {
       "type": "Feature",
+      "id": "70de405a-fbc5-4cf5-86f1-4e73ec06a89a",
+      "properties": {
+        "id": "70de405a-fbc5-4cf5-86f1-4e73ec06a89a",
+        "gym_uuid": "70de405a-fbc5-4cf5-86f1-4e73ec06a89a",
+        "address": "33, Ether Harmony Estate",
+        "city": "Bengaluru",
+        "country": "India",
+        "countryCode": null,
+        "postal_code": "560077",
+        "latitude": 13.07569651593886,
+        "longitude": 77.64637688835768,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "7bcf5be8-696a-4232-a110-5f62ec0a5c94",
+            "wall_uuid": "7bcf5be8-696a-4232-a110-5f62ec0a5c94",
+            "gym_uuid": "70de405a-fbc5-4cf5-86f1-4e73ec06a89a",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-08 15:24:56.775025Z"
+          }
+        ],
+        "title": "Langur Climbing Academy",
+        "description": "Kilter Board at Langur Climbing Academy",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.64637688835768,
+          13.07569651593886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "8c7a39d4-9e33-4937-b966-4e4c0291618c",
       "properties": {
         "id": "8c7a39d4-9e33-4937-b966-4e4c0291618c",
@@ -42027,6 +42188,54 @@
         "coordinates": [
           6.74013,
           49.32159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64477e2b-d283-4117-8cdb-8dab908a778b",
+      "properties": {
+        "id": "64477e2b-d283-4117-8cdb-8dab908a778b",
+        "gym_uuid": "64477e2b-d283-4117-8cdb-8dab908a778b",
+        "address": "720 Olive Dr",
+        "city": "Davis ",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "95616",
+        "latitude": 38.538504731767624,
+        "longitude": -121.73876766245867,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "e317248c-360e-4747-af1f-c66f49313257",
+            "wall_uuid": "e317248c-360e-4747-af1f-c66f49313257",
+            "gym_uuid": "64477e2b-d283-4117-8cdb-8dab908a778b",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-08 15:02:59.874867Z"
+          }
+        ],
+        "title": "Rocknasium",
+        "description": "Kilter Board at Rocknasium",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73876766245867,
+          38.538504731767624
         ]
       }
     },
