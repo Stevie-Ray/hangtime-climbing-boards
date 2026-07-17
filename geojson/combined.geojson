@@ -5686,6 +5686,71 @@
     },
     {
       "type": "Feature",
+      "id": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
+      "properties": {
+        "id": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
+        "gym_uuid": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
+        "address": "122 Zelt Strasse",
+        "city": "Leavenworth",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "98826",
+        "latitude": 47.59895389377541,
+        "longitude": -120.64371314417998,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "92cc8d12-b1b5-47f0-bcce-8eee89f4d477",
+            "wall_uuid": "92cc8d12-b1b5-47f0-bcce-8eee89f4d477",
+            "gym_uuid": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
+            "name": "OG Kilter Board - 30º",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 30,
+            "serial_number": "K000217",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-16 16:56:17.401363Z"
+          },
+          {
+            "id": "98ab89fb-c26e-4043-8a61-1ab10628782a",
+            "wall_uuid": "98ab89fb-c26e-4043-8a61-1ab10628782a",
+            "gym_uuid": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
+            "name": "OG Kilter Board - 40º",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000323",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-16 16:55:34.703848Z"
+          }
+        ],
+        "title": "Beargrass",
+        "description": "Kilter Board at Beargrass",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.64371314417998,
+          47.59895389377541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "201977",
       "properties": {
         "id": "201977",
