@@ -6300,6 +6300,42 @@
           38.538353
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 277260,
+      "properties": {
+        "id": 277260,
+        "username": "beargrass",
+        "name": "beargrass",
+        "latitude": 47.598614,
+        "longitude": -120.643602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.643602,
+          47.598614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 277268,
+      "properties": {
+        "id": 277268,
+        "username": "depotnottingham",
+        "name": "Depot Climbing Nottingham",
+        "latitude": 52.957012,
+        "longitude": -1.142959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.142959,
+          52.957012
+        ]
+      }
     }
   ]
 }

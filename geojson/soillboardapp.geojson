@@ -162,6 +162,24 @@
           45.1093
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 2744,
+      "properties": {
+        "id": 2744,
+        "username": "fjordaveggen",
+        "name": "Fjordaveggen",
+        "latitude": 61.004296,
+        "longitude": 6.412174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.412174,
+          61.004296
+        ]
+      }
     }
   ]
 }

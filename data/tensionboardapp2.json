@@ -2449,6 +2449,20 @@
       "name": "Rocknasium",
       "latitude": 38.538353,
       "longitude": -121.73875
+    },
+    {
+      "id": 277260,
+      "username": "beargrass",
+      "name": "beargrass",
+      "latitude": 47.598614,
+      "longitude": -120.643602
+    },
+    {
+      "id": 277268,
+      "username": "depotnottingham",
+      "name": "Depot Climbing Nottingham",
+      "latitude": 52.957012,
+      "longitude": -1.142959
     }
   ]
 }

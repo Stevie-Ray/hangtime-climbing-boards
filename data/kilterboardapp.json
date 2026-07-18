@@ -13519,6 +13519,41 @@
       ]
     },
     {
+      "id": "c94fe219-38f1-4cb8-94ee-bea67ee6d5f0",
+      "gym_uuid": "c94fe219-38f1-4cb8-94ee-bea67ee6d5f0",
+      "name": "D Bouldering Yokohama",
+      "address": "Hamabowl Building 6F, Suite 601 2-2-1 Kitasaiwai",
+      "city": "Yokohama",
+      "country": "Japan",
+      "countryCode": null,
+      "postal_code": "220-0004 ",
+      "latitude": 35.466192922450126,
+      "longitude": 139.61703959444404,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "8d78b7ff-2cf2-47fc-a0cf-8111e0eeb604",
+          "wall_uuid": "8d78b7ff-2cf2-47fc-a0cf-8111e0eeb604",
+          "gym_uuid": "c94fe219-38f1-4cb8-94ee-bea67ee6d5f0",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 0,
+          "min_angle": null,
+          "max_angle": null,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "k000423",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-07-17 13:53:26.245526Z"
+        }
+      ]
+    },
+    {
       "id": "656948",
       "gym_uuid": "656948",
       "name": "DAV Alpinzentrum Bielefeld",
