@@ -99609,6 +99609,26 @@
     },
     {
       "type": "Feature",
+      "id": 272579,
+      "properties": {
+        "id": 272579,
+        "username": "bks_fana",
+        "latitude": 60.293586,
+        "longitude": 5.265044,
+        "title": "Bergen Klatresenter Fana",
+        "description": "Tension Board at Bergen Klatresenter Fana",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.265044,
+          60.293586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 272692,
       "properties": {
         "id": 272692,
