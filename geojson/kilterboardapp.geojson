@@ -4148,10 +4148,10 @@
     },
     {
       "type": "Feature",
-      "id": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
+      "id": "cb0b2c54-4034-4cc6-955a-aff1e9603eef",
       "properties": {
-        "id": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
-        "gym_uuid": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
+        "id": "cb0b2c54-4034-4cc6-955a-aff1e9603eef",
+        "gym_uuid": "cb0b2c54-4034-4cc6-955a-aff1e9603eef",
         "name": "Beargrass",
         "address": "122 Zelt Strasse",
         "city": "Leavenworth",
@@ -4166,9 +4166,9 @@
         "is_listed": null,
         "walls": [
           {
-            "id": "92cc8d12-b1b5-47f0-bcce-8eee89f4d477",
-            "wall_uuid": "92cc8d12-b1b5-47f0-bcce-8eee89f4d477",
-            "gym_uuid": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
+            "id": "14001c25-fe0a-4377-8f23-7f2b48fd7774",
+            "wall_uuid": "14001c25-fe0a-4377-8f23-7f2b48fd7774",
+            "gym_uuid": "cb0b2c54-4034-4cc6-955a-aff1e9603eef",
             "name": "OG Kilter Board - 30º",
             "product_name": "Kilter Board Original",
             "product_layout_uuid": "10",
@@ -4180,12 +4180,12 @@
             "serial_number": "K000217",
             "accumulated_hold_set_value": 3,
             "is_listed": 1,
-            "created_at": "2026-07-16 16:56:17.401363Z"
+            "created_at": "2026-07-22 20:52:09.193356Z"
           },
           {
-            "id": "98ab89fb-c26e-4043-8a61-1ab10628782a",
-            "wall_uuid": "98ab89fb-c26e-4043-8a61-1ab10628782a",
-            "gym_uuid": "0985b4b3-a51e-4d72-b430-7a3b4f2425e6",
+            "id": "b2110bba-0097-4d33-a30e-262e9ad4c94a",
+            "wall_uuid": "b2110bba-0097-4d33-a30e-262e9ad4c94a",
+            "gym_uuid": "cb0b2c54-4034-4cc6-955a-aff1e9603eef",
             "name": "OG Kilter Board - 40º",
             "product_name": "Kilter Board Original",
             "product_layout_uuid": "10",
@@ -4197,7 +4197,7 @@
             "serial_number": "K000323",
             "accumulated_hold_set_value": 3,
             "is_listed": 1,
-            "created_at": "2026-07-16 16:55:34.703848Z"
+            "created_at": "2026-07-22 20:52:57.570501Z"
           }
         ]
       },
@@ -26516,6 +26516,52 @@
         "coordinates": [
           5.67393,
           62.32548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d85c5d91-707f-489a-8d2c-4c9a2d218776",
+      "properties": {
+        "id": "d85c5d91-707f-489a-8d2c-4c9a2d218776",
+        "gym_uuid": "d85c5d91-707f-489a-8d2c-4c9a2d218776",
+        "name": "HeyBouldering嘿抱（万象城购物中心店）",
+        "address": "上海市闵行区吴中路1599号万象城L3层",
+        "city": "Shanghai",
+        "country": "China",
+        "countryCode": null,
+        "postal_code": "201101",
+        "latitude": 31.170532038108448,
+        "longitude": 121.369359635582,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "b4e9b38d-8d81-4cc7-a3dc-7a93eb4c46cf",
+            "wall_uuid": "b4e9b38d-8d81-4cc7-a3dc-7a93eb4c46cf",
+            "gym_uuid": "d85c5d91-707f-489a-8d2c-4c9a2d218776",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751967",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-22 15:15:55.881787Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.369359635582,
+          31.170532038108448
         ]
       }
     },

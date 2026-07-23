@@ -69,6 +69,13 @@
       "name": "Fjordaveggen",
       "latitude": 61.004296,
       "longitude": 6.412174
+    },
+    {
+      "id": 2763,
+      "username": "foundation_climbing",
+      "name": "Foundation Climbing",
+      "latitude": 37.563788,
+      "longitude": -77.44779
     }
   ]
 }

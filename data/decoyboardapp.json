@@ -160,6 +160,13 @@
       "name": "Climbing Commons Stroud",
       "latitude": 51.72019,
       "longitude": -2.19443
+    },
+    {
+      "id": 10724,
+      "username": "foundation_climbing",
+      "name": "Foundation Climbing",
+      "latitude": 37.563788,
+      "longitude": -77.44779
     }
   ]
 }

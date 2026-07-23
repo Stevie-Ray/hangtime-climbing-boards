@@ -180,6 +180,24 @@
           61.004296
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 2763,
+      "properties": {
+        "id": 2763,
+        "username": "foundation_climbing",
+        "name": "Foundation Climbing",
+        "latitude": 37.563788,
+        "longitude": -77.44779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44779,
+          37.563788
+        ]
+      }
     }
   ]
 }
