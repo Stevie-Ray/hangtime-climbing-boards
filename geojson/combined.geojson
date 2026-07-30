@@ -23696,6 +23696,54 @@
     },
     {
       "type": "Feature",
+      "id": "a90cff44-776f-4e48-94dc-f688dd426380",
+      "properties": {
+        "id": "a90cff44-776f-4e48-94dc-f688dd426380",
+        "gym_uuid": "a90cff44-776f-4e48-94dc-f688dd426380",
+        "address": "38 rue Benoit Frachon",
+        "city": "Champigny-sur-Marne",
+        "country": "France",
+        "countryCode": null,
+        "postal_code": "94500",
+        "latitude": 48.820422121785626,
+        "longitude": 2.526181806746637,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "a298366a-2777-4548-baac-dcf19863910a",
+            "wall_uuid": "a298366a-2777-4548-baac-dcf19863910a",
+            "gym_uuid": "a90cff44-776f-4e48-94dc-f688dd426380",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000367",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-29 16:48:04.546186Z"
+          }
+        ],
+        "title": "Escapad Paris Est",
+        "description": "Kilter Board at Escapad Paris Est",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.526181806746637,
+          48.820422121785626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "579645",
       "properties": {
         "id": "579645",
