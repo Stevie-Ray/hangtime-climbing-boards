@@ -5395,6 +5395,52 @@
     },
     {
       "type": "Feature",
+      "id": "d3b81528-a272-46f8-8bc2-4f33f7789a22",
+      "properties": {
+        "id": "d3b81528-a272-46f8-8bc2-4f33f7789a22",
+        "gym_uuid": "d3b81528-a272-46f8-8bc2-4f33f7789a22",
+        "name": "Big Depot Manchester",
+        "address": "Unit A5/6 Southmoor Industrial Estate",
+        "city": "Manchester",
+        "country": "UK",
+        "countryCode": null,
+        "postal_code": "M23 9XD",
+        "latitude": 53.396622539640525,
+        "longitude": -2.296682486507128,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "8a9c33f5-9728-41e8-b28b-e16cb97b6cc7",
+            "wall_uuid": "8a9c33f5-9728-41e8-b28b-e16cb97b6cc7",
+            "gym_uuid": "d3b81528-a272-46f8-8bc2-4f33f7789a22",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "111111",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-30 20:04:01.195894Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.296682486507128,
+          53.396622539640525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "620793",
       "properties": {
         "id": "620793",
@@ -19922,6 +19968,52 @@
         "coordinates": [
           6.85405,
           45.91751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22c8b43d-0bad-4b49-9fa8-a6f46523b4a4",
+      "properties": {
+        "id": "22c8b43d-0bad-4b49-9fa8-a6f46523b4a4",
+        "gym_uuid": "22c8b43d-0bad-4b49-9fa8-a6f46523b4a4",
+        "name": "ESCAPAD LILLE",
+        "address": "100 avenue Willy Brandt ",
+        "city": "Lille",
+        "country": "France",
+        "countryCode": null,
+        "postal_code": "59000",
+        "latitude": 50.63740675288798,
+        "longitude": 3.074262755705031,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "21a9cc6e-1258-4beb-a752-f0ab910f2e33",
+            "wall_uuid": "21a9cc6e-1258-4beb-a752-f0ab910f2e33",
+            "gym_uuid": "22c8b43d-0bad-4b49-9fa8-a6f46523b4a4",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000049",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-07-30 20:13:17.475649Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.074262755705031,
+          50.63740675288798
         ]
       }
     },
