@@ -2470,6 +2470,27 @@
       "name": "Depot Climbing Nottingham",
       "latitude": 52.957012,
       "longitude": -1.142959
+    },
+    {
+      "id": 281090,
+      "username": "adrenalineclimbing",
+      "name": "Adrenaline Climbing",
+      "latitude": 34.073207,
+      "longitude": -84.057843
+    },
+    {
+      "id": 281095,
+      "username": "bolderscena_kranj",
+      "name": "Bolder Scena Kranj",
+      "latitude": 46.236333,
+      "longitude": 14.374156
+    },
+    {
+      "id": 281142,
+      "username": "hexrockclimbing",
+      "name": "HEXROCK Climbing",
+      "latitude": 27.353466,
+      "longitude": -82.403083
     }
   ]
 }

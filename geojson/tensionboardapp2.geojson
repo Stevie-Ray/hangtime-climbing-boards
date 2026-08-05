@@ -6354,6 +6354,60 @@
           52.957012
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 281090,
+      "properties": {
+        "id": 281090,
+        "username": "adrenalineclimbing",
+        "name": "Adrenaline Climbing",
+        "latitude": 34.073207,
+        "longitude": -84.057843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.057843,
+          34.073207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281095,
+      "properties": {
+        "id": 281095,
+        "username": "bolderscena_kranj",
+        "name": "Bolder Scena Kranj",
+        "latitude": 46.236333,
+        "longitude": 14.374156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.374156,
+          46.236333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281142,
+      "properties": {
+        "id": 281142,
+        "username": "hexrockclimbing",
+        "name": "HEXROCK Climbing",
+        "latitude": 27.353466,
+        "longitude": -82.403083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.403083,
+          27.353466
+        ]
+      }
     }
   ]
 }

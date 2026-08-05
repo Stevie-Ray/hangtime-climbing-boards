@@ -198,6 +198,24 @@
           37.563788
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 2824,
+      "properties": {
+        "id": 2824,
+        "username": "hexrockclimbing",
+        "name": "HEXROCK Climbing",
+        "latitude": 27.353466,
+        "longitude": -82.403083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.403083,
+          27.353466
+        ]
+      }
     }
   ]
 }

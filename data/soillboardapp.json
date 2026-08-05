@@ -76,6 +76,13 @@
       "name": "Foundation Climbing",
       "latitude": 37.563788,
       "longitude": -77.44779
+    },
+    {
+      "id": 2824,
+      "username": "hexrockclimbing",
+      "name": "HEXROCK Climbing",
+      "latitude": 27.353466,
+      "longitude": -82.403083
     }
   ]
 }

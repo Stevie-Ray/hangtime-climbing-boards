@@ -6813,6 +6813,54 @@
     },
     {
       "type": "Feature",
+      "id": "92587cf3-b566-4d15-8d75-91792b9de81e",
+      "properties": {
+        "id": "92587cf3-b566-4d15-8d75-91792b9de81e",
+        "gym_uuid": "92587cf3-b566-4d15-8d75-91792b9de81e",
+        "address": "6 Rue Alessandro Volta, Zone Polaris",
+        "city": "Pau",
+        "country": "France",
+        "countryCode": null,
+        "postal_code": "64000",
+        "latitude": 43.32440591741045,
+        "longitude": -0.31775893125007443,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "19265e62-0b53-43c0-9ded-400da6c54733",
+            "wall_uuid": "19265e62-0b53-43c0-9ded-400da6c54733",
+            "gym_uuid": "92587cf3-b566-4d15-8d75-91792b9de81e",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000028",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-08-04 15:17:06.120174Z"
+          }
+        ],
+        "title": "Beta-Bloc Escalade",
+        "description": "Kilter Board at Beta-Bloc Escalade",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31775893125007443,
+          43.32440591741045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "294371",
       "properties": {
         "id": "294371",
@@ -92961,6 +93009,26 @@
     },
     {
       "type": "Feature",
+      "id": 2824,
+      "properties": {
+        "id": 2824,
+        "username": "hexrockclimbing",
+        "latitude": 27.353466,
+        "longitude": -82.403083,
+        "title": "HEXROCK Climbing",
+        "description": "So iLL Board at HEXROCK Climbing",
+        "marker-color": "#8BB297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.403083,
+          27.353466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 4084,
       "properties": {
         "id": 4084,
@@ -100016,6 +100084,66 @@
         "coordinates": [
           -1.142959,
           52.957012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281090,
+      "properties": {
+        "id": 281090,
+        "username": "adrenalineclimbing",
+        "latitude": 34.073207,
+        "longitude": -84.057843,
+        "title": "Adrenaline Climbing",
+        "description": "Tension Board at Adrenaline Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.057843,
+          34.073207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281095,
+      "properties": {
+        "id": 281095,
+        "username": "bolderscena_kranj",
+        "latitude": 46.236333,
+        "longitude": 14.374156,
+        "title": "Bolder Scena Kranj",
+        "description": "Tension Board at Bolder Scena Kranj",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.374156,
+          46.236333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281142,
+      "properties": {
+        "id": 281142,
+        "username": "hexrockclimbing",
+        "latitude": 27.353466,
+        "longitude": -82.403083,
+        "title": "HEXROCK Climbing",
+        "description": "Tension Board at HEXROCK Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.403083,
+          27.353466
         ]
       }
     },
