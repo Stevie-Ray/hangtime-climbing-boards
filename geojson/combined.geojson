@@ -100149,6 +100149,26 @@
     },
     {
       "type": "Feature",
+      "id": 281623,
+      "properties": {
+        "id": 281623,
+        "username": "2bfit",
+        "latitude": 47.656168,
+        "longitude": 19.066999,
+        "title": "2BFit Boulder Gym",
+        "description": "Tension Board at 2BFit Boulder Gym",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.066999,
+          47.656168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

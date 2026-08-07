@@ -6408,6 +6408,24 @@
           27.353466
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 281623,
+      "properties": {
+        "id": 281623,
+        "username": "2bfit",
+        "name": "2BFit Boulder Gym",
+        "latitude": 47.656168,
+        "longitude": 19.066999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.066999,
+          47.656168
+        ]
+      }
     }
   ]
 }
