@@ -100169,6 +100169,46 @@
     },
     {
       "type": "Feature",
+      "id": 282120,
+      "properties": {
+        "id": 282120,
+        "username": "topoutboulder",
+        "latitude": -34.048437,
+        "longitude": 150.828968,
+        "title": "Top Out Bouldering Gym",
+        "description": "Tension Board at Top Out Bouldering Gym",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.828968,
+          -34.048437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282127,
+      "properties": {
+        "id": 282127,
+        "username": "karmafontainebleau",
+        "latitude": 48.398573,
+        "longitude": 2.722797,
+        "title": "Karma Fontainebleau",
+        "description": "Tension Board at Karma Fontainebleau",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.722797,
+          48.398573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

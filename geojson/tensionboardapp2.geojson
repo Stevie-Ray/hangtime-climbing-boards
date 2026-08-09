@@ -6426,6 +6426,42 @@
           47.656168
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 282120,
+      "properties": {
+        "id": 282120,
+        "username": "topoutboulder",
+        "name": "Top Out Bouldering Gym",
+        "latitude": -34.048437,
+        "longitude": 150.828968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.828968,
+          -34.048437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282127,
+      "properties": {
+        "id": 282127,
+        "username": "karmafontainebleau",
+        "name": "Karma Fontainebleau",
+        "latitude": 48.398573,
+        "longitude": 2.722797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.722797,
+          48.398573
+        ]
+      }
     }
   ]
 }
