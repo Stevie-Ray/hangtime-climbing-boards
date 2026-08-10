@@ -6462,6 +6462,24 @@
           48.398573
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 282429,
+      "properties": {
+        "id": 282429,
+        "username": "thepadslo",
+        "name": "The Pad Climbing San Luis Obispo",
+        "latitude": 35.257508,
+        "longitude": -120.641772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.641772,
+          35.257508
+        ]
+      }
     }
   ]
 }

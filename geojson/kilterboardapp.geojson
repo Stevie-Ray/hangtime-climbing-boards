@@ -43584,6 +43584,52 @@
     },
     {
       "type": "Feature",
+      "id": "16fa0da1-a034-4956-9dd0-7c9716a5bbff",
+      "properties": {
+        "id": "16fa0da1-a034-4956-9dd0-7c9716a5bbff",
+        "gym_uuid": "16fa0da1-a034-4956-9dd0-7c9716a5bbff",
+        "name": "Stuntwerk Duisburg",
+        "address": "Neudorfer Straße 109-113",
+        "city": "Duisburg",
+        "country": "Germany",
+        "countryCode": null,
+        "postal_code": "47057",
+        "latitude": 51.42705348363851,
+        "longitude": 6.77908409140653,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "fdf5ece3-5852-4eff-ab9c-22709d43e589",
+            "wall_uuid": "fdf5ece3-5852-4eff-ab9c-22709d43e589",
+            "gym_uuid": "16fa0da1-a034-4956-9dd0-7c9716a5bbff",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000158",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-08-07 21:38:56.281006Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77908409140653,
+          51.42705348363851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "504371",
       "properties": {
         "id": "504371",
