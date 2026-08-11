@@ -23261,6 +23261,52 @@
     },
     {
       "type": "Feature",
+      "id": "074528eb-9bdd-47e2-a88e-af248cc69c29",
+      "properties": {
+        "id": "074528eb-9bdd-47e2-a88e-af248cc69c29",
+        "gym_uuid": "074528eb-9bdd-47e2-a88e-af248cc69c29",
+        "name": "GLKB Boulderhalle / Lintharena",
+        "address": "Oberurnerstrasse 14",
+        "city": "Näfels",
+        "country": "Switzerland",
+        "countryCode": null,
+        "postal_code": "8752",
+        "latitude": 47.10766871104924,
+        "longitude": 9.065064049074039,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "9a8abe3a-a0e7-41b5-8633-c5207e7d992b",
+            "wall_uuid": "9a8abe3a-a0e7-41b5-8633-c5207e7d992b",
+            "gym_uuid": "074528eb-9bdd-47e2-a88e-af248cc69c29",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 20,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000352",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-08-10 15:42:22.067091Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.065064049074039,
+          47.10766871104924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "780550",
       "properties": {
         "id": "780550",
