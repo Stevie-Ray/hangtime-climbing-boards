@@ -100325,6 +100325,46 @@
     },
     {
       "type": "Feature",
+      "id": 283077,
+      "properties": {
+        "id": 283077,
+        "username": "dreamtimeclimbing",
+        "latitude": 43.108311,
+        "longitude": 12.366431,
+        "title": "Dreamtime",
+        "description": "Tension Board at Dreamtime",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.366431,
+          43.108311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283154,
+      "properties": {
+        "id": 283154,
+        "username": "castleclimbingclub",
+        "latitude": 47.544867,
+        "longitude": -122.344753,
+        "title": "Castle Climbing Club",
+        "description": "Tension Board at Castle Climbing Club",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344753,
+          47.544867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

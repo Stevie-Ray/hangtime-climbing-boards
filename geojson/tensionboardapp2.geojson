@@ -6480,6 +6480,42 @@
           35.257508
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 283077,
+      "properties": {
+        "id": 283077,
+        "username": "dreamtimeclimbing",
+        "name": "Dreamtime",
+        "latitude": 43.108311,
+        "longitude": 12.366431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.366431,
+          43.108311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283154,
+      "properties": {
+        "id": 283154,
+        "username": "castleclimbingclub",
+        "name": "Castle Climbing Club",
+        "latitude": 47.544867,
+        "longitude": -122.344753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344753,
+          47.544867
+        ]
+      }
     }
   ]
 }
