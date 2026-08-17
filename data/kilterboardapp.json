@@ -18380,6 +18380,41 @@
       ]
     },
     {
+      "id": "d5ced920-ed84-4a26-862d-6fef879491dd",
+      "gym_uuid": "d5ced920-ed84-4a26-862d-6fef879491dd",
+      "name": "Gneiss Climbing OG Banks",
+      "address": "101 430 Banks Road",
+      "city": "Kelowna",
+      "country": "Canada",
+      "countryCode": null,
+      "postal_code": "V1X 6A3",
+      "latitude": 49.884857023039906,
+      "longitude": -119.4229850502785,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "74270c83-1be2-43d4-8908-502f2cd4b8c7",
+          "wall_uuid": "74270c83-1be2-43d4-8908-502f2cd4b8c7",
+          "gym_uuid": "d5ced920-ed84-4a26-862d-6fef879491dd",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": null,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000495",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-08-15 17:09:39.256623Z"
+        }
+      ]
+    },
+    {
       "id": "150781",
       "gym_uuid": "150781",
       "name": "GoNature HK Ltd",
