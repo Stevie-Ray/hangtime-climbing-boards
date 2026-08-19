@@ -17865,6 +17865,54 @@
     },
     {
       "type": "Feature",
+      "id": "7d99b76f-f619-4986-a61d-6a466e716b0d",
+      "properties": {
+        "id": "7d99b76f-f619-4986-a61d-6a466e716b0d",
+        "gym_uuid": "7d99b76f-f619-4986-a61d-6a466e716b0d",
+        "address": "25 Prescott St",
+        "city": "Toowoomba City, QLD",
+        "country": "Australia",
+        "countryCode": null,
+        "postal_code": "4350",
+        "latitude": -27.565676,
+        "longitude": 151.947208,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "657b4778-a058-47f2-868e-0f47e21008fc",
+            "wall_uuid": "657b4778-a058-47f2-868e-0f47e21008fc",
+            "gym_uuid": "7d99b76f-f619-4986-a61d-6a466e716b0d",
+            "name": "Kilter Board HW 7x10 Mainline",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "18",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 20,
+            "serial_number": "K000186",
+            "accumulated_hold_set_value": 1,
+            "is_listed": 1,
+            "created_at": "2026-08-18 23:53:59.172931Z"
+          }
+        ],
+        "title": "Climb Toowoomba",
+        "description": "Kilter Board at Climb Toowoomba",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.947208,
+          -27.565676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "726231",
       "properties": {
         "id": "726231",
@@ -46455,6 +46503,54 @@
         "coordinates": [
           -106.5756,
           35.18458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e3d125c-48d6-4d4f-9ab4-64e297b0db67",
+      "properties": {
+        "id": "5e3d125c-48d6-4d4f-9ab4-64e297b0db67",
+        "gym_uuid": "5e3d125c-48d6-4d4f-9ab4-64e297b0db67",
+        "address": "6200 Alameda Blvd NE",
+        "city": "Albuquerque ",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "87113",
+        "latitude": 35.184391279939376,
+        "longitude": -106.57514876931646,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "7f280d78-3889-4c4c-a4a3-7abc46ed34cd",
+            "wall_uuid": "7f280d78-3889-4c4c-a4a3-7abc46ed34cd",
+            "gym_uuid": "5e3d125c-48d6-4d4f-9ab4-64e297b0db67",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000512",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-08-18 16:04:21.268855Z"
+          }
+        ],
+        "title": "Stone Age Climbing Gym North",
+        "description": "Kilter Board at Stone Age Climbing Gym North",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.57514876931646,
+          35.184391279939376
         ]
       }
     },
