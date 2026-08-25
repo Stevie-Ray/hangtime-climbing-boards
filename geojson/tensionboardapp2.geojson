@@ -6516,6 +6516,24 @@
           47.544867
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 286287,
+      "properties": {
+        "id": 286287,
+        "username": "koasaboulder",
+        "name": "Koasa Boulder",
+        "latitude": 47.525894,
+        "longitude": 12.422342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.422342,
+          47.525894
+        ]
+      }
     }
   ]
 }

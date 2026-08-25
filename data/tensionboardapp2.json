@@ -2533,6 +2533,13 @@
       "name": "Castle Climbing Club",
       "latitude": 47.544867,
       "longitude": -122.344753
+    },
+    {
+      "id": 286287,
+      "username": "koasaboulder",
+      "name": "Koasa Boulder",
+      "latitude": 47.525894,
+      "longitude": 12.422342
     }
   ]
 }
