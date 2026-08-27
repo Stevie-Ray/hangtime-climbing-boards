@@ -12839,6 +12839,54 @@
     },
     {
       "type": "Feature",
+      "id": "7f881f64-3b89-4d1c-8a06-f4221b2b4439",
+      "properties": {
+        "id": "7f881f64-3b89-4d1c-8a06-f4221b2b4439",
+        "gym_uuid": "7f881f64-3b89-4d1c-8a06-f4221b2b4439",
+        "address": "Ohlauer Straße 38",
+        "city": "Berlin",
+        "country": "Germany",
+        "countryCode": null,
+        "postal_code": "10999",
+        "latitude": 52.495270540274504,
+        "longitude": 13.428684471163674,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "38c78a16-be85-4ef3-b293-a5db8e073ca9",
+            "wall_uuid": "38c78a16-be85-4ef3-b293-a5db8e073ca9",
+            "gym_uuid": "7f881f64-3b89-4d1c-8a06-f4221b2b4439",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 35,
+            "max_angle": 60,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000102",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-08-26 14:50:38.032872Z"
+          }
+        ],
+        "title": "Boulderklub Kreuzberg",
+        "description": "Kilter Board at Boulderklub Kreuzberg",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.428684471163674,
+          52.495270540274504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "171414",
       "properties": {
         "id": "171414",
