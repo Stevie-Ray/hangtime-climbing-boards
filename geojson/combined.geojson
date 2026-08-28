@@ -9648,6 +9648,54 @@
     },
     {
       "type": "Feature",
+      "id": "b44cf486-fc9b-4d5e-9830-3dd32ca53ee5",
+      "properties": {
+        "id": "b44cf486-fc9b-4d5e-9830-3dd32ca53ee5",
+        "gym_uuid": "b44cf486-fc9b-4d5e-9830-3dd32ca53ee5",
+        "address": "Könyves Kálmán körút 12-14.",
+        "city": "Budapest",
+        "country": "Hungary",
+        "countryCode": null,
+        "postal_code": "1097 ",
+        "latitude": 47.47100082002219,
+        "longitude": 19.084154742327996,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "ef8cb66c-d874-4db2-bebc-932c8edc71b9",
+            "wall_uuid": "ef8cb66c-d874-4db2-bebc-932c8edc71b9",
+            "gym_uuid": "b44cf486-fc9b-4d5e-9830-3dd32ca53ee5",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000353",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-08-27 17:59:17.399119Z"
+          }
+        ],
+        "title": "Boulder Academy Budapest",
+        "description": "Kilter Board at Boulder Academy Budapest",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.084154742327996,
+          47.47100082002219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "5ab12c6a-a098-47e4-87af-517fb7130e30",
       "properties": {
         "id": "5ab12c6a-a098-47e4-87af-517fb7130e30",
@@ -100620,6 +100668,26 @@
         "coordinates": [
           12.422342,
           47.525894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 286980,
+      "properties": {
+        "id": 286980,
+        "username": "thestackchico",
+        "latitude": 39.728495,
+        "longitude": -121.794006,
+        "title": "The Stack Climbing + Fitness",
+        "description": "Tension Board at The Stack Climbing + Fitness",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.794006,
+          39.728495
         ]
       }
     },

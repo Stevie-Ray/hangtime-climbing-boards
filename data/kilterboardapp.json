@@ -6069,6 +6069,41 @@
       ]
     },
     {
+      "id": "b44cf486-fc9b-4d5e-9830-3dd32ca53ee5",
+      "gym_uuid": "b44cf486-fc9b-4d5e-9830-3dd32ca53ee5",
+      "name": "Boulder Academy Budapest",
+      "address": "Könyves Kálmán körút 12-14.",
+      "city": "Budapest",
+      "country": "Hungary",
+      "countryCode": null,
+      "postal_code": "1097 ",
+      "latitude": 47.47100082002219,
+      "longitude": 19.084154742327996,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "ef8cb66c-d874-4db2-bebc-932c8edc71b9",
+          "wall_uuid": "ef8cb66c-d874-4db2-bebc-932c8edc71b9",
+          "gym_uuid": "b44cf486-fc9b-4d5e-9830-3dd32ca53ee5",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000353",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-08-27 17:59:17.399119Z"
+        }
+      ]
+    },
+    {
       "id": "5ab12c6a-a098-47e4-87af-517fb7130e30",
       "gym_uuid": "5ab12c6a-a098-47e4-87af-517fb7130e30",
       "name": "Boulder Amsterdam",

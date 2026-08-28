@@ -6534,6 +6534,24 @@
           47.525894
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 286980,
+      "properties": {
+        "id": 286980,
+        "username": "thestackchico",
+        "name": "The Stack Climbing + Fitness",
+        "latitude": 39.728495,
+        "longitude": -121.794006
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.794006,
+          39.728495
+        ]
+      }
     }
   ]
 }
