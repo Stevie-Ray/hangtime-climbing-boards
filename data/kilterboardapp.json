@@ -456,6 +456,41 @@
       ]
     },
     {
+      "id": "6633f1e2-63af-418b-bc97-cce76a6c83c3",
+      "gym_uuid": "6633f1e2-63af-418b-bc97-cce76a6c83c3",
+      "name": "AKIRA Climbing",
+      "address": "Piazza Risorgimento 1",
+      "city": "Carate brianza",
+      "country": "Italy",
+      "countryCode": null,
+      "postal_code": "20841",
+      "latitude": 45.673384290029745,
+      "longitude": 9.231829044179566,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "21cadbc0-fd75-4588-98ed-25fc0b3b6fbd",
+          "wall_uuid": "21cadbc0-fd75-4588-98ed-25fc0b3b6fbd",
+          "gym_uuid": "6633f1e2-63af-418b-bc97-cce76a6c83c3",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000413",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-08-28 18:04:40.202154Z"
+        }
+      ]
+    },
+    {
       "id": "775598",
       "gym_uuid": "775598",
       "name": "ALI Dixon Climbing Center",
@@ -22424,6 +22459,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2024-08-11 20:35:30.046907Z"
+        }
+      ]
+    },
+    {
+      "id": "b9b8be6d-e978-4399-b222-ccd888581670",
+      "gym_uuid": "b9b8be6d-e978-4399-b222-ccd888581670",
+      "name": "KiipeilyAreena Salmisaari",
+      "address": "Energiakatu 3",
+      "city": "Helsinki",
+      "country": "Finland",
+      "countryCode": null,
+      "postal_code": "100",
+      "latitude": 60.16622370498926,
+      "longitude": 24.904248473015482,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "44740b49-af21-4641-aa19-604cf40c67ea",
+          "wall_uuid": "44740b49-af21-4641-aa19-604cf40c67ea",
+          "gym_uuid": "b9b8be6d-e978-4399-b222-ccd888581670",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "28",
+          "is_adjustable": 1,
+          "min_angle": null,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "752013",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-08-28 17:49:20.273517Z"
         }
       ]
     },
