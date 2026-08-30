@@ -100789,6 +100789,26 @@
     },
     {
       "type": "Feature",
+      "id": 287557,
+      "properties": {
+        "id": 287557,
+        "username": "climbnulu",
+        "latitude": 38.252376,
+        "longitude": -85.733962,
+        "title": "Climb Nulu",
+        "description": "Tension Board at Climb Nulu",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.733962,
+          38.252376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
