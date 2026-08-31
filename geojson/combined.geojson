@@ -100809,6 +100809,26 @@
     },
     {
       "type": "Feature",
+      "id": 287875,
+      "properties": {
+        "id": 287875,
+        "username": "banana__climbing_dx",
+        "latitude": 40.00333735,
+        "longitude": 116.36517531,
+        "title": "Banana Climbing Xiaoyuehe",
+        "description": "Tension Board at Banana Climbing Xiaoyuehe",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.36517531,
+          40.00333735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

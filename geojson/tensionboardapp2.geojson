@@ -6570,6 +6570,24 @@
           38.252376
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 287875,
+      "properties": {
+        "id": 287875,
+        "username": "banana__climbing_dx",
+        "name": "Banana Climbing Xiaoyuehe",
+        "latitude": 40.00333735,
+        "longitude": 116.36517531
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.36517531,
+          40.00333735
+        ]
+      }
     }
   ]
 }
