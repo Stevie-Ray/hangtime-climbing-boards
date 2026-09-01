@@ -15110,6 +15110,41 @@
       ]
     },
     {
+      "id": "ab44d3ce-f537-46b3-9d77-a9f50e216699",
+      "gym_uuid": "ab44d3ce-f537-46b3-9d77-a9f50e216699",
+      "name": "Dreamstone Boulders Kelapa Gading",
+      "address": "Jl. Sedayu Boulevard Raya Raya No.1",
+      "city": "Jakarta Timur ",
+      "country": "Indonesia",
+      "countryCode": null,
+      "postal_code": "13920",
+      "latitude": -6.168997632532928,
+      "longitude": 106.92485794232918,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "2c32283b-6355-43aa-997b-2e0431a82546",
+          "wall_uuid": "2c32283b-6355-43aa-997b-2e0431a82546",
+          "gym_uuid": "ab44d3ce-f537-46b3-9d77-a9f50e216699",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000416",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-08-31 15:27:46.469807Z"
+        }
+      ]
+    },
+    {
       "id": "151546",
       "gym_uuid": "151546",
       "name": "Dyno Climb",
@@ -30460,6 +30495,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2025-04-17 12:10:48.422206Z"
+        }
+      ]
+    },
+    {
+      "id": "4079919b-9dc4-4cd9-b2d9-9ab96a8c8673",
+      "gym_uuid": "4079919b-9dc4-4cd9-b2d9-9ab96a8c8673",
+      "name": "Rock Room",
+      "address": "319 Victoria Ave E",
+      "city": "Thunder Bay",
+      "country": "Canada",
+      "countryCode": null,
+      "postal_code": "P7C1A4",
+      "latitude": 48.38436086978212,
+      "longitude": -89.24355872698759,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "a97ab5bf-ede5-48a4-8eb5-58b732cf5ab2",
+          "wall_uuid": "a97ab5bf-ede5-48a4-8eb5-58b732cf5ab2",
+          "gym_uuid": "4079919b-9dc4-4cd9-b2d9-9ab96a8c8673",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 15,
+          "max_angle": 60,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000318",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-08-31 15:36:36.521545Z"
         }
       ]
     },

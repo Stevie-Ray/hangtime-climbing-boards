@@ -5493,6 +5493,24 @@
     },
     {
       "type": "Feature",
+      "id": 239787,
+      "properties": {
+        "id": 239787,
+        "username": "tilted.climbing",
+        "name": "Tilted Climbing",
+        "latitude": 49.30953,
+        "longitude": -123.033253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.033253,
+          49.30953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 241137,
       "properties": {
         "id": 241137,
@@ -6586,6 +6604,24 @@
         "coordinates": [
           116.36517531,
           40.00333735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288056,
+      "properties": {
+        "id": 288056,
+        "username": "kiipeilyareena",
+        "name": "KiipeilyAreena Salmisaari",
+        "latitude": 60.166129,
+        "longitude": 24.904168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.904168,
+          60.166129
         ]
       }
     }

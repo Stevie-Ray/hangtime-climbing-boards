@@ -2136,6 +2136,13 @@
       "longitude": -79.73227
     },
     {
+      "id": 239787,
+      "username": "tilted.climbing",
+      "name": "Tilted Climbing",
+      "latitude": 49.30953,
+      "longitude": -123.033253
+    },
+    {
       "id": 241137,
       "username": "highsportsbrighton",
       "name": "High Sports Brighton",
@@ -2561,6 +2568,13 @@
       "name": "Banana Climbing Xiaoyuehe",
       "latitude": 40.00333735,
       "longitude": 116.36517531
+    },
+    {
+      "id": 288056,
+      "username": "kiipeilyareena",
+      "name": "KiipeilyAreena Salmisaari",
+      "latitude": 60.166129,
+      "longitude": 24.904168
     }
   ]
 }
