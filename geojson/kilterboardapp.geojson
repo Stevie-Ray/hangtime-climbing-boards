@@ -8821,6 +8821,52 @@
     },
     {
       "type": "Feature",
+      "id": "1f0cd7b9-7dbb-4a21-a057-a8046fb87c3a",
+      "properties": {
+        "id": "1f0cd7b9-7dbb-4a21-a057-a8046fb87c3a",
+        "gym_uuid": "1f0cd7b9-7dbb-4a21-a057-a8046fb87c3a",
+        "name": "Boulder Space Ph",
+        "address": "14 Economia Libis",
+        "city": "Quezon City",
+        "country": "Philippines ",
+        "countryCode": null,
+        "postal_code": "1110",
+        "latitude": 14.607518460075061,
+        "longitude": 121.08249040185048,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "342f9fc8-99b8-4ff2-a06c-f004187fd560",
+            "wall_uuid": "342f9fc8-99b8-4ff2-a06c-f004187fd560",
+            "gym_uuid": "1f0cd7b9-7dbb-4a21-a057-a8046fb87c3a",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 50,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "#751649",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-02 15:10:19.606674Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.08249040185048,
+          14.607518460075061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "509368",
       "properties": {
         "id": "509368",
@@ -16956,6 +17002,52 @@
         "coordinates": [
           -79.9463228,
           32.7988172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26873088-b220-4d9a-9032-811d8c6cbcfb",
+      "properties": {
+        "id": "26873088-b220-4d9a-9032-811d8c6cbcfb",
+        "gym_uuid": "26873088-b220-4d9a-9032-811d8c6cbcfb",
+        "name": "Colmeia",
+        "address": "Rua Pedro Américo, 270",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "countryCode": null,
+        "postal_code": "22211200",
+        "latitude": -22.373877265118452,
+        "longitude": -42.92547711946016,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "a73c660e-0d63-4d86-b148-76c41f966160",
+            "wall_uuid": "a73c660e-0d63-4d86-b148-76c41f966160",
+            "gym_uuid": "26873088-b220-4d9a-9032-811d8c6cbcfb",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "8",
+            "is_adjustable": 1,
+            "min_angle": 30,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000434",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-02 14:57:03.454621Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.92547711946016,
+          -22.373877265118452
         ]
       }
     },
