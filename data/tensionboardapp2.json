@@ -2578,8 +2578,8 @@
     },
     {
       "id": 288599,
-      "username": "elephant_rock_climbing",
-      "name": "大象攀岩 Elephant Rock Climbing",
+      "username": "greatform_rock_climbing",
+      "name": "大象标准 Greatform Rock Climbing",
       "latitude": 32.0951,
       "longitude": 118.8123
     },
@@ -2589,6 +2589,13 @@
       "name": "Boulder Den",
       "latitude": 35.860514,
       "longitude": 127.121722
+    },
+    {
+      "id": 288910,
+      "username": "boulderhaus_darmstadt",
+      "name": "Boulderhaus Darmstadt",
+      "latitude": 49.87973,
+      "longitude": 8.636101
     }
   ]
 }

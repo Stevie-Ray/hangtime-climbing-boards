@@ -6630,8 +6630,8 @@
       "id": 288599,
       "properties": {
         "id": 288599,
-        "username": "elephant_rock_climbing",
-        "name": "大象攀岩 Elephant Rock Climbing",
+        "username": "greatform_rock_climbing",
+        "name": "大象标准 Greatform Rock Climbing",
         "latitude": 32.0951,
         "longitude": 118.8123
       },
@@ -6658,6 +6658,24 @@
         "coordinates": [
           127.121722,
           35.860514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288910,
+      "properties": {
+        "id": 288910,
+        "username": "boulderhaus_darmstadt",
+        "name": "Boulderhaus Darmstadt",
+        "latitude": 49.87973,
+        "longitude": 8.636101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.636101,
+          49.87973
         ]
       }
     }
