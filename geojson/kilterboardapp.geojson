@@ -17017,8 +17017,8 @@
         "country": "Brazil",
         "countryCode": null,
         "postal_code": "22211200",
-        "latitude": -22.373877265118452,
-        "longitude": -42.92547711946016,
+        "latitude": -22.924352281159845,
+        "longitude": -43.17972167683,
         "gym_logo": null,
         "banner_logo": null,
         "instagram_username": null,
@@ -17046,8 +17046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.92547711946016,
-          -22.373877265118452
+          -43.17972167683,
+          -22.924352281159845
         ]
       }
     },
@@ -23256,6 +23256,52 @@
         "coordinates": [
           -81.83502,
           26.49338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20396b15-e6de-42ca-b156-2a9960c828a6",
+      "properties": {
+        "id": "20396b15-e6de-42ca-b156-2a9960c828a6",
+        "gym_uuid": "20396b15-e6de-42ca-b156-2a9960c828a6",
+        "name": "Foundation Climbing",
+        "address": "2300 N. Lombardy St. ",
+        "city": "Richmond",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "23220",
+        "latitude": 37.5639572596054,
+        "longitude": 77.44774354232841,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "00da58d7-65bf-4fcb-84f0-dfea00dd9914",
+            "wall_uuid": "00da58d7-65bf-4fcb-84f0-dfea00dd9914",
+            "gym_uuid": "20396b15-e6de-42ca-b156-2a9960c828a6",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000369",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-05 05:57:44.641517Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.44774354232841,
+          37.5639572596054
         ]
       }
     },
