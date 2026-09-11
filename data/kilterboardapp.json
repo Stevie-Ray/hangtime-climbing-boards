@@ -36968,23 +36968,6 @@
           "created_at": "2025-05-20 16:07:42.238398Z"
         },
         {
-          "id": "79bd4b69-8053-4a33-a18b-d20c1646d8ba",
-          "wall_uuid": "79bd4b69-8053-4a33-a18b-d20c1646d8ba",
-          "gym_uuid": "702078",
-          "name": "Homewall West",
-          "product_name": "Kilter Board Homewall",
-          "product_layout_uuid": "25",
-          "is_adjustable": 1,
-          "min_angle": null,
-          "max_angle": null,
-          "angle_increments": null,
-          "angle": 40,
-          "serial_number": "751481",
-          "accumulated_hold_set_value": 15,
-          "is_listed": 1,
-          "created_at": "2025-05-20 16:07:42.238398Z"
-        },
-        {
           "id": "64c86655-54b6-4cb6-a97f-87cdbf2d2931",
           "wall_uuid": "64c86655-54b6-4cb6-a97f-87cdbf2d2931",
           "gym_uuid": "702078",
