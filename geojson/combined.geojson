@@ -101012,6 +101012,26 @@
     },
     {
       "type": "Feature",
+      "id": 286825,
+      "properties": {
+        "id": 286825,
+        "username": "infinityboulder",
+        "latitude": 45.998364,
+        "longitude": 11.124859,
+        "title": "Infinity Boulder",
+        "description": "Tension Board at Infinity Boulder",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.124859,
+          45.998364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 286980,
       "properties": {
         "id": 286980,
