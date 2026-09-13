@@ -51770,6 +51770,52 @@
     },
     {
       "type": "Feature",
+      "id": "4bf18bd7-8d7e-4210-b98f-8a3b74b34973",
+      "properties": {
+        "id": "4bf18bd7-8d7e-4210-b98f-8a3b74b34973",
+        "gym_uuid": "4bf18bd7-8d7e-4210-b98f-8a3b74b34973",
+        "name": "boulderkino",
+        "address": "Obere Hauptgasse 78",
+        "city": "Thun",
+        "country": "Switzerland",
+        "countryCode": null,
+        "postal_code": "3600",
+        "latitude": 46.75816957856231,
+        "longitude": 7.632552419659467,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "c976960d-14c8-4e53-8b64-6823348152c2",
+            "wall_uuid": "c976960d-14c8-4e53-8b64-6823348152c2",
+            "gym_uuid": "4bf18bd7-8d7e-4210-b98f-8a3b74b34973",
+            "name": "Kilter Board HW FR",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "25",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "75790",
+            "accumulated_hold_set_value": 15,
+            "is_listed": 1,
+            "created_at": "2026-09-12 16:30:07.413679Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632552419659467,
+          46.75816957856231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "83573907-2ed9-4b6a-bf00-1abf6f515db0",
       "properties": {
         "id": "83573907-2ed9-4b6a-bf00-1abf6f515db0",
