@@ -2603,6 +2603,27 @@
       "name": "Boulderhaus Darmstadt",
       "latitude": 49.87973,
       "longitude": 8.636101
+    },
+    {
+      "id": 291660,
+      "username": "projectkonepaja",
+      "name": "Project Konepaja",
+      "latitude": 60.194069,
+      "longitude": 24.945903
+    },
+    {
+      "id": 291666,
+      "username": "cruxcchouston",
+      "name": "Crux Climbing Center Houston",
+      "latitude": 29.753367,
+      "longitude": -95.34022
+    },
+    {
+      "id": 291676,
+      "username": "bulderland_delicias",
+      "name": "Bulderland Delicias",
+      "latitude": 41.655175,
+      "longitude": -0.903182
     }
   ]
 }

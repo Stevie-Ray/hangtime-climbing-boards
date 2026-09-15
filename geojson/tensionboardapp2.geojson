@@ -6696,6 +6696,60 @@
           49.87973
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 291660,
+      "properties": {
+        "id": 291660,
+        "username": "projectkonepaja",
+        "name": "Project Konepaja",
+        "latitude": 60.194069,
+        "longitude": 24.945903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.945903,
+          60.194069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 291666,
+      "properties": {
+        "id": 291666,
+        "username": "cruxcchouston",
+        "name": "Crux Climbing Center Houston",
+        "latitude": 29.753367,
+        "longitude": -95.34022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.34022,
+          29.753367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 291676,
+      "properties": {
+        "id": 291676,
+        "username": "bulderland_delicias",
+        "name": "Bulderland Delicias",
+        "latitude": 41.655175,
+        "longitude": -0.903182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.903182,
+          41.655175
+        ]
+      }
     }
   ]
 }

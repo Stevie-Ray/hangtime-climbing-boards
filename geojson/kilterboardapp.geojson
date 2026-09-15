@@ -23272,7 +23272,7 @@
         "countryCode": null,
         "postal_code": "23220",
         "latitude": 37.5639572596054,
-        "longitude": 77.44774354232841,
+        "longitude": -77.44774354232841,
         "gym_logo": null,
         "banner_logo": null,
         "instagram_username": null,
@@ -23300,7 +23300,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44774354232841,
+          -77.44774354232841,
           37.5639572596054
         ]
       }
@@ -27763,6 +27763,52 @@
     },
     {
       "type": "Feature",
+      "id": "28c75088-bfcb-4709-a411-9acaa0097a2b",
+      "properties": {
+        "id": "28c75088-bfcb-4709-a411-9acaa0097a2b",
+        "gym_uuid": "28c75088-bfcb-4709-a411-9acaa0097a2b",
+        "name": "Hop’n Bloc",
+        "address": "16 rue du vélodrôme",
+        "city": "Saint-Étienne-lès-Remiremont",
+        "country": "France",
+        "countryCode": null,
+        "postal_code": "88200",
+        "latitude": 48.01310729531032,
+        "longitude": 6.608401649077723,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "250128f3-3d5f-476a-8753-e210b1675ceb",
+            "wall_uuid": "250128f3-3d5f-476a-8753-e210b1675ceb",
+            "gym_uuid": "28c75088-bfcb-4709-a411-9acaa0097a2b",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000408",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-14 19:52:28.277953Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.608401649077723,
+          48.01310729531032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "342618",
       "properties": {
         "id": "342618",
@@ -31579,6 +31625,52 @@
         "coordinates": [
           2.30923,
           48.87699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "afb34327-9005-4ae1-b976-9479f99c2e03",
+      "properties": {
+        "id": "afb34327-9005-4ae1-b976-9479f99c2e03",
+        "gym_uuid": "afb34327-9005-4ae1-b976-9479f99c2e03",
+        "name": "La Bauma",
+        "address": "Carrer Avinyonet 22",
+        "city": "Vilafranca del Penedès",
+        "country": "Spain",
+        "countryCode": null,
+        "postal_code": "08720",
+        "latitude": 41.350442760205716,
+        "longitude": 1.7106191355821418,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "c87015a8-a172-471d-b41c-303189e1f4ba",
+            "wall_uuid": "c87015a8-a172-471d-b41c-303189e1f4ba",
+            "gym_uuid": "afb34327-9005-4ae1-b976-9479f99c2e03",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "752028",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-14 15:10:55.45051Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7106191355821418,
+          41.350442760205716
         ]
       }
     },
@@ -38150,6 +38242,52 @@
         "coordinates": [
           -122.72854,
           49.12096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "237a2115-d552-493a-b169-cd51a54d9e06",
+      "properties": {
+        "id": "237a2115-d552-493a-b169-cd51a54d9e06",
+        "gym_uuid": "237a2115-d552-493a-b169-cd51a54d9e06",
+        "name": "Project Konepaja",
+        "address": "Konepajanpasaasi ",
+        "city": "Helsinki",
+        "country": "Finland",
+        "countryCode": null,
+        "postal_code": "510",
+        "latitude": 60.19417112336972,
+        "longitude": 24.945886706746425,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "2d722335-b635-4791-ad14-103566729c79",
+            "wall_uuid": "2d722335-b635-4791-ad14-103566729c79",
+            "gym_uuid": "237a2115-d552-493a-b169-cd51a54d9e06",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 20,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000070",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-14 15:21:20.296015Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.945886706746425,
+          60.19417112336972
         ]
       }
     },
@@ -46724,6 +46862,52 @@
         "coordinates": [
           -74.20759,
           40.81398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5092b69d-5679-42f8-b797-b7500c29f5a9",
+      "properties": {
+        "id": "5092b69d-5679-42f8-b797-b7500c29f5a9",
+        "gym_uuid": "5092b69d-5679-42f8-b797-b7500c29f5a9",
+        "name": "The Gravity Vault Poughkeepsie",
+        "address": "6 Neptune Rd.",
+        "city": "Poughkeepsie",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "12601",
+        "latitude": 41.64363480218823,
+        "longitude": -73.92486519325358,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "b1aaa76f-ab28-4b59-af4d-ffec89691fe9",
+            "wall_uuid": "b1aaa76f-ab28-4b59-af4d-ffec89691fe9",
+            "gym_uuid": "5092b69d-5679-42f8-b797-b7500c29f5a9",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "k000064",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-14 15:28:01.806324Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92486519325358,
+          41.64363480218823
         ]
       }
     },
