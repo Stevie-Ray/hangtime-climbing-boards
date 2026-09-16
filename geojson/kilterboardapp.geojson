@@ -9177,6 +9177,52 @@
     },
     {
       "type": "Feature",
+      "id": "7150b679-9cbc-4c99-acf3-59d3894dd85a",
+      "properties": {
+        "id": "7150b679-9cbc-4c99-acf3-59d3894dd85a",
+        "gym_uuid": "7150b679-9cbc-4c99-acf3-59d3894dd85a",
+        "name": "BoulderForest",
+        "address": "10 Rue Jean Fischbach",
+        "city": "Leudelange",
+        "country": "Luxemburg",
+        "countryCode": null,
+        "postal_code": "3372",
+        "latitude": 49.568031467421335,
+        "longitude": 6.076590879757212,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "69396ea2-2e95-4982-ae6c-a3d64600cd08",
+            "wall_uuid": "69396ea2-2e95-4982-ae6c-a3d64600cd08",
+            "gym_uuid": "7150b679-9cbc-4c99-acf3-59d3894dd85a",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 10,
+            "max_angle": 60,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000425",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-15 16:17:55.349247Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.076590879757212,
+          49.568031467421335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "264865",
       "properties": {
         "id": "264865",
