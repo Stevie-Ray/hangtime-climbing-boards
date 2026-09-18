@@ -21389,6 +21389,54 @@
     },
     {
       "type": "Feature",
+      "id": "d323b91f-1064-4acd-bd0d-e84fa6b9106b",
+      "properties": {
+        "id": "d323b91f-1064-4acd-bd0d-e84fa6b9106b",
+        "gym_uuid": "d323b91f-1064-4acd-bd0d-e84fa6b9106b",
+        "address": "C/Rio Lubierre 2",
+        "city": "Jaca (Huesca)",
+        "country": "Spain",
+        "countryCode": null,
+        "postal_code": "22700",
+        "latitude": 42.56298998133958,
+        "longitude": -0.5699394779126595,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "9edb91ab-99aa-46c5-b65e-3b16e797bc5d",
+            "wall_uuid": "9edb91ab-99aa-46c5-b65e-3b16e797bc5d",
+            "gym_uuid": "d323b91f-1064-4acd-bd0d-e84fa6b9106b",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751230",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-17 15:31:41.4732Z"
+          }
+        ],
+        "title": "DERROCA",
+        "description": "Kilter Board at DERROCA",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5699394779126595,
+          42.56298998133958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "1e42194e-38b1-4bb1-9d65-338213c508b3",
       "properties": {
         "id": "1e42194e-38b1-4bb1-9d65-338213c508b3",
@@ -48536,6 +48584,54 @@
         "coordinates": [
           -122.29303,
           37.85118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "786feb4e-e672-4628-a98c-5b10d770d515",
+      "properties": {
+        "id": "786feb4e-e672-4628-a98c-5b10d770d515",
+        "gym_uuid": "786feb4e-e672-4628-a98c-5b10d770d515",
+        "address": "Uniti402, C92 Industrial Park, No.92 Changjiang Road",
+        "city": "Tianjin",
+        "country": "China ",
+        "countryCode": null,
+        "postal_code": "300102",
+        "latitude": 39.13126609194788,
+        "longitude": 117.1456758270123,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "001b0124-e0c3-4967-b425-38f70e1ea99b",
+            "wall_uuid": "001b0124-e0c3-4967-b425-38f70e1ea99b",
+            "gym_uuid": "786feb4e-e672-4628-a98c-5b10d770d515",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "752001",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-17 15:24:20.224524Z"
+          }
+        ],
+        "title": "Tension Lab",
+        "description": "Kilter Board at Tension Lab",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1456758270123,
+          39.13126609194788
         ]
       }
     },
