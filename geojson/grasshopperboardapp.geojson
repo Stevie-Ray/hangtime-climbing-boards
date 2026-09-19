@@ -756,6 +756,24 @@
           32.70777
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 36872,
+      "properties": {
+        "id": 36872,
+        "username": "uofu_climbing",
+        "name": "University of Utah",
+        "latitude": 40.765541,
+        "longitude": -111.837972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.837972,
+          40.765541
+        ]
+      }
     }
   ]
 }

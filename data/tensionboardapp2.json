@@ -2624,6 +2624,27 @@
       "name": "Bulderland Delicias",
       "latitude": 41.655175,
       "longitude": -0.903182
+    },
+    {
+      "id": 293112,
+      "username": "climbterrafirma_elansing",
+      "name": "Terra Firma Bouldering Co - East Lansing",
+      "latitude": 42.724113,
+      "longitude": -84.448638
+    },
+    {
+      "id": 293134,
+      "username": "uofu_climbing",
+      "name": "University of Utah",
+      "latitude": 40.765541,
+      "longitude": -111.837972
+    },
+    {
+      "id": 293191,
+      "username": "b_wall_quimper",
+      "name": "B'wall Quimper",
+      "latitude": 47.974791,
+      "longitude": -4.07653
     }
   ]
 }

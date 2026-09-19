@@ -6750,6 +6750,60 @@
           41.655175
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 293112,
+      "properties": {
+        "id": 293112,
+        "username": "climbterrafirma_elansing",
+        "name": "Terra Firma Bouldering Co - East Lansing",
+        "latitude": 42.724113,
+        "longitude": -84.448638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.448638,
+          42.724113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293134,
+      "properties": {
+        "id": 293134,
+        "username": "uofu_climbing",
+        "name": "University of Utah",
+        "latitude": 40.765541,
+        "longitude": -111.837972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.837972,
+          40.765541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293191,
+      "properties": {
+        "id": 293191,
+        "username": "b_wall_quimper",
+        "name": "B'wall Quimper",
+        "latitude": 47.974791,
+        "longitude": -4.07653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.07653,
+          47.974791
+        ]
+      }
     }
   ]
 }

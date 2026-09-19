@@ -1383,6 +1383,26 @@
     },
     {
       "type": "Feature",
+      "id": 36872,
+      "properties": {
+        "id": 36872,
+        "username": "uofu_climbing",
+        "latitude": 40.765541,
+        "longitude": -111.837972,
+        "title": "University of Utah",
+        "description": "Grasshopper Board at University of Utah",
+        "marker-color": "#00EAFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.837972,
+          40.765541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "fdf19bb7-81d8-49ff-a2dc-b8ad223464f2",
       "properties": {
         "id": "fdf19bb7-81d8-49ff-a2dc-b8ad223464f2",
@@ -101611,6 +101631,66 @@
         "coordinates": [
           -0.903182,
           41.655175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293112,
+      "properties": {
+        "id": 293112,
+        "username": "climbterrafirma_elansing",
+        "latitude": 42.724113,
+        "longitude": -84.448638,
+        "title": "Terra Firma Bouldering Co - East Lansing",
+        "description": "Tension Board at Terra Firma Bouldering Co - East Lansing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.448638,
+          42.724113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293134,
+      "properties": {
+        "id": 293134,
+        "username": "uofu_climbing",
+        "latitude": 40.765541,
+        "longitude": -111.837972,
+        "title": "University of Utah",
+        "description": "Tension Board at University of Utah",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.837972,
+          40.765541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293191,
+      "properties": {
+        "id": 293191,
+        "username": "b_wall_quimper",
+        "latitude": 47.974791,
+        "longitude": -4.07653,
+        "title": "B'wall Quimper",
+        "description": "Tension Board at B'wall Quimper",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.07653,
+          47.974791
         ]
       }
     },
