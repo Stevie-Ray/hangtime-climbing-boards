@@ -20847,6 +20847,52 @@
     },
     {
       "type": "Feature",
+      "id": "2eafb388-ef24-4a3e-aa51-bb54c90fb4ff",
+      "properties": {
+        "id": "2eafb388-ef24-4a3e-aa51-bb54c90fb4ff",
+        "gym_uuid": "2eafb388-ef24-4a3e-aa51-bb54c90fb4ff",
+        "name": "Eide Klatreklubb",
+        "address": "Myravegen 15",
+        "city": "Eide",
+        "country": "Norway",
+        "countryCode": null,
+        "postal_code": "6490",
+        "latitude": 62.91943741104987,
+        "longitude": 7.447405442329973,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "12be7205-ec36-4752-b84e-f16a277a86e9",
+            "wall_uuid": "12be7205-ec36-4752-b84e-f16a277a86e9",
+            "gym_uuid": "2eafb388-ef24-4a3e-aa51-bb54c90fb4ff",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000368",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-21 16:59:53.341201Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.447405442329973,
+          62.91943741104987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "603657",
       "properties": {
         "id": "603657",

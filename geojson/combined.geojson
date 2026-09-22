@@ -1387,8 +1387,8 @@
       "properties": {
         "id": 36872,
         "username": "uofu_climbing",
-        "latitude": 40.765541,
-        "longitude": -111.837972,
+        "latitude": 40.762918,
+        "longitude": -111.836382,
         "title": "University of Utah",
         "description": "Grasshopper Board at University of Utah",
         "marker-color": "#00EAFF"
@@ -1396,8 +1396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.837972,
-          40.765541
+          -111.836382,
+          40.762918
         ]
       }
     },
@@ -23132,6 +23132,54 @@
         "coordinates": [
           -2.0969699508931994,
           43.109892891666874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2eafb388-ef24-4a3e-aa51-bb54c90fb4ff",
+      "properties": {
+        "id": "2eafb388-ef24-4a3e-aa51-bb54c90fb4ff",
+        "gym_uuid": "2eafb388-ef24-4a3e-aa51-bb54c90fb4ff",
+        "address": "Myravegen 15",
+        "city": "Eide",
+        "country": "Norway",
+        "countryCode": null,
+        "postal_code": "6490",
+        "latitude": 62.91943741104987,
+        "longitude": 7.447405442329973,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "12be7205-ec36-4752-b84e-f16a277a86e9",
+            "wall_uuid": "12be7205-ec36-4752-b84e-f16a277a86e9",
+            "gym_uuid": "2eafb388-ef24-4a3e-aa51-bb54c90fb4ff",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000368",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-21 16:59:53.341201Z"
+          }
+        ],
+        "title": "Eide Klatreklubb",
+        "description": "Kilter Board at Eide Klatreklubb",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.447405442329973,
+          62.91943741104987
         ]
       }
     },
@@ -101660,8 +101708,8 @@
       "properties": {
         "id": 293134,
         "username": "uofu_climbing",
-        "latitude": 40.765541,
-        "longitude": -111.837972,
+        "latitude": 40.762918,
+        "longitude": -111.836382,
         "title": "University of Utah",
         "description": "Tension Board at University of Utah",
         "marker-color": "#000000"
@@ -101669,8 +101717,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.837972,
-          40.765541
+          -111.836382,
+          40.762918
         ]
       }
     },
