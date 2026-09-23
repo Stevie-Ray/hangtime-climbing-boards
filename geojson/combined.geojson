@@ -7505,6 +7505,54 @@
     },
     {
       "type": "Feature",
+      "id": "26618109-95f8-46c9-bda4-2e8a9a69aeec",
+      "properties": {
+        "id": "26618109-95f8-46c9-bda4-2e8a9a69aeec",
+        "gym_uuid": "26618109-95f8-46c9-bda4-2e8a9a69aeec",
+        "address": "Unit 79, Jl. Alam Sutera Boulevard, Pakulonan, Serpong Utara",
+        "city": "Tangerang",
+        "country": "Indonesia",
+        "countryCode": null,
+        "postal_code": "15325",
+        "latitude": -6.244698038100013,
+        "longitude": 106.6500564932524,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "0a2ed67a-1e5b-463c-a944-efd7a22fbcfb",
+            "wall_uuid": "0a2ed67a-1e5b-463c-a944-efd7a22fbcfb",
+            "gym_uuid": "26618109-95f8-46c9-bda4-2e8a9a69aeec",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000417",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-18 17:54:13.168988Z"
+          }
+        ],
+        "title": "Bleaumont Indonesia",
+        "description": "Kilter Board at Bleaumont Indonesia",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6500564932524,
+          -6.244698038100013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "750003",
       "properties": {
         "id": "750003",
