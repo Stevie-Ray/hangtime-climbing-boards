@@ -2605,6 +2605,13 @@
       "longitude": 8.636101
     },
     {
+      "id": 289361,
+      "username": "backaboulder",
+      "name": "Backa Boulder",
+      "latitude": 57.72017,
+      "longitude": 11.951579
+    },
+    {
       "id": 291660,
       "username": "projectkonepaja",
       "name": "Project Konepaja",
@@ -2645,6 +2652,34 @@
       "name": "B'wall Quimper",
       "latitude": 47.974791,
       "longitude": -4.07653
+    },
+    {
+      "id": 294500,
+      "username": "dtuclimbing",
+      "name": "DTU Climbing",
+      "latitude": 55.786141,
+      "longitude": 12.525896
+    },
+    {
+      "id": 294504,
+      "username": "casa.altu",
+      "name": "Casa Altú",
+      "latitude": 9.937098,
+      "longitude": -84.135926
+    },
+    {
+      "id": 294505,
+      "username": "banana__climbing_joyful",
+      "name": "Banana Climbing Joyful Ave",
+      "latitude": 22.516616,
+      "longitude": 113.93764
+    },
+    {
+      "id": 294589,
+      "username": "west.bouldering",
+      "name": "WEST Bouldering",
+      "latitude": 52.192365,
+      "longitude": 20.935005
     }
   ]
 }

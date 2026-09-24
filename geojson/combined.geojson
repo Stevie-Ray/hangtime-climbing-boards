@@ -52452,6 +52452,54 @@
     },
     {
       "type": "Feature",
+      "id": "8693d104-814f-4625-8527-2ebfedbcd4fd",
+      "properties": {
+        "id": "8693d104-814f-4625-8527-2ebfedbcd4fd",
+        "gym_uuid": "8693d104-814f-4625-8527-2ebfedbcd4fd",
+        "address": "Av. Anita Garibaldi, 1874",
+        "city": "Curitiba",
+        "country": "Brasil",
+        "countryCode": null,
+        "postal_code": "82200540",
+        "latitude": -25.39503228898311,
+        "longitude": -49.25640054232978,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "9c8bae71-65c7-4fa6-a36f-cc4f956f1256",
+            "wall_uuid": "9c8bae71-65c7-4fa6-a36f-cc4f956f1256",
+            "gym_uuid": "8693d104-814f-4625-8527-2ebfedbcd4fd",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000306",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-23 20:10:04.09936Z"
+          }
+        ],
+        "title": "UBT Escalada",
+        "description": "Kilter Board at UBT Escalada",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.25640054232978,
+          -25.39503228898311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "196284",
       "properties": {
         "id": "196284",
@@ -101672,6 +101720,26 @@
     },
     {
       "type": "Feature",
+      "id": 289361,
+      "properties": {
+        "id": 289361,
+        "username": "backaboulder",
+        "latitude": 57.72017,
+        "longitude": 11.951579,
+        "title": "Backa Boulder",
+        "description": "Tension Board at Backa Boulder",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.951579,
+          57.72017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 291660,
       "properties": {
         "id": 291660,
@@ -101787,6 +101855,86 @@
         "coordinates": [
           -4.07653,
           47.974791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294500,
+      "properties": {
+        "id": 294500,
+        "username": "dtuclimbing",
+        "latitude": 55.786141,
+        "longitude": 12.525896,
+        "title": "DTU Climbing",
+        "description": "Tension Board at DTU Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525896,
+          55.786141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294504,
+      "properties": {
+        "id": 294504,
+        "username": "casa.altu",
+        "latitude": 9.937098,
+        "longitude": -84.135926,
+        "title": "Casa Altú",
+        "description": "Tension Board at Casa Altú",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.135926,
+          9.937098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294505,
+      "properties": {
+        "id": 294505,
+        "username": "banana__climbing_joyful",
+        "latitude": 22.516616,
+        "longitude": 113.93764,
+        "title": "Banana Climbing Joyful Ave",
+        "description": "Tension Board at Banana Climbing Joyful Ave",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.93764,
+          22.516616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294589,
+      "properties": {
+        "id": 294589,
+        "username": "west.bouldering",
+        "latitude": 52.192365,
+        "longitude": 20.935005,
+        "title": "WEST Bouldering",
+        "description": "Tension Board at WEST Bouldering",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.935005,
+          52.192365
         ]
       }
     },

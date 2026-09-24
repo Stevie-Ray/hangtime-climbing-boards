@@ -6699,6 +6699,24 @@
     },
     {
       "type": "Feature",
+      "id": 289361,
+      "properties": {
+        "id": 289361,
+        "username": "backaboulder",
+        "name": "Backa Boulder",
+        "latitude": 57.72017,
+        "longitude": 11.951579
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.951579,
+          57.72017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 291660,
       "properties": {
         "id": 291660,
@@ -6802,6 +6820,78 @@
         "coordinates": [
           -4.07653,
           47.974791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294500,
+      "properties": {
+        "id": 294500,
+        "username": "dtuclimbing",
+        "name": "DTU Climbing",
+        "latitude": 55.786141,
+        "longitude": 12.525896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525896,
+          55.786141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294504,
+      "properties": {
+        "id": 294504,
+        "username": "casa.altu",
+        "name": "Casa Altú",
+        "latitude": 9.937098,
+        "longitude": -84.135926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.135926,
+          9.937098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294505,
+      "properties": {
+        "id": 294505,
+        "username": "banana__climbing_joyful",
+        "name": "Banana Climbing Joyful Ave",
+        "latitude": 22.516616,
+        "longitude": 113.93764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.93764,
+          22.516616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294589,
+      "properties": {
+        "id": 294589,
+        "username": "west.bouldering",
+        "name": "WEST Bouldering",
+        "latitude": 52.192365,
+        "longitude": 20.935005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.935005,
+          52.192365
         ]
       }
     }
