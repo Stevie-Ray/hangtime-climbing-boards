@@ -18625,6 +18625,41 @@
       ]
     },
     {
+      "id": "db799ec7-180f-41b9-b04c-d9ff7abe58d3",
+      "gym_uuid": "db799ec7-180f-41b9-b04c-d9ff7abe58d3",
+      "name": "Gecko Climb",
+      "address": "2 Snell St",
+      "city": "Woolner",
+      "country": "Australia",
+      "countryCode": null,
+      "postal_code": "820",
+      "latitude": -12.430213777134737,
+      "longitude": 130.85672425580464,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "43d94a22-f17b-44a3-99be-9242d2c1cbb5",
+          "wall_uuid": "43d94a22-f17b-44a3-99be-9242d2c1cbb5",
+          "gym_uuid": "db799ec7-180f-41b9-b04c-d9ff7abe58d3",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 0,
+          "min_angle": null,
+          "max_angle": null,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000076",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-09-23 15:58:19.89459Z"
+        }
+      ]
+    },
+    {
       "id": "159005",
       "gym_uuid": "159005",
       "name": "Gecko Climbing Gym",
