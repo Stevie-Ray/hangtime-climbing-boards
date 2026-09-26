@@ -6894,6 +6894,24 @@
           52.192365
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 295124,
+      "properties": {
+        "id": 295124,
+        "username": "klatreverket_loren",
+        "name": "Klatreverket Løren",
+        "latitude": 59.931589,
+        "longitude": 10.792477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.792477,
+          59.931589
+        ]
+      }
     }
   ]
 }

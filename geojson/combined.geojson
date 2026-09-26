@@ -101988,6 +101988,26 @@
     },
     {
       "type": "Feature",
+      "id": 295124,
+      "properties": {
+        "id": 295124,
+        "username": "klatreverket_loren",
+        "latitude": 59.931589,
+        "longitude": 10.792477,
+        "title": "Klatreverket Løren",
+        "description": "Tension Board at Klatreverket Løren",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.792477,
+          59.931589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
