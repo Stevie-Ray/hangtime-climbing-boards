@@ -102008,6 +102008,26 @@
     },
     {
       "type": "Feature",
+      "id": 295848,
+      "properties": {
+        "id": 295848,
+        "username": "cayaclimb",
+        "latitude": 47.546904,
+        "longitude": 7.593514,
+        "title": "CAYA Climb",
+        "description": "Tension Board at CAYA Climb",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593514,
+          47.546904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

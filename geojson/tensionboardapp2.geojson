@@ -6912,6 +6912,24 @@
           59.931589
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 295848,
+      "properties": {
+        "id": 295848,
+        "username": "cayaclimb",
+        "name": "CAYA Climb",
+        "latitude": 47.546904,
+        "longitude": 7.593514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593514,
+          47.546904
+        ]
+      }
     }
   ]
 }
