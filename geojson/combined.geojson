@@ -52596,6 +52596,54 @@
     },
     {
       "type": "Feature",
+      "id": "328b00fb-78ff-4fe5-94ac-799e1e52e4e8",
+      "properties": {
+        "id": "328b00fb-78ff-4fe5-94ac-799e1e52e4e8",
+        "gym_uuid": "328b00fb-78ff-4fe5-94ac-799e1e52e4e8",
+        "address": "Auf der Schmelz 6",
+        "city": "Wien",
+        "country": "Austria ",
+        "countryCode": null,
+        "postal_code": "1160",
+        "latitude": 48.203628411158775,
+        "longitude": 16.317320100000003,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "cd5951ce-1117-4b47-a4bc-3617abe65e18",
+            "wall_uuid": "cd5951ce-1117-4b47-a4bc-3617abe65e18",
+            "gym_uuid": "328b00fb-78ff-4fe5-94ac-799e1e52e4e8",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 20,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000432",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-29 15:40:05.50609Z"
+          }
+        ],
+        "title": "USI Wien",
+        "description": "Kilter Board at USI Wien",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.317320100000003,
+          48.203628411158775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "699925",
       "properties": {
         "id": "699925",
