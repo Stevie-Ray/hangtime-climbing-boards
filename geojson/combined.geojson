@@ -32434,7 +32434,7 @@
             "id": "0ce20f1b-8e0c-41e6-9252-b5db9ac08103",
             "wall_uuid": "0ce20f1b-8e0c-41e6-9252-b5db9ac08103",
             "gym_uuid": "a730eeac-2098-4e2d-a0c0-71e523a41849",
-            "name": "Kilter Board",
+            "name": "Kilter Board TEST",
             "product_name": "Kilter Board Original",
             "product_layout_uuid": "10",
             "is_adjustable": 1,
@@ -102071,6 +102071,26 @@
         "coordinates": [
           7.593514,
           47.546904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 296426,
+      "properties": {
+        "id": 296426,
+        "username": "senderone_lakewood",
+        "latitude": 33.848399,
+        "longitude": -118.14347,
+        "title": "Sender One Lakewood",
+        "description": "Tension Board at Sender One Lakewood",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.14347,
+          33.848399
         ]
       }
     },

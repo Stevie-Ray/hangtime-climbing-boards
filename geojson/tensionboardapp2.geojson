@@ -6930,6 +6930,24 @@
           47.546904
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 296426,
+      "properties": {
+        "id": 296426,
+        "username": "senderone_lakewood",
+        "name": "Sender One Lakewood",
+        "latitude": 33.848399,
+        "longitude": -118.14347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.14347,
+          33.848399
+        ]
+      }
     }
   ]
 }
