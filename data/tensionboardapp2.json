@@ -2701,6 +2701,20 @@
       "name": "Sender One Lakewood",
       "latitude": 33.848399,
       "longitude": -118.14347
+    },
+    {
+      "id": 296464,
+      "username": "thekalclimbinggym",
+      "name": "The Kal Climbing Gym",
+      "latitude": 49.875207,
+      "longitude": -97.118414
+    },
+    {
+      "id": 296658,
+      "username": "banana__climbing_zhuhai",
+      "name": "Banana Climbing Zhuhai",
+      "latitude": 22.240401,
+      "longitude": 113.517515
     }
   ]
 }

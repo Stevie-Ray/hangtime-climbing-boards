@@ -6948,6 +6948,42 @@
           33.848399
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 296464,
+      "properties": {
+        "id": 296464,
+        "username": "thekalclimbinggym",
+        "name": "The Kal Climbing Gym",
+        "latitude": 49.875207,
+        "longitude": -97.118414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.118414,
+          49.875207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 296658,
+      "properties": {
+        "id": 296658,
+        "username": "banana__climbing_zhuhai",
+        "name": "Banana Climbing Zhuhai",
+        "latitude": 22.240401,
+        "longitude": 113.517515
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.517515,
+          22.240401
+        ]
+      }
     }
   ]
 }
