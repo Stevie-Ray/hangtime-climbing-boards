@@ -13925,6 +13925,52 @@
     },
     {
       "type": "Feature",
+      "id": "0d0676f8-4ca7-41d5-aa7c-4eb23d98b2a7",
+      "properties": {
+        "id": "0d0676f8-4ca7-41d5-aa7c-4eb23d98b2a7",
+        "gym_uuid": "0d0676f8-4ca7-41d5-aa7c-4eb23d98b2a7",
+        "name": "Caya Boardroom",
+        "address": "Postpassage 11",
+        "city": "Basel",
+        "country": "Switzerland",
+        "countryCode": null,
+        "postal_code": "4051",
+        "latitude": 47.54639618944464,
+        "longitude": 7.593046415342683,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "9de789a7-c531-49fb-a435-8858bc71a0c9",
+            "wall_uuid": "9de789a7-c531-49fb-a435-8858bc71a0c9",
+            "gym_uuid": "0d0676f8-4ca7-41d5-aa7c-4eb23d98b2a7",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 20,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000513",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-02 16:52:01.397273Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593046415342683,
+          47.54639618944464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "543342",
       "properties": {
         "id": "543342",

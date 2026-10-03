@@ -15917,6 +15917,54 @@
     },
     {
       "type": "Feature",
+      "id": "0d0676f8-4ca7-41d5-aa7c-4eb23d98b2a7",
+      "properties": {
+        "id": "0d0676f8-4ca7-41d5-aa7c-4eb23d98b2a7",
+        "gym_uuid": "0d0676f8-4ca7-41d5-aa7c-4eb23d98b2a7",
+        "address": "Postpassage 11",
+        "city": "Basel",
+        "country": "Switzerland",
+        "countryCode": null,
+        "postal_code": "4051",
+        "latitude": 47.54639618944464,
+        "longitude": 7.593046415342683,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "9de789a7-c531-49fb-a435-8858bc71a0c9",
+            "wall_uuid": "9de789a7-c531-49fb-a435-8858bc71a0c9",
+            "gym_uuid": "0d0676f8-4ca7-41d5-aa7c-4eb23d98b2a7",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 20,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000513",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-02 16:52:01.397273Z"
+          }
+        ],
+        "title": "Caya Boardroom",
+        "description": "Kilter Board at Caya Boardroom",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593046415342683,
+          47.54639618944464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "543342",
       "properties": {
         "id": "543342",
@@ -97259,18 +97307,18 @@
       "id": 134678,
       "properties": {
         "id": 134678,
-        "username": "bloclab",
-        "latitude": -33.44107,
-        "longitude": -70.6072,
-        "title": "Bloclab Climbing",
-        "description": "Tension Board at Bloclab Climbing",
+        "username": "bloclab_underground",
+        "latitude": -33.4432432,
+        "longitude": -70.6068339,
+        "title": "Bloclab Underground",
+        "description": "Tension Board at Bloclab Underground",
         "marker-color": "#000000"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.6072,
-          -33.44107
+          -70.6068339,
+          -33.4432432
         ]
       }
     },
@@ -102119,18 +102167,18 @@
       "id": 296658,
       "properties": {
         "id": 296658,
-        "username": "banana__climbing_zhuhai",
-        "latitude": 22.240401,
-        "longitude": 113.517515,
-        "title": "Banana Climbing Zhuhai",
-        "description": "Tension Board at Banana Climbing Zhuhai",
+        "username": "banana__climbing_wangjiaohui",
+        "latitude": 22.270477,
+        "longitude": 113.525203,
+        "title": "Banana Climbing Xiangzhou Wangjiaohui",
+        "description": "Tension Board at Banana Climbing Xiangzhou Wangjiaohui",
         "marker-color": "#000000"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.517515,
-          22.240401
+          113.525203,
+          22.270477
         ]
       }
     },
