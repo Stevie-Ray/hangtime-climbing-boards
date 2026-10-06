@@ -2715,6 +2715,20 @@
       "name": "Banana Climbing Xiangzhou Wangjiaohui",
       "latitude": 22.270477,
       "longitude": 113.525203
+    },
+    {
+      "id": 297729,
+      "username": "thenookclimbing",
+      "name": "The Nook Climbing",
+      "latitude": 57.209509,
+      "longitude": -3.818056
+    },
+    {
+      "id": 297733,
+      "username": "lahayerec_fitrock",
+      "name": "LaHaye Rec & Fit Rock Wall",
+      "latitude": 37.356683,
+      "longitude": -79.173846
     }
   ]
 }

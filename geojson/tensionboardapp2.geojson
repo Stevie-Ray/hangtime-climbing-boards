@@ -6984,6 +6984,42 @@
           22.270477
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 297729,
+      "properties": {
+        "id": 297729,
+        "username": "thenookclimbing",
+        "name": "The Nook Climbing",
+        "latitude": 57.209509,
+        "longitude": -3.818056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.818056,
+          57.209509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 297733,
+      "properties": {
+        "id": 297733,
+        "username": "lahayerec_fitrock",
+        "name": "LaHaye Rec & Fit Rock Wall",
+        "latitude": 37.356683,
+        "longitude": -79.173846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.173846,
+          37.356683
+        ]
+      }
     }
   ]
 }

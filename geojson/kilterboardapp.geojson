@@ -41366,6 +41366,52 @@
     },
     {
       "type": "Feature",
+      "id": "8259de85-7d04-4133-93e2-ae192a495bcc",
+      "properties": {
+        "id": "8259de85-7d04-4133-93e2-ae192a495bcc",
+        "gym_uuid": "8259de85-7d04-4133-93e2-ae192a495bcc",
+        "name": "STEINBLOCK Innsbruck",
+        "address": "Santifallerstraße 5",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "countryCode": null,
+        "postal_code": "6020",
+        "latitude": 47.26366841808934,
+        "longitude": 11.38090826697463,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "33ad40de-2eea-485e-8b51-ba14021a0cdb",
+            "wall_uuid": "33ad40de-2eea-485e-8b51-ba14021a0cdb",
+            "gym_uuid": "8259de85-7d04-4133-93e2-ae192a495bcc",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751979",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-05 16:17:00.883525Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.38090826697463,
+          47.26366841808934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "722264",
       "properties": {
         "id": "722264",
