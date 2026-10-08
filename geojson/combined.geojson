@@ -48660,6 +48660,54 @@
     },
     {
       "type": "Feature",
+      "id": "cd054d8e-f8fa-400f-beab-9223a79b2cb8",
+      "properties": {
+        "id": "cd054d8e-f8fa-400f-beab-9223a79b2cb8",
+        "gym_uuid": "cd054d8e-f8fa-400f-beab-9223a79b2cb8",
+        "address": "124 Portman St ",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "countryCode": null,
+        "postal_code": "G41 1EJ",
+        "latitude": 55.851057397215804,
+        "longitude": -4.281798971163652,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "53980858-99be-4150-81e1-cda84691077a",
+            "wall_uuid": "53980858-99be-4150-81e1-cda84691077a",
+            "gym_uuid": "cd054d8e-f8fa-400f-beab-9223a79b2cb8",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "8",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 45,
+            "serial_number": "91571",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-07 15:15:04.854867Z"
+          }
+        ],
+        "title": "TCA The Newsroom",
+        "description": "Kilter Board at TCA The Newsroom",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.281798971163652,
+          55.851057397215804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "328950",
       "properties": {
         "id": "328950",
