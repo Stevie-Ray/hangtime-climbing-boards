@@ -2729,6 +2729,20 @@
       "name": "LaHaye Rec & Fit Rock Wall",
       "latitude": 37.356683,
       "longitude": -79.173846
+    },
+    {
+      "id": 298604,
+      "username": "uwf_climbing_center",
+      "name": "UWF Climbing Center",
+      "latitude": 30.544773,
+      "longitude": -87.221831
+    },
+    {
+      "id": 298610,
+      "username": "bigwallbouldering",
+      "name": "Bigwall Bouldering",
+      "latitude": 47.825552,
+      "longitude": 16.249033
     }
   ]
 }

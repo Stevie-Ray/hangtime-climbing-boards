@@ -34800,14 +34800,14 @@
             "gym_uuid": "380945",
             "name": "Kilter Board Homewall",
             "product_name": "Kilter Board Homewall",
-            "product_layout_uuid": "21",
+            "product_layout_uuid": "25",
             "is_adjustable": 1,
-            "min_angle": 0,
+            "min_angle": null,
             "max_angle": 70,
             "angle_increments": 5,
             "angle": 40,
             "serial_number": "K000061",
-            "accumulated_hold_set_value": 3,
+            "accumulated_hold_set_value": 15,
             "is_listed": 1,
             "created_at": "2026-10-06 22:53:31.087485Z"
           },
@@ -34823,7 +34823,7 @@
             "max_angle": 70,
             "angle_increments": null,
             "angle": 40,
-            "serial_number": null,
+            "serial_number": "751174 ",
             "accumulated_hold_set_value": 3,
             "is_listed": 1,
             "created_at": "2023-11-15 03:11:42.559494Z"
@@ -102414,6 +102414,46 @@
         "coordinates": [
           -79.173846,
           37.356683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298604,
+      "properties": {
+        "id": 298604,
+        "username": "uwf_climbing_center",
+        "latitude": 30.544773,
+        "longitude": -87.221831,
+        "title": "UWF Climbing Center",
+        "description": "Tension Board at UWF Climbing Center",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.221831,
+          30.544773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298610,
+      "properties": {
+        "id": 298610,
+        "username": "bigwallbouldering",
+        "latitude": 47.825552,
+        "longitude": 16.249033,
+        "title": "Bigwall Bouldering",
+        "description": "Tension Board at Bigwall Bouldering",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.249033,
+          47.825552
         ]
       }
     },

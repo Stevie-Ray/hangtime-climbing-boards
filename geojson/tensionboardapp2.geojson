@@ -7020,6 +7020,42 @@
           37.356683
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 298604,
+      "properties": {
+        "id": 298604,
+        "username": "uwf_climbing_center",
+        "name": "UWF Climbing Center",
+        "latitude": 30.544773,
+        "longitude": -87.221831
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.221831,
+          30.544773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298610,
+      "properties": {
+        "id": 298610,
+        "username": "bigwallbouldering",
+        "name": "Bigwall Bouldering",
+        "latitude": 47.825552,
+        "longitude": 16.249033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.249033,
+          47.825552
+        ]
+      }
     }
   ]
 }
