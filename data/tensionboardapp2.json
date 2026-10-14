@@ -2743,6 +2743,13 @@
       "name": "Bigwall Bouldering",
       "latitude": 47.825552,
       "longitude": 16.249033
+    },
+    {
+      "id": 299997,
+      "username": "move.climbing_hytasa",
+      "name": "Move Climbing Hytasa",
+      "latitude": 37.369435,
+      "longitude": -5.961214
     }
   ]
 }

@@ -7056,6 +7056,24 @@
           47.825552
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 299997,
+      "properties": {
+        "id": 299997,
+        "username": "move.climbing_hytasa",
+        "name": "Move Climbing Hytasa",
+        "latitude": 37.369435,
+        "longitude": -5.961214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.961214,
+          37.369435
+        ]
+      }
     }
   ]
 }

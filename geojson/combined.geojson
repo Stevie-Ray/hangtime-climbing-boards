@@ -102459,6 +102459,26 @@
     },
     {
       "type": "Feature",
+      "id": 299997,
+      "properties": {
+        "id": 299997,
+        "username": "move.climbing_hytasa",
+        "latitude": 37.369435,
+        "longitude": -5.961214,
+        "title": "Move Climbing Hytasa",
+        "description": "Tension Board at Move Climbing Hytasa",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.961214,
+          37.369435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
