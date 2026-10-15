@@ -9764,6 +9764,54 @@
     },
     {
       "type": "Feature",
+      "id": "f584a999-08a1-4bb1-aebb-5f54ad8e407a",
+      "properties": {
+        "id": "f584a999-08a1-4bb1-aebb-5f54ad8e407a",
+        "gym_uuid": "f584a999-08a1-4bb1-aebb-5f54ad8e407a",
+        "address": "החרושת 4 נשר",
+        "city": "נשר/ חיפה",
+        "country": "ישראל ",
+        "countryCode": null,
+        "postal_code": "3688104",
+        "latitude": 32.77819890961042,
+        "longitude": 35.03671661842832,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "16f49f2b-7be5-481e-8701-31fb9f871315",
+            "wall_uuid": "16f49f2b-7be5-481e-8701-31fb9f871315",
+            "gym_uuid": "f584a999-08a1-4bb1-aebb-5f54ad8e407a",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 30,
+            "max_angle": 60,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000029",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-14 15:44:47.386175Z"
+          }
+        ],
+        "title": "Boulder - the climber’s home בולדר- הבית של המטפסות",
+        "description": "Kilter Board at Boulder - the climber’s home בולדר- הבית של המטפסות",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.03671661842832,
+          32.77819890961042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "b44cf486-fc9b-4d5e-9830-3dd32ca53ee5",
       "properties": {
         "id": "b44cf486-fc9b-4d5e-9830-3dd32ca53ee5",
@@ -24863,6 +24911,54 @@
         "coordinates": [
           9.91261,
           53.56363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74e66cbc-05bc-434e-8a79-5094210eefe0",
+      "properties": {
+        "id": "74e66cbc-05bc-434e-8a79-5094210eefe0",
+        "gym_uuid": "74e66cbc-05bc-434e-8a79-5094210eefe0",
+        "address": "Shizhong District",
+        "city": "Jinan ",
+        "country": "China",
+        "countryCode": null,
+        "postal_code": "250024",
+        "latitude": 36.614112362742375,
+        "longitude": 116.97760072863393,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "27df6744-572b-460b-a662-224ef578b7bf",
+            "wall_uuid": "27df6744-572b-460b-a662-224ef578b7bf",
+            "gym_uuid": "74e66cbc-05bc-434e-8a79-5094210eefe0",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751332",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-14 15:28:51.403678Z"
+          }
+        ],
+        "title": "FLOW心流攀岩（旗舰店）",
+        "description": "Kilter Board at FLOW心流攀岩（旗舰店）",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.97760072863393,
+          36.614112362742375
         ]
       }
     },
@@ -55786,6 +55882,23 @@
         "instagram_username": null,
         "is_listed": null,
         "walls": [
+          {
+            "id": "1781f658-a0d7-4436-a948-55a2c0df4c77",
+            "wall_uuid": "1781f658-a0d7-4436-a948-55a2c0df4c77",
+            "gym_uuid": "b4987fc3-be1a-4397-a560-084b88b50ba1",
+            "name": "SLC WC Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": null,
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-14 17:51:15.233354Z"
+          },
           {
             "id": "92be28fd-5ee2-4949-886c-d18da8be8f94",
             "wall_uuid": "92be28fd-5ee2-4949-886c-d18da8be8f94",
