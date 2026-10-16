@@ -3229,7 +3229,7 @@
           "max_angle": null,
           "angle_increments": 5,
           "angle": 30,
-          "serial_number": "K000217",
+          "serial_number": "K000700",
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2026-07-22 20:52:09.193356Z"
@@ -3246,7 +3246,7 @@
           "max_angle": null,
           "angle_increments": 5,
           "angle": 40,
-          "serial_number": "K000323",
+          "serial_number": "K000657",
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2026-07-22 20:52:57.570501Z"
@@ -41056,6 +41056,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2023-04-02 20:08:28.769026Z"
+        }
+      ]
+    },
+    {
+      "id": "1147d6d3-6793-494c-b84e-dcda9b45576a",
+      "gym_uuid": "1147d6d3-6793-494c-b84e-dcda9b45576a",
+      "name": "哈万攀岩馆haone Climbing Gym",
+      "address": "Room 209, 2nd Floor, 99 Hao Gongguan",
+      "city": "Harbin",
+      "country": "China",
+      "countryCode": null,
+      "postal_code": "150010",
+      "latitude": 45.77372957,
+      "longitude": 126.622612912103,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "64f9a1f3-73c0-45b1-89fe-126d3a3df67b",
+          "wall_uuid": "64f9a1f3-73c0-45b1-89fe-126d3a3df67b",
+          "gym_uuid": "1147d6d3-6793-494c-b84e-dcda9b45576a",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000117",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-10-15 15:59:37.694625Z"
         }
       ]
     },
