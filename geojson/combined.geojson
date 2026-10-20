@@ -56620,6 +56620,54 @@
     },
     {
       "type": "Feature",
+      "id": "165ad3d1-4443-49b2-bd10-7f5304a09137",
+      "properties": {
+        "id": "165ad3d1-4443-49b2-bd10-7f5304a09137",
+        "gym_uuid": "165ad3d1-4443-49b2-bd10-7f5304a09137",
+        "address": "Московская область, 15А",
+        "city": "Егорьевск",
+        "country": "Россия",
+        "countryCode": null,
+        "postal_code": "140301",
+        "latitude": 55.36795,
+        "longitude": 39.076434,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "a786a7a9-a06e-48d9-ab09-dfe3e7fbbcc8",
+            "wall_uuid": "a786a7a9-a06e-48d9-ab09-dfe3e7fbbcc8",
+            "gym_uuid": "165ad3d1-4443-49b2-bd10-7f5304a09137",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 25,
+            "serial_number": "KODO0303",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-09-24 17:57:54.292519Z"
+          }
+        ],
+        "title": "Егорьевск Виктория",
+        "description": "Kilter Board at Егорьевск Виктория",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.076434,
+          55.36795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "282270",
       "properties": {
         "id": "282270",
@@ -102683,6 +102731,26 @@
         "coordinates": [
           -5.961214,
           37.369435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 301666,
+      "properties": {
+        "id": 301666,
+        "username": "steinblock.innsbruck",
+        "latitude": 47.263635,
+        "longitude": 11.380997,
+        "title": "STEINBLOCK Innsbruck",
+        "description": "Tension Board at STEINBLOCK Innsbruck",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.380997,
+          47.263635
         ]
       }
     },

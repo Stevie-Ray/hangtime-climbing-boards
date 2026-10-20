@@ -7074,6 +7074,24 @@
           37.369435
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 301666,
+      "properties": {
+        "id": 301666,
+        "username": "steinblock.innsbruck",
+        "name": "STEINBLOCK Innsbruck",
+        "latitude": 47.263635,
+        "longitude": 11.380997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.380997,
+          47.263635
+        ]
+      }
     }
   ]
 }
