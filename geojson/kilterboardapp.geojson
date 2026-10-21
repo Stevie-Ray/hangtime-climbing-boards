@@ -8022,52 +8022,6 @@
     },
     {
       "type": "Feature",
-      "id": "429a2a9b-9202-427d-869a-c6e8b25cfd9f",
-      "properties": {
-        "id": "429a2a9b-9202-427d-869a-c6e8b25cfd9f",
-        "gym_uuid": "429a2a9b-9202-427d-869a-c6e8b25cfd9f",
-        "name": "Boulder - the climber’s home בולדר- הבית של המטפסות",
-        "address": "החרושת 4 נשר",
-        "city": "נשר/ חיפה",
-        "country": "ישראל ",
-        "countryCode": null,
-        "postal_code": "3688104",
-        "latitude": 32.77828458,
-        "longitude": 35.03672198,
-        "gym_logo": null,
-        "banner_logo": null,
-        "instagram_username": null,
-        "is_listed": null,
-        "walls": [
-          {
-            "id": "64d1c998-4f0e-4003-9021-343213f5c422",
-            "wall_uuid": "64d1c998-4f0e-4003-9021-343213f5c422",
-            "gym_uuid": "429a2a9b-9202-427d-869a-c6e8b25cfd9f",
-            "name": "OG Kilter Board",
-            "product_name": "Kilter Board Original",
-            "product_layout_uuid": "10",
-            "is_adjustable": 1,
-            "min_angle": 30,
-            "max_angle": 60,
-            "angle_increments": 5,
-            "angle": 40,
-            "serial_number": "K000029",
-            "accumulated_hold_set_value": 3,
-            "is_listed": 1,
-            "created_at": "2026-10-18 17:01:58.948707Z"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.03672198,
-          32.77828458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "f584a999-08a1-4bb1-aebb-5f54ad8e407a",
       "properties": {
         "id": "f584a999-08a1-4bb1-aebb-5f54ad8e407a",
@@ -16772,6 +16726,52 @@
         "coordinates": [
           138.33728,
           36.73843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4723ced1-c794-47df-a65a-f45e5a8df569",
+      "properties": {
+        "id": "4723ced1-c794-47df-a65a-f45e5a8df569",
+        "gym_uuid": "4723ced1-c794-47df-a65a-f45e5a8df569",
+        "name": "Climbing Hub",
+        "address": "Via IV Novembre, 35/A",
+        "city": "Gorizia",
+        "country": "Italy",
+        "countryCode": null,
+        "postal_code": "34170",
+        "latitude": 45.93887078077879,
+        "longitude": 13.596582477909632,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "a20df5a1-d9a8-4511-bfbf-1ce83c8465a0",
+            "wall_uuid": "a20df5a1-d9a8-4511-bfbf-1ce83c8465a0",
+            "gym_uuid": "4723ced1-c794-47df-a65a-f45e5a8df569",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000215 ",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-20 18:42:16.924535Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.596582477909632,
+          45.93887078077879
         ]
       }
     },
