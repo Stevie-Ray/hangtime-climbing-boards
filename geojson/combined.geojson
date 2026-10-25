@@ -102852,6 +102852,26 @@
     },
     {
       "type": "Feature",
+      "id": 303050,
+      "properties": {
+        "id": 303050,
+        "username": "la_conserverie",
+        "latitude": 47.2135,
+        "longitude": -1.579172,
+        "title": "La Conserverie",
+        "description": "Tension Board at La Conserverie",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.579172,
+          47.2135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

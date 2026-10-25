@@ -7092,6 +7092,24 @@
           47.263635
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 303050,
+      "properties": {
+        "id": 303050,
+        "username": "la_conserverie",
+        "name": "La Conserverie",
+        "latitude": 47.2135,
+        "longitude": -1.579172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.579172,
+          47.2135
+        ]
+      }
     }
   ]
 }

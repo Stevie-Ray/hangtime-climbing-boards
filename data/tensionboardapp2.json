@@ -2757,6 +2757,13 @@
       "name": "STEINBLOCK Innsbruck",
       "latitude": 47.263635,
       "longitude": 11.380997
+    },
+    {
+      "id": 303050,
+      "username": "la_conserverie",
+      "name": "La Conserverie",
+      "latitude": 47.2135,
+      "longitude": -1.579172
     }
   ]
 }
