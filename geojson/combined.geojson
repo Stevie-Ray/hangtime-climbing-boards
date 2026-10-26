@@ -20302,6 +20302,54 @@
     },
     {
       "type": "Feature",
+      "id": "0b3b351b-6197-42ee-956b-f91ab251c1d4",
+      "properties": {
+        "id": "0b3b351b-6197-42ee-956b-f91ab251c1d4",
+        "gym_uuid": "0b3b351b-6197-42ee-956b-f91ab251c1d4",
+        "address": "Kassai 133",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "countryCode": null,
+        "postal_code": "4028",
+        "latitude": 47.553959978369335,
+        "longitude": 21.655458233728897,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "541a9ee8-6faa-4f44-853c-f63c7d313217",
+            "wall_uuid": "541a9ee8-6faa-4f44-853c-f63c7d313217",
+            "gym_uuid": "0b3b351b-6197-42ee-956b-f91ab251c1d4",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Homewall",
+            "product_layout_uuid": "31",
+            "is_adjustable": 0,
+            "min_angle": null,
+            "max_angle": null,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "752065",
+            "accumulated_hold_set_value": 15,
+            "is_listed": 1,
+            "created_at": "2026-10-22 15:15:11.314725Z"
+          }
+        ],
+        "title": "Csipi Boulder",
+        "description": "Kilter Board at Csipi Boulder",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.655458233728897,
+          47.553959978369335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "400720",
       "properties": {
         "id": "400720",
