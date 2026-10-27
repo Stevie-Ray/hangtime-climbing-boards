@@ -102920,6 +102920,26 @@
     },
     {
       "type": "Feature",
+      "id": 303585,
+      "properties": {
+        "id": 303585,
+        "username": "thirdspaceboulders",
+        "latitude": 29.652787,
+        "longitude": -95.618389,
+        "title": "Third Space Boulders",
+        "description": "Tension Board at Third Space Boulders",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.618389,
+          29.652787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

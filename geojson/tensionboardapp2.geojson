@@ -7110,6 +7110,24 @@
           47.2135
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 303585,
+      "properties": {
+        "id": 303585,
+        "username": "thirdspaceboulders",
+        "name": "Third Space Boulders",
+        "latitude": 29.652787,
+        "longitude": -95.618389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.618389,
+          29.652787
+        ]
+      }
     }
   ]
 }

@@ -2764,6 +2764,13 @@
       "name": "La Conserverie",
       "latitude": 47.2135,
       "longitude": -1.579172
+    },
+    {
+      "id": 303585,
+      "username": "thirdspaceboulders",
+      "name": "Third Space Boulders",
+      "latitude": 29.652787,
+      "longitude": -95.618389
     }
   ]
 }
