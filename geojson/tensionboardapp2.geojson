@@ -7128,6 +7128,24 @@
           29.652787
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 303865,
+      "properties": {
+        "id": 303865,
+        "username": "mammothboardroom",
+        "name": "Mammoth Board Room",
+        "latitude": 37.64753,
+        "longitude": -118.972136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.972136,
+          37.64753
+        ]
+      }
     }
   ]
 }

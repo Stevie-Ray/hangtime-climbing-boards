@@ -20323,15 +20323,15 @@
             "wall_uuid": "541a9ee8-6faa-4f44-853c-f63c7d313217",
             "gym_uuid": "0b3b351b-6197-42ee-956b-f91ab251c1d4",
             "name": "OG Kilter Board",
-            "product_name": "Kilter Board Homewall",
-            "product_layout_uuid": "31",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "28",
             "is_adjustable": 0,
             "min_angle": null,
             "max_angle": null,
             "angle_increments": 5,
             "angle": 40,
             "serial_number": "752065",
-            "accumulated_hold_set_value": 15,
+            "accumulated_hold_set_value": 3,
             "is_listed": 1,
             "created_at": "2026-10-22 15:15:11.314725Z"
           }
@@ -40347,6 +40347,54 @@
         "coordinates": [
           7.48369,
           46.96234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cdc977ac-179e-4d70-afa9-953443dc90c3",
+      "properties": {
+        "id": "cdc977ac-179e-4d70-afa9-953443dc90c3",
+        "gym_uuid": "cdc977ac-179e-4d70-afa9-953443dc90c3",
+        "address": "Ul. Piłsudzkiego 73A",
+        "city": "Zawiercie ",
+        "country": "Polska",
+        "countryCode": null,
+        "postal_code": "42-400",
+        "latitude": 50.492297026915345,
+        "longitude": 19.43158225092651,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "f97e2c14-c2fb-4425-b3a8-4aa2eb03f721",
+            "wall_uuid": "f97e2c14-c2fb-4425-b3a8-4aa2eb03f721",
+            "gym_uuid": "cdc977ac-179e-4d70-afa9-953443dc90c3",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "751997",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-26 15:41:21.463986Z"
+          }
+        ],
+        "title": "OSiR III Zawiercie",
+        "description": "Kilter Board at OSiR III Zawiercie",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.43158225092651,
+          50.492297026915345
         ]
       }
     },
@@ -102935,6 +102983,26 @@
         "coordinates": [
           -95.618389,
           29.652787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 303865,
+      "properties": {
+        "id": 303865,
+        "username": "mammothboardroom",
+        "latitude": 37.64753,
+        "longitude": -118.972136,
+        "title": "Mammoth Board Room",
+        "description": "Tension Board at Mammoth Board Room",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.972136,
+          37.64753
         ]
       }
     },
