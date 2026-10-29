@@ -7095,6 +7095,24 @@
     },
     {
       "type": "Feature",
+      "id": 302422,
+      "properties": {
+        "id": 302422,
+        "username": "PortBoulder",
+        "name": "Port Boulder",
+        "latitude": 54.491873,
+        "longitude": 18.534094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.534094,
+          54.491873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 303050,
       "properties": {
         "id": 303050,
@@ -7144,6 +7162,24 @@
         "coordinates": [
           -118.972136,
           37.64753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 304139,
+      "properties": {
+        "id": 304139,
+        "username": "foundation_climbing",
+        "name": "Foundation Climbing",
+        "latitude": 37.563788,
+        "longitude": -77.44779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44779,
+          37.563788
         ]
       }
     }

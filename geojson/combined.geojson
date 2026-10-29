@@ -4067,10 +4067,10 @@
             "product_name": "Kilter Board Original",
             "product_layout_uuid": "10",
             "is_adjustable": 1,
-            "min_angle": null,
-            "max_angle": null,
+            "min_angle": 0,
+            "max_angle": 70,
             "angle_increments": null,
-            "angle": 25,
+            "angle": 40,
             "serial_number": "751038",
             "accumulated_hold_set_value": 3,
             "is_listed": 1,
@@ -102948,6 +102948,26 @@
     },
     {
       "type": "Feature",
+      "id": 302422,
+      "properties": {
+        "id": 302422,
+        "username": "PortBoulder",
+        "latitude": 54.491873,
+        "longitude": 18.534094,
+        "title": "Port Boulder",
+        "description": "Tension Board at Port Boulder",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.534094,
+          54.491873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 303050,
       "properties": {
         "id": 303050,
@@ -103003,6 +103023,26 @@
         "coordinates": [
           -118.972136,
           37.64753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 304139,
+      "properties": {
+        "id": 304139,
+        "username": "foundation_climbing",
+        "latitude": 37.563788,
+        "longitude": -77.44779,
+        "title": "Foundation Climbing",
+        "description": "Tension Board at Foundation Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44779,
+          37.563788
         ]
       }
     },
