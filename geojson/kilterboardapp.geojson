@@ -37792,6 +37792,52 @@
     },
     {
       "type": "Feature",
+      "id": "04b100f3-9266-4695-a6fc-3e09b0f31ccf",
+      "properties": {
+        "id": "04b100f3-9266-4695-a6fc-3e09b0f31ccf",
+        "gym_uuid": "04b100f3-9266-4695-a6fc-3e09b0f31ccf",
+        "name": "PALPA·ROCA",
+        "address": "avenida Lairon esquina con calle Hungria",
+        "city": "Castellón de la Plana",
+        "country": "Spain",
+        "countryCode": null,
+        "postal_code": "12006",
+        "latitude": 39.97567370378998,
+        "longitude": -0.06903649325425086,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "2cf58a42-5f4b-458e-aea8-b586f0fd2893",
+            "wall_uuid": "2cf58a42-5f4b-458e-aea8-b586f0fd2893",
+            "gym_uuid": "04b100f3-9266-4695-a6fc-3e09b0f31ccf",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000534",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-10-29 21:42:02.875087Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06903649325425086,
+          39.97567370378998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "179602",
       "properties": {
         "id": "179602",
