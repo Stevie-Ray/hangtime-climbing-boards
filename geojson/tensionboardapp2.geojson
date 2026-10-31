@@ -7182,6 +7182,24 @@
           37.563788
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 304668,
+      "properties": {
+        "id": 304668,
+        "username": "balance.prime.sathorn",
+        "name": "Balance Prime Sathorn",
+        "latitude": 13.716588,
+        "longitude": 100.532288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.532288,
+          13.716588
+        ]
+      }
     }
   ]
 }

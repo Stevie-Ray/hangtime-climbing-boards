@@ -17861,8 +17861,8 @@
             "product_name": "Kilter Board Original",
             "product_layout_uuid": "10",
             "is_adjustable": 1,
-            "min_angle": null,
-            "max_angle": null,
+            "min_angle": 0,
+            "max_angle": 70,
             "angle_increments": null,
             "angle": 40,
             "serial_number": "75725",
@@ -103091,6 +103091,26 @@
         "coordinates": [
           -77.44779,
           37.563788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 304668,
+      "properties": {
+        "id": 304668,
+        "username": "balance.prime.sathorn",
+        "latitude": 13.716588,
+        "longitude": 100.532288,
+        "title": "Balance Prime Sathorn",
+        "description": "Tension Board at Balance Prime Sathorn",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.532288,
+          13.716588
         ]
       }
     },
