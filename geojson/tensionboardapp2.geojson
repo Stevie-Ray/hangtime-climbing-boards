@@ -7200,6 +7200,24 @@
           13.716588
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 305102,
+      "properties": {
+        "id": 305102,
+        "username": "novaboulders",
+        "name": "Nova Boulders",
+        "latitude": 37.602423,
+        "longitude": -122.372639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.372639,
+          37.602423
+        ]
+      }
     }
   ]
 }

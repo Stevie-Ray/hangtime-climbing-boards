@@ -103116,6 +103116,26 @@
     },
     {
       "type": "Feature",
+      "id": 305102,
+      "properties": {
+        "id": 305102,
+        "username": "novaboulders",
+        "latitude": 37.602423,
+        "longitude": -122.372639,
+        "title": "Nova Boulders",
+        "description": "Tension Board at Nova Boulders",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.372639,
+          37.602423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
