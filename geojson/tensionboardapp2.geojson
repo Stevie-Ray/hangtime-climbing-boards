@@ -7218,6 +7218,60 @@
           37.602423
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 305925,
+      "properties": {
+        "id": 305925,
+        "username": "apexboulders",
+        "name": "Apex Boulders",
+        "latitude": 53.217184,
+        "longitude": 6.538608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.538608,
+          53.217184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 305946,
+      "properties": {
+        "id": 305946,
+        "username": "blokxbaneasa",
+        "name": "Blokx Baneasa",
+        "latitude": 44.492548,
+        "longitude": 26.097377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.097377,
+          44.492548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306050,
+      "properties": {
+        "id": 306050,
+        "username": "tensiolab_tianjin",
+        "name": "Tensiolab",
+        "latitude": 39.1315572,
+        "longitude": 117.1472523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1472523,
+          39.1315572
+        ]
+      }
     }
   ]
 }

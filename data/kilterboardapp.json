@@ -6751,41 +6751,6 @@
       ]
     },
     {
-      "id": "661798",
-      "gym_uuid": "661798",
-      "name": "Boulder Neoliet Tilburg",
-      "address": "Jules Verneweg 9",
-      "city": "Tilburg",
-      "country": "NL",
-      "countryCode": null,
-      "postal_code": "5015 BD",
-      "latitude": 51.56567,
-      "longitude": 5.1116,
-      "gym_logo": null,
-      "banner_logo": null,
-      "instagram_username": null,
-      "is_listed": null,
-      "walls": [
-        {
-          "id": "dc2b4353-2e5e-4e64-803e-578a91d3dc07",
-          "wall_uuid": "dc2b4353-2e5e-4e64-803e-578a91d3dc07",
-          "gym_uuid": "661798",
-          "name": "Kilter Board",
-          "product_name": "Kilter Board Original",
-          "product_layout_uuid": "10",
-          "is_adjustable": 1,
-          "min_angle": null,
-          "max_angle": null,
-          "angle_increments": null,
-          "angle": 40,
-          "serial_number": "751168",
-          "accumulated_hold_set_value": 3,
-          "is_listed": 1,
-          "created_at": "2025-03-14 16:33:58.373644Z"
-        }
-      ]
-    },
-    {
       "id": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
       "gym_uuid": "97069a23-bf5a-4509-8f27-be9c28e5cca7",
       "name": "Boulder Reservoir",
@@ -21567,6 +21532,41 @@
           "accumulated_hold_set_value": 3,
           "is_listed": 1,
           "created_at": "2025-07-10 21:57:36.494429Z"
+        }
+      ]
+    },
+    {
+      "id": "c59269d3-f0c5-4db5-8421-36ac8e4ba9eb",
+      "gym_uuid": "c59269d3-f0c5-4db5-8421-36ac8e4ba9eb",
+      "name": "High Point- Riverside",
+      "address": "1007 Appling St",
+      "city": "Chattanooga",
+      "country": "USA",
+      "countryCode": null,
+      "postal_code": "37406",
+      "latitude": 35.07263393044661,
+      "longitude": -85.2654946681244,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "9d404d7c-ebde-4698-9a61-0be75737a74a",
+          "wall_uuid": "9d404d7c-ebde-4698-9a61-0be75737a74a",
+          "gym_uuid": "c59269d3-f0c5-4db5-8421-36ac8e4ba9eb",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 0,
+          "min_angle": null,
+          "max_angle": null,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "K000283",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-10-30 15:18:50.16854Z"
         }
       ]
     },

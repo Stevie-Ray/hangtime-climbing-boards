@@ -2806,6 +2806,27 @@
       "name": "Nova Boulders",
       "latitude": 37.602423,
       "longitude": -122.372639
+    },
+    {
+      "id": 305925,
+      "username": "apexboulders",
+      "name": "Apex Boulders",
+      "latitude": 53.217184,
+      "longitude": 6.538608
+    },
+    {
+      "id": 305946,
+      "username": "blokxbaneasa",
+      "name": "Blokx Baneasa",
+      "latitude": 44.492548,
+      "longitude": 26.097377
+    },
+    {
+      "id": 306050,
+      "username": "tensiolab_tianjin",
+      "name": "Tensiolab",
+      "latitude": 39.1315572,
+      "longitude": 117.1472523
     }
   ]
 }
