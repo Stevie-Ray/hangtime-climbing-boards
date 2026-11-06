@@ -6613,7 +6613,7 @@
       "properties": {
         "id": 287875,
         "username": "banana__climbing_dx",
-        "name": "Banana Climbing Xiaoyuehe",
+        "name": "小月河蕉  Banana Climbing Xiaoyuehe",
         "latitude": 40.00333735,
         "longitude": 116.36517531
       },
@@ -6865,7 +6865,7 @@
       "properties": {
         "id": 294505,
         "username": "banana__climbing_joyful",
-        "name": "Banana Climbing Joyful Ave",
+        "name": "嘉乐道蕉 Banana Climbing Joyful Ave",
         "latitude": 22.516616,
         "longitude": 113.93764
       },
@@ -6973,7 +6973,7 @@
       "properties": {
         "id": 296658,
         "username": "banana__climbing_wangjiaohui",
-        "name": "Banana Climbing Xiangzhou Wangjiaohui",
+        "name": "香洲蕉 Banana Climbing Xiangzhou Wangjiaohui",
         "latitude": 22.270477,
         "longitude": 113.525203
       },
@@ -7270,6 +7270,114 @@
         "coordinates": [
           117.1472523,
           39.1315572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306600,
+      "properties": {
+        "id": 306600,
+        "username": "banana__climbing_raffles_city",
+        "name": "来福蕉 Banana Climbing Raffles City",
+        "latitude": 30.2484234,
+        "longitude": 120.2137555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2137555,
+          30.2484234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306602,
+      "properties": {
+        "id": 306602,
+        "username": "banana__climbing_binjiang",
+        "name": "滨江蕉 Banana Climbing Binjiang Paradise Walk",
+        "latitude": 30.2010163,
+        "longitude": 120.2043618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2043618,
+          30.2010163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306605,
+      "properties": {
+        "id": 306605,
+        "username": "banana__climbing_qianhai",
+        "name": "一方蕉 Banana Climbing Qianhai",
+        "latitude": 22.5308213,
+        "longitude": 113.8958283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8958283,
+          22.5308213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306606,
+      "properties": {
+        "id": 306606,
+        "username": "banana__climbing_oct_park",
+        "name": "欢乐时光蕉 Banana Climbing OCT PARK Happy Time",
+        "latitude": 22.5435546,
+        "longitude": 113.9875454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9875454,
+          22.5435546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306684,
+      "properties": {
+        "id": 306684,
+        "username": "climb.aska",
+        "name": "ASKA Bouldering Gym",
+        "latitude": 42.84865,
+        "longitude": 74.623448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.623448,
+          42.84865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306685,
+      "properties": {
+        "id": 306685,
+        "username": "boulderapeldoorn",
+        "name": "Boulder Apeldoorn",
+        "latitude": 52.192813,
+        "longitude": 5.963563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.963563,
+          52.192813
         ]
       }
     }
