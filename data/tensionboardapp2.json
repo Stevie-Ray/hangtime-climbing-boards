@@ -2869,6 +2869,27 @@
       "name": "Boulder Apeldoorn",
       "latitude": 52.192813,
       "longitude": 5.963563
+    },
+    {
+      "id": 306991,
+      "username": "argian.climbing",
+      "name": "Argian Climbing",
+      "latitude": 42.828812,
+      "longitude": -2.65471
+    },
+    {
+      "id": 306997,
+      "username": "commonsclimbing",
+      "name": "The Commons Climbing Gym",
+      "latitude": 43.611154,
+      "longitude": -116.240443
+    },
+    {
+      "id": 306999,
+      "username": "trama_plural",
+      "name": "Trama Plural",
+      "latitude": 38.739544,
+      "longitude": -9.131007
     }
   ]
 }

@@ -7380,6 +7380,60 @@
           52.192813
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 306991,
+      "properties": {
+        "id": 306991,
+        "username": "argian.climbing",
+        "name": "Argian Climbing",
+        "latitude": 42.828812,
+        "longitude": -2.65471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.65471,
+          42.828812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306997,
+      "properties": {
+        "id": 306997,
+        "username": "commonsclimbing",
+        "name": "The Commons Climbing Gym",
+        "latitude": 43.611154,
+        "longitude": -116.240443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.240443,
+          43.611154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306999,
+      "properties": {
+        "id": 306999,
+        "username": "trama_plural",
+        "name": "Trama Plural",
+        "latitude": 38.739544,
+        "longitude": -9.131007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.131007,
+          38.739544
+        ]
+      }
     }
   ]
 }
