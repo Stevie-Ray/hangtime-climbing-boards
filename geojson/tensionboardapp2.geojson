@@ -7221,6 +7221,24 @@
     },
     {
       "type": "Feature",
+      "id": 305785,
+      "properties": {
+        "id": 305785,
+        "username": "Boulderlounge",
+        "name": "Mark at Boulderlounge",
+        "latitude": -26.177206,
+        "longitude": 152.664161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.664161,
+          -26.177206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 305925,
       "properties": {
         "id": 305925,

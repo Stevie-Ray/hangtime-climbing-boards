@@ -13099,6 +13099,54 @@
     },
     {
       "type": "Feature",
+      "id": "c05024ae-ec42-443a-81a7-66ca54cf1d86",
+      "properties": {
+        "id": "c05024ae-ec42-443a-81a7-66ca54cf1d86",
+        "gym_uuid": "c05024ae-ec42-443a-81a7-66ca54cf1d86",
+        "address": "Emmauksenkuja 5",
+        "city": "Turku",
+        "country": "Finland",
+        "countryCode": null,
+        "postal_code": "20380",
+        "latitude": 60.47299824478345,
+        "longitude": 22.310982026985027,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "9b75543c-f696-4e1b-9161-60a0da249d88",
+            "wall_uuid": "9b75543c-f696-4e1b-9161-60a0da249d88",
+            "gym_uuid": "c05024ae-ec42-443a-81a7-66ca54cf1d86",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": null,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000719",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-11-09 16:59:59.089293Z"
+          }
+        ],
+        "title": "Boulderkeskus Turku",
+        "description": "Kilter Board at Boulderkeskus Turku",
+        "marker-color": "#ED1D24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.310982026985027,
+          60.47299824478345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "173620",
       "properties": {
         "id": "173620",
@@ -103244,6 +103292,26 @@
         "coordinates": [
           -122.372639,
           37.602423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 305785,
+      "properties": {
+        "id": 305785,
+        "username": "Boulderlounge",
+        "latitude": -26.177206,
+        "longitude": 152.664161,
+        "title": "Mark at Boulderlounge",
+        "description": "Tension Board at Mark at Boulderlounge",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.664161,
+          -26.177206
         ]
       }
     },
