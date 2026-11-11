@@ -2897,6 +2897,27 @@
       "name": "Trama Plural",
       "latitude": 38.739544,
       "longitude": -9.131007
+    },
+    {
+      "id": 308275,
+      "username": "banana__climbing_optic_valley",
+      "name": "极光蕉 Banana Climbing Optic Valley K11",
+      "latitude": 30.4933943,
+      "longitude": 114.4127932
+    },
+    {
+      "id": 308279,
+      "username": "banana__climbing_cosmo",
+      "name": "蕉 Banana Climbing COSMO",
+      "latitude": 30.6522045,
+      "longitude": 104.070094
+    },
+    {
+      "id": 308281,
+      "username": "attic.v",
+      "name": "Attic V Climbing",
+      "latitude": 22.24949,
+      "longitude": 114.167828
     }
   ]
 }

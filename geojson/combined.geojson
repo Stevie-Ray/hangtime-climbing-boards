@@ -103557,6 +103557,66 @@
     },
     {
       "type": "Feature",
+      "id": 308275,
+      "properties": {
+        "id": 308275,
+        "username": "banana__climbing_optic_valley",
+        "latitude": 30.4933943,
+        "longitude": 114.4127932,
+        "title": "极光蕉 Banana Climbing Optic Valley K11",
+        "description": "Tension Board at 极光蕉 Banana Climbing Optic Valley K11",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4127932,
+          30.4933943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 308279,
+      "properties": {
+        "id": 308279,
+        "username": "banana__climbing_cosmo",
+        "latitude": 30.6522045,
+        "longitude": 104.070094,
+        "title": "蕉 Banana Climbing COSMO",
+        "description": "Tension Board at 蕉 Banana Climbing COSMO",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.070094,
+          30.6522045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 308281,
+      "properties": {
+        "id": 308281,
+        "username": "attic.v",
+        "latitude": 22.24949,
+        "longitude": 114.167828,
+        "title": "Attic V Climbing",
+        "description": "Tension Board at Attic V Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.167828,
+          22.24949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
