@@ -21968,6 +21968,52 @@
     },
     {
       "type": "Feature",
+      "id": "c9292f40-e24e-4ccf-aa7c-4a8edcfdac98",
+      "properties": {
+        "id": "c9292f40-e24e-4ccf-aa7c-4a8edcfdac98",
+        "gym_uuid": "c9292f40-e24e-4ccf-aa7c-4a8edcfdac98",
+        "name": "Element Boulders Köln-Deutz",
+        "address": "Deutz-Mülheimer Str. 111",
+        "city": "Köln",
+        "country": "Germany",
+        "countryCode": null,
+        "postal_code": "51063",
+        "latitude": 50.94689583546691,
+        "longitude": 6.98368232698153,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "5c00da2b-2b3d-4701-b11c-5aa8f2a39b3c",
+            "wall_uuid": "5c00da2b-2b3d-4701-b11c-5aa8f2a39b3c",
+            "gym_uuid": "c9292f40-e24e-4ccf-aa7c-4a8edcfdac98",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 20,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000343",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-11-11 22:01:50.821854Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.98368232698153,
+          50.94689583546691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "311388",
       "properties": {
         "id": "311388",
@@ -39911,6 +39957,52 @@
         "coordinates": [
           -75.93075,
           40.37632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a19cddae-b95d-4867-ab35-f5d49ffea9b6",
+      "properties": {
+        "id": "a19cddae-b95d-4867-ab35-f5d49ffea9b6",
+        "gym_uuid": "a19cddae-b95d-4867-ab35-f5d49ffea9b6",
+        "name": "Red Rock Climbing Center",
+        "address": "8201 W. Charleston Blvd.",
+        "city": "Las Vegas",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "89117",
+        "latitude": 36.15888053797206,
+        "longitude": -115.27172345767282,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "abad2afe-9492-49a4-97cd-e392c9399814",
+            "wall_uuid": "abad2afe-9492-49a4-97cd-e392c9399814",
+            "gym_uuid": "a19cddae-b95d-4867-ab35-f5d49ffea9b6",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 0,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "K000301",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-11-11 21:53:53.957792Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.27172345767282,
+          36.15888053797206
         ]
       }
     },
