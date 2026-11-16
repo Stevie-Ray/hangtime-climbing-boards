@@ -7506,6 +7506,24 @@
           22.24949
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 310063,
+      "properties": {
+        "id": 310063,
+        "username": "climbtimeba",
+        "name": "Climb Time Blue Ash",
+        "latitude": 39.261322,
+        "longitude": -84.370539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.370539,
+          39.261322
+        ]
+      }
     }
   ]
 }

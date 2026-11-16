@@ -103713,6 +103713,26 @@
     },
     {
       "type": "Feature",
+      "id": 310063,
+      "properties": {
+        "id": 310063,
+        "username": "climbtimeba",
+        "latitude": 39.261322,
+        "longitude": -84.370539,
+        "title": "Climb Time Blue Ash",
+        "description": "Tension Board at Climb Time Blue Ash",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.370539,
+          39.261322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
