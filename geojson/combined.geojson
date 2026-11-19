@@ -103781,6 +103781,26 @@
     },
     {
       "type": "Feature",
+      "id": 310919,
+      "properties": {
+        "id": 310919,
+        "username": "mantabouldergym",
+        "latitude": 50.881214,
+        "longitude": 4.70603,
+        "title": "Manta Boulder Gym",
+        "description": "Tension Board at Manta Boulder Gym",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70603,
+          50.881214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,

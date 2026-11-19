@@ -7524,6 +7524,24 @@
           39.261322
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 310919,
+      "properties": {
+        "id": 310919,
+        "username": "mantabouldergym",
+        "name": "Manta Boulder Gym",
+        "latitude": 50.881214,
+        "longitude": 4.70603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70603,
+          50.881214
+        ]
+      }
     }
   ]
 }
