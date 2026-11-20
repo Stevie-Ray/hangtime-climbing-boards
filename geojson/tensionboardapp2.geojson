@@ -7542,6 +7542,24 @@
           50.881214
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 311285,
+      "properties": {
+        "id": 311285,
+        "username": "toolbox.climbing",
+        "name": "Toolbox Climbing",
+        "latitude": 49.88819,
+        "longitude": -119.429753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.429753,
+          49.88819
+        ]
+      }
     }
   ]
 }

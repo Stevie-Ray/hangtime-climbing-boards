@@ -103801,6 +103801,26 @@
     },
     {
       "type": "Feature",
+      "id": 311285,
+      "properties": {
+        "id": 311285,
+        "username": "toolbox.climbing",
+        "latitude": 49.88819,
+        "longitude": -119.429753,
+        "title": "Toolbox Climbing",
+        "description": "Tension Board at Toolbox Climbing",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.429753,
+          49.88819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 50,
       "properties": {
         "id": 50,
