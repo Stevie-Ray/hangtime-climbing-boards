@@ -23169,6 +23169,52 @@
     },
     {
       "type": "Feature",
+      "id": "47bd3dd2-61e7-42ab-bcfa-90816ba26a04",
+      "properties": {
+        "id": "47bd3dd2-61e7-42ab-bcfa-90816ba26a04",
+        "gym_uuid": "47bd3dd2-61e7-42ab-bcfa-90816ba26a04",
+        "name": "First Ascent Avondale",
+        "address": "3516 N. Spaulding Ave",
+        "city": "Chicago",
+        "country": "USA",
+        "countryCode": null,
+        "postal_code": "60618",
+        "latitude": 41.945340499996995,
+        "longitude": -87.71034981666406,
+        "gym_logo": null,
+        "banner_logo": null,
+        "instagram_username": null,
+        "is_listed": null,
+        "walls": [
+          {
+            "id": "6555be0d-382b-40c6-82cf-fc4c867d5c5c",
+            "wall_uuid": "6555be0d-382b-40c6-82cf-fc4c867d5c5c",
+            "gym_uuid": "47bd3dd2-61e7-42ab-bcfa-90816ba26a04",
+            "name": "OG Kilter Board",
+            "product_name": "Kilter Board Original",
+            "product_layout_uuid": "10",
+            "is_adjustable": 1,
+            "min_angle": 30,
+            "max_angle": 70,
+            "angle_increments": 5,
+            "angle": 40,
+            "serial_number": "#75987",
+            "accumulated_hold_set_value": 3,
+            "is_listed": 1,
+            "created_at": "2026-11-22 18:04:17.374373Z"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71034981666406,
+          41.945340499996995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "227194",
       "properties": {
         "id": "227194",
