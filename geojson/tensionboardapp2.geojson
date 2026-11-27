@@ -5065,15 +5065,15 @@
       "properties": {
         "id": 224988,
         "username": "gravityvaultjerseycity",
-        "name": "The Gravity Vault Jersey City",
-        "latitude": 40.70779,
-        "longitude": -74.06659
+        "name": "The Gravity Vault Hoboken",
+        "latitude": 40.754857,
+        "longitude": -74.030225
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.06659,
-          40.70779
+          -74.030225,
+          40.754857
         ]
       }
     },
@@ -7558,6 +7558,60 @@
         "coordinates": [
           -119.429753,
           49.88819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 313377,
+      "properties": {
+        "id": 313377,
+        "username": "boulderhaus_reutlingen",
+        "name": "Boulderhaus Reutlingen",
+        "latitude": 48.498973,
+        "longitude": 9.199696
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.199696,
+          48.498973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 313383,
+      "properties": {
+        "id": 313383,
+        "username": "brakbuldring",
+        "name": "Brak Buldring",
+        "latitude": 59.910868,
+        "longitude": 10.789139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.789139,
+          59.910868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 313446,
+      "properties": {
+        "id": 313446,
+        "username": "urbanplaygroundclimbing",
+        "name": "Urban Playground Climbing",
+        "latitude": 13.73632,
+        "longitude": 100.576451
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.576451,
+          13.73632
         ]
       }
     }

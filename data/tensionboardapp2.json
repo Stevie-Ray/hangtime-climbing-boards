@@ -1970,9 +1970,9 @@
     {
       "id": 224988,
       "username": "gravityvaultjerseycity",
-      "name": "The Gravity Vault Jersey City",
-      "latitude": 40.70779,
-      "longitude": -74.06659
+      "name": "The Gravity Vault Hoboken",
+      "latitude": 40.754857,
+      "longitude": -74.030225
     },
     {
       "id": 225004,
@@ -2939,6 +2939,27 @@
       "name": "Toolbox Climbing",
       "latitude": 49.88819,
       "longitude": -119.429753
+    },
+    {
+      "id": 313377,
+      "username": "boulderhaus_reutlingen",
+      "name": "Boulderhaus Reutlingen",
+      "latitude": 48.498973,
+      "longitude": 9.199696
+    },
+    {
+      "id": 313383,
+      "username": "brakbuldring",
+      "name": "Brak Buldring",
+      "latitude": 59.910868,
+      "longitude": 10.789139
+    },
+    {
+      "id": 313446,
+      "username": "urbanplaygroundclimbing",
+      "name": "Urban Playground Climbing",
+      "latitude": 13.73632,
+      "longitude": 100.576451
     }
   ]
 }
