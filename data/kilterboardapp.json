@@ -35411,6 +35411,41 @@
       ]
     },
     {
+      "id": "5d835c01-5e10-4874-b0e7-ba8ef362482e",
+      "gym_uuid": "5d835c01-5e10-4874-b0e7-ba8ef362482e",
+      "name": "TOOLBOX Climbing",
+      "address": "116-2544 Enterprise Way",
+      "city": "Kelowna",
+      "country": "Canada",
+      "countryCode": null,
+      "postal_code": "V1X7X5",
+      "latitude": 49.88828189150034,
+      "longitude": -119.42979844418203,
+      "gym_logo": null,
+      "banner_logo": null,
+      "instagram_username": null,
+      "is_listed": null,
+      "walls": [
+        {
+          "id": "768e107e-8ea4-4e9d-a9c6-c90a4f51a2dc",
+          "wall_uuid": "768e107e-8ea4-4e9d-a9c6-c90a4f51a2dc",
+          "gym_uuid": "5d835c01-5e10-4874-b0e7-ba8ef362482e",
+          "name": "OG Kilter Board",
+          "product_name": "Kilter Board Original",
+          "product_layout_uuid": "10",
+          "is_adjustable": 1,
+          "min_angle": 0,
+          "max_angle": 70,
+          "angle_increments": 5,
+          "angle": 40,
+          "serial_number": "91839",
+          "accumulated_hold_set_value": 3,
+          "is_listed": 1,
+          "created_at": "2026-11-27 15:24:38.947342Z"
+        }
+      ]
+    },
+    {
       "id": "328950",
       "gym_uuid": "328950",
       "name": "TOP Boulder Kirchheim",
